@@ -27,6 +27,14 @@ http://live.jibhdlive.com/fx_720p.stream/playlist.m3u8
 http://27.254.63.162/stream/totnew.php?channel_id=5028f7ff1d1b4d5f8189690233364737
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df81779.jpg", THRILL
 http://live.jibhdlive.com/thrill_720p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.totiptv.com/Product/Channel/images/Kix.png", KIX HD
+http://27.254.63.162/stream/tot4k.php?channel_id=e584e0adae6440eab366f5fe3a824f91
+#EXTINF:-1, tvg-logo="http://www.totiptv.com/Product/Channel/images/ComedyCentral.png", Comedy Central HD
+http://27.254.63.162/stream/tot4k.php?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
+#EXTINF:-1, tvg-logo="http://www.totiptv.com/Product/Channel/images/Universal.png", Universal Channel HD
+http://27.254.63.162/stream/tot4k.php?channel_id=a7105ed1bb0a44bba1f4f71f2352b892
+#EXTINF:-1, tvg-logo="http://www.totiptv.com/Product/Channel/images/Syfy.png", Syfy HD
+http://27.254.63.162/stream/tot4k.php?channel_id=71f197de056e499a85265c03b44bdab1
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df81b42.png", STARWORLD HD
 http://live.jibhdlive.com/starworld_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df82e42.png", WARNER TV
@@ -55,6 +63,8 @@ http://live.jibhdlive.com/channel_newsasia_720p.stream/playlist.m3u8
 http://live.jibhdlive.com/sky_news_hd_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa8fde.png", FOX NEWS CHANNEL
 http://live.jibhdlive.com/fox_news_720p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.totiptv.com/Product/Channel/images/AlJazeera.png", Al Jazeera English
+http://27.254.63.162/stream/tot4k.php?channel_id=ea4c9d2666bc411d8e6777e8a1d2b747
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfaa0f5.png", AXN ASIA
 http://live.jibhdlive.com/axn_hd_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfaac91.png", TRAVEL CHANNEL
@@ -87,6 +97,8 @@ http://live.jibhdlive.com/trace_urban_720p.stream/playlist.m3u8
 http://live.jibhdlive.com/baby_tv_hd_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df90647.png", TOONAMI
 http://live.jibhdlive.com/toonami_720p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png", Nick Jr. (ENG)
+http://27.254.63.162/stream/tot4k.php?channel_id=09fffe8d426745689f60cbc24da1bb49
 
 
 
