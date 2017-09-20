@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1, tvg-logo="https://sc.dish.com/shared/images/station-logos/nbatv.png", NBA TV
+http://103.77.116.191:443/nba_tv_hd_480p.stream/playlist.m3u8?st=Um9MejErIJi0MZ0iPCISvA&username=5148&password=95cd9062c4876c1d20ca&e=1505910496
+#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png", FOX SPORTS HD
+http://103.77.116.191:443/fox_sports_hd_480p.stream/playlist.m3u8?st=s_-zj2IwQTijveApFrP1iw&username=5148&password=f715bb0cf2d1d65d46ab&e=1505910537
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png", FOX SPORTS 1
+http://103.77.116.191:443/fox_sports_1_480p.stream/playlist.m3u8?st=ro_NETmxUTVxDXfuRlXjaA&username=5148&password=87ef136f9585f077e162&e=1505910674
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png", FOX SPORTS 2
+http://103.77.116.191:443/fox_sports_2_720p.stream/playlist.m3u8?st=wg5PGaFEltmJjIKaMT5yDQ&username=5148&password=79ff2ff94e83826f4e07&e=1505910712
+#EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Fox_Sports_3_logo.png", FOX SPORTS 3
+http://103.77.116.191:443/fox_sports_3_720p.stream/playlist.m3u8?st=Wmuic0xu4Bp0pRXwU8xYcw&username=5148&password=94a8d99177359fe5f5aa&e=1505910745
+#EXTINF:-1, tvg-logo="http://www.dprom.tv/public/img/true_tennis_hd.png", TRUE TENNIS HD
+http://103.77.116.191:443/true_tennis_hd_720p.stream/playlist.m3u8?st=hob_yUSDogcZ97AopGcvKg&username=5148&password=5f7ebde906caf750c6a4&e=1505910790
+#EXTINF:-1, tvg-logo="http://actv.tv/wp-content/uploads/mutv1.png", MANCHESTER UNITED TV
+http://103.77.116.191:443/mutv_360p.stream/playlist.m3u8?st=SwrLBpTXDj8Qc_C-ulzKlg&username=5148&password=b3387b3fd8f990c81820&e=1505910919
+#EXTINF:-1, tvg-logo="http://i.imgur.com/F2R303x.png", BT SPORT 1 HD
+http://103.77.116.191:443/bt_sport_1_hd_360p.stream/playlist.m3u8?st=vCzVe3pC_UDdzeqyJWjGzg&username=5148&password=1dced9ed7d35f135d9a9&e=1505910990
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/vsuvvu1433963716.png", BT SPORT 2 HD
+http://103.77.116.191:443/bt_sport_2_hd_360p.stream/playlist.m3u8?st=enHU157huLiql9_ikU6fDw&username=5148&password=1120e7505f52cd485735&e=1505911031
+#EXTINF:-1, tvg-logo="https://www.pitv.co.za/wp-content/uploads/2016/11/bt-sport-3-hd.png", BT SPORT 3 HD 
+http://103.77.116.191:443/bt_sport_3_hd_360p.stream/playlist.m3u8?st=0n55eCrMtY2zJhqYTbNkcA&username=5148&password=8533a6c796a43ab430c5&e=1505911069
+#EXTINF:-1, tvg-logo="https://cdn.firstone.tv/images/logos/uk/BTESPN.png", BT SPORT ESPN
+http://103.77.116.191:443/bt_sport_espn_360p.stream/playlist.m3u8?st=9LuOBS1i5OPy2wPDwn19UQ&username=5148&password=3e1171872d5c76642f73&e=1505911165
+#EXTINF:-1, tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_1_aug2014.png", TSN 1
+http://103.77.116.191:443/0x444_tsn1_360p/playlist.m3u8?st=4mzpc1f_TZI3aPupbSS82A&username=5148&password=a8e99d25fcc5c03d9319&e=1505911232
+#EXTINF:-1, tvg-logo="http://www.woodbineentertainment.com/Woodbine/SiteAssets/Pages/Breeders-Crown/TSN2_CMYK.jpg", TSN 2
+http://103.77.116.191:443/0x444_tsn2_360p/playlist.m3u8?st=5u-sA5H6gS9oFXGyEJ4cWA&username=5148&password=dd81d730f9a8b663e508&e=1505911271
+#EXTINF:-1, tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_3_aug2014.png", TSN 3
+http://103.77.116.191:443/0x444_tsn3_360p/playlist.m3u8?st=-0C65n8hvYYdqu0yLlXmYQ&username=5148&password=21b4de3c6c5de7b3aa06&e=1505911321
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfbaaf5.png", SKY SPORTS PREMIER LEAGUE
+http://103.77.116.191:443/sky_sports_premiere_360p.stream/playlist.m3u8?st=GKfpk14UPTPLRtMcLf-0UQ&username=5148&password=87a65335059d88bb0c40&e=1505911381
+#EXTINF:-1, tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-ACTION.png", SKY SPORTS ACTION
+http://103.77.116.191:443/sky_sports_action_360p.stream/playlist.m3u8?st=6KY_PlWiwwwEKvTXyT0iVg&username=5148&password=c03faa7936b82b261a15&e=1505911440
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff2cc3.jpg", SKY SPORTS FOOTBALL
+http://103.77.116.191:443/skysportfootball_360p.stream/playlist.m3u8?st=QqBd7ruzJMvjIjbjtBM2nQ&username=5148&password=94411cb5bfa6332053d2&e=1505911515
+#EXTINF:-1, tvg-logo="https://media.info/i/lf/0/1500373955/6753.png", SKY SPORTS ARENA
+http://103.77.116.191:443/skysportarena_360p.stream/playlist.m3u8?st=UoqXcqnuhHHPQd4Pz3J6qQ&username=5148&password=e213a109ce1054169005&e=1505911558
+#EXTINF:-1, tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2016/03/sky-sports-mix-1.jpg", SKY SPORTS MIX
+http://103.77.116.191:443/skysportmix_360p.stream/playlist.m3u8?st=9_UT580_F-jAERaWjHMT6A&username=5148&password=2bc5e14d45b7c51c0fa4&e=1505911618
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff28ea.png", SKY SPORTS F1
+http://103.77.116.191:443/kysportf1_360p.stream/playlist.m3u8?st=LPqRrcuxTEoHeP1epes5TQ&username=5148&password=e1ec7522c461b60bc76a&e=1505911653
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff5bb7.png", SKY SPORTS NEWS
+http://103.77.116.191:443/skysportnew_360.stream/playlist.m3u8?st=iMYdDnnUxIDeV1f0y9ISQA&username=5148&password=9054c5ce2e7b2de5437c&e=1505911699
+#EXTINF:-1, tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch119.jpg", FIGHT SPORTS
+http://103.77.116.191:443/ais_fightsport_720p.stream/playlist.m3u8?st=xaOlcL7Xd7OFgDVzXp1uOw&username=5148&password=c166becda8036980fa23&e=1505911751
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff7674.png", PREMIER LEAGUE TV 1
+http://103.77.116.191:443/prtv_1_720p.stream/playlist.m3u8?st=idV1QS5BLtTEwDVV_zZELA&username=5148&password=9b45948d1f96147a3c07&e=1505911842
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff7a4f.png", PREMIER LEAGUE TV 2
+http://103.77.116.191:443/prtv_2_720p.stream/playlist.m3u8?st=ApbVzyjdpgN9ho99gSWuFA&username=5148&password=cd375035ed667d893926&e=1505911878
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff7dad.png", PREMIER LEAGUE TV 3
+http://103.77.116.191:443/prtv_3_720p.stream/playlist.m3u8?st=yGKSe4UcwWYacIlngkF8uQ&username=5148&password=26bf211817da51d6fcdc&e=1505911918
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff733d.png", GOLF CHANNEL
+http://103.77.116.191:443/golf_channel_thailand_hd_720p.stream/playlist.m3u8?st=nMor2cQp_zrE9Y_w0WHaZw&username=5148&password=d1fa8e13c15496cd87a7&e=1505911950
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff949c.png", TRUE SPORT HD 1
+http://103.77.116.191:443/truesport_hd_720p.stream/playlist.m3u8?st=ZvClbVu0x0t4T26yypJsnA&username=5148&password=6541d50c9b0bd199cfef&e=1505912015
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff97dc.png", TRUE SPORT HD 2
+http://103.77.116.191:443/truesport_hd_2_720p.stream/playlist.m3u8?st=npptozaPiQBo9fpkwD3YGw&username=5148&password=d3768ac66eb994eb099d&e=1505912054
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dffa6a1.png", TRUE SPORT HD 3
+http://103.77.116.191:443/truesport_hd_3_720p.stream/playlist.m3u8?st=2w1GgKws_QcfDb2eS6uROg&username=5148&password=e107ad2b0edc397c83cd&e=1505912083
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dffaa46.png", TRUE SPORT HD 4 - SETANTA ASIA
+http://103.77.116.191:443/truesport_hd_4_720p.stream/playlist.m3u8?st=aZsUHaqxRfd5CeBzYXYhPw&username=5148&password=67c3ad1255b94d3b54e8&e=1505912125
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e01dcd2.jpg", TS SPORT 1
+http://103.77.116.191:443/truesport_1_480p.stream/playlist.m3u8?st=YTCapLVkEY12kp9qIjEVTQ&username=5148&password=9074fa606c23057b26ee&e=1505912345
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e0000e3.png", TS SPORT 2
+http://103.77.116.191:443/truesport_2_480p.stream/playlist.m3u8?st=-D20JXPr-EXU_wQQ0ukOnA&username=5148&password=e08bb4b0146bf2f3f8fd&e=1505912166
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e02020a.jpg", TS SPORT 3
+http://103.77.116.191:443/truesport_3_480p.stream/playlist.m3u8?st=jGYq5MTOIvHsP42FXPY-Uw&username=5148&password=5627ce346f4feb7d1221&e=1505912382
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e0014b4.png", TS SPORT 5
+http://103.77.116.191:443/truesport_5_480p.stream/playlist.m3u8?st=aH_AGupX9au9zxsVeQYjEg&username=5148&password=dab2df6e628d790f38b0&e=1505912202
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e00201e.png", TS SPORT 6
+http://103.77.116.191:443/truesport_6_480p.stream/playlist.m3u8?st=BlhKooWq1rmJmFSE8x2ttQ&username=5148&password=1956e69299649941293c&e=1505912237
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e0032c3.png", TS SPORT 7
+http://103.77.116.191:443/truesport_7_480p.stream/playlist.m3u8?st=jmIR9NfYgunuNZ7DHf_RRQ&username=5148&password=f1d1082b669cd6e9ef76&e=1505912303
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb2cbd.png", EUROSPORT
+http://103.77.116.191:443/eurosport_480p.stream/playlist.m3u8?st=juzhVjLVlMk4LikZE0WHJw&username=5148&password=8617694c070dc06d5bc7&e=1505912435
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb30ce.png", EUROSPORT 1
+http://103.77.116.191:443/eurosport_1_uk_360p.stream/playlist.m3u8?st=cCr_rKqF9Yn4Yerc44sOfg&username=5148&password=b61ffbeb73beaa5cb193&e=1505912478
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb34e5.png", EUROSPORT 2
+http://103.77.116.191:443/eurosport_2_uk_360p.stream/playlist.m3u8?st=anh_SvhcuDMEirOuIeBxUQ&username=5148&password=b0ea61eb8199b0aee5bb&e=1505912499
