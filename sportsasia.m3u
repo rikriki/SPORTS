@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://sc.dish.com/shared/images/station-logos/nbatv.png", NBA TV
-http://103.77.116.191:443/nba_tv_hd_480p.stream/playlist.m3u8?st=Um9MejErIJi0MZ0iPCISvA&username=5148&password=95cd9062c4876c1d20ca&e=1505910496
+hhttp://103.77.116.191:443/nba_tv_hd_480p.stream/playlist.m3u8?st=HwR7oTupg4UWaNrjgR_rPQ&username=5148&password=316035087672bcf202a1&e=1505941361
 #EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png", FOX SPORTS HD
 http://103.77.116.191:443/fox_sports_hd_480p.stream/playlist.m3u8?st=s_-zj2IwQTijveApFrP1iw&username=5148&password=f715bb0cf2d1d65d46ab&e=1505910537
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png", FOX SPORTS 1
