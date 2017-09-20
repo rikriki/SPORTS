@@ -99,6 +99,9 @@ http://live.jibhdlive.com/baby_tv_hd_720p.stream/playlist.m3u8
 http://live.jibhdlive.com/toonami_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png", Nick Jr. (ENG)
 http://27.254.63.162/stream/tot4k.php?channel_id=09fffe8d426745689f60cbc24da1bb49
+#EXTINF:-1, tvg-logo="http://static.mobitv.online/a649706e-85d9-4637-80b3-264988a0584a.jpg", Cartoon Network
+http://27.254.63.162/stream/tot4k.php?channel_id=09fffe8d426745689f60cbc24da1bb49
+http://cdn-l1.mobitv.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAiLCJtb3ZpZUlkIjoiYmM0M2RmY2MtMmJhZC00YTU5LTkzN2YtNzg0M2EyM2EzMzg3IiwiZXhwIjoxNTA1OTM5MDM3MjAzfQ.yW4MbLeUApg0ENNT1uYdSQrn-L8GOpqIYB8bWkbCF_8/hls/6adf97f83acf6453d4a6a4b1070f3754/CARTOON/CARTOON_4caa7169/index.m3u8
 
 
 
