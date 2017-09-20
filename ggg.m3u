@@ -1,0 +1,191 @@
+#EXTM3U
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="3HD"  group-title="LiveTV",3HD
+http://live.jibhdlive.com/3_hd_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://jibhd.com/movieposters/Livetv_sd-ch3digi.png" tvg-name="3SD"  group-title="LiveTV",3SD
+http://live.jibhdlive.com/3_sd.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://jibhd.com/movieposters/Livetv_sd-ch3family.png" tvg-name="3 FAMILY"  group-title="LiveTV",3 FAMILY
+http://live.jibhdlive.com/3_family.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="5HD"  group-title="LiveTV",5HD
+http://live.jibhdlive.com/tv5_hd_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="7HD"  group-title="LiveTV",7HD
+http://live.jibhdlive.com/7_hd_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MCOT HD"  group-title="LiveTV",MCOT HD
+http://live.jibhdlive.com/mcot_hd_720p.stream/playlist.m3u8
+http://lb-media.mcot.net:1935/9mcot_edge/smil:9mcot.smil/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://jibhd.com/movieposters/Livetv_mcotfamilys.jpg" tvg-name="MCOT FAMILY"  group-title="LiveTV",MCOT FAMILY
+http://live.jibhdlive.com/mcot_family.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="NBT"  group-title="LiveTV",NBT
+http://live.jibhdlive.com/nbt_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TPBS HD"  group-title="LiveTV",TPBS HD
+http://live.jibhdlive.com/live/playlist_1080p/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://jibhd.com/movieposters/Livetv_hd-pptv.png" tvg-name="PPTV HD"  group-title="LiveTV",PPTV HD
+http://live.jibhdlive.com/pptv_hd.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ONE"  group-title="LiveTV",ONE
+http://live.jibhdlive.com/one_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AMARIN"  group-title="LiveTV",AMARIN
+http://live.jibhdlive.com/stream/5195e80fe1ed0/chunklist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="THAIRATH HD"  group-title="LiveTV",THAIRATH HD
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="WORKPOINT"  group-title="LiveTV",WORKPOINT
+http://live.jibhdlive.com/workpoint_tv_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="CH8"  group-title="LiveTV",CH8
+http://live.jibhdlive.com/8_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VOICE TV"  group-title="LiveTV",VOICE TV
+http://live.jibhdlive.com/voice_tv_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="NOW"  group-title="LiveTV",NOW
+http://live.jibhdlive.com/now_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TRUE4U"  group-title="LiveTV",TRUE4U
+http://live.jibhdlive.com/true4u_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://jibhd.com/movieposters/Livetv_sd-gmmchannel.png" tvg-name="GMM25"  group-title="LiveTV",GMM25
+http://live.jibhdlive.com/gmm25.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="NATION"  group-title="LiveTV",NATION
+http://live.jibhdlive.com/nation_tv_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="NEW TV"  group-title="LiveTV",NEW TV
+http://live.jibhdlive.com/live/playlist_576p/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="SPRING NEWS"  group-title="LiveTV",SPRING NEWS
+http://live.jibhdlive.com/spring_news_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BRIGHT TV"  group-title="LiveTV",BRIGHT TV
+http://live.jibhdlive.com/bright_tv_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="LiveTV",AXN
+http://live.jibhdlive.com/axn_hd_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M CHANNEL"  group-title="LiveTV",M CHANNEL
+http://live.jibhdlive.com/m_channel_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MONO29 HD"  group-title="LiveTV",MONO29 HD
+http://edge3-bkk.3bb.co.th:1935/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="monoplus" tvg-name="MONO +plus"  group-title="LiveTV",MONO +plus
+http://edge3-bkk.3bb.co.th:1935/MonoPlus_liveStream/monoplus.stream_live1/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="RED BY HBO"  group-title="LiveTV",RED BY HBO
+http://live.jibhdlive.com/red_by_hbo_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="SYFY"  group-title="LiveTV",SYFY
+http://live.jibhdlive.com/syfy_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="WARNER TV"  group-title="LiveTV",WARNER TV
+http://live.jibhdlive.com/warner_tv_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX THAI"  group-title="LiveTV",FOX THAI
+http://live.jibhdlive.com/fox_thai_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO HD"  group-title="LiveTV",HBO HD
+http://live.jibhdlive.com/hbo_hd_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO HITS"  group-title="LiveTV",HBO HITS
+http://live.jibhdlive.com/hbo_hits_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO SIGNATURE"  group-title="LiveTV",HBO SIGNATURE
+http://live.jibhdlive.com/hbo_signature_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HBO FAMILY"  group-title="LiveTV",HBO FAMILY
+http://live.jibhdlive.com/hbo_family_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX ACTION MOVIES"  group-title="LiveTV",FOX ACTION MOVIES
+http://live.jibhdlive.com/fox_action_movies_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX MOVIES PREMIUN HD"  group-title="LiveTV",FOX MOVIES PREMIUN HD
+http://live.jibhdlive.com/fox_movies_premium_hd_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX CRIME"  group-title="LiveTV",FOX CRIME
+http://live.jibhdlive.com/fox_crime_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="FOX FAMILY MOVIES THAI"  group-title="LiveTV",FOX FAMILY MOVIES THAI
+http://live.jibhdlive.com/ais_foxfamth_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="FX"  group-title="LiveTV",FX
+http://live.jibhdlive.com/fx_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="CINEMAX"  group-title="LiveTV",CINEMAX
+http://live.jibhdlive.com/cinemax_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DOONEE"  group-title="LiveTV",DOONEE
+http://live.jibhdlive.com/ais_doonee_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="STARWORLD"  group-title="LiveTV",STARWORLD
+http://live.jibhdlive.com/starworld_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="THRILL"  group-title="LiveTV",THRILL
+http://live.jibhdlive.com/thrill_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="SONY SIX"  group-title="LiveTV",SONY SIX
+http://live.jibhdlive.com/sony_six_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="SAMROJLOK"  group-title="LiveTV",SAMROJLOK
+http://live.jibhdlive.com/samrojlok_720p.stream/playlist.m3u8   
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TRUE X-ZYTE"  group-title="LiveTV",TRUE X-ZYTE
+http://live.jibhdlive.com/true_x-zyte_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HISTORY"  group-title="LiveTV",HISTORY
+http://live.jibhdlive.com/history_channel_hd_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HISTORY2"  group-title="LiveTV",HISTORY2
+http://live.jibhdlive.com/h2_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="ANNIMAL PLANET"  group-title="LiveTV",ANNIMAL PLANET
+http://live.jibhdlive.com/animal_planet_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="NATIONAL GEOGRAPHIC HD"  group-title="LiveTV",NATIONAL GEOGRAPHIC HD
+http://live.jibhdlive.com/national_geographic_hd_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="NATIONAL GEOGRAPHIC WILD"  group-title="LiveTV",NATIONAL GEOGRAPHIC WILD
+http://live.jibhdlive.com/national_geographic_wild_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="NATIONAL GEOGRAPHIC PEOPLE"  group-title="LiveTV",NATIONAL GEOGRAPHIC PEOPLE
+http://live.jibhdlive.com/national_geographic_people_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DISCOVERY SCIENCE"  group-title="LiveTV",DISCOVERY SCIENCE
+http://live.jibhdlive.com/discovery_science_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DISCOVERY CHANNEL"  group-title="LiveTV",DISCOVERY CHANNEL
+http://live.jibhdlive.com/discovery_channel_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DISCOVERY HD WORLD"  group-title="LiveTV",DISCOVERY HD WORLD
+http://live.jibhdlive.com/discovery_hd_world_720p.stream/playlist.m3u8  
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="FASHION TV"  group-title="LiveTV",FASHION TV
+http://live.jibhdlive.com/fashion_tv_hd_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="THAITHAI"  group-title="LiveTV",THAITHAI
+http://live.jibhdlive.com/thaithai_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="CHANNEL V THAILAND"  group-title="LiveTV",CHANNEL V THAILAND
+http://live.jibhdlive.com/channel_v_thailand_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="VERY TV"  group-title="LiveTV",VERY TV
+http://live.jibhdlive.com/very_tv_480p.stream/playlist.m3u8  
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DISNEY CHANNEL"  group-title="LiveTV",DISNEY CHANNEL
+http://live.jibhdlive.com/disney_channel_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DISNEY JUNIOR ASIA"  group-title="LiveTV",DISNEY JUNIOR ASIA
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TRUE SPARK PLAY"  group-title="LiveTV",TRUE SPARK PLAY
+http://live.jibhdlive.com/true_spark_play_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TRUE SPARK JUMP"  group-title="LiveTV",TRUE SPARK JUMP
+http://live.jibhdlive.com/true_spark_jump_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="DISCOVERY KIDS"  group-title="LiveTV",DISCOVERY KIDS
+http://live.jibhdlive.com/discovery_kids_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BABY TV"  group-title="LiveTV",BABY TV
+http://live.jibhdlive.com/baby_tv_hd_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="GANG CARTOON"  group-title="LiveTV",GANG CARTOON
+http://live.jibhdlive.com/gang_cartoon_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BOOMERANG"  group-title="LiveTV",BOOMERANG
+http://live.jibhdlive.com/boomerang_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="CHELSEA TV"  group-title="SportTV",CHELSEA TV
+http://live.jibhdlive.com/chelsea_tv_360p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="LFCTV"  group-title="SportTV",LFCTV
+http://live.jibhdlive.com/lfctv_360p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="MUTV"  group-title="SportTV",MUTV
+http://live.jibhdlive.com/mutv_360p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="GOLF TV"  group-title="SportTV",GOLF TV
+http://live.jibhdlive.com/golf_channel_thailand_hd_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TENNIS TV"  group-title="SportTV",TENNIS TV
+http://live.jibhdlive.com/true_tennis_hd_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 1"  group-title="SportTV",BEIN SPORTS 1
+http://live.jibhdlive.com/bein_sports_1.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 2"  group-title="SportTV",BEIN SPORTS 2
+http://live.jibhdlive.com/bein_sports_2_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 3"  group-title="SportTV",BEIN SPORTS 3
+http://live.jibhdlive.com/bein_sports_3_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 4"  group-title="SportTV",BEIN SPORTS 4
+http://live.jibhdlive.com/bein_sports_4_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 5"  group-title="SportTV",BEIN SPORTS 5
+http://live.jibhdlive.com/bein_sports_5_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 6"  group-title="SportTV",BEIN SPORTS 6
+http://live.jibhdlive.com/bein_sports_6_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TRUE SPORT HD"  group-title="SportTV",TRUE SPORT HD
+http://live.jibhdlive.com/truesport_hd_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TRUE SPORT HD2"  group-title="SportTV",TRUE SPORT HD2
+http://live.jibhdlive.com/truesport_hd_2_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TRUE SPORT HD3"  group-title="SportTV",TRUE SPORT HD3
+http://live.jibhdlive.com/truesport_hd_3_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TRUE SPORT HD5"  group-title="SportTV",TRUE SPORT HD4
+http://live.jibhdlive.com/truesport_hd_4_720p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TRUE SPORT 1"  group-title="SportTV",TRUE SPORT 1
+http://live.jibhdlive.com/truesport_1_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TRUE SPORT 2"  group-title="SportTV",TRUE SPORT 2
+http://live.jibhdlive.com/truesport_2_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TRUE SPORT 3"  group-title="SportTV",TRUE SPORT 3
+http://live.jibhdlive.com/truesport_3_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TRUE SPORT 4"  group-title="SportTV",TRUE SPORT 4
+http://live.jibhdlive.com/truesport_4_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TRUE SPORT 5"  group-title="SportTV",TRUE SPORT 5
+http://live.jibhdlive.com/truesport_5_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TRUE SPORT 6"  group-title="SportTV",TRUE SPORT 6
+http://live.jibhdlive.com/truesport_6_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="TRUE SPORT 7"  group-title="SportTV",TRUE SPORT 7
+http://live.jibhdlive.com/truesport_7_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="SMMTV SPORT"  group-title="SportTV",SMMTV SPORT
+http://live.jibhdlive.com//smmtv_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="T-SPORT"  group-title="SportTV",T-SPORT
+http://live.jibhdlive.com/t-sports_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="SPEED CHANNEL"  group-title="SportTV",SPEED CHANNEL
+http://live.jibhdlive.com/speed_channel_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="SIAM SPORTS"  group-title="SportTV",SIAM SPORTS
+http://live.jibhdlive.com/siamsport_football_480p.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="SIAM SPORTS NEWS"  group-title="SportTV",SIAM SPORTS NEWS
+http://live.jibhdlive.com/siamsport_news_480p.stream/playlist.m3u8
