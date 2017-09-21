@@ -159,7 +159,8 @@ http://192.99.149.20:8080/live/TRFR#EXTINF:-1,KOR: TVNXXX/STalkSXkljs/4624.ts
 http://121.156.62.136:1935/chc09/s6.stream/playlist.m3u8
 #EXTINF:-1,KOR: KBS WORLD
 http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-1474711308/eol/20200101T0000/hash/256504442b73f1d929c1a36b033cfd53facda543/playlist.m3u8
-
+#EXTINF:-1, tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/15/ab/6d/15ab6d7e-e30b-c001-62e6-1c1cb225fe8c/source/1200x630bb.jpg", NBC (USA)
+http://144.217.181.197:25461/live/Jared/iscar/246.m3u8
 
 
 
