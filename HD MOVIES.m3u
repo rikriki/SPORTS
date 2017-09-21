@@ -1,75 +1,75 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg", JOHN WICK  
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="MOVIES", JOHN WICK  
 http://dl3.vaiomusic.org/Movie/John%20Wick%202014%20-%20720p%20%28media.vaiomusic%29.mkv
-#EXTINF:-1, tvg-logo="http://budomate.com/wp-content/uploads/2016/09/john-wick-2-poster-2.png", JOHN WICK 2 
+#EXTINF:-1, tvg-logo="http://budomate.com/wp-content/uploads/2016/09/john-wick-2-poster-2.png" group-title="MOVIES", JOHN WICK 2 
 http://dl.funsaber.net/movie/96/3/John.Wick.Chapter.2.2017.720p.BluRay.x264.MkvCage.Funsaber.Net.mkv
-#EXTINF:-1, tvg-logo="https://yts.ag/assets/images/movies/Twilight_2008/medium-cover.jpg", TWILIGHT (2008)
+#EXTINF:-1, tvg-logo="https://yts.ag/assets/images/movies/Twilight_2008/medium-cover.jpg" group-title="MOVIES", TWILIGHT (2008)
 http://dl.funsaber.net/Collection/Twilight/Twilight.2008.720p.Funsaber.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Eclipse_Theatrical_One-Sheet.jpg", TWILIGHT ECLIPSE 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Eclipse_Theatrical_One-Sheet.jpg" group-title="MOVIES", TWILIGHT ECLIPSE 
 http://dl.funsaber.net/Collection/Twilight/Twilight_Eclipse.2010.720p.Funsaber.mkv
-#EXTINF:-1, tvg-logo="http://images2.fanpop.com/images/photos/6300000/New-Mon-poster-fanmade-twilight-series-6395891-324-500.jpg", TWILIGHT NEW MOON  
+#EXTINF:-1, tvg-logo="http://images2.fanpop.com/images/photos/6300000/New-Mon-poster-fanmade-twilight-series-6395891-324-500.jpg" group-title="MOVIES", TWILIGHT NEW MOON  
 http://dl.funsaber.net/Collection/Twilight/Twilight_New_Moon.720p.Funsaber.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Breaking_Dawn_Part_1_Poster.jpg", TWILIGHT BREAKING DAWN 1
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Breaking_Dawn_Part_1_Poster.jpg" group-title="MOVIES", TWILIGHT BREAKING DAWN 1
 http://dl.funsaber.net/Collection/Twilight/The_Twilight_Saga_Breaking_Dawn_2011.Part_1_720p.Funsaber.mkv
-#EXTINF:-1, tvg-logo="http://www.guardafilm.top/locandina/25351-the-twilight-saga-breaking-dawn-parte-2-streaming.jpg", TWILIGHT BREAKING DAWN 2
+#EXTINF:-1, tvg-logo="http://www.guardafilm.top/locandina/25351-the-twilight-saga-breaking-dawn-parte-2-streaming.jpg" group-title="MOVIES", TWILIGHT BREAKING DAWN 2
 http://dl.funsaber.net/Collection/Twilight/The.Twilight.Saga.Breaking.Dawn.Part.2.2012.720p.Ganool.mkv
-#EXTINF:-1, tvg-logo="https://img.moviefull-hd.com/images/2015/11/Watch-The-Matrix-1999-Online.jpg", MATRIX  
+#EXTINF:-1, tvg-logo="https://img.moviefull-hd.com/images/2015/11/Watch-The-Matrix-1999-Online.jpg" group-title="MOVIES", MATRIX  
 http://dl.funsaber.net/movie/96/5/The.Matrix.1999.720p.Dual.Audio.Farsi.Dubbed%28Funsaber_Net%29.mkv
-#EXTINF:-1, tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/95/4d/2b/954d2ba64597ba26c0705d54c5663bec.jpg", MATRIX RELOADED
+#EXTINF:-1, tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/95/4d/2b/954d2ba64597ba26c0705d54c5663bec.jpg" group-title="MOVIES", MATRIX RELOADED
 http://dl.funsaber.net/movie/96/5/The.Matrix.Reloaded.2003.720p.Dual.Audio.Farsi.Dubbed%28Funsaber_Net%29.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Matrix_revolutions_ver7.jpg", MATRIX REVOLUTIONS
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Matrix_revolutions_ver7.jpg" group-title="MOVIES", MATRIX REVOLUTIONS
 http://dl.funsaber.net/movie/96/5/The.Matrix.Revolutions.2003.720p.Dual.Audio.Farsi.Dubbed%28Funsaber_Net%29.mkv
-#EXTINF:-1, tvg-logo="https://cdn.traileraddict.com/content/warner-bros-pictures/wonder-woman-2017-5.jpg", WONDER WOMAN
+#EXTINF:-1, tvg-logo="https://cdn.traileraddict.com/content/warner-bros-pictures/wonder-woman-2017-5.jpg" group-title="MOVIES", WONDER WOMAN
 http://dl.funsaber.net/movie/96/6/Wonder.Woman.2017.BluRay.720p.Ganool.Funsaber_Net.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_%282001%29_theatrical_poster.jpg", LOTR - FELLOWSHIP OF THE RING
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_%282001%29_theatrical_poster.jpg" group-title="MOVIES", LOTR - FELLOWSHIP OF THE RING
 http://dl3.vaiomusic.org/Movie/The%20Lord%20of%20the%20Rings%20%20The%20Fellowship%20of%20the%20Ring%202001%20-%20720p%20%28media.vaiomusic.Org%29.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Lord_of_the_Rings_-_The_Two_Towers.jpg", LOTR - THE TWO TOWERS
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Lord_of_the_Rings_-_The_Two_Towers.jpg" group-title="MOVIES", LOTR - THE TWO TOWERS
 http://dl3.vaiomusic.org/Movie/The%20Lord%20of%20the%20Rings%20The%20Two%20Towers%202002%20-%20720%20%28media.vaiomusic.Org%29.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Lord_of_the_Rings_-_The_Return_of_the_King.jpg", LOTR - RETURN OF THE KING
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Lord_of_the_Rings_-_The_Return_of_the_King.jpg" group-title="MOVIES", LOTR - RETURN OF THE KING
 http://dl3.vaiomusic.org/Movie/The%20Lord%20of%20the%20Rings%20The%20Return%20of%20the%20King%202003%20-%20720P%20%28media.vaiomusic.Org%29.mkv
-#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3OTI3MDk4N15BMl5BanBnXkFtZTgwNDg2ODIyMjI@._V1_UY268_CR0,0,182,268_AL_.jpg", TRANSFORMERS: THE LAST KNIGHT
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3OTI3MDk4N15BMl5BanBnXkFtZTgwNDg2ODIyMjI@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="MOVIES", TRANSFORMERS: THE LAST KNIGHT
 http://dl.funsaber.net/movie/96/6/Transformers.The.Last.Knight.2017.BluRay.720p.x264.Ganool.Funsaber_Net.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/X-MenfilmPoster.jpg", X-MEN 1
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/X-MenfilmPoster.jpg" group-title="MOVIES", X-MEN 1
 http://dl.my-film.in/Movie/BluRay%20720p/X-Men.2000.720P%20--[My-Film].mkv
-#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNDk0NjYxMzIzOF5BMl5BanBnXkFtZTYwMTc1MjU3._V1_UX182_CR0,0,182,268_AL_.jpg", X-MEN 2
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNDk0NjYxMzIzOF5BMl5BanBnXkFtZTYwMTc1MjU3._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="MOVIES", X-MEN 2
 http://dl.my-film.in/s1/Movie/X2.2003/X-Men_2.720p.95363031.mkv
-#EXTINF:-1, tvg-logo="https://resizing.flixster.com/9pP_dv3a16JmjuHJvqvtn5HGlVw=/206x305/v1.bTsxMTE3NzQ4MztqOzE3NTQ0OzEyMDA7ODAwOzEyMDA", X-MEN 3
+#EXTINF:-1, tvg-logo="https://resizing.flixster.com/9pP_dv3a16JmjuHJvqvtn5HGlVw=/206x305/v1.bTsxMTE3NzQ4MztqOzE3NTQ0OzEyMDA7ODAwOzEyMDA" group-title="MOVIES", X-MEN 3
 http://dl.my-film.in/Movie/BluRay%20720p/X-Men%20The%20Last%20Stand.2006.720P-[My-Film].mkv
-#EXTINF:-1, tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/x-men-origins-wolverine-2009/large_vbaV7DalSF6Uy4qLyVK7uNdtmFy.jpg", ORIGIN: WOLVERINE
+#EXTINF:-1, tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/x-men-origins-wolverine-2009/large_vbaV7DalSF6Uy4qLyVK7uNdtmFy.jpg" group-title="MOVIES", ORIGIN: WOLVERINE
 http://dl.my-film.in/s1/Movie/X.Men.Origins.Wolverine.2009/X-Men%20Origins%20Wolverine.2009.7209.95363031.mkv
-#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_UY1200_CR90,0,630,1200_AL_.jpg", X-MEN FIRST CLASS
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="MOVIES", X-MEN FIRST CLASS
 http://dl.my-film.in/s1/Movie/X-Men.First.Class.2011/X.Men.First.Class.2011.720p.95363031.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/The_Wolverine_posterUS.jpg", THE WOLVERINE
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/The_Wolverine_posterUS.jpg" group-title="MOVIES", THE WOLVERINE
 http://dl.my-film.in/s1/Movie/The.Wolverine.2013/The.Wolverine.2013.EXTENDED.720p.ShAaNiG.95363031.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/X-Men_Days_of_Future_Past_poster.jpg", DAYS OF FUTURE PAST
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/X-Men_Days_of_Future_Past_poster.jpg" group-title="MOVIES", DAYS OF FUTURE PAST
 http://dl.my-film.in/s1/Movie/X-Men.Days.of.Future.Past.2014/X.Men.Days.of.Future.Past.2014.720p.ShAaNiG.95363031.mkv
-#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyODg5Njc4N15BMl5BanBnXkFtZTgwMzExMjE3NzE@._V1_UY268_CR1,0,182,268_AL_.jpg", DEADPOOL
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyODg5Njc4N15BMl5BanBnXkFtZTgwMzExMjE3NzE@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="MOVIES", DEADPOOL
 http://dl.my-film.in/s1/Movie/Deadpool.2016/Deadpool.2016.720p.ShAaNiG.95363031.mkv
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRMqNWXqFuizM6FGB7KAQeOcyOSaVrji3gUC46qwyTLqzDR3j44-gLWhQjc8D_PhL9cqxH", X-MEN APOCALYPSE
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRMqNWXqFuizM6FGB7KAQeOcyOSaVrji3gUC46qwyTLqzDR3j44-gLWhQjc8D_PhL9cqxH" group-title="MOVIES", X-MEN APOCALYPSE
 http://dl.my-film.in/s1/Movie/X-Men.Apocalypse.2016/X-Men.Apocalypse.2016.PROPER.720p.ShAaNiG.95363031.mkv
-#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_UY1200_CR90,0,630,1200_AL_.jpg", HUNGER GAMES
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="MOVIES", HUNGER GAMES
 http://dl.my-film.in/s1/Movie/The.Hunger.Games.2012/The.Hunger.Games.2012.Bluray.720p.Dobleh.95363031.mkv
-#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_UY1200_CR90,0,630,1200_AL_.jpg", CATCHING FIRE
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="MOVIES", CATCHING FIRE
 http://dl.my-film.in/s1/Movie/The.Hunger.Games.Catching.Fire.2013/The.Hunger.Games.Catching.Fire.2013.Bluray.720p.X265.FA.48654540.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/MockingjayPart1Poster3.jpg/220px-MockingjayPart1Poster3.jpg", MOCKINGJAY 1
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/MockingjayPart1Poster3.jpg/220px-MockingjayPart1Poster3.jpg" group-title="MOVIES", MOCKINGJAY 1
 http://dl.my-film.in/s1/Movie/The.Hunger.Games.Mockingjay.Part.1.2014/The.Hunger.Games.Mockingjay.Part.1.2014.BluRay.720p.95363031.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Mockingjay_Part_2_Poster.jpg", MOCKINGJAY 2
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Mockingjay_Part_2_Poster.jpg" group-title="MOVIES", MOCKINGJAY 2
 http://dl2.film2movie.co/film/The.Hunger.Games.Mockingjay.Part.2.2015.720p.BluRay.Film2Movie_INFO.mkv
-#EXTINF:1, tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/harry-potter-and-the-sorcerers-stone-2001/large_uLGaJ9FgPWf7EUgwjp9RTmHemw8.jpg", Sorcerers Stone 
+#EXTINF:1, tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/harry-potter-and-the-sorcerers-stone-2001/large_uLGaJ9FgPWf7EUgwjp9RTmHemw8.jpg" group-title="MOVIES", Sorcerers Stone 
 http://dl.my-film.in/reza/film/Harry.Potter.And.Th.Sorcerers.Stone.2001.720p.BluRay-[My-Film].mkv
-#EXTINF:1, tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/harry-potter-and-the-chamber-of-secrets-2002/large_lryNn7sNkvQIg45KwgeKnMxSSRX.jpg", Chambers of Secrets
+#EXTINF:1, tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/harry-potter-and-the-chamber-of-secrets-2002/large_lryNn7sNkvQIg45KwgeKnMxSSRX.jpg" group-title="MOVIES", Chambers of Secrets
 http://dl.my-film.in/reza/film/Harry.Potter.And.The.Chambers.of.Secrem3u8.2002.720p.BluRay-[My-Film].mkv
-#EXTINF:1, tvg-logo="http://vignette1.wikia.nocookie.net/harrypotter/images/c/c4/7VTALkqjG40vby3uVIsp03d7yXy.jpg/revision/latest?cb=20130803163319", Prisoner of Azkaban 
+#EXTINF:1, tvg-logo="http://vignette1.wikia.nocookie.net/harrypotter/images/c/c4/7VTALkqjG40vby3uVIsp03d7yXy.jpg/revision/latest?cb=20130803163319" group-title="MOVIES", Prisoner of Azkaban 
 http://dl.my-film.in/reza/film/Harry.Potter.and.The.Prisoner.of.Azkaban.2004.720p.BluRay-[My-Film].mkv
-#EXTINF:1, tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/harry-potter-and-the-goblet-of-fire-2005/large_6sASqcdrEHXxUhA3nFpjrRecPD2.jpg", Goblet of Fire 
+#EXTINF:1, tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/harry-potter-and-the-goblet-of-fire-2005/large_6sASqcdrEHXxUhA3nFpjrRecPD2.jpg" group-title="MOVIES", Goblet of Fire 
 http://dl.my-film.in/reza/film/Harry.Potter.And.Goblet.of.Fire.2005.720p-[My-Film].mkv
-#EXTINF:1, tvg-logo="https://i.ytimg.com/vi/Ak6vjFiZUqM/movieposter.jpg", Order of The Phoenix 
+#EXTINF:1, tvg-logo="https://i.ytimg.com/vi/Ak6vjFiZUqM/movieposter.jpg" group-title="MOVIES", Order of The Phoenix 
 http://dl.my-film.in/reza/film/Harry.Potter.And.The.Order.of.The.Phoenix.2007.720p.BluRay-[My-Film].mkv
-#EXTINF:1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg", Half Blood Prince 
+#EXTINF:1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="MOVIES", Half Blood Prince 
 http://dl.my-film.in/reza/film/Harry.Potter.And.The.Half.Blood.Prince.2009.720p.BluRay-[My-Film].mkv
-#EXTINF:1, tvg-logo="https://vignette.wikia.nocookie.net/harrypotter/images/a/ab/Deathly_Hallows_1_poster.jpg", Deathly Hallows 1
+#EXTINF:1, tvg-logo="https://vignette.wikia.nocookie.net/harrypotter/images/a/ab/Deathly_Hallows_1_poster.jpg" group-title="MOVIES", Deathly Hallows 1
 http://dl.my-film.in/reza/film/Harry.Potter.And.The.Deathly.Hallows.Part.1.2010.720p.BluRay-[My-Film].mkv
-#EXTINF:1, tvg-logo="https://vignette.wikia.nocookie.net/harrypotter/images/b/bd/7xmtxRc9nQnCuWINuTT4SMP5NJc.jpg", Deathly Hallows 2 
+#EXTINF:1, tvg-logo="https://vignette.wikia.nocookie.net/harrypotter/images/b/bd/7xmtxRc9nQnCuWINuTT4SMP5NJc.jpg" group-title="MOVIES", Deathly Hallows 2 
 http://dl.my-film.in/reza/film/Harry.Potter.and.the.Deathly.Hallows.Part.2.2011.720p.scOrp-[My-Film].mkv
 
 
