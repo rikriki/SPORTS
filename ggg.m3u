@@ -101,6 +101,64 @@ http://live.jibhdlive.com/toonami_720p.stream/playlist.m3u8
 http://27.254.63.162/stream/tot4k.php?channel_id=09fffe8d426745689f60cbc24da1bb49
 #EXTINF:-1, tvg-logo="http://3.bp.blogspot.com/-yAvAOW9sLfk/Vl2UJYS5VQI/AAAAAAAABXI/Kcz2SFBt7TE/s1600/tvN.png", TVN (Korea)
 http://121.156.62.136:1935/chc09/s6.stream/playlist.m3u8
+#EXTINF:-1,Kr-Music2
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/2163.ts
+#EXTINF:-1,Kr-moives
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/2164.ts
+#EXTINF:-1,Kr-KTV-HD
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/2165.ts
+#EXTINF:-1,Kr-KCTV-N
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/2166.ts
+#EXTINF:-1,Kr-KCTV-HD
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/2167.ts
+#EXTINF:-1,Kr-Drama
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/2168.ts
+#EXTINF:-1,Kr-CHOSUN
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/2169.ts
+#EXTINF:-1,Kr-CBS
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/2170.ts
+#EXTINF:-1,Kr-Alilang
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/2272.ts
+#EXTINF:-1,KOR: Tang
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4616.ts
+#EXTINF:-1,KOR: OBS
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4606.ts
+#EXTINF:-1,KOR: Music 2
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4617.ts
+#EXTINF:-1,KOR: MOVIES
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4618.ts
+#EXTINF:-1,KOR: MBN
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4607.ts
+#EXTINF:-1,KOR: MBC
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4608.ts
+#EXTINF:-1,KOR: KCTV-N
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4620.ts
+#EXTINF:-1,KOR: KCTV-HD
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4621.ts
+#EXTINF:-1,KOR: JTBC3 Fox
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4613.ts
+#EXTINF:-1,KOR: JTBC Golf
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4614.ts
+#EXTINF:-1,KOR: FOOD TV
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4615.ts
+#EXTINF:-1,KOR: ETN
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4609.ts
+#EXTINF:-1,KOR: EBS2
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4611.ts
+#EXTINF:-1,KOR: EBS1
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4610.ts
+#EXTINF:-1,KOR: CHOSUN
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4623.ts
+#EXTINF:-1,KOR: Channel A
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4612.ts
+#EXTINF:-1,KOR: CBS HD Korea
+http://192.99.149.20:8080/live/TRFRXXX/STalkSXkljs/4605.ts
+#EXTINF:-1,KOR: CBS
+http://192.99.149.20:8080/live/TRFR#EXTINF:-1,KOR: TVNXXX/STalkSXkljs/4624.ts
+#EXTINF:-1,KOR: TVN
+http://121.156.62.136:1935/chc09/s6.stream/playlist.m3u8
+#EXTINF:-1,KOR: KBS WORLD
+http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-1474711308/eol/20200101T0000/hash/256504442b73f1d929c1a36b033cfd53facda543/playlist.m3u8
 
 
 
