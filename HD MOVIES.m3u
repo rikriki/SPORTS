@@ -95,6 +95,16 @@ http://dl3.vaiomusic.org/Movie/Taken%202008%20-%20720p%20%28vaiomusic%29.mkv
 http://dl3.vaiomusic.org/Movie/Taken%202%202012%20-%20720p%20%28vaiomusic%29.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Taken_3_poster.jpg" group-title="MOVIES", TAKEN 3
 http://dl.dlfile.pro/1/Taken%203%202014%20720p%20BluRay.mkv
+#EXTINF:1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3NjI2MjU0Nl5BMl5BanBnXkFtZTgwNDk3ODYxMTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="MOVIES", MI 1
+http://dl.dlfile.pro/2/Mission_Impossible.1.720p.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Mission_Impossible_II.jpg/220px-Mission_Impossible_II.jpg" group-title="MOVIES", MI 2
+http://dl.dlfile.pro/2/Mission_Impossible.2.720p.mkv
+#EXTINF:1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BOThhNTA1YjItYzk2Ny00M2Y1LWJlYWUtZDQyZDU0YmY5Y2M5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="MOVIES", MI 3
+http://dl.dlfile.pro/2/Mission_Impossible.3.720p.mkv
+#EXTINF:1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="MOVIES", MI: GHOST PROTOCOL
+http://dl.dlfile.pro/2/Mission.Impossible.Ghost.Protocol.2011.720p.YIFY.mp4
+#EXTINF:1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BOTFmNDA3ZjMtN2Y0MC00NDYyLWFlY2UtNTQ4OTQxMmY1NmVjXkEyXkFqcGdeQXVyNTg4NDQ4NDY@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="MOVIES", MI: ROGUE NATION
+http://dl.dlfile.pro/2/Mission.Impossible.Rogue.Nation.2015.720p.BluRay.x265.ShAaNiG.mkv
 
 
 
