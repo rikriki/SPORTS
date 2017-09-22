@@ -121,6 +121,11 @@ http://ebsonair.ebs.co.kr:1http://live-sport.me/wp-content/uploads/2015/07/EBS-U
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/TV+Chosun+logo_1653.png", TV CHOSUN
 http://live.chosun.gscdn.com/live/_definst_/mp4:tvchosun1.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Taegu_Broadcasting_Corporation_logo.png", TBC SBS
+http://221.157.125.232:1935/live/psike/chunklist_w2123555309.m3u8
+#EXTINF:-1, tvg-logo="http://sim06.in.com/f67702183cf81f8209dd406f9ad26764_m.jpg", MBC DRAMA
+http://123.108.164.71/etv2/phd847/playlist.m3u8?time=1454360631890
+
 
 
 
