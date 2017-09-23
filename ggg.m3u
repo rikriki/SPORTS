@@ -89,8 +89,6 @@ http://137.74.151.158/hls/f70dbad38c70988fe5e1c50045f3f911/1506192677/7b22697022
 http://27.254.63.162/stream/totnew.php?channel_id=169a149fd1ef40edba0bbfc8e0f1bdd1
 #EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/60233/logo_crime%20+%20investigation.png", CRIME INVESTIGATION
 http://27.254.63.162/stream/totnew.php?channel_id=9961a963920f45f4bc0d81c3e478b334
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df99ca2.png", HISTORY CHANNEL
-http://edge.hdca.st/live/ibhistory_yn04s5bi/chunks.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa375e.png", NAT GEO PEOPLE
 http://live.jibhdlive.com/national_geographic_people_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa1da2.png", NAT GEO WILD
@@ -113,8 +111,6 @@ http://live.jibhdlive.com/channel_v_thailand_720p.stream/playlist.m3u8
 http://live.jibhdlive.com/trace_urban_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df8cf68.jpg", BABY TV
 http://live.jibhdlive.com/baby_tv_hd_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/875383424457912320/Jnw7PeLi_400x400.jpg", CARTOON NETWORK
-http://streaming1.streamlive.to/live/9l41fcr1sgmclej/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE3IDE6MjU6NDkgUE0maGFzaF92YWx1ZT1zN1E3VjZzRGF3N2Q5Zk9PNnlWa2FBPT0mdmFsaWRtaW51dGVzPTEwMDAmc3RybV9sZW49MjA=
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df90647.png", TOONAMI
 http://live.jibhdlive.com/toonami_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png", Nick Jr. (ENG)
