@@ -116,7 +116,7 @@ http://live.jibhdlive.com/baby_tv_hd_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df90647.png", TOONAMI
 http://live.jibhdlive.com/toonami_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/875383424457912320/Jnw7PeLi_400x400.jpg", CARTOON NETWORK
-https://streaming1.streamlive.to/live/9l41fcr1sgmclej/index.m3u8
+https://streaming1.streamlive.to/live/9l41fcr1sgmclej/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE3IDE6MjU6NDkgUE0maGFzaF92YWx1ZT1zN1E3VjZzRGF3N2Q5Zk9PNnlWa2FBPT0mdmFsaWRtaW51dGVzPTEwMDAmc3RybV9sZW49MjA=
 #EXTINF:-1, tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png", Nick Jr. (ENG)
 http://27.254.63.162/stream/tot4k.php?channel_id=09fffe8d426745689f60cbc24da1bb49
 #EXTINF:-1, tvg-logo="http://3.bp.blogspot.com/-yAvAOW9sLfk/Vl2UJYS5VQI/AAAAAAAABXI/Kcz2SFBt7TE/s1600/tvN.png", TVN (Korea)
