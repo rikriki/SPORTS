@@ -90,7 +90,7 @@ http://27.254.63.162/stream/totnew.php?channel_id=169a149fd1ef40edba0bbfc8e0f1bd
 #EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/60233/logo_crime%20+%20investigation.png", CRIME INVESTIGATION
 http://27.254.63.162/stream/totnew.php?channel_id=9961a963920f45f4bc0d81c3e478b334
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df99ca2.png", HISTORY CHANNEL
-http://edge2.liveonlinetv247.info/live/history-hq/chunks.m3u8?nimblesessionid=8483031&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE3IDc6NTk6MTYgQU0maGFzaF92YWx1ZT1XWDBaRnlVLzJYQUE4enkxRmtONlpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMjMxLjc3JnN0cm1fbGVuPTE1
+https://murmuring-dawn-28471.herokuapp.com/hls/cc0d0df84083c901788c4600f9adbbee/1506197333/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232322e3233352f7032702f62363633373366306162303930303062316163643036353736626339316565622e6d3375383f73743d33724b516c344361486465776e6c687868336635516726653d31353036323131373333.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa375e.png", NAT GEO PEOPLE
 http://live.jibhdlive.com/national_geographic_people_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa1da2.png", NAT GEO WILD
