@@ -115,6 +115,8 @@ http://live.jibhdlive.com/baby_tv_hd_720p.stream/playlist.m3u8
 http://live.jibhdlive.com/toonami_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png", Nick Jr. (ENG)
 http://27.254.63.162/stream/tot4k.php?channel_id=09fffe8d426745689f60cbc24da1bb49
+#EXTINF:-1, tvg-logo="https://www.animax-asia.com/sites/asia.animax/files/animax_logo_endorsed_0.png", ANIMAX
+http://183.88.212.205:8010/play/a00h
 #EXTINF:-1, tvg-logo="http://3.bp.blogspot.com/-yAvAOW9sLfk/Vl2UJYS5VQI/AAAAAAAABXI/Kcz2SFBt7TE/s1600/tvN.png", TVN (Korea)
 http://121.156.62.136:1935/chc09/s6.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/884679227215192064/Vdgljizv_400x400.jpg", KBS WORLD
