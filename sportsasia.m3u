@@ -13,6 +13,10 @@ http://live.jibhdlive.com/fox_sports_3_720p.stream/playlist.m3u8
 http://live.jibhdlive.com/true_tennis_hd_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://actv.tv/wp-content/uploads/mutv1.png", MANCHESTER UNITED TV
 http://live.jibhdlive.com/mutv_360p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb08c4.png",CHELSEA TV
+http://live.jibhdlive.com/chelsea_tv_360p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb04a7.jpg",LIVERPOOL TV
+http://live.jibhdlive.com/lfctv_360p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://i.imgur.com/F2R303x.png", BT SPORT 1 HD
 http://live.jibhdlive.com/bt_sport_1_hd_360p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/vsuvvu1433963716.png", BT SPORT 2 HD
@@ -77,3 +81,22 @@ http://live.jibhdlive.com/eurosport_480p.stream/playlist.m3u8
 http://live.jibhdlive.com/eurosport_1_uk_360p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb34e5.png", EUROSPORT 2
 http://live.jibhdlive.com/eurosport_2_uk_360p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb0fcb.png", SKYNET SPORTS HD
+http://live.jibhdlive.com/skynet_sport_hd_720p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb0fcb.png", SKYNET SPORTS 1
+http://live.jibhdlive.com/skynet_sports_1_480p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb0fcb.png", SKYNET SPORTS 2
+http://live.jibhdlive.com/skynet_sports_2_480p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb1a5f.png", SKYNET SPORTS 3
+http://live.jibhdlive.com/skynet_sports_3_480p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb1e47.png", SKYNET SPORTS 4
+http://live.jibhdlive.com/skynet_sports_4_480p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb24f9.png", SKYNET SPORTS 5
+http://live.jibhdlive.com/skynet_sports_5_480p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb28a0.png", SKYNET SPORTS 6
+http://live.jibhdlive.com/skynet_sports_6_480p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb417f.png", SONY ESPN
+http://live.jibhdlive.com/sony_espn_720p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb44e9.png", SONY SIX HD
+http://live.jibhdlive.com/sony_six_720p.stream/playlist.m3u8
+
