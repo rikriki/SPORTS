@@ -13,10 +13,12 @@ http://live.jibhdlive.com/fox_sports_3_720p.stream/playlist.m3u8
 http://live.jibhdlive.com/true_tennis_hd_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://actv.tv/wp-content/uploads/mutv1.png", MANCHESTER UNITED TV
 http://live.jibhdlive.com/mutv_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb08c4.png",CHELSEA TV
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb08c4.png", CHELSEA TV
 http://live.jibhdlive.com/chelsea_tv_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb04a7.jpg",LIVERPOOL TV
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb04a7.jpg", LIVERPOOL TV
 http://live.jibhdlive.com/lfctv_360p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg", ESPN USA
+https://videoserver2.org/live/mvpQUafNcMKamWrcW4tClQ/1506162376/aca0a31d14c85e19f7023c9a3889f37b.m3u8
 #EXTINF:-1, tvg-logo="http://i.imgur.com/F2R303x.png", BT SPORT 1 HD
 http://live.jibhdlive.com/bt_sport_1_hd_360p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/vsuvvu1433963716.png", BT SPORT 2 HD
