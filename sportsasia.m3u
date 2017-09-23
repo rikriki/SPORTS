@@ -27,6 +27,8 @@ http://live.jibhdlive.com/bt_sport_2_hd_360p.stream/playlist.m3u8
 http://live.jibhdlive.com/bt_sport_3_hd_360p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://cdn.firstone.tv/images/logos/uk/BTESPN.png", BT SPORT ESPN
 http://live.jibhdlive.com/bt_sport_espn_360p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://nbcolympictalk.files.wordpress.com/2017/07/olympic-channel.jpg", OLYMPIC CHANNEL
+https://warm-waters-56641.herokuapp.com/hls/bb062279fe80711f1ae8b8cba1f68e8f/1506192273/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e3133352f7032702f62363633373366306162303930303062316163643036353736626339316565622e6d3375383f73743d4c6b2d6a4a4757556943356d3947534c72493662306726653d31353036323036363733.m3u8
 #EXTINF:-1, tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_1_aug2014.png", TSN 1
 http://live.jibhdlive.com/0x444_tsn1_360p/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.woodbineentertainment.com/Woodbine/SiteAssets/Pages/Breeders-Crown/TSN2_CMYK.jpg", TSN 2
