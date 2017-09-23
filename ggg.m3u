@@ -34,7 +34,7 @@ http://27.254.63.162/stream/tot4k.php?channel_id=2f18d4ba25224edaa8bb9aac94b00d4
 #EXTINF:-1, tvg-logo="http://www.totiptv.com/Product/Channel/images/Universal.png", Universal Channel HD
 http://27.254.63.162/stream/tot4k.php?channel_id=a7105ed1bb0a44bba1f4f71f2352b892
 #EXTINF:-1, tvg-logo="http://www.totiptv.com/Product/Channel/images/Syfy.png", Syfy HD
-http://27.254.63.162/stream/tot4k.php?channel_id=71f197de056e499a85265c03b44bdab1
+http://137.74.151.158/hls/5ffa3cee083b7833d5e546f85aa7e640/1506183152/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232322e3233302f7032702f31356262316536613765626639343562383562383334623263383463663966312e6d3375383f73743d4d6d417535754c39374d7862327359384a59546b6c4126653d31353036313937353532.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df81b42.png", STARWORLD HD
 http://live.jibhdlive.com/starworld_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df82e42.png", WARNER TV
@@ -79,7 +79,7 @@ https://freeeucache2.streamlive.to/live/qc6xkzf4h48bz2e/index.m3u8?wmsAuthSign=c
 http://27.254.63.162/stream/totnew.php?channel_id=169a149fd1ef40edba0bbfc8e0f1bdd1
 #EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/60233/logo_crime%20+%20investigation.png", CRIME INVESTIGATION
 http://27.254.63.162/stream/totnew.php?channel_id=9961a963920f45f4bc0d81c3e478b334
-#EXTINF:-1, tvg-logo="http://cdn.exstreamist.com/wp-content/uploads/2015/08/watch-history-channel-online.jpg", HISTORY CHANNEL
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df99ca2.png", HISTORY CHANNEL
 http://edge2.liveonlinetv247.info/live/history-hq/chunks.m3u8?nimblesessionid=8483031&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE3IDc6NTk6MTYgQU0maGFzaF92YWx1ZT1XWDBaRnlVLzJYQUE4enkxRmtONlpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMjMxLjc3JnN0cm1fbGVuPTE1
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa375e.png", NAT GEO PEOPLE
 http://live.jibhdlive.com/national_geographic_people_720p.stream/playlist.m3u8
