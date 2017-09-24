@@ -119,6 +119,8 @@ http://27.254.63.162/stream/tot4k.php?channel_id=09fffe8d426745689f60cbc24da1bb4
 http://183.88.212.205:8010/play/a00h
 #EXTINF:-1, tvg-logo="http://3.bp.blogspot.com/-yAvAOW9sLfk/Vl2UJYS5VQI/AAAAAAAABXI/Kcz2SFBt7TE/s1600/tvN.png", TVN (Korea)
 http://121.156.62.136:1935/chc09/s6.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAA2oAAAAJGIzMTgzMDc2LTVhOGEtNGZjZS04MGU3LTc0NWQ1MGRiYzI1ZQ.png", TVN ASIA
+http://183.88.212.205:8010/play/a024
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/884679227215192064/Vdgljizv_400x400.jpg", KBS WORLD
 http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-1474711308/eol/20200101T0000/hash/256504442b73f1d929c1a36b033cfd53facda543/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.vmore.tv/wp-content/uploads/2015/03/KTV.png", KTV HD
