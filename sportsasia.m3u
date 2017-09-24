@@ -35,6 +35,8 @@ http://live.jibhdlive.com/0x444_tsn1_360p/playlist.m3u8
 http://live.jibhdlive.com/0x444_tsn2_360p/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_3_aug2014.png", TSN 3
 http://live.jibhdlive.com/0x444_tsn3_360p/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://freetvall.com/files/thumbs/150179087733588.jpg", SKY SPORTS MAIN EVENT
+http://live.jibhdlive.com/sky_sports_mainevent_360p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfbaaf5.png", SKY SPORTS PREMIER LEAGUE
 http://live.jibhdlive.com/sky_sports_premiere_360p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-ACTION.png", SKY SPORTS ACTION
