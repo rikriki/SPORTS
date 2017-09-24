@@ -165,9 +165,9 @@ http://183.88.212.205:8010/play/a02n
 http://183.88.212.205:8010/play/a02o
 #EXTINF:-1,group-title="SPORTS",FOX SPORTS NEWS
 http://183.88.212.205:8010/play/a022
-#EXTINF:-1,group-title="SPORTS",EURO SPORTS
+#EXTINF:-1,group-title="SPORTS",EUROSPORT
 http://183.88.212.205:8010/play/a00d
-#EXTINF:-1,group-title="SPORTS"EUROSPORTS NEWS
+#EXTINF:-1,group-title="SPORTS",EUROSPORT NEWS
 http://183.88.212.205:8010/play/a00g
 #EXTINF:-1,group-title="SPORTS",GOLF CHANNEL
 http://183.88.212.205:8010/play/a02q
