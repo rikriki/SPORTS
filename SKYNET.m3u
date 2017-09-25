@@ -15,6 +15,8 @@ http://beam-wowza.vbusiness.ph:1935/live/channel3/playlist.m3u8
 http://beam-wowza.vbusiness.ph:1935/live/channel2/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.shoptv.com.ph/skin/frontend/cudsly/default/images/shoptv-logo.png" group-title="PINOY TV", BEAM SHOP TV
 http://beam-wowza.vbusiness.ph:1935/live/channel1/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df7dc6e.png" group-title="MOVIES", TRUE MOVIES
+http://live.jibhdlive.com/true_movie_hits_480p.stream/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_family_movies.png" group-title="MOVIES",FOX FAMILY MOVIES
 http://183.88.212.205:8010/play/a01m
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_movies_premium.png" group-title="MOVIES",FOX MOVIES PREMIUM
@@ -27,10 +29,24 @@ http://183.88.212.205:8010/play/a020
 http://183.88.212.205:8010/play/a00u
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/HBO.png" group-title="MOVIES",HBO SD
 http://183.88.212.205:8010/play/a00m
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df84af5.jpg" group-title="MOVIES", HBO HD 2
+http://live.jibhdlive.com/hbo_hd_720p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df84e68.jpg" group-title="MOVIES", HBO HITS
+http://live.jibhdlive.com/hbo_hits_720p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85235.jpg" group-title="MOVIES", HBO SIGNATURE
+http://live.jibhdlive.com/hbo_signature_720p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df8561e.jpg" group-title="MOVIES", HBO FAMILY
+http://live.jibhdlive.com/hbo_family_720p.stream/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85959.jpg" group-title="MOVIES",CINEMAX
 http://183.88.212.205:8010/play/a00n
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Movies-HD-COLOR.png" group-title="MOVIES",SKYNET MOVIES HD
 http://183.88.212.205:8010/play/a00v
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df81779.jpg" group-title="MOVIES", THRILL
+http://live.jibhdlive.com/thrill_720p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.totiptv.com/Product/Channel/images/Kix.png" group-title="MOVIES", KIX HD
+http://27.254.63.162/stream/tot4k.php?channel_id=e584e0adae6440eab366f5fe3a824f91
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df82e42.png" group-title="MOVIES", WARNER TV
+http://live.jibhdlive.com/warner_tv_720p.stream/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/asian_movies.png" group-title="MOVIES",ASIAN MOVIES
 http://183.88.212.205:8010/play/a01j
 #EXTINF:-1,tvg-logo="https://www.sky.co.nz/documents/24003/39746/MK_SCC_Logo_250x180.png" group-title="MOVIES",STAR CHINESE MOVIES
@@ -67,6 +83,8 @@ http://183.88.212.205:8010/play/a02y
 http://183.88.212.205:8010/play/a00k
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/outdoor.png" group-title="DOCUMENTARIES AND TRAVEL",OUTDOOR CHANNEL
 http://183.88.212.205:8010/play/a03d
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa457e.png" group-title="DOCUMENTARIES AND TRAVEL", ASIA FOOD CHANNEL
+http://live.jibhdlive.com/asian_food_channel_480p.stream/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa1938.png" group-title="DOCUMENTARIES AND TRAVEL",BBC EARTH
 http://183.88.212.205:8010/play/a03e
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/turbo.png" group-title="DOCUMENTARIES AND TRAVEL",DMAX
@@ -77,6 +95,8 @@ http://183.88.212.205:8010/play/a00y
 http://183.88.212.205:8010/play/a03k
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/mi.png" group-title="DOCUMENTARIES AND TRAVEL",MITV
 http://183.88.212.205:8010/play/a016
+#EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LIVING%20ASIA.png" group-title="DOCUMENTARIES AND TRAVEL", LIVING ASIA CHANNEL
+https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/arirang.png" group-title="INTERNATIONAL",ARIRANG
 http://183.88.212.205:8010/play/a026
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/kbs_world.png" group-title="INTERNATIONAL",KBS WORLD
@@ -105,6 +125,10 @@ http://183.88.212.205:8010/play/a03m
 http://183.88.212.205:8010/play/a033
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/starworld.png" group-title="ENTERTAINMENT AND LIFESTYLE",STAR WORLD
 http://183.88.212.205:8010/play/a021
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df81b42.png" group-title="ENTERTAINMENT AND LIFESTYLE", STARWORLD HD 2
+http://live.jibhdlive.com/starworld_720p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/60233/logo_crime%20+%20investigation.png" group-title="ENTERTAINMENT AND LIFESTYLE", CRIME INVESTIGATION
+http://27.254.63.162/stream/totnew.php?channel_id=9961a963920f45f4bc0d81c3e478b334
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/life_time.png" group-title="ENTERTAINMENT AND LIFESTYLE",LIFETIME
 http://183.88.212.205:8010/play/a03l
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fx.png" group-title="ENTERTAINMENT AND LIFESTYLE",FX
@@ -119,6 +143,8 @@ http://183.88.212.205:8010/play/a01p
 http://183.88.212.205:8010/play/a01s
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/LIVE-HD-COLOR.png" group-title="MUSIC",MTV LIVE HD
 http://183.88.212.205:8010/play/a00s
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9864d.png" group-title="MUSIC", TRACE URBAN
+http://live.jibhdlive.com/trace_urban_720p.stream/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/nickjr.png" group-title="KIDS",NICKJR
 http://183.88.212.205:8010/play/a01c
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/baby_tv.png" group-title="KIDS",BABY TV
@@ -147,6 +173,8 @@ http://183.88.212.205:8010/play/a00l
 http://183.88.212.205:8010/play/a00e
 #EXTINF:-1,tvg-logo="http://tvimages.burrp.com/images/channels2/news/BBC-World-News.png" group-title="NEWS",BBC WORLD NEWS
 http://183.88.212.205:8010/play/a03g
+#EXTINF:-1, tvg-logo="http://www.totiptv.com/Product/Channel/images/AlJazeera.png" group-title="NEWS", Al Jazeera English
+http://27.254.63.162/stream/tot4k.php?channel_id=ea4c9d2666bc411d8e6777e8a1d2b747
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/bloomberg.png" group-title="NEWS",BLOOMBERG
 http://183.88.212.205:8010/play/a02d
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/channel_news_asia.png" group-title="NEWS",CHANNEL NEWS ASIA
