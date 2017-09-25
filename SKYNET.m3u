@@ -111,6 +111,26 @@ http://183.88.212.205:8010/play/a02g
 http://183.88.212.205:8010/play/a028
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/nhk_world.png" group-title="INTERNATIONAL",NHK WORLD PREMIUM
 http://183.88.212.205:8010/play/a027
+#EXTINF:-1, tvg-logo="http://www.vmore.tv/wp-content/uploads/2015/03/KTV.png"g roup-title="INTERNATIONAL", KTV HD
+http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/200px-Logo_of_the_Korean_Central_Television.svg.png" group-title="INTERNATIONAL", KCTV
+http://122.202.129.136:1935/live/ch5/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://channels.roku.com/images/f03a500979a74879b7a777a5dc7d9641-hd.jpg" group-title="INTERNATIONAL", GCN
+http://live-manminflv.ktics.co.kr:1935/live/_definst_/live_stream_high/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://about.ebs.co.kr/kor/images/program/img_channel02.gif" group-title="INTERNATIONAL", EBS 1
+http://ebsonair.ebs.co.kr:1935/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://about.ebs.co.kr/kor/images/program/img_channel03.gif" group-title="INTERNATIONAL", EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://about.ebs.co.kr/kor/images/program/img_channel02.gif" group-title="INTERNATIONAL", EBS +1
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://about.ebs.co.kr/kor/images/program/img_channel03.gif" group-title="INTERNATIONAL", EBS +2
+http://ebsonair.ebs.co.kr:1http://live-sport.me/wp-content/uploads/2015/07/EBS-U.gif935/plus2tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://live-sport.me/wp-content/uploads/2015/07/EBS-U.gif" group-title="INTERNATIONAL", EBS U
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/TV+Chosun+logo_1653.png" group-title="INTERNATIONAL", TV CHOSUN
+http://live.chosun.gscdn.com/live/_definst_/mp4:tvchosun1.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Taegu_Broadcasting_Corporation_logo.png" group-title="INTERNATIONAL", TBC SBS
+http://221.157.125.232:1935/live/psike/chunklist_w2123555309.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/EI.png" group-title="ENTERTAINMENT AND LIFESTYLE",E!
 http://183.88.212.205:8010/play/a03o
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/DIVI.png" group-title="ENTERTAINMENT AND LIFESTYLE",DIVA UNIVERSAL
@@ -185,6 +205,8 @@ http://183.88.212.205:8010/play/a02f
 http://183.88.212.205:8010/play/a02h
 #EXTINF:-1,tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/01/CCTV.png" group-title="NEWS",CCTV NEWS
 http://183.88.212.205:8010/play/a029
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa821f.png" group-title="NEWS", EURONEWS
+http://live.jibhdlive.com/euronews_720p.stream/playlist.m3u8
 #EXTINF:-1,group-title="SPORTS",SKYNET SPORTS HD
 http://183.88.212.205:8010/play/a00r
 #EXTINF:-1,group-title="SPORTS",SKYNET SPORTS-1
