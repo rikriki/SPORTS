@@ -315,27 +315,7 @@ http://live.jibhdlive.com/sony_six_720p.stream/playlist.m3u8
 http://183.88.212.205:8010/play/a03i
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff733d.png" group-title="SPORTS",GOLF CHANNEL 2
 http://183.88.212.205:8010/play/a02q
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/New_abc_gold.svg/1200px-New_abc_gold.svg.png" group-title="USA",ABC EAST
-http://104.236.70.2:80/ABCEAST/video.m3u8
-#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61eLh5nxsmL._SR600,315_SCLZZZZZZZ_.png" group-title="USA",NBC EAST
-http://104.236.70.2:80/NBCEAST/video.m3u8
-#EXTINF:-1, tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/09/cbs-logo-old.png" group-title="USA",CBS EAST
-http://104.236.70.2:80/CBSEAST/video.
-#EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/pic_ch330.jpg" group-title="USA",FOX EAST
-http://104.236.70.2:80/FOXEAST/video.m3u8
-#EXTINF:-1, tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_comedy_central.jpg" group-title="USA",COMEDY CENTRAL
-http://104.236.70.2:80/COMEDYCENTRAL/video.m3u8
-#EXTINF:-1, tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2014/08/usa04.jpg" group-title="USA",USA NETWORK
-http://104.236.70.2:80/USANETWORK/video.m3u8
-#EXTINF:-1, tvg-logo="https://spike.mtvnimages.com/images/missing_image2.jpg" group-title="USA",SPIKE
-http://104.236.70.2:80/SPIKE/video.m3u8
-#EXTINF:-1, tvg-logo="http://nowwatchtvlive.cc/wp-content/uploads/2011/07/FX-Channel-HD-logo.jpeg" group-title="USA",FX
-http://104.236.70.2:80/FX/video.m3u8
-#EXTINF:-1, tvg-logo="https://pmcvariety.files.wordpress.com/2016/01/food-network-logo.jpg" group-title="USA",FOOD NETWORK
-http://104.236.70.2:80/FOODNETWORK/video.m3u8
-#EXTINF:-1, tvg-logo="https://kodi.tv/sites/default/files/addon_assets/plugin.video.diy/icon/icon.png" group-title="USA",DIY NETWORK
-http://104.236.70.2:80/DIYNETWORK/video.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/HGTV.png" group-title="USA",HGTV 
-http://104.236.70.2:80/HGTV/video.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/783388139591270400/zsOyJO_c.jpg" group-title="USA",WWE
+http://hlslive-l3c.med2.net.wwe.com/ls01/wwe/LINEAR/WWE_ALL_DAY_NO_ARCHIVE_VIDEO_MEDIA_2_WWE_Dual_Linear_Event_20170925_1506342002659/1800K/1800_slide.m3u8
 
 
