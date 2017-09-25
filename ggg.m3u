@@ -315,3 +315,5 @@ http://live.jibhdlive.com/sony_six_720p.stream/playlist.m3u8
 http://183.88.212.205:8010/play/a03i
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff733d.png" group-title="SPORTS",GOLF CHANNEL 2
 http://183.88.212.205:8010/play/a02q
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff733d.png" group-title="USA",HGTV
+http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/344.ts
