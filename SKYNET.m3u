@@ -87,7 +87,7 @@ http://183.88.212.205:8010/play/a03c
 http://183.88.212.205:8010/play/a03m
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/EVE.png" group-title="ENTERTAINMENT AND LIFESTYLE",EVE
 http://183.88.212.205:8010/play/a033
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/starworld.pngg" group-title="ENTERTAINMENT AND LIFESTYLE",STAR WORLD
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/starworld.png" group-title="ENTERTAINMENT AND LIFESTYLE",STAR WORLD
 http://183.88.212.205:8010/play/a021
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/life_time.png" group-title="ENTERTAINMENT AND LIFESTYLE",LIFETIME
 http://183.88.212.205:8010/play/a03l
@@ -95,13 +95,13 @@ http://183.88.212.205:8010/play/a03l
 http://183.88.212.205:8010/play/a023
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/AXN.png" group-title="ENTERTAINMENT AND LIFESTYLE",AXN ASIA
 http://183.88.212.205:8010/play/a00i
-#EXTINF:-1,group-title="MUSIC",MTV SEA
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/mtv_china.png" group-title="MUSIC",MTV SEA
 http://183.88.212.205:8010/play/a01t
-#EXTINF:-1,group-title="MUSIC",CHANNEL V
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/channel-V.jpg" group-title="MUSIC",CHANNEL V
 http://183.88.212.205:8010/play/a01p
-#EXTINF:-1,group-title="MUSIC",MTV CHINA
+#EXTINF:-1,tvg-logo="http://ip2day.net/asset/ip2day/images/icon_channel/icon-mtvchina.png" group-title="MUSIC",MTV CHINA
 http://183.88.212.205:8010/play/a01s
-#EXTINF:-1,group-title="MUSIC",MTV LIVE HD
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/LIVE-HD-COLOR.png" group-title="MUSIC",MTV LIVE HD
 http://183.88.212.205:8010/play/a00s
 #EXTINF:-1,group-title="KIDS",NICKJR
 http://183.88.212.205:8010/play/a01c
