@@ -61,17 +61,17 @@ http://183.88.212.205:8010/play/a00y
 http://183.88.212.205:8010/play/a03k
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/mi.png" group-title="DOCUMENTARIES AND TRAVEL",MITV
 http://183.88.212.205:8010/play/a016
-#EXTINF:-1,group-title="INTERNATIONAL",ARIRANG
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/arirang.png" group-title="INTERNATIONAL",ARIRANG
 http://183.88.212.205:8010/play/a026
-#EXTINF:-1,group-title="INTERNATIONAL",KBS WORLD
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/kbs_world.png" group-title="INTERNATIONAL",KBS WORLD
 http://183.88.212.205:8010/play/a025
-#EXTINF:-1,group-title="INTERNATIONAL",TVN ASIA
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/M1.png" group-title="INTERNATIONAL",TVN ASIA
 http://183.88.212.205:8010/play/a024
-#EXTINF:-1,group-title="INTERNATIONAL",Deutsche Welle
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/DW.png" group-title="INTERNATIONAL",Deutsche Welle
 http://183.88.212.205:8010/play/a02g
-#EXTINF:-1,group-title="INTERNATIONAL",NHK WORLD TV
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/nhk_world.png" group-title="INTERNATIONAL",NHK WORLD TV
 http://183.88.212.205:8010/play/a028
-#EXTINF:-1,group-title="INTERNATIONAL",NHK WORLD PREMIUM
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/nhk_world.png" group-title="INTERNATIONAL",NHK WORLD PREMIUM
 http://183.88.212.205:8010/play/a027
 #EXTINF:-1,group-title="ENTERTAINMENT AND LIFESTYLE",E!
 http://183.88.212.205:8010/play/a03o
