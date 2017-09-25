@@ -17,13 +17,13 @@ http://183.88.212.205:8010/play/a00n
 http://183.88.212.205:8010/play/a00v
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/asian_movies.png" group-title="MOVIES",ASIAN MOVIES
 http://183.88.212.205:8010/play/a01j
-#EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/49/STAR_Chinese_Movies.jpg" group-title="MOVIES",STAR CHINESE MOVIES
+#EXTINF:-1,tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Star-C-Movie.png" group-title="MOVIES",STAR CHINESE MOVIES
 http://183.88.212.205:8010/play/a02e
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/world_movies.png" group-title="MOVIES",WORLD MOVIES
 http://183.88.212.205:8010/play/a01k
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/world_drama.png" group-title="MOVIES",WORLD DRAMA
 http://183.88.212.205:8010/play/a01x
-#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-vyZF7YrpulU/WH2xq8mCdaI/AAAAAAAAGWM/p_U0bIWHf2ku-6kNf5cTQkZZkgOuPwItwCLcB/s1600/2017-01-17_13.37.18.jpg" group-title="MOVIES",INTERNATIONAL DRAMA
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/int_drama.png" group-title="MOVIES",INTERNATIONAL DRAMA
 http://183.88.212.205:8010/play/a01y
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/PAY-PER-VIEW.png" group-title="PPV",SKYNET-HD-PAY PER VIEW
 http://183.88.212.205:8010/play/a00w
