@@ -17,8 +17,6 @@ http://live.jibhdlive.com/mutv_360p.stream/playlist.m3u8
 http://live.jibhdlive.com/chelsea_tv_360p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb04a7.jpg", LIVERPOOL TV
 http://live.jibhdlive.com/lfctv_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg", ESPN USA
-https://videoserver2.org/live/mvpQUafNcMKamWrcW4tClQ/1506162376/aca0a31d14c85e19f7023c9a3889f37b.m3u8
 #EXTINF:-1, tvg-logo="http://i.imgur.com/F2R303x.png", BT SPORT 1 HD
 http://live.jibhdlive.com/bt_sport_1_hd_360p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/vsuvvu1433963716.png", BT SPORT 2 HD
@@ -27,8 +25,6 @@ http://live.jibhdlive.com/bt_sport_2_hd_360p.stream/playlist.m3u8
 http://live.jibhdlive.com/bt_sport_3_hd_360p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://cdn.firstone.tv/images/logos/uk/BTESPN.png", BT SPORT ESPN
 http://live.jibhdlive.com/bt_sport_espn_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://nbcolympictalk.files.wordpress.com/2017/07/olympic-channel.jpg", OLYMPIC CHANNEL
-https://warm-waters-56641.herokuapp.com/hls/bb062279fe80711f1ae8b8cba1f68e8f/1506192273/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e3133352f7032702f62363633373366306162303930303062316163643036353736626339316565622e6d3375383f73743d4c6b2d6a4a4757556943356d3947534c72493662306726653d31353036323036363733.m3u8
 #EXTINF:-1, tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_1_aug2014.png", TSN 1
 http://live.jibhdlive.com/0x444_tsn1_360p/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.woodbineentertainment.com/Woodbine/SiteAssets/Pages/Breeders-Crown/TSN2_CMYK.jpg", TSN 2
@@ -67,7 +63,7 @@ http://live.jibhdlive.com/truesport_hd_720p.stream/playlist.m3u8
 http://live.jibhdlive.com/truesport_hd_2_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dffa6a1.png", TRUE SPORT HD 3
 http://live.jibhdlive.com/truesport_hd_3_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dffaa46.png", TRUE SPORT HD 4 - SETANTA ASIA
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dffaa46.png", SETANTA ASIA
 http://live.jibhdlive.com/truesport_hd_4_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e01dcd2.jpg", TS SPORT 1
 http://live.jibhdlive.com/truesport_1_480p.stream/playlist.m3u8
