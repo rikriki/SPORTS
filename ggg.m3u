@@ -245,7 +245,7 @@ http://live.jibhdlive.com/sky_sports_mainevent_360p.stream/playlist.m3u8
 http://live.jibhdlive.com/sky_sports_premiere_360p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-ACTION.png" group-title="SPORTS", SKY SPORTS ACTION
 http://live.jibhdlive.com/sky_sports_action_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff2cc3.jpg", SKY SPORTS FOOTBALL
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff2cc3.jpg" group-title="SPORTS", SKY SPORTS FOOTBALL
 http://live.jibhdlive.com/skysportfootball_360p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://media.info/i/lf/0/1500373955/6753.png" group-title="SPORTS", SKY SPORTS ARENA
 http://live.jibhdlive.com/skysportarena_360p.stream/playlist.m3u8
@@ -265,7 +265,7 @@ http://live.jibhdlive.com/prtv_2_720p.stream/playlist.m3u8
 http://live.jibhdlive.com/prtv_3_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff733d.png" group-title="SPORTS", GOLF CHANNEL
 http://live.jibhdlive.com/golf_channel_thailand_hd_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff949c.png", TRUE SPORT HD 1
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff949c.png" group-title="SPORTS", TRUE SPORT HD 1
 http://live.jibhdlive.com/truesport_hd_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff97dc.png" group-title="SPORTS", TRUE SPORT HD 2
 http://live.jibhdlive.com/truesport_hd_2_720p.stream/playlist.m3u8
