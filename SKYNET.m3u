@@ -73,31 +73,27 @@ http://183.88.212.205:8010/play/a02g
 http://183.88.212.205:8010/play/a028
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/nhk_world.png" group-title="INTERNATIONAL",NHK WORLD PREMIUM
 http://183.88.212.205:8010/play/a027
-#EXTINF:-1,group-title="ENTERTAINMENT AND LIFESTYLE",E!
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/EI.png" group-title="ENTERTAINMENT AND LIFESTYLE",E!
 http://183.88.212.205:8010/play/a03o
-#EXTINF:-1,group-title="ENTERTAINMENT AND LIFESTYLE",DIVA UNIVERSAL
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/DIVI.png" group-title="ENTERTAINMENT AND LIFESTYLE",DIVA UNIVERSAL
 http://183.88.212.205:8010/play/a03n
-#EXTINF:-1,group-title="ENTERTAINMENT AND LIFESTYLE",MWD
-http://183.88.212.205:8010/play/a014
-#EXTINF:-1,group-title="ENTERTAINMENT AND LIFESTYLE",COMEDY CENTRAL
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/TC_S69.png" group-title="ENTERTAINMENT AND LIFESTYLE",COMEDY CENTRAL
 http://183.88.212.205:8010/play/a03b
-#EXTINF:-1,group-title="ENTERTAINMENT AND LIFESTYLE",FASHION ONE
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fashion_one.png" group-title="ENTERTAINMENT AND LIFESTYLE",FASHION ONE
 http://183.88.212.205:8010/play/a01v
-#EXTINF:-1,group-title="ENTERTAINMENT AND LIFESTYLE",ITV CHOICE
-http://183.88.212.205:8010/play/a038
-#EXTINF:-1,group-title="ENTERTAINMENT AND LIFESTYLE",RED BY HBO
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Screen_Red.png" group-title="ENTERTAINMENT AND LIFESTYLE",RED BY HBO
 http://183.88.212.205:8010/play/a03c
-#EXTINF:-1,group-title="ENTERTAINMENT AND LIFESTYLE",UNIVERSAL SD
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Universal-.jpg" group-title="ENTERTAINMENT AND LIFESTYLE",UNIVERSAL SD
 http://183.88.212.205:8010/play/a03m
-#EXTINF:-1,group-title="ENTERTAINMENT AND LIFESTYLE",EVE
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/EVE.png" group-title="ENTERTAINMENT AND LIFESTYLE",EVE
 http://183.88.212.205:8010/play/a033
-#EXTINF:-1,group-title="ENTERTAINMENT AND LIFESTYLE",STAR WORLD
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/starworld.pngg" group-title="ENTERTAINMENT AND LIFESTYLE",STAR WORLD
 http://183.88.212.205:8010/play/a021
-#EXTINF:-1,group-title="ENTERTAINMENT AND LIFESTYLE",LIFETIME
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/life_time.png" group-title="ENTERTAINMENT AND LIFESTYLE",LIFETIME
 http://183.88.212.205:8010/play/a03l
-#EXTINF:-1,group-title="ENTERTAINMENT AND LIFESTYLE",FX
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fx.png" group-title="ENTERTAINMENT AND LIFESTYLE",FX
 http://183.88.212.205:8010/play/a023
-#EXTINF:-1,group-title="ENTERTAINMENT AND LIFESTYLE",AXN ASIA
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/AXN.png" group-title="ENTERTAINMENT AND LIFESTYLE",AXN ASIA
 http://183.88.212.205:8010/play/a00i
 #EXTINF:-1,group-title="MUSIC",MTV SEA
 http://183.88.212.205:8010/play/a01t
