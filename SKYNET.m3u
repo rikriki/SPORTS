@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://lh4.googleusercontent.com/-2TIg7V8TpKo/TYD9Z5jg97I/AAAAAAAAACc/3DQcc_fXs9E/s1600/TV5+Logo.jpg" group-title="PINOY TV", TV 5 KAPATID
+http://stream3.news5.ph:1935/n5e/singko_3/chunklist_w56666566.m3u8
+#EXTINF:-1, tvg-logo="http://cnnphilippines.com/incoming/ttbl9f-main-logo.png/BINARY/main-logo.png" group-title="PINOY TV", CNN PHILIPPINES
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/DZIQ.jpg" group-title="PINOY TV", INQUIRER 990
+http://beam-wowza.vbusiness.ph:1935/live/channel7/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/BEAM31PH_Logo.jpg/250px-BEAM31PH_Logo.jpg" group-title="PINOY TV", BEAM CHANNEL 5
+http://beam-wowza.vbusiness.ph:1935/live/channel4/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/BEAM31PH_Logo.jpg/250px-BEAM31PH_Logo.jpg" group-title="PINOY TV", BEAM CHANNEL 6
+http://beam-wowza.vbusiness.ph:1935/live/channel6/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-yqHMWSJvNG8/AAAAAAAAAAI/AAAAAAAAAAA/3e836jSrhFg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="PINOY TV", BEAM TV SHOP
+http://beam-wowza.vbusiness.ph:1935/live/channel3/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/OShopping_2015.png" group-title="PINOY TV", BEAM O SHOPPING
+http://beam-wowza.vbusiness.ph:1935/live/channel2/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.shoptv.com.ph/skin/frontend/cudsly/default/images/shoptv-logo.png" group-title="PINOY TV", BEAM SHOP TV
+http://beam-wowza.vbusiness.ph:1935/live/channel1/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_family_movies.png" group-title="MOVIES",FOX FAMILY MOVIES
 http://183.88.212.205:8010/play/a01m
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_movies_premium.png" group-title="MOVIES",FOX MOVIES PREMIUM
