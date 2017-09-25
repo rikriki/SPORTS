@@ -111,7 +111,7 @@ http://183.88.212.205:8010/play/a02g
 http://183.88.212.205:8010/play/a028
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/nhk_world.png" group-title="INTERNATIONAL",NHK WORLD PREMIUM
 http://183.88.212.205:8010/play/a027
-#EXTINF:-1, tvg-logo="http://www.vmore.tv/wp-content/uploads/2015/03/KTV.png"g roup-title="INTERNATIONAL", KTV HD
+#EXTINF:-1, tvg-logo="http://www.vmore.tv/wp-content/uploads/2015/03/KTV.png" group-title="INTERNATIONAL", KTV HD
 http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/200px-Logo_of_the_Korean_Central_Television.svg.png" group-title="INTERNATIONAL", KCTV
 http://122.202.129.136:1935/live/ch5/playlist.m3u8
