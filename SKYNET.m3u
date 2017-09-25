@@ -31,7 +31,7 @@ http://183.88.212.205:8010/play/a00w
 http://183.88.212.205:8010/play/a030
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Discovery.png" group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY CHANNEL
 http://183.88.212.205:8010/play/a031
-#EXTINF:-1,tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Discovery_world_hd.png" group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY HD WORLD
+#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df99908.png" group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY HD WORLD
 http://183.88.212.205:8010/play/a00t
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9babd.png" group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY SCIENCE
 http://183.88.212.205:8010/play/a034
