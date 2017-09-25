@@ -172,7 +172,7 @@ http://live.jibhdlive.com/trace_urban_720p.stream/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/nickjr.png" group-title="KIDS",NICKJR
 http://183.88.212.205:8010/play/a01c
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/baby_tv.png" group-title="KIDS",BABY TV
-http://183.88.212.205:8010/play/a01e
+http://live.jibhdlive.com/baby_tv_hd_720p.stream/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/ANIMAX.png" group-title="KIDS",ANIMAX
 http://183.88.212.205:8010/play/a00h
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Disney_Channel.png" group-title="KIDS",DISNEY CHANNEL ASIA
