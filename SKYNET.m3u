@@ -119,6 +119,8 @@ http://183.88.212.205:8010/play/a01f
 http://183.88.212.205:8010/play/a02u
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/DISNEY-HD.png" group-title="KIDS",DISNEY XD
 http://183.88.212.205:8010/play/a00x
+#EXTINF:-1,tvg-logo="https://media.ents24network.com/image/000/118/138/b829fa23d2de2c88897f7c070731ecd2cb97fdc6.jpg" group-title="KIDS",BBC CBEEBIES
+http://183.88.212.205:8010/play/a03f
 #EXTINF:-1,group-title="NEWS",CNBC
 http://183.88.212.205:8010/play/a02c
 #EXTINF:-1,group-title="NEWS",FOX NEWS
@@ -129,8 +131,6 @@ http://183.88.212.205:8010/play/a00l
 http://183.88.212.205:8010/play/a00e
 #EXTINF:-1,group-title="NEWS",BBC WORLD NEWS
 http://183.88.212.205:8010/play/a03g
-#EXTINF:-1,group-title="NEWS",BBC CBEEBIES
-http://183.88.212.205:8010/play/a03f
 #EXTINF:-1,group-title="NEWS",BLOOMBERG
 http://183.88.212.205:8010/play/a02d
 #EXTINF:-1,group-title="NEWS",CHANNEL NEWS ASIA
