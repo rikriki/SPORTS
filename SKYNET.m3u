@@ -121,23 +121,23 @@ http://183.88.212.205:8010/play/a02u
 http://183.88.212.205:8010/play/a00x
 #EXTINF:-1,tvg-logo="https://media.ents24network.com/image/000/118/138/b829fa23d2de2c88897f7c070731ecd2cb97fdc6.jpg" group-title="KIDS",BBC CBEEBIES
 http://183.88.212.205:8010/play/a03f
-#EXTINF:-1,group-title="NEWS",CNBC
+#EXTINF:-1,tvg-logo="http://mfa.gov.ua/mediafiles/sites/singapore/images/news/tmbs/CNBC_logo-tmb-270x180.jpg" group-title="NEWS",CNBC
 http://183.88.212.205:8010/play/a02c
-#EXTINF:-1,group-title="NEWS",FOX NEWS
+#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa8fde.png" group-title="NEWS",FOX NEWS
 http://183.88.212.205:8010/play/a00f
-#EXTINF:-1,group-title="NEWS",CNN
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/CNN.png" group-title="NEWS",CNN
 http://183.88.212.205:8010/play/a00l
-#EXTINF:-1,group-title="NEWS",SKY NEWS
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/sky_news.png" group-title="NEWS",SKY NEWS
 http://183.88.212.205:8010/play/a00e
-#EXTINF:-1,group-title="NEWS",BBC WORLD NEWS
+#EXTINF:-1,tvg-logo="http://tvimages.burrp.com/images/channels2/news/BBC-World-News.png" group-title="NEWS",BBC WORLD NEWS
 http://183.88.212.205:8010/play/a03g
-#EXTINF:-1,group-title="NEWS",BLOOMBERG
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/bloomberg.png" group-title="NEWS",BLOOMBERG
 http://183.88.212.205:8010/play/a02d
-#EXTINF:-1,group-title="NEWS",CHANNEL NEWS ASIA
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/channel_news_asia.png" group-title="NEWS",CHANNEL NEWS ASIA
 http://183.88.212.205:8010/play/a02f
-#EXTINF:-1,group-title="NEWS",FRANCE 24
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/france24.png" group-title="NEWS",FRANCE 24
 http://183.88.212.205:8010/play/a02h
-#EXTINF:-1,group-title="NEWS",CCTV NEWS
+#EXTINF:-1,tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/01/CCTV.png" group-title="NEWS",CCTV NEWS
 http://183.88.212.205:8010/play/a029
 #EXTINF:-1,group-title="SPORTS",SKYNET SPORTS HD
 http://183.88.212.205:8010/play/a00r
