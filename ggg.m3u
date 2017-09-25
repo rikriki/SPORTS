@@ -315,7 +315,7 @@ http://live.jibhdlive.com/sony_six_720p.stream/playlist.m3u8
 http://183.88.212.205:8010/play/a03i
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff733d.png" group-title="SPORTS",GOLF CHANNEL 2
 http://183.88.212.205:8010/play/a02q
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff733d.png" group-title="USA",HGTV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/HGTV.png" group-title="USA",HGTV
 http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/344.ts
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff733d.png" group-title="USA",HGTV 2
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/HGTV.png" group-title="USA",HGTV 2
 http://104.236.70.2:80/HGTV/video.m3u8
