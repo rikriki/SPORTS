@@ -69,7 +69,7 @@ http://183.88.212.205:8010/play/a025
 http://183.88.212.205:8010/play/a024
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/DW.png" group-title="INTERNATIONAL",Deutsche Welle
 http://183.88.212.205:8010/play/a02g
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/nhk_world.png" group-title="INTERNATIONAL",NHK WORLD TV
+#EXTINF:-1,tvg-logo="https://www.kcet.org/sites/kl/files/atoms/article_atoms/www.kcet.org/shows/tvtalk/nhk-logo-600.jpg" group-title="INTERNATIONAL",NHK WORLD TV
 http://183.88.212.205:8010/play/a028
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/nhk_world.png" group-title="INTERNATIONAL",NHK WORLD PREMIUM
 http://183.88.212.205:8010/play/a027
