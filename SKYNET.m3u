@@ -27,39 +27,39 @@ http://183.88.212.205:8010/play/a01x
 http://183.88.212.205:8010/play/a01y
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/PAY-PER-VIEW.png" group-title="PPV",SKYNET-HD-PAY PER VIEW
 http://183.88.212.205:8010/play/a00w
-#EXTINF:-1,group-title="DOCUMENTARIES AND TRAVEL",ANIMAL PLANET
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/animal_planet.png" group-title="DOCUMENTARIES AND TRAVEL",ANIMAL PLANET
 http://183.88.212.205:8010/play/a030
-#EXTINF:-1,group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY CHANNEL
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Discovery.png" group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY CHANNEL
 http://183.88.212.205:8010/play/a031
-#EXTINF:-1,group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY HD WORLD
+#EXTINF:-1,tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Discovery_world_hd.png" group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY HD WORLD
 http://183.88.212.205:8010/play/a00t
-#EXTINF:-1,group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY SCIENCE
+#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9babd.png" group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY SCIENCE
 http://183.88.212.205:8010/play/a034
-#EXTINF:-1,group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY KIDS
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Kid.png" group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY KIDS
 http://183.88.212.205:8010/play/a036
-#EXTINF:-1,group-title="DOCUMENTARIES AND TRAVEL",TLC
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Dis_TLC.png" group-title="DOCUMENTARIES AND TRAVEL",TLC
 http://183.88.212.205:8010/play/a032
-#EXTINF:-1,group-title="DOCUMENTARIES AND TRAVEL",NAT GEO
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/NGC.png" group-title="DOCUMENTARIES AND TRAVEL",NAT GEO
 http://183.88.212.205:8010/play/a02x
-#EXTINF:-1,group-title="DOCUMENTARIES AND TRAVEL",NAT GEO PEOPLE
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/net_geo_people.png" group-title="DOCUMENTARIES AND TRAVEL",NAT GEO PEOPLE
 http://183.88.212.205:8010/play/a02z
-#EXTINF:-1,group-title="DOCUMENTARIES AND TRAVEL",NAT GEO MUSIC
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/net_geo_music.png" group-title="DOCUMENTARIES AND TRAVEL",NAT GEO MUSIC
 http://183.88.212.205:8010/play/a01q
-#EXTINF:-1,group-title="DOCUMENTARIES AND TRAVEL",NAT GEO WILD
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/net_geo_wild.png" group-title="DOCUMENTARIES AND TRAVEL",NAT GEO WILD
 http://183.88.212.205:8010/play/a02y
-#EXTINF:-1,group-title="DOCUMENTARIES AND TRAVEL",FYI
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Fyi.jpg" group-title="DOCUMENTARIES AND TRAVEL",FYI
 http://183.88.212.205:8010/play/a00k
-#EXTINF:-1,group-title="DOCUMENTARIES AND TRAVEL",OUTDOOR CHANNEL
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/outdoor.png" group-title="DOCUMENTARIES AND TRAVEL",OUTDOOR CHANNEL
 http://183.88.212.205:8010/play/a03d
-#EXTINF:-1,group-title="DOCUMENTARIES AND TRAVEL",BBC EARTH
+#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa1938.png" group-title="DOCUMENTARIES AND TRAVEL",BBC EARTH
 http://183.88.212.205:8010/play/a03e
-#EXTINF:-1,group-title="DOCUMENTARIES AND TRAVEL",DMAX
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/turbo.png" group-title="DOCUMENTARIES AND TRAVEL",DMAX
 http://183.88.212.205:8010/play/a035
-#EXTINF:-1,group-title="DOCUMENTARIES AND TRAVEL",HISTORY HD
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/History-COLOR.png" group-title="DOCUMENTARIES AND TRAVEL",HISTORY HD
 http://183.88.212.205:8010/play/a00y
-#EXTINF:-1,group-title="DOCUMENTARIES AND TRAVEL",H2
+#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9a165.png" group-title="DOCUMENTARIES AND TRAVEL",H2
 http://183.88.212.205:8010/play/a03k
-#EXTINF:-1,group-title="DOCUMENTARIES AND TRAVEL",MITV
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/mi.png" group-title="DOCUMENTARIES AND TRAVEL",MITV
 http://183.88.212.205:8010/play/a016
 #EXTINF:-1,group-title="INTERNATIONAL",ARIRANG
 http://183.88.212.205:8010/play/a026
