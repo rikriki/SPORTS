@@ -103,21 +103,21 @@ http://183.88.212.205:8010/play/a01p
 http://183.88.212.205:8010/play/a01s
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/LIVE-HD-COLOR.png" group-title="MUSIC",MTV LIVE HD
 http://183.88.212.205:8010/play/a00s
-#EXTINF:-1,group-title="KIDS",NICKJR
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/nickjr.png" group-title="KIDS",NICKJR
 http://183.88.212.205:8010/play/a01c
-#EXTINF:-1,group-title="KIDS",BABY TV
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/baby_tv.png" group-title="KIDS",BABY TV
 http://183.88.212.205:8010/play/a01e
-#EXTINF:-1,group-title="KIDS",ANIMAX
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/ANIMAX.png" group-title="KIDS",ANIMAX
 http://183.88.212.205:8010/play/a00h
-#EXTINF:-1,group-title="KIDS",DISNEY CHANNEL ASIA
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Disney_Channel.png" group-title="KIDS",DISNEY CHANNEL ASIA
 http://183.88.212.205:8010/play/a02t
-#EXTINF:-1,group-title="KIDS",CARTOON NETWORK
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/CN.png" group-title="KIDS",CARTOON NETWORK
 http://183.88.212.205:8010/play/a01b
-#EXTINF:-1,group-title="KIDS",NICKELODEON
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/nickelodeon.png" group-title="KIDS",NICKELODEON
 http://183.88.212.205:8010/play/a01f
-#EXTINF:-1,group-title="KIDS",DISNEY JUNIOR ASIA
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Disney_Junior.png" group-title="KIDS",DISNEY JUNIOR ASIA
 http://183.88.212.205:8010/play/a02u
-#EXTINF:-1,group-title="KIDS",DISNEY XD
+#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/DISNEY-HD.png" group-title="KIDS",DISNEY XD
 http://183.88.212.205:8010/play/a00x
 #EXTINF:-1,group-title="NEWS",CNBC
 http://183.88.212.205:8010/play/a02c
