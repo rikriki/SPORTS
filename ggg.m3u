@@ -317,90 +317,80 @@ http://183.88.212.205:8010/play/a03i
 http://183.88.212.205:8010/play/a02q
 #EXTINF:-1, tvg-logo="http://sportsarefree.xyz/img/nb_a/ml_btv.png" group-title="USA",MLB TV
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Friday_20170922_1506101335916/1200K/1200_slide.m3u8
-#EXTINF:-1,group-title="USA", A&E
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/338.m3u8
-#EXTINF:-1,group-title="USA", Animal Planet
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/329.m3u8
-#EXTINF:-1,group-title="USA", Cartoon Network
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/331.m3u8
-#EXTINF:-1,group-title="USA", CNN HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/306.m3u8
-#EXTINF:-1,group-title="USA", CW HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/332.m3u8
-#EXTINF:-1,group-title="USA", Discovery HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/292.m3u8
-#EXTINF:-1,group-title="USA", Discovery Science HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/333.m3u8
-#EXTINF:-1,group-title="USA", E!
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/334.m3u8
-#EXTINF:-1,group-title="USA", ESPN 2 HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/322.m3u8
-#EXTINF:-1,group-title="USA", ESPN USA HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/323.m3u8
-#EXTINF:-1,group-title="USA", Fox News HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/291.m3u8
-#EXTINF:-1,group-title="USA", Fox Sports 1 HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/320.m3u8
-#EXTINF:-1,group-title="USA", Fox Sports West
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/278.m3u8
-#EXTINF:-1,group-title="USA", FX
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/290.m3u8
-#EXTINF:-1,group-title="USA", Golf HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/315.m3u8
-#EXTINF:-1,group-title="USA", HBO
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/285.m3u8
-#EXTINF:-1,group-title="USA", HGTV
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/344.m3u8
-#EXTINF:-1,group-title="USA", History
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/284.m3u8
-#EXTINF:-1,group-title="USA", Investigation Discovery HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/283.m3u8
-#EXTINF:-1,group-title="USA", MoreMax HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/282.m3u8
-#EXTINF:-1,group-title="USA", NBA HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/318.m3u8
-#EXTINF:-1,group-title="USA", NBC Sports Network HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/314.m3u8
-#EXTINF:-1,group-title="USA", Nickelodeon
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/335.m3u8
-#EXTINF:-1,group-title="USA", PAC-12 Arizona HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/274.m3u8
-#EXTINF:-1,group-title="USA", PAC-12 Bay Area HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/273.m3u8
-#EXTINF:-1,group-title="USA", PAC-12 Los Angeles HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/272.m3u8
-#EXTINF:-1,group-title="USA", PAC-12 Mountain HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/271.m3u8
-#EXTINF:-1,group-title="USA", PAC-12 Oregon HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/270.m3u8
-#EXTINF:-1,group-title="USA", PAC-12 Washington HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/269.m3u8
-#EXTINF:-1,group-title="USA", Showtime
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/280.m3u8
-#EXTINF:-1,group-title="USA", Spike HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/281.m3u8
-#EXTINF:-1,group-title="USA", Sports Net One HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/302.m3u8
-#EXTINF:-1,group-title="USA", Sports Net Ontario HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/309.m3u8
-#EXTINF:-1,group-title="USA", Sports Net Pacific HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/268.m3u8
-#EXTINF:-1,group-title="USA", Sports Net World HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/308.m3u8
-#EXTINF:-1,group-title="USA", Starz Cinema HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/279.m3u8
-#EXTINF:-1,group-title="USA", Starz HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/277.m3u8
-#EXTINF:-1,group-title="USA", TBS HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/326.m3u8
-#EXTINF:-1,group-title="USA", Tennis Channel HD
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/312.m3u8
-#EXTINF:-1,group-title="USA", TSN 1 HD-CA
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/301.m3u8
-#EXTINF:-1,group-title="USA", TSN 4 HD-CA
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/298.m3u8
-#EXTINF:-1,group-title="USA", TSN 5 HD-CA
-http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/297.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/3562439197/c18ecd1ef09b68604fc5d20ba1549a08_400x400.jpeg", BS 12 TwellV
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://tennis-win.net/wp-content/uploads/2014/11/bs-asahi.jpg", BS Asahi
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-3WgJDDR0Nb8/AAAAAAAAAAI/AAAAAAAAAAA/GZQsfVI-QnU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="JAPAN", BS Fuji
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs05.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/BS_japan_logo.jpg" group-title="JAPAN", BS Japan
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs06.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://sim04.in.com/47909f6b7431ee290fb4ea553e5f5c4c_m.jpg" group-title="JAPAN", BS NTV
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs02.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.bs-tbs.co.jp/common/img/logo_ogp.jpg" group-title="JAPAN", BS-TBS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs04.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/m_cs219.gif" group-title="JAPAN", CS219
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs18.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://images.bwwstatic.com/columnpic7/00A67811-0D4D-2D3E-D3BB7F91C93234B6.jpg" group-title="JAPAN", Discovery Channel
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs13.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/MNcRO4SJdjo/hqdefault.jpg" group-title="JAPAN", Disney Channel
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs20.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Eisei+Gekijo+logo_1243.png" group-title="JAPAN", Eisei Gekijo
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs11.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="JAPAN", Fuji TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd05.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/70.jpg" group-title="JAPAN", Golf Network
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs03.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.pattylaurel.com/wp-content/uploads/2011/11/history_channel_jp.png" group-title="JAPAN", History
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs14.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.jsports.co.jp/share/img/js_logo.jpg" group-title="JAPAN", J Sports 1
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs05.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/05/J-SPORTS-2-Logo.jpg" group-title="JAPAN", J Sports 2
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs06.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch165/759.gif" group-title="JAPAN", J Sports 3
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs07.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/77.jpg" group-title="JAPAN", J Sports 4
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs09.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://gamefaqs.akamaized.net/box/7/2/4/309724_front.jpg" group-title="JAPAN", Kids Station
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs12.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.movieplus.jp/movie-detail/film_img/l/CS-MOCHIKOMIBANGUMI-001.jpg" group-title="JAPAN", Movie Plus
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs10.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://aramajapan.com/wp-content/uploads/2014/07/aramajapan_music-japan.png" group-title="JAPAN", Music Japan
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://images6.fanpop.com/image/photos/33500000/-SCANS-Nissy-for-Nihon-Eiga-2012-takahiro-nishijima-33542274-354-500.jpg" group-title="JAPAN", Nihon Eiga TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs19.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.broadcastingcable.com/sites/default/files/public/NIPPONTV_red_5cm-Aug2015.jpg" group-title="JAPAN", Nippon TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd03.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/903551417721339904/_fg9BObb.jpg" group-title="JAPAN", NHK BS1
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs01.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.panacc-minoriya.com/wp-content/uploads/2016/04/BS-premium-logo.png" group-title="JAPAN", NHK BS Premium
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs14.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png" group-title="JAPAN", NHK Educational TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd02.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/NHK-General-TV-670x300.jpg" group-title="JAPAN", NHK General TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd01.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://wtvpc.com/wp-content/uploads/logos/Samurai+Fighting+TV+logo_331.png" group-title="JAPAN", Samurai Fighting TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/8.jpg" group-title="JAPAN", Star Channel 1
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs10.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/9.jpg" group-title="JAPAN", Star Channel 2
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs11.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/10.jpg" group-title="JAPAN", Star Channel 3
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/TBS-TV.jpg" group-title="JAPAN", TBS Television
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd04.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://miruhon.net/www/wp-content/uploads/2015/07/150716tokyomx.jpg" group-title="JAPAN", Tokyo MX
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd08.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/TV-Asahi.jpg" group-title="JAPAN", TV Asahi
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd06.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.tv-tokyo.co.jp/images/noimage_320_144.jpg" group-title="JAPAN", TV Tokyo
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd07.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www2.myjcom.jp/special/common/channel_logo/wowow_cinema.jpg" group-title="JAPAN", WOWOW Cinema
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/34.jpg" group-title="JAPAN", WOWOW Live
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www2.myjcom.jp/special/common/channel_logo/wowow_prime.jpg" group-title="JAPAN", WOWOW Prime
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="VOD MOVIES", JOHN WICK  
 http://dl3.vaiomusic.org/Movie/John%20Wick%202014%20-%20720p%20%28media.vaiomusic%29.mkv
 #EXTINF:-1, tvg-logo="http://budomate.com/wp-content/uploads/2016/09/john-wick-2-poster-2.png" group-title="VOD MOVIES", JOHN WICK 2 
