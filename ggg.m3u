@@ -317,9 +317,9 @@ http://183.88.212.205:8010/play/a03i
 http://183.88.212.205:8010/play/a02q
 #EXTINF:-1, tvg-logo="http://sportsarefree.xyz/img/nb_a/ml_btv.png" group-title="USA",MLB TV
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Friday_20170922_1506101335916/1200K/1200_slide.m3u8
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/3562439197/c18ecd1ef09b68604fc5d20ba1549a08_400x400.jpeg", BS 12 TwellV
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/3562439197/c18ecd1ef09b68604fc5d20ba1549a08_400x400.jpeg" group-title="JAPAN", BS 12 TwellV
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://tennis-win.net/wp-content/uploads/2014/11/bs-asahi.jpg", BS Asahi
+#EXTINF:-1, tvg-logo="http://tennis-win.net/wp-content/uploads/2014/11/bs-asahi.jpg" group-title="JAPAN", BS Asahi
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-3WgJDDR0Nb8/AAAAAAAAAAI/AAAAAAAAAAA/GZQsfVI-QnU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="JAPAN", BS Fuji
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs05.stream/playlist.m3u8
