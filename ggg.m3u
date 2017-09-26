@@ -317,89 +317,89 @@ http://183.88.212.205:8010/play/a03i
 http://183.88.212.205:8010/play/a02q
 #EXTINF:-1, tvg-logo="http://sportsarefree.xyz/img/nb_a/ml_btv.png" group-title="USA",MLB TV
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Friday_20170922_1506101335916/1200K/1200_slide.m3u8
-#EXTINF:-1,|US| A&E
+#EXTINF:-1,group-title="USA", A&E
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/338.m3u8
-#EXTINF:-1,|US| Animal Planet
+#EXTINF:-1,group-title="USA", Animal Planet
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/329.m3u8
-#EXTINF:-1,|US| Cartoon Network
+#EXTINF:-1,group-title="USA", Cartoon Network
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/331.m3u8
-#EXTINF:-1,|US| CNN HD
+#EXTINF:-1,group-title="USA", CNN HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/306.m3u8
-#EXTINF:-1,|US| CW HD
+#EXTINF:-1,group-title="USA", CW HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/332.m3u8
-#EXTINF:-1,|US| Discovery HD
+#EXTINF:-1,group-title="USA", Discovery HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/292.m3u8
-#EXTINF:-1,|US| Discovery Science HD
+#EXTINF:-1,group-title="USA", Discovery Science HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/333.m3u8
-#EXTINF:-1,|US| E!
+#EXTINF:-1,group-title="USA", E!
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/334.m3u8
-#EXTINF:-1,|US| ESPN 2 HD
+#EXTINF:-1,group-title="USA", ESPN 2 HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/322.m3u8
-#EXTINF:-1,|US| ESPN USA HD
+#EXTINF:-1,group-title="USA", ESPN USA HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/323.m3u8
-#EXTINF:-1,|US| Fox News HD
+#EXTINF:-1,group-title="USA", Fox News HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/291.m3u8
-#EXTINF:-1,|US| Fox Sports 1 HD
+#EXTINF:-1,group-title="USA", Fox Sports 1 HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/320.m3u8
-#EXTINF:-1,|US| Fox Sports West
+#EXTINF:-1,group-title="USA", Fox Sports West
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/278.m3u8
-#EXTINF:-1,|US| FX
+#EXTINF:-1,group-title="USA", FX
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/290.m3u8
-#EXTINF:-1,|US| Golf HD
+#EXTINF:-1,group-title="USA", Golf HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/315.m3u8
-#EXTINF:-1,|US| HBO
+#EXTINF:-1,group-title="USA", HBO
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/285.m3u8
-#EXTINF:-1,|US| HGTV
+#EXTINF:-1,group-title="USA", HGTV
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/344.m3u8
-#EXTINF:-1,|US| History
+#EXTINF:-1,group-title="USA", History
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/284.m3u8
-#EXTINF:-1,|US| Investigation Discovery HD
+#EXTINF:-1,group-title="USA", Investigation Discovery HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/283.m3u8
-#EXTINF:-1,|US| MoreMax HD
+#EXTINF:-1,group-title="USA", MoreMax HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/282.m3u8
-#EXTINF:-1,|US| NBA HD
+#EXTINF:-1,group-title="USA", NBA HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/318.m3u8
-#EXTINF:-1,|US| NBC Sports Network HD
+#EXTINF:-1,group-title="USA", NBC Sports Network HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/314.m3u8
-#EXTINF:-1,|US| Nickelodeon
+#EXTINF:-1,group-title="USA", Nickelodeon
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/335.m3u8
-#EXTINF:-1,|US| PAC-12 Arizona HD
+#EXTINF:-1,group-title="USA", PAC-12 Arizona HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/274.m3u8
-#EXTINF:-1,|US| PAC-12 Bay Area HD
+#EXTINF:-1,group-title="USA", PAC-12 Bay Area HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/273.m3u8
-#EXTINF:-1,|US| PAC-12 Los Angeles HD
+#EXTINF:-1,group-title="USA", PAC-12 Los Angeles HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/272.m3u8
-#EXTINF:-1,|US| PAC-12 Mountain HD
+#EXTINF:-1,group-title="USA", PAC-12 Mountain HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/271.m3u8
-#EXTINF:-1,|US| PAC-12 Oregon HD
+#EXTINF:-1,group-title="USA", PAC-12 Oregon HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/270.m3u8
-#EXTINF:-1,|US| PAC-12 Washington HD
+#EXTINF:-1,group-title="USA", PAC-12 Washington HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/269.m3u8
-#EXTINF:-1,|US| Showtime
+#EXTINF:-1,group-title="USA", Showtime
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/280.m3u8
-#EXTINF:-1,|US| Spike HD
+#EXTINF:-1,group-title="USA", Spike HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/281.m3u8
-#EXTINF:-1,|US| Sports Net One HD
+#EXTINF:-1,group-title="USA", Sports Net One HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/302.m3u8
-#EXTINF:-1,|US| Sports Net Ontario HD
+#EXTINF:-1,group-title="USA", Sports Net Ontario HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/309.m3u8
-#EXTINF:-1,|US| Sports Net Pacific HD
+#EXTINF:-1,group-title="USA", Sports Net Pacific HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/268.m3u8
-#EXTINF:-1,|US| Sports Net World HD
+#EXTINF:-1,group-title="USA", Sports Net World HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/308.m3u8
-#EXTINF:-1,|US| Starz Cinema HD
+#EXTINF:-1,group-title="USA", Starz Cinema HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/279.m3u8
-#EXTINF:-1,|US| Starz HD
+#EXTINF:-1,group-title="USA", Starz HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/277.m3u8
-#EXTINF:-1,|US| TBS HD
+#EXTINF:-1,group-title="USA", TBS HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/326.m3u8
-#EXTINF:-1,|US| Tennis Channel HD
+#EXTINF:-1,group-title="USA", Tennis Channel HD
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/312.m3u8
-#EXTINF:-1,|US| TSN 1 HD-CA
+#EXTINF:-1,group-title="USA", TSN 1 HD-CA
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/301.m3u8
-#EXTINF:-1,|US| TSN 4 HD-CA
+#EXTINF:-1,group-title="USA", TSN 4 HD-CA
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/298.m3u8
-#EXTINF:-1,|US| TSN 5 HD-CA
+#EXTINF:-1,group-title="USA", TSN 5 HD-CA
 http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/297.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="VOD MOVIES", JOHN WICK  
 http://dl3.vaiomusic.org/Movie/John%20Wick%202014%20-%20720p%20%28media.vaiomusic%29.mkv
