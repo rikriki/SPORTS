@@ -545,7 +545,7 @@ http://dl.dlfile.pro/2/Thor.The.Dark.World.2013.720p.mkv
 http://dl3.vaiomusic.org/Movie/Captain%20America%20The%20Winter%20Soldier%202014%20-%20720p%20%28media.vaiomusic%29.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/GOTG-poster.jpg" group-title="VOD MOVIES", GUARDIANS OF GALAXY 1
 http://dl3.vaiomusic.org/Movie/Guardians%20of%20the%20Galaxy%202014%20-%20720p%20%28media.vaiomusic%29.mkv
-EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Avengers_Age_of_Ultron.jpg" group-title="VOD MOVIES", AGE OF ULTRON
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Avengers_Age_of_Ultron.jpg" group-title="VOD MOVIES", AGE OF ULTRON
 http://media.bia4music.com/movie/2016/2/Avengers.Age.Of.Ultron.2015.720p.BluRay.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Ant-Man_poster.jpg" group-title="VOD MOVIES", ANT MAN
 http://dl.dlfile.pro/2/Ant.Man.2015.720p.Ganool.mkv
