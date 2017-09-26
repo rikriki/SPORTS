@@ -317,6 +317,158 @@ http://183.88.212.205:8010/play/a03i
 http://183.88.212.205:8010/play/a02q
 #EXTINF:-1, tvg-logo="http://sportsarefree.xyz/img/nb_a/ml_btv.png" group-title="USA",MLB TV
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Friday_20170922_1506101335916/1200K/1200_slide.m3u8
+#EXTINF:-1,group-title="USA", A&E
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/338.m3u8
+#EXTINF:-1,group-title="USA", ABC
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/328.m3u8
+#EXTINF:-1,group-title="USA", ABC News
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/339.m3u8
+#EXTINF:-1,group-title="USA", Action Max HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/296.m3u8
+#EXTINF:-1,group-title="USA", AMC HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/295.m3u8
+#EXTINF:-1,group-title="USA", Animal Planet
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/329.m3u8
+#EXTINF:-1,group-title="USA", Bein Sports
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/294.m3u8
+#EXTINF:-1,group-title="USA", Cartoon Network
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/331.m3u8
+#EXTINF:-1,group-title="USA", CBS HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/307.m3u8
+#EXTINF:-1,group-title="USA", CBS Sports Network HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/316.m3u8
+#EXTINF:-1,group-title="USA", CNN HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/306.m3u8
+#EXTINF:-1,group-title="USA", Comedy Central
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/305.m3u8
+#EXTINF:-1,group-title="USA", CW HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/332.m3u8
+#EXTINF:-1,group-title="USA", Discovery HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/292.m3u8
+#EXTINF:-1,group-title="USA", Discovery Science HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/333.m3u8
+#EXTINF:-1,group-title="USA", E!
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/334.m3u8
+#EXTINF:-1,group-title="USA", ESPN 2 HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/322.m3u8
+#EXTINF:-1,group-title="USA", ESPN Deportes
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/340.m3u8
+#EXTINF:-1,group-title="USA", ESPN News HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/324.m3u8
+#EXTINF:-1,group-title="USA", ESPN U HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/321.m3u8
+#EXTINF:-1,group-title="USA", ESPN USA HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/323.m3u8
+#EXTINF:-1,group-title="USA", Fight Network
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/265.m3u8
+#EXTINF:-1,group-title="USA", Fox HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/304.m3u8
+#EXTINF:-1,group-title="USA", Fox News HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/291.m3u8
+#EXTINF:-1,group-title="USA", Fox Sports 1 HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/320.m3u8
+#EXTINF:-1,group-title="USA", Fox Sports 2 HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/319.m3u8
+#EXTINF:-1,group-title="USA", Fox Sports West
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/278.m3u8
+#EXTINF:-1,group-title="USA", FX
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/290.m3u8
+#EXTINF:-1,group-title="USA", FXX
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/289.m3u8
+#EXTINF:-1,group-title="USA", Golf HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/315.m3u8
+#EXTINF:-1,group-title="USA", HBO
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/285.m3u8
+#EXTINF:-1,group-title="USA", HBO Comedy
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/288.m3u8
+#EXTINF:-1,group-title="USA", HBO Signature
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/287.m3u8
+#EXTINF:-1,group-title="USA", HBO Zone
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/286.m3u8
+#EXTINF:-1,group-title="USA", HGTV
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/344.m3u8
+#EXTINF:-1,group-title="USA", History
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/284.m3u8
+#EXTINF:-1,group-title="USA", Investigation Discovery HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/283.m3u8
+#EXTINF:-1,group-title="USA", MLB Network HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/275.m3u8
+#EXTINF:-1,group-title="USA", MoreMax HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/282.m3u8
+#EXTINF:-1,group-title="USA", National Geographic
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/325.m3u8
+#EXTINF:-1,group-title="USA", NBA HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/318.m3u8
+#EXTINF:-1,group-title="USA", NBC
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/303.m3u8
+#EXTINF:-1,group-title="USA", NBC Sports Network HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/314.m3u8
+#EXTINF:-1,group-title="USA", NFL Channel HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/317.m3u8
+#EXTINF:-1,group-title="USA", NHL Network HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/313.m3u8
+#EXTINF:-1,group-title="USA", Nickelodeon
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/335.m3u8
+#EXTINF:-1,group-title="USA", PAC-12 Arizona HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/274.m3u8
+#EXTINF:-1,group-title="USA", PAC-12 Bay Area HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/273.m3u8
+#EXTINF:-1,group-title="USA", PAC-12 Los Angeles HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/272.m3u8
+#EXTINF:-1,group-title="USA", PAC-12 Mountain HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/271.m3u8
+#EXTINF:-1,group-title="USA", PAC-12 Oregon HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/270.m3u8
+#EXTINF:-1,group-title="USA", PAC-12 Washington HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/269.m3u8
+#EXTINF:-1,group-title="USA", Showtime
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/280.m3u8
+#EXTINF:-1,group-title="USA", Spike HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/281.m3u8
+#EXTINF:-1,group-title="USA", Sports Net 360 HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/310.m3u8
+#EXTINF:-1,group-title="USA", Sports Net One HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/302.m3u8
+#EXTINF:-1,group-title="USA", Sports Net Ontario HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/309.m3u8
+#EXTINF:-1,group-title="USA", Sports Net Pacific HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/268.m3u8
+#EXTINF:-1,group-title="USA", Sports Net West HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/267.m3u8
+#EXTINF:-1,group-title="USA", Sports Net World HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/308.m3u8
+#EXTINF:-1,group-title="USA", Starz Cinema HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/279.m3u8
+#EXTINF:-1,group-title="USA", Starz HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/277.m3u8
+#EXTINF:-1,group-title="USA", Syfy HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/336.m3u8
+#EXTINF:-1,group-title="USA", TBS HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/326.m3u8
+#EXTINF:-1,group-title="USA", Tennis Channel HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/312.m3u8
+#EXTINF:-1,group-title="USA", TLC HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/341.m3u8
+#EXTINF:-1,group-title="USA", TNT HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/327.m3u8
+#EXTINF:-1,group-title="USA", TSN 1 HD-CA
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/301.m3u8
+#EXTINF:-1,group-title="USA", TSN 2 HD-CA
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/300.m3u8
+#EXTINF:-1,group-title="USA", TSN 3 HD-CA
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/299.m3u8
+#EXTINF:-1,group-title="USA", TSN 4 HD-CA
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/298.m3u8
+#EXTINF:-1,group-title="USA", TSN 5 HD-CA
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/297.m3u8
+#EXTINF:-1,group-title="USA", Univision Deportes
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/342.m3u8
+#EXTINF:-1,group-title="USA", USA Network
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/276.m3u8
+#EXTINF:-1,group-title="USA", Viceland
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/343.m3u8
+#EXTINF:-1,group-title="USA", WWE Network HD
+http://major2.ipfox.co:8080/live/winsor_bqxAoO/fMXqwyPO/311.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="VOD MOVIES", JOHN WICK  
 http://dl3.vaiomusic.org/Movie/John%20Wick%202014%20-%20720p%20%28media.vaiomusic%29.mkv
 #EXTINF:-1, tvg-logo="http://budomate.com/wp-content/uploads/2016/09/john-wick-2-poster-2.png" group-title="VOD MOVIES", JOHN WICK 2 
