@@ -317,8 +317,240 @@ http://183.88.212.205:8010/play/a03i
 http://183.88.212.205:8010/play/a02q
 #EXTINF:-1, tvg-logo="http://sportsarefree.xyz/img/nb_a/ml_btv.png" group-title="USA",MLB TV
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Friday_20170922_1506101335916/1200K/1200_slide.m3u8
-#EXTINF:-1, tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2012/04/a-e_network_logo.jpg" group-title="USA",A & E
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="US: A&E HD" tvg-logo="https://vgy.me/xkRbgC.png" group-title="United States & Canada",US: A&E HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3876.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: ABC News" tvg-logo="https://vgy.me/Rlw5uw.png" group-title="United States & Canada",US: ABC News
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3905.ts
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="US: ABC HD" tvg-logo="https://vgy.me/jLSNjY.png" group-title="United States & Canada",US: ABC HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3906.ts
+#EXTINF:-1 tvg-id="AFNSports.us" tvg-name="US: AFN Sports HD" tvg-logo="https://vgy.me/VB2zGA.png" group-title="United States & Canada",US: AFN Sports HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2826.ts
+#EXTINF:-1 tvg-id="AFNSports2.us" tvg-name="US: AFN Sports 2 HD" tvg-logo="https://vgy.me/VB2zGA.png" group-title="United States & Canada",US: AFN Sports 2 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2825.ts
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="US: AMC HD" tvg-logo="https://vgy.me/CQehHF.png" group-title="United States & Canada",US: AMC HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2873.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US: Animal Planet HD" tvg-logo="https://vgy.me/UA8Es3.png" group-title="United States & Canada",US: Animal Planet HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3307.ts
+#EXTINF:-1 tvg-id="BET.us" tvg-name="US: BET" tvg-logo="https://vgy.me/Z1MMQm.png" group-title="United States & Canada",US: BET
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3879.ts
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US: BeIN Sports HD" tvg-logo="https://vgy.me/s5IGnq.png" group-title="BeIN Sports",US: BeIN Sports HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2817.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: BT Sport | ESPN" tvg-logo="https://vgy.me/HcXbDN.png" group-title="United States & Canada",US: BT Sport | ESPN
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2816.ts
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="US: Bravo HD" tvg-logo="https://vgy.me/Y20912.png" group-title="United States & Canada",US: Bravo HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3878.ts
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="US: BTN 1 HD" tvg-logo="https://vgy.me/cWAmbZ.png" group-title="United States & Canada",US: BTN 1 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4246.ts
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="US: BTN 2 HD" tvg-logo="https://vgy.me/cWAmbZ.png" group-title="United States & Canada",US: BTN 2 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4245.ts
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="US: BTN 3 HD" tvg-logo="https://vgy.me/cWAmbZ.png" group-title="United States & Canada",US: BTN 3 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4244.ts
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="US: BTN 4 HD" tvg-logo="https://vgy.me/cWAmbZ.png" group-title="United States & Canada",US: BTN 4 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4243.ts
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US: CBS Sports Network HD" tvg-logo="https://vgy.me/5J51rt.png" group-title="United States & Canada",US: CBS Sports Network HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2818.ts
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="US: CBS HD" tvg-logo="https://vgy.me/da5GCd.png" group-title="United States & Canada",US: CBS HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2874.ts
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="US: CBS News HD" tvg-logo="https://vgy.me/M8gopU.png" group-title="United States & Canada",US: CBS News HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2875.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Pop HD" tvg-logo="https://vgy.me/yxeCRB.png" group-title="United States & Canada",US: CBS Pop HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4247.ts
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="US: Cinemax Max W HD" tvg-logo="https://vgy.me/c1khdq.png" group-title="United States & Canada",US: Cinemax Max W HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3893.ts
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="US: CNN HD" tvg-logo="https://vgy.me/q2xcSp.png" group-title="United States & Canada",US: CNN HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3907.ts
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="US: Comedy Central HD" tvg-logo="https://vgy.me/6CHVRP.png" group-title="United States & Canada",US: Comedy Central HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3892.ts
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="US: C-SPAN" tvg-logo="https://vgy.me/CXQucx.png" group-title="United States & Canada",US: C-SPAN
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3902.ts
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="US: C-SPAN 2" tvg-logo="https://vgy.me/QbN1nq.png" group-title="United States & Canada",US: C-SPAN 2
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3901.ts
+#EXTINF:-1 tvg-id="CSPAN3.us" tvg-name="US: C-SPAN 3" tvg-logo="https://vgy.me/X4x6Fw.png" group-title="United States & Canada",US: C-SPAN 3
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3900.ts
+#EXTINF:-1 tvg-id="CW.us" tvg-name="US: CW HD" tvg-logo="https://vgy.me/XwRHCq.png" group-title="United States & Canada",US: CW HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3887.ts
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="US: Disney Channel HD" tvg-logo="https://vgy.me/X0JdJI.png" group-title="United States & Canada",US: Disney Channel HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4242.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Showcase" tvg-logo="https://vgy.me/LycpFJ.png" group-title="United States & Canada",US: Discovery Showcase
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2860.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="US: Discovery Science HD" tvg-logo="https://vgy.me/zjjRxy.png" group-title="United States & Canada",US: Discovery Science HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2861.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="US: Discovery Channel HD" tvg-logo="https://vgy.me/cNqBWy.png" group-title="United States & Canada",US: Discovery Channel HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2862.ts
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="US: Destination America HD" tvg-logo="https://vgy.me/nXYa26.png" group-title="United States & Canada",US: Destination America HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3891.ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="US: ESPN HD" tvg-logo="https://vgy.me/6bG2OZ.png" group-title="United States & Canada",US: ESPN HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2852.ts
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="US: ESPN 2 HD" tvg-logo="https://vgy.me/m56HvN.png" group-title="United States & Canada",US: ESPN 2 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2851.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 3 HD" tvg-logo="https://vgy.me/gWnVHC.png" group-title="United States & Canada",US: ESPN 3 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2850.ts
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="US: ESPN News HD" tvg-logo="https://vgy.me/mC4wEg.png" group-title="United States & Canada",US: ESPN News HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2849.ts
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="US: ESPN U" tvg-logo="https://vgy.me/XvD9hU.png" group-title="United States & Canada",US: ESPN U
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3305.ts
+#EXTINF:-1 tvg-id="FX.us" tvg-name="US: FX HD" tvg-logo="https://vgy.me/g37glJ.png" group-title="United States & Canada",US: FX HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4117.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fight Network HD" tvg-logo="https://vgy.me/uhRE0M.png" group-title="United States & Canada",US: Fight Network HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2840.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fight Sport HD" tvg-logo="https://vgy.me/sPLxmJ.png" group-title="United States & Canada",US: Fight Sport HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2839.ts
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="US: Food Network HD" tvg-logo="https://vgy.me/2adMvx.png" group-title="United States & Canada",US: Food Network HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3880.ts
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="US: Fox HD" tvg-logo="https://vgy.me/jfoThL.png" group-title="United States & Canada",US: Fox HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4237.ts
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="US: Fox News HD" tvg-logo="https://vgy.me/35cHLj.png" group-title="United States & Canada",US: Fox News HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3904.ts
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US: Fox Sports 1 HD" tvg-logo="https://vgy.me/4Gxw3N.png" group-title="United States & Canada",US: Fox Sports 1 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2824.ts
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US: Fox Sports 2 HD" tvg-logo="https://vgy.me/ImMy2I.png" group-title="United States & Canada",US: Fox Sports 2 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2823.ts
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="US: Freeform HD" tvg-logo="https://vgy.me/7cJ1Pg.png" group-title="United States & Canada",US: Freeform HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4240.ts
+#EXTINF:-1 tvg-id="Fusion.us" tvg-name="US: Fusion HD" tvg-logo="https://vgy.me/msTl6S.png" group-title="United States & Canada",US: Fusion HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4249.ts
+#EXTINF:-1 tvg-id="Global.ca" tvg-name="US: Global HD" tvg-logo="https://vgy.me/dFQxne.png" group-title="United States & Canada",US: Global HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4182.ts
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="US: HBO" tvg-logo="https://vgy.me/W0Cknn.png" group-title="United States & Canada",US: HBO
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2867.ts
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="US: HBO 2 HD" tvg-logo="https://vgy.me/9KDBFw.png" group-title="United States & Canada",US: HBO 2 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2863.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO 3 HD" tvg-logo="https://vgy.me/9BPtB5.png" group-title="United States & Canada",US: HBO 3 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4239.ts
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="US: HBO Comedy" tvg-logo="https://vgy.me/YoKIYz.png" group-title="United States & Canada",US: HBO Comedy
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2864.ts
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="US: HBO Signature" tvg-logo="https://vgy.me/nyXqkQ.png" group-title="United States & Canada",US: HBO Signature
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2866.ts
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="US: HBO Zone" tvg-logo="https://vgy.me/7iLSxS.png" group-title="United States & Canada",US: HBO Zone
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2865.ts
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="US: HBO Family HD" tvg-logo="https://vgy.me/KwOx1n.png" group-title="United States & Canada",US: HBO Family HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3894.ts
+#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="US: Hallmark HD" tvg-logo="https://vgy.me/YPbWoL.png" group-title="United States & Canada",US: Hallmark HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3890.ts
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="US: History HD" tvg-logo="https://vgy.me/GjM1BF.png" group-title="United States & Canada",US: History HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3308.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: IFC HD" tvg-logo="https://vgy.me/2YjBZe.png" group-title="United States & Canada",US: IFC HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4248.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Info Wars" tvg-logo="https://vgy.me/oZfytF.png" group-title="United States & Canada",US: Info Wars
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3899.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="US: Investigation Discovery HD" tvg-logo="https://vgy.me/2rgtEk.png" group-title="United States & Canada",US: Investigation Discovery HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3303.ts
+#EXTINF:-1 tvg-id="LifetimeNetwork.us" tvg-name="US: Lifetime HD" tvg-logo="https://vgy.me/TLvKfy.png" group-title="United States & Canada",US: Lifetime HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3889.ts
+#EXTINF:-1 tvg-id="LonghornNetwork.us" tvg-name="US: LongHorn Network HD" tvg-logo="https://vgy.me/w7aevd.png" group-title="United States & Canada",US: LongHorn Network HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2811.ts
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="US: MLB Network HD" tvg-logo="https://vgy.me/lgJCG2.png" group-title="United States & Canada",US: MLB Network HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2859.ts
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="US: MSNBC" tvg-logo="https://vgy.me/vqXT9U.png" group-title="United States & Canada",US: MSNBC
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3903.ts
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="US: MTV HD" tvg-logo="https://vgy.me/FsqJfj.png" group-title="United States & Canada",US: MTV HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2858.ts
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="US: MTV Live HD" tvg-logo="https://vgy.me/Jz3Zeb.png" group-title="United States & Canada",US: MTV Live HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2857.ts
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="US: MTV Live USA" tvg-logo="https://vgy.me/Jz3Zeb.png" group-title="United States & Canada",US: MTV Live USA
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2856.ts
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="US: National Geographic HD" tvg-logo="https://vgy.me/E24z61.png" group-title="United States & Canada",US: National Geographic HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2855.ts
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="US: NBA TV" tvg-logo="https://vgy.me/jopthX.png" group-title="United States & Canada",US: NBA TV
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3304.ts
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="US: NBA USA HD" tvg-logo="https://vgy.me/jopthX.png" group-title="United States & Canada",US: NBA USA HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2847.ts
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="US: NBC Golf HD" tvg-logo="https://vgy.me/obcViZ.png" group-title="United States & Canada",US: NBC Golf HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3875.ts
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="US: NBC HD" tvg-logo="https://vgy.me/gYjbY6.png" group-title="United States & Canada",US: NBC HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3908.ts
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="US: NBC Sports Network HD" tvg-logo="https://vgy.me/hU1LmO.png" group-title="United States & Canada",US: NBC Sports Network HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4236.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US: NFL Network HD" tvg-logo="https://vgy.me/4Twr40.png" group-title="United States & Canada",US: NFL Network HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2842.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Now HD" tvg-logo="https://vgy.me/t7Om5q.png" group-title="United States & Canada",US: NFL Now HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2843.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL RedZone (Live on GameDay)" tvg-logo="https://vgy.me/jyd7OH.png" group-title="United States & Canada",US: NFL RedZone (Live on GameDay)
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2841.ts
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="US: NHL Now HD" tvg-logo="https://vgy.me/ZORiGp.png" group-title="United States & Canada",US: NHL Now HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2814.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Outside HD" tvg-logo="https://vgy.me/nuGH23.png" group-title="United States & Canada",US: Outside HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4250.ts
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="US: OWN HD" tvg-logo="https://vgy.me/CQdv2R.png" group-title="United States & Canada",US: OWN HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4252.ts
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="US: Oxygen HD" tvg-logo="https://vgy.me/vgSfe4.png" group-title="United States & Canada",US: Oxygen HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4241.ts
+#EXTINF:-1 tvg-id="PAC12LosAngeles.us" tvg-name="US: PAC 12 Los Angeles HD" tvg-logo="https://vgy.me/StZKgc.png" group-title="United States & Canada",US: PAC 12 Los Angeles HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2833.ts
+#EXTINF:-1 tvg-id="PAC12Arizona.us" tvg-name="US: PAC-12 Arizona HD" tvg-logo="https://vgy.me/hT1QzM.png" group-title="United States & Canada",US: PAC-12 Arizona HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2832.ts
+#EXTINF:-1 tvg-id="PAC12BayArea.us" tvg-name="US: PAC-12 Bay Area HD" tvg-logo="https://vgy.me/D3HpsM.png" group-title="United States & Canada",US: PAC-12 Bay Area HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2831.ts
+#EXTINF:-1 tvg-id="PAC12LosAngeles.us" tvg-name="US: PAC-12 Los Angeles HD" tvg-logo="https://vgy.me/StZKgc.png" group-title="United States & Canada",US: PAC-12 Los Angeles HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2830.ts
+#EXTINF:-1 tvg-id="PAC12Mountain.us" tvg-name="US: PAC-12 Mountain HD" tvg-logo="https://vgy.me/mJvi5P.png" group-title="United States & Canada",US: PAC-12 Mountain HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2829.ts
+#EXTINF:-1 tvg-id="PAC12Oregon.us" tvg-name="US: PAC-12 Oregon HD" tvg-logo="https://vgy.me/dYG0LU.png" group-title="United States & Canada",US: PAC-12 Oregon HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2828.ts
+#EXTINF:-1 tvg-id="PAC12Washington.us" tvg-name="US: PAC-12 Washington HD" tvg-logo="https://vgy.me/p69LSc.png" group-title="United States & Canada",US: PAC-12 Washington HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2827.ts
+#EXTINF:-1 tvg-id="PBSThirteen.us" tvg-name="US: PBS HD" tvg-logo="https://vgy.me/9Mt7CT.png" group-title="United States & Canada",US: PBS HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2813.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Press TV HD" tvg-logo="https://vgy.me/FxfYAf.png" group-title="United States & Canada",US: Press TV HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3898.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: RT Documentary HD" tvg-logo="https://vgy.me/TFgtgD.png" group-title="United States & Canada",US: RT Documentary HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3895.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: RT HD" tvg-logo="https://vgy.me/TCqrHZ.png" group-title="United States & Canada",US: RT HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3897.ts
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="US: Showtime HD" tvg-logo="https://vgy.me/PjXRV5.png" group-title="United States & Canada",US: Showtime HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3883.ts
+#EXTINF:-1 tvg-id="Spike.us" tvg-name="US: Spike TV" tvg-logo="https://vgy.me/ycXixC.png" group-title="United States & Canada",US: Spike TV
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2869.ts
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="US: Sportsnet 360 HD" tvg-logo="https://vgy.me/BTg78k.png" group-title="United States & Canada",US: Sportsnet 360 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2820.ts
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="US: Sportsnet East HD" tvg-logo="https://vgy.me/KYcfyX.png" group-title="United States & Canada",US: Sportsnet East HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4281.ts
+#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="US: Sportsnet One HD" tvg-logo="https://vgy.me/YOkhkP.png" group-title="United States & Canada",US: Sportsnet One HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2821.ts
+#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="US: Sportsnet Ontario HD" tvg-logo="https://vgy.me/lgT2UC.png" group-title="United States & Canada",US: Sportsnet Ontario HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4282.ts
+#EXTINF:-1 tvg-id="SportsnetPacific.ca" tvg-name="US: SportsNet Pacific HD" tvg-logo="https://vgy.me/MI6xX6.png" group-title="United States & Canada",US: SportsNet Pacific HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2819.ts
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="US: Sportsnet West HD" tvg-logo="https://vgy.me/ljrMkN.png" group-title="United States & Canada",US: Sportsnet West HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4280.ts
+#EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="US: Sportsnet World HD" tvg-logo="https://vgy.me/1P31ql.png" group-title="United States & Canada",US: Sportsnet World HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4279.ts
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="US: Starz HD" tvg-logo="https://vgy.me/UhKNVA.png" group-title="United States & Canada",US: Starz HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3886.ts
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="US: Starz Comedy HD" tvg-logo="https://vgy.me/mOvM0Y.png" group-title="United States & Canada",US: Starz Comedy HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3885.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz Edge HD" tvg-logo="https://vgy.me/vksb6p.png" group-title="United States & Canada",US: Starz Edge HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3884.ts
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: Syfy HD" tvg-logo="https://vgy.me/DFDgeZ.png" group-title="United States & Canada",US: Syfy HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3882.ts
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="US: TBS HD" tvg-logo="https://vgy.me/1Qtfdg.png" group-title="United States & Canada",US: TBS HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2872.ts
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="US: TLC HD" tvg-logo="https://vgy.me/Pfd7aH.png" group-title="United States & Canada",US: TLC HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2871.ts
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="US: TNT HD" tvg-logo="https://vgy.me/sB81EA.png" group-title="United States & Canada",US: TNT HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3881.ts
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="US: TSN 1 HD" tvg-logo="https://vgy.me/FjWDCr.png" group-title="United States & Canada",US: TSN 1 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2838.ts
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="US: TSN 2 HD" tvg-logo="https://vgy.me/e4Ds1O.png" group-title="United States & Canada",US: TSN 2 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2837.ts
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="US: TSN 3 HD" tvg-logo="https://vgy.me/8DmXAN.png" group-title="United States & Canada",US: TSN 3 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2836.ts
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="US: TSN 4 HD" tvg-logo="https://vgy.me/ErAUxn.png" group-title="United States & Canada",US: TSN 4 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2835.ts
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="US: TSN 5 HD" tvg-logo="https://vgy.me/4yjLF1.png" group-title="United States & Canada",US: TSN 5 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2834.ts
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="US: Travel Channel" tvg-logo="https://vgy.me/RL5Jtm.png" group-title="United States & Canada",US: Travel Channel
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2854.ts
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="US: USA Network" tvg-logo="https://vgy.me/pz9NCq.png" group-title="United States & Canada",US: USA Network
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2870.ts
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="US: VH1 HD" tvg-logo="https://vgy.me/CNkVIu.png" group-title="United States & Canada",US: VH1 HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3877.ts
+#EXTINF:-1 tvg-id="DiscoveryVelocity.us" tvg-name="US: Velocity HD" tvg-logo="https://vgy.me/EpJamR.png" group-title="United States & Canada",US: Velocity HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2810.ts
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="US: Willow Cricket HD" tvg-logo="https://vgy.me/Vt3vY0.png" group-title="United States & Canada",US: Willow Cricket HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2809.ts
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="US: WWE Network HD" tvg-logo="https://vgy.me/4IYKSa.png" group-title="United States & Canada",US: WWE Network HD
+http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2845.ts
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/3562439197/c18ecd1ef09b68604fc5d20ba1549a08_400x400.jpeg" group-title="JAPAN", BS 12 TwellV
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://tennis-win.net/wp-content/uploads/2014/11/bs-asahi.jpg" group-title="JAPAN", BS Asahi
