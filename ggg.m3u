@@ -359,7 +359,7 @@ http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4247.ts
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3893.ts
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="US: CNN HD" tvg-logo="https://vgy.me/q2xcSp.png" group-title="United States & Canada",US: CNN HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3907.ts
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="US: Comedy Central HD" tvg-logo="https://vgy.me/6CHVRP.png" group-title="United States & Canada",US: Comedy Central HD
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="US: Comedy Central HD" tvg-logo="http://www.entertainment-iuk.com/wp-content/comedycentralhd.jpg" group-title="United States & Canada",US: Comedy Central HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3892.ts
 #EXTINF:-1 tvg-id="CSPAN.us" tvg-name="US: C-SPAN" tvg-logo="https://vgy.me/CXQucx.png" group-title="United States & Canada",US: C-SPAN
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3902.ts
@@ -371,7 +371,7 @@ http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3900.ts
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3887.ts
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="US: Disney Channel HD" tvg-logo="https://vgy.me/X0JdJI.png" group-title="United States & Canada",US: Disney Channel HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4242.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Showcase" tvg-logo="https://vgy.me/LycpFJ.png" group-title="United States & Canada",US: Discovery Showcase
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Showcase" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Discovery_HD_Showcase_2012.png" group-title="United States & Canada",US: Discovery Showcase
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2860.ts
 #EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="US: Discovery Science HD" tvg-logo="https://vgy.me/zjjRxy.png" group-title="United States & Canada",US: Discovery Science HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2861.ts
@@ -407,15 +407,15 @@ http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2824.ts
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2823.ts
 #EXTINF:-1 tvg-id="Freeform.us" tvg-name="US: Freeform HD" tvg-logo="https://vgy.me/7cJ1Pg.png" group-title="United States & Canada",US: Freeform HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4240.ts
-#EXTINF:-1 tvg-id="Fusion.us" tvg-name="US: Fusion HD" tvg-logo="https://vgy.me/msTl6S.png" group-title="United States & Canada",US: Fusion HD
+#EXTINF:-1 tvg-id="Fusion.us" tvg-name="US: Fusion HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fusion_TV_2013_logo.png" group-title="United States & Canada",US: Fusion HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4249.ts
-#EXTINF:-1 tvg-id="Global.ca" tvg-name="US: Global HD" tvg-logo="https://vgy.me/dFQxne.png" group-title="United States & Canada",US: Global HD
+#EXTINF:-1 tvg-id="Global.ca" tvg-name="US: Global HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png" group-title="United States & Canada",US: Global HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4182.ts
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="US: HBO" tvg-logo="https://vgy.me/W0Cknn.png" group-title="United States & Canada",US: HBO
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="US: HBO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png" group-title="United States & Canada",US: HBO
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2867.ts
-#EXTINF:-1 tvg-id="HBO2.us" tvg-name="US: HBO 2 HD" tvg-logo="https://vgy.me/9KDBFw.png" group-title="United States & Canada",US: HBO 2 HD
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="US: HBO 2 HD" tvg-logo="http://www.ilovesatellitetv.com/images/hbo-2.jpg" group-title="United States & Canada",US: HBO 2 HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2863.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO 3 HD" tvg-logo="https://vgy.me/9BPtB5.png" group-title="United States & Canada",US: HBO 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO 3 HD" tvg-logo="http://ulango.tv/uploads/channels/2146198/logo_hbo%203.png" group-title="United States & Canada",US: HBO 3 HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4239.ts
 #EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="US: HBO Comedy" tvg-logo="https://vgy.me/YoKIYz.png" group-title="United States & Canada",US: HBO Comedy
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2864.ts
@@ -425,13 +425,13 @@ http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2866.ts
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2865.ts
 #EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="US: HBO Family HD" tvg-logo="https://vgy.me/KwOx1n.png" group-title="United States & Canada",US: HBO Family HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3894.ts
-#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="US: Hallmark HD" tvg-logo="https://vgy.me/YPbWoL.png" group-title="United States & Canada",US: Hallmark HD
+#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="US: Hallmark HD" tvg-logo="http://udslatino.com/Images/LatinoHDChannels/HLMRKHD.png" group-title="United States & Canada",US: Hallmark HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3890.ts
 #EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="US: History HD" tvg-logo="https://vgy.me/GjM1BF.png" group-title="United States & Canada",US: History HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3308.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: IFC HD" tvg-logo="https://vgy.me/2YjBZe.png" group-title="United States & Canada",US: IFC HD
+#EXTINF:-1 tvg-id="" tvg-name="US: IFC HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/df/IFC_HD.png" group-title="United States & Canada",US: IFC HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4248.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: Info Wars" tvg-logo="https://vgy.me/oZfytF.png" group-title="United States & Canada",US: Info Wars
+#EXTINF:-1 tvg-id="" tvg-name="US: Info Wars" tvg-logo="https://hw.infowars.com/wp-content/images/logo.jpg" group-title="United States & Canada",US: Info Wars
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3899.ts
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="US: Investigation Discovery HD" tvg-logo="https://vgy.me/2rgtEk.png" group-title="United States & Canada",US: Investigation Discovery HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3303.ts
@@ -441,13 +441,13 @@ http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3889.ts
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2811.ts
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="US: MLB Network HD" tvg-logo="https://vgy.me/lgJCG2.png" group-title="United States & Canada",US: MLB Network HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2859.ts
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="US: MSNBC" tvg-logo="https://vgy.me/vqXT9U.png" group-title="United States & Canada",US: MSNBC
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="US: MSNBC" tvg-logo="http://desotostudio.net/site/wp-content/uploads/2013/10/MSNBC-logo3.jpg" group-title="United States & Canada",US: MSNBC
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3903.ts
-#EXTINF:-1 tvg-id="MTV.us" tvg-name="US: MTV HD" tvg-logo="https://vgy.me/FsqJfj.png" group-title="United States & Canada",US: MTV HD
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="US: MTV HD" tvg-logo="http://1000logos.net/wp-content/uploads/2017/04/Font-MTV-Logo.jpg" group-title="United States & Canada",US: MTV HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2858.ts
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="US: MTV Live HD" tvg-logo="https://vgy.me/Jz3Zeb.png" group-title="United States & Canada",US: MTV Live HD
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="US: MTV Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png" group-title="United States & Canada",US: MTV Live HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2857.ts
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="US: MTV Live USA" tvg-logo="https://vgy.me/Jz3Zeb.png" group-title="United States & Canada",US: MTV Live USA
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="US: MTV Live USA" tvg-logo="https://2.bp.blogspot.com/-zpIdboOLJJY/V7Dg15X4JoI/AAAAAAAAAS8/7Oj0lInCZzMdouWi3ie5z1sAO687ioBjQCLcB/s1600/MTV_Live_Logo.png" group-title="United States & Canada",US: MTV Live USA
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2856.ts
 #EXTINF:-1 tvg-id="NatGeo.us" tvg-name="US: National Geographic HD" tvg-logo="https://vgy.me/E24z61.png" group-title="United States & Canada",US: National Geographic HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2855.ts
@@ -499,7 +499,7 @@ http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3895.ts
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3897.ts
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="US: Showtime HD" tvg-logo="https://vgy.me/PjXRV5.png" group-title="United States & Canada",US: Showtime HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3883.ts
-#EXTINF:-1 tvg-id="Spike.us" tvg-name="US: Spike TV" tvg-logo="https://vgy.me/ycXixC.png" group-title="United States & Canada",US: Spike TV
+#EXTINF:-1 tvg-id="Spike.us" tvg-name="US: Spike TV" tvg-logo="http://3.bp.blogspot.com/-8btzvYPRpM8/Uz9JtcZ52bI/AAAAAAAAe1g/lCSS_ydCB80/s1600/Spike-logo-2008.png" group-title="United States & Canada",US: Spike TV
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2869.ts
 #EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="US: Sportsnet 360 HD" tvg-logo="https://vgy.me/BTg78k.png" group-title="United States & Canada",US: Sportsnet 360 HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2820.ts
@@ -515,19 +515,19 @@ http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2819.ts
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4280.ts
 #EXTINF:-1 tvg-id="SportsnetWorld.ca" tvg-name="US: Sportsnet World HD" tvg-logo="https://vgy.me/1P31ql.png" group-title="United States & Canada",US: Sportsnet World HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/4279.ts
-#EXTINF:-1 tvg-id="Starz.us" tvg-name="US: Starz HD" tvg-logo="https://vgy.me/UhKNVA.png" group-title="United States & Canada",US: Starz HD
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="US: Starz HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/8/87/Starz_hd.png" group-title="United States & Canada",US: Starz HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3886.ts
-#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="US: Starz Comedy HD" tvg-logo="https://vgy.me/mOvM0Y.png" group-title="United States & Canada",US: Starz Comedy HD
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="US: Starz Comedy HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/71/Starz_comedy.png" group-title="United States & Canada",US: Starz Comedy HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3885.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz Edge HD" tvg-logo="https://vgy.me/vksb6p.png" group-title="United States & Canada",US: Starz Edge HD
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz Edge HD" tvg-logo="https://cdn.firstone.tv/images/logos/us/STARZEDGE.png" group-title="United States & Canada",US: Starz Edge HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3884.ts
-#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: Syfy HD" tvg-logo="https://vgy.me/DFDgeZ.png" group-title="United States & Canada",US: Syfy HD
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: Syfy HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/Syfy_hd.png" group-title="United States & Canada",US: Syfy HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3882.ts
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="US: TBS HD" tvg-logo="https://vgy.me/1Qtfdg.png" group-title="United States & Canada",US: TBS HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2872.ts
 #EXTINF:-1 tvg-id="TLC.us" tvg-name="US: TLC HD" tvg-logo="https://vgy.me/Pfd7aH.png" group-title="United States & Canada",US: TLC HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2871.ts
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="US: TNT HD" tvg-logo="https://vgy.me/sB81EA.png" group-title="United States & Canada",US: TNT HD
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="US: TNT HD" tvg-logo="https://i.pinimg.com/originals/16/9d/dd/169dddc3fba8a4b5eadc2b6cd7b0a38c.jpg" group-title="United States & Canada",US: TNT HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/3881.ts
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="US: TSN 1 HD" tvg-logo="https://vgy.me/FjWDCr.png" group-title="United States & Canada",US: TSN 1 HD
 http://watch.eclipseiptv.com/live/7nOJ3AOOYO/j4iGdc5qku/2838.ts
