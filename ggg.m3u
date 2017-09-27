@@ -211,6 +211,8 @@ http://183.88.212.205:8010/play/a029
 http://live.jibhdlive.com/euronews_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://sc.dish.com/shared/images/station-logos/nbatv.png" group-title="SPORTS", NBA TV
 http://live.jibhdlive.com/nba_tv_hd_480p.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="SPORTS", ESPN USA
+https://videoserver2.org/live/EbtgaRM3cmM7dz7LuqRArg/1506500742/aca0a31d14c85e19f7023c9a3889f37b.m3u8
 #EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png" group-title="SPORTS", FOX SPORTS HD
 http://live.jibhdlive.com/fox_sports_hd_480p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png" group-title="SPORTS", FOX SPORTS 1
