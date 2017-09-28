@@ -252,7 +252,7 @@ http://live.jibhdlive.com/skysportfootball_360p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://media.info/i/lf/0/1500373955/6753.png" group-title="SPORTS", SKY SPORTS ARENA
 http://live.jibhdlive.com/skysportarena_360p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2016/03/sky-sports-mix-1.jpg" group-title="SPORTS", SKY SPORTS MIX
-http://live.jibhdlive.com/skysportmix_360p.stream/playlist.m3u8
+http://live.jibhdlive.com/skysportmix_360p.stream/playlist.m3u8 
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff28ea.png" group-title="SPORTS", SKY SPORTS F1
 http://live.jibhdlive.com/kysportf1_360p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff5bb7.png" group-title="SPORTS", SKY SPORTS NEWS
