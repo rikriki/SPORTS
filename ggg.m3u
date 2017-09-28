@@ -224,9 +224,9 @@ http://live.jibhdlive.com/true_tennis_hd_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://actv.tv/wp-content/uploads/mutv1.png" group-title="SPORTS", MANCHESTER UNITED TV
 http://footballmetro.myftp.org:1935/live3/0x444_mutv_360p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb08c4.png" group-title="SPORTS", CHELSEA TV
-http://live.jibhdlive.com/chelsea_tv_360p.stream/playlist.m3u8
+http://footballmetro.myftp.org:1935/live3/0x444_chelseatv_360p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb04a7.jpg" group-title="SPORTS", LIVERPOOL TV
-http://live.jibhdlive.com/lfctv_360p.stream/playlist.m3u8
+http://footballmetro.myftp.org:1935/live3/0x444_lfctv_360p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="http://i.imgur.com/F2R303x.png" group-title="SPORTS", BT SPORT 1 HD
 http://live.jibhdlive.com/bt_sport_1_hd_360p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/vsuvvu1433963716.png" group-title="SPORTS", BT SPORT 2 HD
@@ -290,9 +290,9 @@ http://live.jibhdlive.com/truesport_7_480p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb2cbd.png" group-title="SPORTS", EUROSPORT
 http://live.jibhdlive.com/eurosport_480p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb30ce.png" group-title="SPORTS", EUROSPORT 1
-http://live.jibhdlive.com/eurosport_1_uk_360p.stream/playlist.m3u8
+http://footballmetro.myftp.org:1935/live3/0x444_eurosportuk1_360p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb34e5.png" group-title="SPORTS", EUROSPORT 2
-http://live.jibhdlive.com/eurosport_2_uk_360p.stream/playlist.m3u8
+http://footballmetro.myftp.org:1935/live3/0x444_eurosportuk2_360p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb0fcb.png" group-title="SPORTS", SKYNET SPORTS HD
 http://live.jibhdlive.com/skynet_sport_hd_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb0fcb.png" group-title="SPORTS", SKYNET SPORTS 1
