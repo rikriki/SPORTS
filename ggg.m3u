@@ -32,13 +32,13 @@ http://183.88.212.205:8010/play/a00u
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/HBO.png" group-title="MOVIES",HBO SD
 http://183.88.212.205:8010/play/a00m
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df84af5.jpg" group-title="MOVIES", HBO HD 2
-http://live.jibhdlive.com/hbo_hd_720p.stream/playlist.m3u8
+http://footballmetro.myftp.org:1935/live4/0x222_ais_hbohd_720p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df84e68.jpg" group-title="MOVIES", HBO HITS
-http://live.jibhdlive.com/hbo_hits_720p.stream/playlist.m3u8
+http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbohit_720p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85235.jpg" group-title="MOVIES", HBO SIGNATURE
-http://live.jibhdlive.com/hbo_signature_720p.stream/playlist.m3u8
+http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbosignature_720p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df8561e.jpg" group-title="MOVIES", HBO FAMILY
-http://live.jibhdlive.com/hbo_family_720p.stream/playlist.m3u8
+http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbofam_720p/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85959.jpg" group-title="MOVIES",CINEMAX
 http://183.88.212.205:8010/play/a00n
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Movies-HD-COLOR.png" group-title="MOVIES",SKYNET MOVIES HD
@@ -48,7 +48,7 @@ http://footballmetro.myftp.org:1935/live3/0x222_thrill_720p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="http://www.totiptv.com/Product/Channel/images/Kix.png" group-title="MOVIES", KIX HD
 http://27.254.63.162/stream/tot4k.php?channel_id=e584e0adae6440eab366f5fe3a824f91
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df82e42.png" group-title="MOVIES", WARNER TV
-http://live.jibhdlive.com/warner_tv_720p.stream/playlist.m3u8
+http://footballmetro.myftp.org:1935/live3/0x777_warnertv_720p/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/asian_movies.png" group-title="MOVIES",ASIAN MOVIES
 http://183.88.212.205:8010/play/a01j
 #EXTINF:-1,tvg-logo="https://www.sky.co.nz/documents/24003/39746/MK_SCC_Logo_250x180.png" group-title="MOVIES",STAR CHINESE MOVIES
@@ -148,7 +148,7 @@ http://183.88.212.205:8010/play/a033
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/starworld.png" group-title="ENTERTAINMENT AND LIFESTYLE",STAR WORLD
 http://183.88.212.205:8010/play/a021
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df81b42.png" group-title="ENTERTAINMENT AND LIFESTYLE", STARWORLD HD 2
-http://live.jibhdlive.com/starworld_720p.stream/playlist.m3u8
+http://footballmetro.myftp.org:1935/live3/0x222_starworldhdthai_720p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/60233/logo_crime%20+%20investigation.png" group-title="ENTERTAINMENT AND LIFESTYLE", CRIME INVESTIGATION
 http://27.254.63.162/stream/totnew.php?channel_id=9961a963920f45f4bc0d81c3e478b334
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/life_time.png" group-title="ENTERTAINMENT AND LIFESTYLE",LIFETIME
@@ -166,11 +166,11 @@ http://183.88.212.205:8010/play/a01s
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/LIVE-HD-COLOR.png" group-title="MUSIC",MTV LIVE HD
 http://183.88.212.205:8010/play/a00s
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9864d.png" group-title="MUSIC", TRACE URBAN
-http://live.jibhdlive.com/trace_urban_720p.stream/playlist.m3u8
+http://footballmetro.myftp.org:1935/live3/0x222_traceurbanhd_720p/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/nickjr.png" group-title="KIDS",NICKJR
 http://183.88.212.205:8010/play/a01c
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/baby_tv.png" group-title="KIDS",BABY TV
-http://live.jibhdlive.com/baby_tv_hd_720p.stream/playlist.m3u8
+http://27.254.63.162/stream/tot4k.php?channel_id=7773f3cef0334a28ad248552ea63d9e7
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/ANIMAX.png" group-title="KIDS",ANIMAX
 http://183.88.212.205:8010/play/a00h
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Disney_Channel.png" group-title="KIDS",DISNEY CHANNEL ASIA
@@ -206,7 +206,7 @@ http://183.88.212.205:8010/play/a02h
 #EXTINF:-1,tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/01/CCTV.png" group-title="NEWS",CCTV NEWS
 http://183.88.212.205:8010/play/a029
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa821f.png" group-title="NEWS", EURONEWS
-http://live.jibhdlive.com/euronews_720p.stream/playlist.m3u8
+http://footballmetro.myftp.org:1935/live3/0x222_euronews_720p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://sc.dish.com/shared/images/station-logos/nbatv.png" group-title="SPORTS", NBA TV
 http://footballmetro.myftp.org:1935/live3/0x777_2nba_720p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="SPORTS", ESPN USA
