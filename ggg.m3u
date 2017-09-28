@@ -86,7 +86,7 @@ http://goo.gl/6w3fWM
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/outdoor.png" group-title="DOCUMENTARIES AND TRAVEL",OUTDOOR CHANNEL
 http://183.88.212.205:8010/play/a03d
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa457e.png" group-title="DOCUMENTARIES AND TRAVEL", ASIA FOOD CHANNEL
-http://live.jibhdlive.com/asian_food_channel_480p.stream/playlist.m3u8
+http://103.77.116.191:443/asian_food_channel_480p.stream/playlist.m3u8?st=0RYfw3kyU4Q6NYAP-qVMSg&username=5148&password=1be2cec5c6fc59914677&e=1506642130
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa1938.png" group-title="DOCUMENTARIES AND TRAVEL",BBC EARTH
 http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_bbcearth_720p/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/turbo.png" group-title="DOCUMENTARIES AND TRAVEL",DMAX
