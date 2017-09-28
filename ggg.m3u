@@ -20,13 +20,13 @@ http://beam-wowza.vbusiness.ph:1935/live/channel1/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_family_movies.png" group-title="MOVIES",FOX FAMILY MOVIES
 http://183.88.212.205:8010/play/a01m
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_movies_premium.png" group-title="MOVIES",FOX MOVIES PREMIUM
-http://183.88.212.205:8010/play/a01l
+http://goo.gl/E1JJXV
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Fox-Action-Movies-HD-COLOR.png" group-title="MOVIES",FOX ACTION MOVIES HD
-http://183.88.212.205:8010/play/a010
+http://goo.gl/ZVpzYy
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_chrime.png" group-title="MOVIES",FOX CRIME
-http://183.88.212.205:8010/play/a020
+http://goo.gl/u3Qhwq
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df813d9.jpg" group-title="MOVIES", FX CINEMA
-http://live.jibhdlive.com/fx_720p.stream/playlist.m3u8
+http://goo.gl/N9wuxq  
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/HBO-HD-COLOR.png" group-title="MOVIES",HBO HD
 http://183.88.212.205:8010/play/a00u
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/HBO.png" group-title="MOVIES",HBO SD
@@ -62,39 +62,39 @@ http://183.88.212.205:8010/play/a01y
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/PAY-PER-VIEW.png" group-title="PPV",SKYNET-HD-PAY PER VIEW
 http://183.88.212.205:8010/play/a00w
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/animal_planet.png" group-title="DOCUMENTARIES AND TRAVEL",ANIMAL PLANET
-http://183.88.212.205:8010/play/a030
+http://goo.gl/CJoZRv
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Discovery.png" group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY CHANNEL
-http://183.88.212.205:8010/play/a031
+http://goo.gl/RF8Vvr
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df99908.png" group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY HD WORLD
 http://183.88.212.205:8010/play/a00t
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9babd.png" group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY SCIENCE
-http://183.88.212.205:8010/play/a034
+http://goo.gl/BfKTdN
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Kid.png" group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY KIDS
 http://183.88.212.205:8010/play/a036
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Dis_TLC.png" group-title="DOCUMENTARIES AND TRAVEL",TLC
 http://183.88.212.205:8010/play/a032
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/NGC.png" group-title="DOCUMENTARIES AND TRAVEL",NAT GEO
-http://183.88.212.205:8010/play/a02x
+http://rjutoung.myvnc.com:1935/ballsod365-3/0x222_natgeographic_720p/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/net_geo_people.png" group-title="DOCUMENTARIES AND TRAVEL",NAT GEO PEOPLE
-http://183.88.212.205:8010/play/a02z
+http://goo.gl/sydh2y
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/net_geo_music.png" group-title="DOCUMENTARIES AND TRAVEL",NAT GEO MUSIC
 http://183.88.212.205:8010/play/a01q
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/net_geo_wild.png" group-title="DOCUMENTARIES AND TRAVEL",NAT GEO WILD
-http://183.88.212.205:8010/play/a02y
+http://goo.gl/W5Lvg2
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Fyi.jpg" group-title="DOCUMENTARIES AND TRAVEL",FYI
-http://183.88.212.205:8010/play/a00k
+http://goo.gl/6w3fWM
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/outdoor.png" group-title="DOCUMENTARIES AND TRAVEL",OUTDOOR CHANNEL
 http://183.88.212.205:8010/play/a03d
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa457e.png" group-title="DOCUMENTARIES AND TRAVEL", ASIA FOOD CHANNEL
 http://live.jibhdlive.com/asian_food_channel_480p.stream/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa1938.png" group-title="DOCUMENTARIES AND TRAVEL",BBC EARTH
-http://183.88.212.205:8010/play/a03e
+http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_bbcearth_720p/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/turbo.png" group-title="DOCUMENTARIES AND TRAVEL",DMAX
 http://183.88.212.205:8010/play/a035
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/History-COLOR.png" group-title="DOCUMENTARIES AND TRAVEL",HISTORY HD
-http://183.88.212.205:8010/play/a00y
+http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_historyhd_720p/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9a165.png" group-title="DOCUMENTARIES AND TRAVEL",H2
-http://183.88.212.205:8010/play/a03k
+http://rjutoung.myvnc.com:1935/ballsod365-2/0x777_h2hd_720p/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/mi.png" group-title="DOCUMENTARIES AND TRAVEL",MITV
 http://183.88.212.205:8010/play/a016
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LIVING%20ASIA.png" group-title="DOCUMENTARIES AND TRAVEL", LIVING ASIA CHANNEL
