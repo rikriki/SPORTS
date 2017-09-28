@@ -17,8 +17,6 @@ http://beam-wowza.vbusiness.ph:1935/live/channel3/playlist.m3u8
 http://beam-wowza.vbusiness.ph:1935/live/channel2/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.shoptv.com.ph/skin/frontend/cudsly/default/images/shoptv-logo.png" group-title="PINOY TV", BEAM SHOP TV
 http://beam-wowza.vbusiness.ph:1935/live/channel1/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df7dc6e.png" group-title="MOVIES", TRUE MOVIES
-http://live.jibhdlive.com/true_movie_hits_480p.stream/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_family_movies.png" group-title="MOVIES",FOX FAMILY MOVIES
 http://183.88.212.205:8010/play/a01m
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_movies_premium.png" group-title="MOVIES",FOX MOVIES PREMIUM
@@ -46,7 +44,7 @@ http://183.88.212.205:8010/play/a00n
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Movies-HD-COLOR.png" group-title="MOVIES",SKYNET MOVIES HD
 http://183.88.212.205:8010/play/a00v
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df81779.jpg" group-title="MOVIES", THRILL
-http://live.jibhdlive.com/thrill_720p.stream/playlist.m3u8
+http://footballmetro.myftp.org:1935/live3/0x222_thrill_720p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="http://www.totiptv.com/Product/Channel/images/Kix.png" group-title="MOVIES", KIX HD
 http://27.254.63.162/stream/tot4k.php?channel_id=e584e0adae6440eab366f5fe3a824f91
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df82e42.png" group-title="MOVIES", WARNER TV
@@ -210,13 +208,13 @@ http://183.88.212.205:8010/play/a029
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa821f.png" group-title="NEWS", EURONEWS
 http://live.jibhdlive.com/euronews_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://sc.dish.com/shared/images/station-logos/nbatv.png" group-title="SPORTS", NBA TV
-http://live.jibhdlive.com/nba_tv_hd_480p.stream/playlist.m3u8
+http://footballmetro.myftp.org:1935/live3/0x777_2nba_720p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="SPORTS", ESPN USA
 https://videoserver2.org/live/EbtgaRM3cmM7dz7LuqRArg/1506500742/aca0a31d14c85e19f7023c9a3889f37b.m3u8
 #EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png" group-title="SPORTS", FOX SPORTS HD
 http://live.jibhdlive.com/fox_sports_hd_480p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png" group-title="SPORTS", FOX SPORTS 1
-http://live.jibhdlive.com/fox_sports_1_480p.stream/playlist.m3u8
+http://footballmetro.myftp.org:1935/live3/0x777_foxsport1_480p/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="SPORTS", FOX SPORTS 2
 http://live.jibhdlive.com/fox_sports_2_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Fox_Sports_3_logo.png" group-title="SPORTS", FOX SPORTS 3
@@ -224,7 +222,7 @@ http://live.jibhdlive.com/fox_sports_3_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.dprom.tv/public/img/true_tennis_hd.png" group-title="SPORTS", TRUE TENNIS HD
 http://live.jibhdlive.com/true_tennis_hd_720p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://actv.tv/wp-content/uploads/mutv1.png" group-title="SPORTS", MANCHESTER UNITED TV
-http://live.jibhdlive.com/mutv_360p.stream/playlist.m3u8
+http://footballmetro.myftp.org:1935/live3/0x444_mutv_360p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb08c4.png" group-title="SPORTS", CHELSEA TV
 http://live.jibhdlive.com/chelsea_tv_360p.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb04a7.jpg" group-title="SPORTS", LIVERPOOL TV
