@@ -391,6 +391,8 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www2.myjcom.jp/special/common/channel_logo/wowow_prime.jpg" group-title="JAPAN", WOWOW Prime
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://xiostorage.com/wp-content/uploads/2015/10/test.png" group-title="TEST", TEST
+http://movieclub.tv/live/stream/40.m3u8
 #EXTINF:-1, group-title="UK", Discovery History
 http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/2926.m3u8
 #EXTINF:-1, group-title="UK", Comedy Central
