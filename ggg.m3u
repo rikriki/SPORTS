@@ -18,7 +18,7 @@ http://beam-wowza.vbusiness.ph:1935/live/channel2/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.shoptv.com.ph/skin/frontend/cudsly/default/images/shoptv-logo.png" group-title="PINOY TV", BEAM SHOP TV
 http://beam-wowza.vbusiness.ph:1935/live/channel1/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_family_movies.png" group-title="MOVIES",FOX FAMILY MOVIES
-http://183.88.212.205:8010/play/a01m
+http://103.77.116.191:443/ais_foxfamen_720p.stream/playlist.m3u8?st=yTl6uMuINpzunaoLiqdTjg&username=5148&password=8ab26822aac93cece243&e=1506642381
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_movies_premium.png" group-title="MOVIES",FOX MOVIES PREMIUM
 http://goo.gl/E1JJXV
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Fox-Action-Movies-HD-COLOR.png" group-title="MOVIES",FOX ACTION MOVIES HD
@@ -28,7 +28,7 @@ http://goo.gl/u3Qhwq
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df813d9.jpg" group-title="MOVIES", FX CINEMA
 http://goo.gl/N9wuxq  
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/HBO-HD-COLOR.png" group-title="MOVIES",HBO HD
-http://183.88.212.205:8010/play/a00u
+hhttp://103.77.116.191:443/hbo_hd_720p.stream/playlist.m3u8?st=5PjqWpPwp4vqMHE4hARzFA&username=5148&password=84277ddc936002473be5&e=1506642421
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/HBO.png" group-title="MOVIES",HBO SD
 http://183.88.212.205:8010/play/a00m
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df84af5.jpg" group-title="MOVIES", HBO HD 2
@@ -40,7 +40,7 @@ http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbosignature_720p/chunklis
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df8561e.jpg" group-title="MOVIES", HBO FAMILY
 http://rjutoung.myvnc.com:1935/ballsod365-4/0x222_ais_hbofam_720p/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85959.jpg" group-title="MOVIES",CINEMAX
-http://183.88.212.205:8010/play/a00n
+http://103.77.116.191:443/cinemax_720p.stream/playlist.m3u8?st=X2-kAesXhC6dNQBKDVlkuw&username=5148&password=fd7363a1090697ed20b8&e=1506642478
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Movies-HD-COLOR.png" group-title="MOVIES",SKYNET MOVIES HD
 http://183.88.212.205:8010/play/a00v
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df81779.jpg" group-title="MOVIES", THRILL
@@ -100,7 +100,7 @@ http://183.88.212.205:8010/play/a016
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LIVING%20ASIA.png" group-title="DOCUMENTARIES AND TRAVEL", LIVING ASIA CHANNEL
 https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/arirang.png" group-title="INTERNATIONAL",ARIRANG
-http://183.88.212.205:8010/play/a026
+http://103.77.116.191:443/arirang_720p.stream/playlist.m3u8?st=KlZDzXv9W5It-2uL9fkhAg&username=5148&password=957de9e53b9476eea566&e=1506642540
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/kbs_world.png" group-title="INTERNATIONAL",KBS WORLD
 http://183.88.212.205:8010/play/a025
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/M1.png" group-title="INTERNATIONAL",TVN ASIA
@@ -208,7 +208,7 @@ http://183.88.212.205:8010/play/a029
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa821f.png" group-title="NEWS", EURONEWS
 http://footballmetro.myftp.org:1935/live3/0x222_euronews_720p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://sc.dish.com/shared/images/station-logos/nbatv.png" group-title="SPORTS", NBA TV
-http://footballmetro.myftp.org:1935/live3/0x777_2nba_720p/chunklist.m3u8
+http://103.77.116.191:443/arirang_720p.stream/playlist.m3u8?st=KlZDzXv9W5It-2uL9fkhAg&username=5148&password=957de9e53b9476eea566&e=1506642540
 #EXTINF:-1, tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="SPORTS", ESPN USA
 https://videoserver2.org/live/EbtgaRM3cmM7dz7LuqRArg/1506500742/aca0a31d14c85e19f7023c9a3889f37b.m3u8
 #EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png" group-title="SPORTS", FOX SPORTS HD
