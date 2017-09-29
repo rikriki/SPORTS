@@ -56,7 +56,7 @@ http://goo.gl/BfKTdN
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Kid.png" group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY KIDS
 http://bit.ly/2fzEOmn
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Dis_TLC.png" group-title="DOCUMENTARIES AND TRAVEL",TLC
-http://183.88.212.205:8010/play/a032
+http://footballmetro.myftp.org:1935/live4/00_tlc_480p/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/NGC.png" group-title="DOCUMENTARIES AND TRAVEL",NAT GEO
 http://rjutoung.myvnc.com:1935/ballsod365-3/0x222_natgeographic_720p/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/net_geo_people.png" group-title="DOCUMENTARIES AND TRAVEL",NAT GEO PEOPLE
@@ -164,7 +164,7 @@ http://bit.ly/2k2T5JE
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Disney_Junior.png" group-title="KIDS",DISNEY JUNIOR ASIA
 http://183.88.212.205:8010/play/a02u
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/DISNEY-HD.png" group-title="KIDS",DISNEY XD
-http://183.88.212.205:8010/play/a00x
+http://footballmetro.myftp.org:1935/live2/0x222_disneyxd_480p/chunklist.m3u8
 #EXTINF:-1,tvg-logo="https://media.ents24network.com/image/000/118/138/b829fa23d2de2c88897f7c070731ecd2cb97fdc6.jpg" group-title="KIDS",BBC CBEEBIES
 http://183.88.212.205:8010/play/a03f
 #EXTINF:-1,tvg-logo="http://mfa.gov.ua/mediafiles/sites/singapore/images/news/tmbs/CNBC_logo-tmb-270x180.jpg" group-title="NEWS",CNBC
