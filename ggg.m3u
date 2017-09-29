@@ -392,7 +392,7 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www2.myjcom.jp/special/common/channel_logo/wowow_prime.jpg" group-title="JAPAN", WOWOW Prime
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://xiostorage.com/wp-content/uploads/2015/10/test.png" group-title="TEST", TEST
-http://109-kh.sakkarinsai8.com:443/free41/0x777_dmaxhd_360p/chunklist_w475326184.m3u8?key=5926832freegqvx7z7usx
+http://adultswimhls-i.akamaihd.net/hls/live/249295/adultswim_6/main/1/stream_Layer1.m3u8
 #EXTINF:-1, group-title="UK", Discovery History
 http://1sn.ns1.name:18800/live/barwa/ki86gvd78h/2926.m3u8
 #EXTINF:-1, group-title="UK", Comedy Central
