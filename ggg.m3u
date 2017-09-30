@@ -190,7 +190,7 @@ http://183.88.212.205:8010/play/a029
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa821f.png" group-title="NEWS", EURONEWS
 http://footballmetro.myftp.org:1935/live3/0x222_euronews_720p/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://sc.dish.com/shared/images/station-logos/nbatv.png" group-title="SPORTS", NBA TV
-http://rjutoung.myvnc.com:1935/ballsod365-3/0x777_2nba_720p/chunklist.m3u8
+http://103.77.116.191:443/nba_tv_hd_720p.stream/playlist.m3u8?st=-vNADkk8mrODG5xtJTAKuw&username=5148&password=e785b13425ce24e1ff81&e=1506799658
 #EXTINF:-1, tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="SPORTS", ESPN USA
 https://videoserver2.org/live/EbtgaRM3cmM7dz7LuqRArg/1506500742/aca0a31d14c85e19f7023c9a3889f37b.m3u8
 #EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png" group-title="SPORTS", FOX SPORTS HD
