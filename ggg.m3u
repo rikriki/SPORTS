@@ -377,11 +377,7 @@ http://dl.my-film.in/s1/Movie/Transformers.The.Last.Knight.2017/Transformers.The
 http://103.77.116.191:443/nba_tv_hd_720p.stream/playlist.m3u8?st=3O13rlqdLfc54PNKB7Rf9Q&username=5148&password=f48ac171b1663299f315&e=1506839217
 #EXTINF:-1, tvg-logo="http://nbahd.net/wp-content/uploads/2016/01/Warriors-Nuggets-320x180.jpg" group-title="NBA PRESEASON", WARRIORS VS NUGGETS 2
 https://liverepack-eu01.akamaized.net//live-out-e249df6e433c798ffc9952b1d64f9cd0/live-out-e249df6e433c798ffc9952b1d64f9cd0.m3u8
-#EXTINF:-1, tvg-logo="http://nbahd.net/wp-content/uploads/2016/01/Warriors-Nuggets-320x180.jpg" group-title="NBA PRESEASON", WARRIORS VS NUGGETS 3
-http://193.124.176.127/hls/lXG404oBZ9oK/chunks.m3u8
-#EXTINF:-1, tvg-logo="http://nbahd.net/wp-content/uploads/2016/01/Warriors-Nuggets-320x180.jpg" group-title="NBA PRESEASON", WARRIORS VS NUGGETS 4
-http://188.166.25.64/loadbalance/21932246199195284345/chunks.m3u8?pxAuth=fq7kMetlG9Yp2KtL5e5fLEfxGS5Ox881
-#EXTINF:-1, tvg-logo="http://nbahd.net/wp-content/uploads/2016/01/Warriors-Nuggets-320x180.jpg" group-title="NBA PRESEASON", WARRIORS VS NUGGETS 5 (US VPN)
+#EXTINF:-1, tvg-logo="http://nbahd.net/wp-content/uploads/2016/01/Warriors-Nuggets-320x180.jpg" group-title="NBA PRESEASON", WARRIORS VS NUGGETS 3 (US VPN)
 http://voo.memesyndicate.com/csnbay.m3u8
 #EXTINF:-1, tvg-logo="http://nbahd.net/wp-content/uploads/2015/12/Los-Angeles-Lakers-@-Minnesota-Timberwolves-320x180.jpg" group-title="NBA PRESEASON", LAKERS VS TWOLVES 1
 http://103.77.116.191:443/av27.stream/playlist.m3u8?st=3O13rlqdLfc54PNKB7Rf9Q&username=5148&password=f48ac171b1663299f315&e=1506839217
