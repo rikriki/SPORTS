@@ -257,8 +257,84 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
 http://14.164.128.124:4022/rtp/232.84.2.136:9612
 #EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/391_300.png" group-title="KOREA", KBS WORLD 2
 http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-1474711308/eol/20200101T0000/hash/256504442b73f1d929c1a36b033cfd53facda543/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://xiostorage.com/wp-content/uploads/2015/10/test.png" group-title="TEST", TEST
-http://adultswimhls-i.akamaihd.net/hls/live/249295/adultswim_6/main/1/stream_Layer1.m3u8
+#EXTINF:-1,group-title="KOREA", SBS
+http://iptv4u.club/site/freeiptv?channel=sbs&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="KOREA", SBS MTV
+http://iptv4u.club/site/freeiptv?channel=sbsmtv&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="KOREA", TVN
+http://iptv4u.club/site/freeiptv?channel=tvn&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="KOREA", MNet
+http://iptv4u.club/site/freeiptv?channel=mnet&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="KOREA", KBS1
+http://iptv4u.club/site/freeiptv?channel=kbs1&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="KOREA", KBS2
+http://iptv4u.club/site/freeiptv?channel=kbs2&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="KOREA", MBC
+http://iptv4u.club/site/freeiptv?channel=mbc&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", AMC
+http://iptv4u.club/site/freeiptv?channel=amc&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Fox Movies
+http://iptv4u.club/site/freeiptv?channel=foxmovies&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Fox Family Movies
+http://iptv4u.club/site/freeiptv?channel=foxfamilymovies&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Fox Action Movies
+http://iptv4u.club/site/freeiptv?channel=foxactionmovies&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Fox Movies Premium
+http://iptv4u.club/site/freeiptv?channel=foxmoviespremium&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", HBO
+http://iptv4u.club/site/freeiptv?channel=hbo&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Match! Futbol 1
+http://iptv4u.club/site/freeiptv?channel=matchfootball1&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Match! Futbol 2
+http://iptv4u.club/site/freeiptv?channel=matchfootball2&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Match! Futbol 3
+http://iptv4u.club/site/freeiptv?channel=matchfootball3&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Golf Channel
+http://iptv4u.club/site/freeiptv?channel=golfchannel&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", MTV Asia
+http://iptv4u.club/site/freeiptv?channel=mtvasia&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", MTV China
+http://iptv4u.club/site/freeiptv?channel=mtvchina&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", MTV Hits
+http://iptv4u.club/site/freeiptv?channel=mtvhits&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", MTV Rocks
+http://iptv4u.club/site/freeiptv?channel=mtvrocks&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", MTV Dance
+http://iptv4u.club/site/freeiptv?channel=mtvdance&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", MTV Live HD
+http://iptv4u.club/site/freeiptv?channel=mtvlivehd&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Trace Urban
+http://iptv4u.club/site/freeiptv?channel=traceurban&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", VH1
+http://iptv4u.club/site/freeiptv?channel=vh1&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Channel [v]
+http://iptv4u.club/site/freeiptv?channel=v&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Heart TV
+http://iptv4u.club/site/freeiptv?channel=hearttv&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Cartoon Network
+http://iptv4u.club/site/freeiptv?channel=cartoon&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Disney Channel
+http://iptv4u.club/site/freeiptv?channel=disney&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Boomerang
+http://iptv4u.club/site/freeiptv?channel=boomerang&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Animax
+http://iptv4u.club/site/freeiptv?channel=animax&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Nickelodeon
+http://iptv4u.club/site/freeiptv?channel=nickelodeon&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Discovery Channel
+http://iptv4u.club/site/freeiptv?channel=discovery&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Discovery Science
+http://iptv4u.club/site/freeiptv?channel=discoveryscience&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Nat Geo WILD HD
+http://iptv4u.club/site/freeiptv?channel=ngwhd&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Animal Planet
+http://iptv4u.club/site/freeiptv?channel=animalplanet&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", AXN
+http://iptv4u.club/site/freeiptv?channel=axn&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Fox Life
+http://iptv4u.club/site/freeiptv?channel=foxlife&e=150689574&t=.m3u8
+#EXTINF:-1,group-title="ASIAN TV", Fx
+http://iptv4u.club/site/freeiptv?channel=fx&e=150689574&t=.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="VOD MOVIES", JOHN WICK  
 http://dl3.vaiomusic.org/Movie/John%20Wick%202014%20-%20720p%20%28media.vaiomusic%29.mkv
 #EXTINF:-1, tvg-logo="http://budomate.com/wp-content/uploads/2016/09/john-wick-2-poster-2.png" group-title="VOD MOVIES", JOHN WICK 2 
