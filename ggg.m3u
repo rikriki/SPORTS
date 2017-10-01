@@ -175,8 +175,6 @@ http://103.77.116.191:443/prtv_1_480p.stream/playlist.m3u8?st=2oG48140mgSHgOFKLl
 http://103.77.116.191:443/prtv_2_480p.stream/playlist.m3u8?st=2oG48140mgSHgOFKLllgIw&username=5148&password=0fa1fc6b6a3c5d72ea9e&e=1506875330
 #EXTINF:1, group-title="SPORTS",Premier League TV 3
 http://103.77.116.191:443/prtv_3_480p.stream/playlist.m3u8?st=2oG48140mgSHgOFKLllgIw&username=5148&password=0fa1fc6b6a3c5d72ea9e&e=1506875330
-#EXTINF:1, group-title="SPORTS",Premier League TV 4
-http://103.77.116.191:443/prtv_4_480p.stream/playlist.m3u8?st=2oG48140mgSHgOFKLllgIw&username=5148&password=0fa1fc6b6a3c5d72ea9e&e=1506875330
 #EXTINF:-1, tvg-logo="http://sportsarefree.xyz/img/nb_a/ml_btv.png" group-title="SPORTS",MLB TV
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Friday_20170922_1506101335916/1200K/1200_slide.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/3562439197/c18ecd1ef09b68604fc5d20ba1549a08_400x400.jpeg" group-title="JAPAN", BS 12 TwellV
