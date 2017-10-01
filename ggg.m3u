@@ -378,7 +378,7 @@ http://103.77.116.191:443/nba_tv_hd_720p.stream/playlist.m3u8?st=3O13rlqdLfc54PN
 #EXTINF:-1, tvg-logo="http://nbahd.net/wp-content/uploads/2015/12/Los-Angeles-Lakers-@-Minnesota-Timberwolves-320x180.jpg" group-title="NBA PRESEASON", LAKERS VS TWOLVES 1
 http://dns5.thepk.co:2095/live/ophelia/ophelia1/336.m3u8?token=TUZYAxUKRA9EUQNbAwFVUQVdAlxSBgtWAFBcBgBXUVMFVlMBX1ADVFNHSRsRFhZWVlQ+UQZHCAMGBxRHERcEEGkNVEBcQFIEVVdQG05AEFpaXEMCUkkQQFxVGl9GVlNSBl0STkQHHkEDFwtYDj0AVkFQAl1AX1xFWV0URwsKPgZTCVEMAkBcF1ZHSRsLERQRDRstXQMWV2dQUxgwNyVBK1gHHkBKQARcEhcETQdAXhEFAFYIQEkQU1pEVhEWHUNYFDFjQEpAA00SAAtKCw0KEQ0bDAsXXRAcF1hLOhYBEhZEAVEPAxBED0RVRxVADwVLaFoOVgwAUURcXlYWRl5DUxRIEg8JDA9BCRc6SQsGRgkVC1EOU1YQTQ==
 #EXTINF:-1, tvg-logo="http://nbahd.net/wp-content/uploads/2015/12/Los-Angeles-Lakers-@-Minnesota-Timberwolves-320x180.jpg" group-title="NBA PRESEASON", LAKERS VS TWOLVES 2
-http://env-6422061.jl.serv.net.mx/tmg.m3u8?stream=nba-tv&expired=c29fde2e33351f6a0ae602aa278e3e41&token=bb103202d043d6e5797a3704eeb0376e
+http://env-6422061.jl.serv.net.mx/tmg.m3u8?stream=nba-tv&expired=ab3187440b3c25fe95132fdb77a6bf36&token=b8b35c2f732d8b7272ee0260ceef936c
 #EXTINF:-1, tvg-logo="http://nbahd.net/wp-content/uploads/2016/01/Warriors-Nuggets-320x180.jpg" group-title="NBA PRESEASON", LAKERS VS TWOLVES 3
 https://liverepack-eu01.akamaized.net//live-out-e249df6e433c798ffc9952b1d64f9cd0/live-out-e249df6e433c798ffc9952b1d64f9cd0.m3u8
 
