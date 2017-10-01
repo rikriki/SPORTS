@@ -255,6 +255,8 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/391_300.png" group-title="KOREA", KBS WORLD
 http://14.164.128.124:4022/rtp/232.84.2.136:9612
+#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/391_300.png" group-title="KOREA", KBS WORLD 2
+http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-1474711308/eol/20200101T0000/hash/256504442b73f1d929c1a36b033cfd53facda543/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://xiostorage.com/wp-content/uploads/2015/10/test.png" group-title="TEST", TEST
 http://adultswimhls-i.akamaihd.net/hls/live/249295/adultswim_6/main/1/stream_Layer1.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="VOD MOVIES", JOHN WICK  
