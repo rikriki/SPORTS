@@ -18,167 +18,165 @@ http://beam-wowza.vbusiness.ph:1935/live/channel2/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.shoptv.com.ph/skin/frontend/cudsly/default/images/shoptv-logo.png" group-title="PINOY TV", BEAM SHOP TV
 http://beam-wowza.vbusiness.ph:1935/live/channel1/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df7dc6e.png", TRUE MOVIES
-http://103.77.116.191:443/true_movie_hits_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/true_movie_hits_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df7e183.jpg", FOX MOVIES PREMIUM
-http://103.77.116.191:443/fox_movies_premium_hd_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/fox_movies_premium_hd_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df80bd7.jpg", FOX ACTION MOVIES
-http://103.77.116.191:443/foxactionmovieen_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/foxactionmovieen_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df813d9.jpg", FX CINEMA
-http://103.77.116.191:443/fx_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/fx_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df80f7d.jpg", FOX CRIME
 http://27.254.63.162/stream/totnew.php?channel_id=5028f7ff1d1b4d5f8189690233364737
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df81779.jpg", THRILL
-http://103.77.116.191:443/thrill_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/thrill_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.totiptv.com/Product/Channel/images/Kix.png", KIX HD
 http://27.254.63.162/stream/tot4k.php?channel_id=e584e0adae6440eab366f5fe3a824f91
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df81b42.png", STARWORLD HD
-http://103.77.116.191:443/starworld_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/starworld_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df82e42.png", WARNER TV
-http://103.77.116.191:443/warner_tv_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/warner_tv_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df83178.png", TLC
-http://103.77.116.191:443/tlc_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/tlc_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df84af5.jpg", HBO HD
-http://103.77.116.191:443/hbo_hd_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/hbo_hd_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df84e68.jpg", HBO HITS
-http://103.77.116.191:443/hbo_hits_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/hbo_hits_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85235.jpg", HBO SIGNATURE
-http://103.77.116.191:443/hbo_signature_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/hbo_signature_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df8561e.jpg", HBO FAMILY
-http://103.77.116.191:443/hbo_family_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/hbo_family_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85959.jpg", CINEMAX
-http://103.77.116.191:443/cinemax_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/cinemax_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85d15.jpg", FOX FAMILY MOVIES
-http://103.77.116.191:443/ais_foxfamen_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/ais_foxfamen_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa77d0.png", NHK WORLD
-http://103.77.116.191:443/nhk_world_tv_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/nhk_world_tv_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa821f.png", EURONEWS
-http://103.77.116.191:443/euronews_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/euronews_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa86ac.png", CHANNEL NEWS ASIA
-http://103.77.116.191:443/channel_newsasia_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/channel_newsasia_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa8b43.png", SKY NEWS
-http://103.77.116.191:443/sky_news_hd_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/sky_news_hd_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa8fde.png", FOX NEWS CHANNEL
-http://103.77.116.191:443/fox_news_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/fox_news_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.totiptv.com/Product/Channel/images/AlJazeera.png", Al Jazeera English
 http://27.254.63.162/stream/tot4k.php?channel_id=ea4c9d2666bc411d8e6777e8a1d2b747
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfaa0f5.png", AXN ASIA
-http://103.77.116.191:443/axn_hd_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/axn_hd_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfaac91.png", TRAVEL CHANNEL
-http://103.77.116.191:443/travel_channel_thailand_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/travel_channel_thailand_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e02150d.png", ARIRANG
-http://103.77.116.191:443/arirang_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/arirang_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa457e.png", ASIA FOOD CHANNEL
-http://103.77.116.191:443/asian_food_channel_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/asian_food_channel_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa3b20.png", FYI
 http://27.254.63.162/stream/totnew.php?channel_id=169a149fd1ef40edba0bbfc8e0f1bdd1
 #EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/60233/logo_crime%20+%20investigation.png", CRIME INVESTIGATION
 http://27.254.63.162/stream/totnew.php?channel_id=9961a963920f45f4bc0d81c3e478b334
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa375e.png", NAT GEO PEOPLE
-http://103.77.116.191:443/national_geographic_people_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/national_geographic_people_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa1da2.png", NAT GEO WILD
 http://27.254.63.162/stream/totnew.php?channel_id=607fa33938bc4a3ea6c43ce47ddb8ed8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa15a1.png", ANIMAL PLANET
-http://103.77.116.191:443/animal_planet_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/animal_planet_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa11ae.png", DMAX
-http://103.77.116.191:443/dmax_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/dmax_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LIVING%20ASIA.png", LIVING ASIA CHANNEL
-https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfaa444.png", FashionTV
 http://27.254.63.162/stream/totnew.php?channel_id=df468a12ae6547de9637486bdc2025aa
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df946cd.png", MTV LIVE
-http://103.77.116.191:443/mtv_live_hd_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/mtv_live_hd_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df97176.png", CHANNEL V
-http://103.77.116.191:443/channel_v_thailand_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/channel_v_thailand_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9864d.png", TRACE URBAN
-http://103.77.116.191:443/trace_urban_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/trace_urban_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df8cf68.jpg", BABY TV
-http://103.77.116.191:443/baby_tv_hd_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/baby_tv_hd_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df90647.png", TOONAMI
-http://103.77.116.191:443/toonami_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/toonami_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png", Nick Jr. (ENG)
 http://27.254.63.162/stream/tot4k.php?channel_id=09fffe8d426745689f60cbc24da1bb49
 #EXTINF:-1, tvg-logo="https://sc.dish.com/shared/images/station-logos/nbatv.png" group-title="SPORTS", NBA TV
-http://103.77.116.191:443/nba_tv_hd_720p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/nba_tv_hd_720p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:-1, tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" group-title="SPORTS", ESPN USA
 https://videoserver2.org/live/EbtgaRM3cmM7dz7LuqRArg/1506500742/aca0a31d14c85e19f7023c9a3889f37b.m3u8
 #EXTINF:1, group-title="SPORTS",TrueSportHD
-http://103.77.116.191:443/truesport_hd_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/truesport_hd_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",TrueSportHD2
-http://103.77.116.191:443/truesport_hd_2_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/truesport_hd_2_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",TrueSportHD3
-http://103.77.116.191:443/truesport_hd_3_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/truesport_hd_3_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",TrueSportHD4
-http://103.77.116.191:443/truesport_hd_4_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/truesport_hd_4_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",TrueSport2
-http://103.77.116.191:443/truesport_2_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/truesport_2_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",TrueSport5
-http://103.77.116.191:443/truesport_5_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/truesport_5_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",TrueSport6
-http://103.77.116.191:443/truesport_6_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/truesport_6_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",TrueSport7
-http://103.77.116.191:443/truesport_7_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/truesport_7_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",FOXSports1
-http://103.77.116.191:443/fox_sports_1_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/fox_sports_1_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",FOXSports2
-http://103.77.116.191:443/fox_sports_2_360p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/fox_sports_2_360p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",FOXSports3
-http://103.77.116.191:443/fox_sports_3_360p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/fox_sports_3_360p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",TrueTennisHD
-http://103.77.116.191:443/true_tennis_hd_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/true_tennis_hd_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",Golf Channel
-http://103.77.116.191:443/golf_channel_thailand_hd_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/golf_channel_thailand_hd_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",FightSport
-http://103.77.116.191:443/supersport_3_albania_360p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/supersport_3_albania_360p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",MUTV
-http://103.77.116.191:443/mutv_360p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/mutv_360p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",LFCTV
-http://103.77.116.191:443/lfctv_360p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/lfctv_360p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",ChelseaTV
-http://103.77.116.191:443/chelsea_tv_360p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/chelsea_tv_360p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",SkynetSportHD
-http://103.77.116.191:443/skynet_sport_hd_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/skynet_sport_hd_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",SkyNetDeportes1
-http://103.77.116.191:443/skynet_sports_1_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/skynet_sports_1_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",SkyNetDeportes2
-http://103.77.116.191:443/skynet_sports_2_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/skynet_sports_2_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",SkyNetSports3
-http://103.77.116.191:443/skynet_sports_3_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/skynet_sports_3_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",SkyNetSports4
-http://103.77.116.191:443/skynet_sports_4_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/skynet_sports_4_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",SkyNetDeportes5
-http://103.77.116.191:443/skynet_sports_5_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/skynet_sports_5_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",SkyNetSports6
-http://103.77.116.191:443/skynet_sports_6_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/skynet_sports_6_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",SkyDeportesF1
-http://103.77.116.191:443/sky_sports_f1_360p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/sky_sports_f1_360p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",BTSport1HD
-http://103.77.116.191:443/bt_sport_1_hd_360p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/bt_sport_1_hd_360p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",BTSport2HD
-http://103.77.116.191:443/bt_sport_2_hd_360p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/bt_sport_2_hd_360p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",BTSport3HD
-http://103.77.116.191:443/bt_sport_3_hd_360p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/bt_sport_3_hd_360p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",BTSportESPN
-http://103.77.116.191:443/bt_sport_espn_360p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/bt_sport_espn_360p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",sky sport main event
-http://103.77.116.191:443/sky_sports_mainevent_360p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/sky_sports_mainevent_360p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",sky sport premier league
-http://103.77.116.191:443/sky_sports_premiere_360p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/sky_sports_premiere_360p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",sky sport  Football
-http://103.77.116.191:443/skysportfootball_360p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/skysportfootball_360p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",sky sport  News
-http://103.77.116.191:443/skysportnew_360.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/skysportnew_360.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",Eurosport 1
-http://103.77.116.191:443/eurosport_1_uk_360p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/eurosport_1_uk_360p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",Premier League TV 1
-http://103.77.116.191:443/prtv_1_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/prtv_1_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",Premier League TV 2
-http://103.77.116.191:443/prtv_2_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/prtv_2_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",Premier League TV 3
-http://103.77.116.191:443/prtv_3_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529
+http://103.77.116.191:443/prtv_3_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 #EXTINF:1, group-title="SPORTS",Premier League TV 4
-http://103.77.116.191:443/prtv_4_480p.stream/playlist.m3u8?st=G2q0nfXd5T91KpK--KLt4A&username=5148&password=15e8adfcdfc9af526017&e=1506922529#EXTINF:-1, tvg-logo="http://sportsarefree.xyz/img/nb_a/ml_btv.png" group-title="SPORTS",MLB TV
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Friday_20170922_1506101335916/1200K/1200_slide.m3u8
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/3562439197/c18ecd1ef09b68604fc5d20ba1549a08_400x400.jpeg" group-title="JAPAN", BS 12 TwellV
+http://103.77.116.191:443/prtv_4_480p.stream/playlist.m3u8?st=M55Vw49_iAuAs_kSc4k-Jg&username=5148&password=3f2951414de3d7729b61&e=1506958442
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://tennis-win.net/wp-content/uploads/2014/11/bs-asahi.jpg" group-title="JAPAN", BS Asahi
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
