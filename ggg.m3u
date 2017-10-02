@@ -133,6 +133,8 @@ http://iptv4u.club/site/freeiptv?channel=ngwhd&e=1506964521&t=.m3u8
 http://iptv4u.club/site/freeiptv?channel=animalplanet&e=1506964521&t=.m3u8 
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LIVING%20ASIA.png" group-title="ASIAN TV", LIVING ASIA CHANNEL
 https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://s3-ap-southeast-1.amazonaws.com/afc-prod/thumbnails/standard_mobile/1314/9683/8243/afc-default.jpg" group-title="ASIAN TV", ASIA FOOD CHANNEL
+http://14.164.128.124:4022/rtp/232.84.1.115:10236
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfaa444.png" group-title="ASIAN TV", FashionTV
 http://27.254.63.162/stream/totnew.php?channel_id=df468a12ae6547de9637486bdc2025aa
 #EXTINF:-1, tvg-logo="http://www.totiptv.com/Product/Channel/images/AlJazeera.png" group-title="ASIAN TV", Al Jazeera English
