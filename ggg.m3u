@@ -132,7 +132,7 @@ http://iptv4u.club/site/freeiptv?channel=discoveryscience&e=1506964521&t=.m3u8
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_54f21cb811caa5_99461820.png" group-title="ASIAN TV", Nat Geo WILD HD 
 http://iptv4u.club/site/freeiptv?channel=ngwhd&e=1506964521&t=.m3u8 
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_537a434fe62f88_23303977.png" group-title="ASIAN TV", Animal Planet 
-http://iptv4u.club/site/freeiptv?channel=animalplanet&e=1506964521&t=.m3u8 
+http://14.164.128.124:4022/udp/232.84.1.48:8268
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LIVING%20ASIA.png" group-title="ASIAN TV", LIVING ASIA CHANNEL
 https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://s3-ap-southeast-1.amazonaws.com/afc-prod/thumbnails/standard_mobile/1314/9683/8243/afc-default.jpg" group-title="ASIAN TV", ASIA FOOD CHANNEL
