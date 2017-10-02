@@ -115,6 +115,8 @@ http://iptv4u.club/site/freeiptv?channel=cartoon&e=1506964521&t=.m3u8
 http://iptv4u.club/site/freeiptv?channel=disney&e=1506964521&t=.m3u8 
 #EXTINF:-1,tvg-logo="https://vignette3.wikia.nocookie.net/ideas/images/1/1a/Boom.png" group-title="ASIAN TV", Boomerang 
 http://iptv4u.club/site/freeiptv?channel=boomerang&e=1506964521&t=.m3u8 
+#EXTINF:-1,tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/08/22/ToonamiThumb.jpg" group-title="ASIAN TV", Toonami
+http://14.164.128.124:4022/rtp/232.84.1.91:10404
 #EXTINF:-1,tvg-logo="https://www.animax-asia.com/sites/asia.animax/files/animax_logo_endorsed_0.png" group-title="ASIAN TV", Animax 
 http://iptv4u.club/site/freeiptv?channel=animax&e=1506964521&t=.m3u8 
 #EXTINF:-1,tvg-logo="http://2017castingcalls.com/wp-content/uploads/2016/11/photo.jpg" group-title="ASIAN TV", Nickelodeon 
