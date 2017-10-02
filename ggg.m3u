@@ -21,7 +21,7 @@ http://beam-wowza.vbusiness.ph:1935/live/channel1/playlist.m3u8
 http://iptv4u.club/site/freeiptv?channel=sbs&e=1507005859&t=.m3u8 
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/473682211854487552/oKLTKx73_400x400.jpeg" group-title="ASIAN TV", SBS MTV 
 http://iptv4u.club/site/freeiptv?channel=sbsmtv&e=1507005859&t=.m3u8 
-#EXTINF:-1,tvg-logo="http://images.amcnetworks.com/blogs.amctv.com/wp-content/uploads/2013/04/amc-logo-rebrand-blk-3251.jpg" group-title="ASIAN TV", TVN
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/740033272860680192/q0cWLUKf.jpg" group-title="ASIAN TV", TVN
 http://iptv4u.club/site/freeiptv?channel=tvn&e=1507005859&t=.m3u8 
 #EXTINF:-1,tvg-logo="http://goldenax.co.kr/wp-content/uploads/2015/03/logo-mnet.png" group-title="ASIAN TV", MNet 
 http://iptv4u.club/site/freeiptv?channel=mnet&e=1507005859&t=.m3u8 
@@ -33,7 +33,7 @@ http://iptv4u.club/site/freeiptv?channel=kbs2&e=1507005859&t=.m3u8
 http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-1474711308/eol/20200101T0000/hash/256504442b73f1d929c1a36b033cfd53facda543/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://lh3.googleusercontent.com/-HLDHvBggXQk/UgBT1HWKd3I/AAAAAAAABA8/NG_uQuR_q0A/mbc+tv+korea+live.jpg" group-title="ASIAN TV", MBC 
 http://iptv4u.club/site/freeiptv?channel=mbc&e=1507005859&t=.m3u8 
-#EXTINF:-1,tvg-logo="http://www.amc.com/wp-content/themes/amc-tv/assets/images/AMCP_logo_600w.png" group-title="ASIAN TV", AMC 
+#EXTINF:-1,tvg-logo="http://images.amcnetworks.com/blogs.amctv.com/wp-content/uploads/2013/04/amc-logo-rebrand-blk-3251.jpg" group-title="ASIAN TV", AMC 
 http://iptv4u.club/site/freeiptv?channel=amc&e=1507005859&t=.m3u8 
 #EXTINF:-1,tvg-logo="https://ulango.tv/uploads/channels/122800/logo_fox%20movies.png" group-title="ASIAN TV", Fox Movies (OFFLINE) 
 http://iptv4u.club/site/freeiptv?channel=foxmovies&e=1507005859&t=.m3u8 
