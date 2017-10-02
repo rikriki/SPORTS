@@ -36,7 +36,7 @@ http://14.164.128.124:4022/rtp/232.84.2.136:9612
 http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-1474711308/eol/20200101T0000/hash/256504442b73f1d929c1a36b033cfd53facda543/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://lh3.googleusercontent.com/-HLDHvBggXQk/UgBT1HWKd3I/AAAAAAAABA8/NG_uQuR_q0A/mbc+tv+korea+live.jpg" group-title="ASIAN TV", MBC 
 http://iptv4u.club/site/freeiptv?channel=mbc&e=1506957010&t=.m3u8 
-#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-bR6ByIXiyrg/AAAAAAAAAAI/AAAAAAAAAAA/JFyEhmlC0j8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ASIAN TV", AMC 
+#EXTINF:-1,tvg-logo="http://www.amc.com/wp-content/themes/amc-tv/assets/images/AMCP_logo_600w.png" group-title="ASIAN TV", AMC 
 http://iptv4u.club/site/freeiptv?channel=amc&e=1506957010&t=.m3u8 
 #EXTINF:-1,tvg-logo="https://ulango.tv/uploads/channels/122800/logo_fox%20movies.png" group-title="ASIAN TV", Fox Movies (OFFLINE) 
 http://iptv4u.club/site/freeiptv?channel=foxmovies&e=1506957010&t=.m3u8 
