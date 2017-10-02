@@ -53,6 +53,8 @@ http://iptv4u.club/site/freeiptv?channel=foxlife&e=1506964521&t=.m3u8
 http://iptv4u.club/site/freeiptv?channel=fx&e=1506964521&t=.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df80f7d.jpg" group-title="ASIAN TV", FOX CRIME
 http://27.254.63.162/stream/totnew.php?channel_id=5028f7ff1d1b4d5f8189690233364737
+#EXTINF:-1, tvg-logo="https://football-hd.com/img_channel.php?c=ch_5476e1ac54b681_73639985.png" group-title="ASIAN TV", CINEMAX
+http://14.164.128.124:4022/rtp/232.84.1.20:8094
 #EXTINF:-1, tvg-logo="http://www.totiptv.com/Product/Channel/images/Kix.png" group-title="ASIAN TV", KIX HD
 http://27.254.63.162/stream/tot4k.php?channel_id=e584e0adae6440eab366f5fe3a824f91
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa3b20.png" group-title="ASIAN TV", FYI
