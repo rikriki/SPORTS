@@ -49,6 +49,8 @@ http://iptv4u.club/site/freeiptv?channel=hbo&e=1507005859&t=.m3u8
 http://iptv4u.club/site/freeiptv?channel=axn&e=1507005859&t=.m3u8 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="ASIAN TV", Fox Life 
 http://iptv4u.club/site/freeiptv?channel=foxlife&e=1507005859&t=.m3u8 
+#EXTINF:-1,tvg-logo="http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2015/11/23/starhd.jpg" group-title="ASIAN TV", Star World 
+http://27.254.63.162/stream/totnew.php?channel_id=65f7358b813048a0898f5677e1793cf9 
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5254ef03234b73_45266199.png" group-title="ASIAN TV", FX
 http://iptv4u.club/site/freeiptv?channel=fx&e=1507005859&t=.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df80f7d.jpg" group-title="ASIAN TV", FOX CRIME
@@ -113,6 +115,8 @@ http://iptv4u.club/site/freeiptv?channel=hearttv&e=1507005859&t=.m3u8
 http://iptv4u.club/site/freeiptv?channel=cartoon&e=1507005859&t=.m3u8 
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_548e80899d2e28_27436512.png" group-title="ASIAN TV", Disney Channel 
 http://iptv4u.club/site/freeiptv?channel=disney&e=1507005859&t=.m3u8 
+#EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5391392392d313_21504889.png" group-title="ASIAN TV", Baby TV
+http://27.254.63.162/stream/totnew.php?channel_id=7773f3cef0334a28ad248552ea63d9e7 
 #EXTINF:-1,tvg-logo="https://vignette3.wikia.nocookie.net/ideas/images/1/1a/Boom.png" group-title="ASIAN TV", Boomerang 
 http://iptv4u.club/site/freeiptv?channel=boomerang&e=1507005859&t=.m3u8 
 #EXTINF:-1,tvg-logo="https://www.animax-asia.com/sites/asia.animax/files/animax_logo_endorsed_0.png" group-title="ASIAN TV", Animax 
