@@ -17,8 +17,6 @@ http://beam-wowza.vbusiness.ph:1935/live/channel3/playlist.m3u8
 http://beam-wowza.vbusiness.ph:1935/live/channel2/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.shoptv.com.ph/skin/frontend/cudsly/default/images/shoptv-logo.png" group-title="PINOY TV", BEAM SHOP TV
 http://beam-wowza.vbusiness.ph:1935/live/channel1/playlist.m3u8
-#EXTINF:-1,tvg-logo="http://www.amc.com/wp-content/themes/amc-tv/assets/images/AMCP_logo_600w.png" group-title="ASIAN TV", AMC 
-http://iptv4u.club/site/freeiptv?channel=amc&e=1506957010&t=.m3u8 
 #EXTINF:-1,tvg-logo="http://www.arenamundo.com/wp-content/uploads/2016/11/SBS-Korea-Logo-vector.jpg" group-title="ASIAN TV", SBS 
 http://iptv4u.club/site/freeiptv?channel=sbs&e=1506957010&t=.m3u8 
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/473682211854487552/oKLTKx73_400x400.jpeg" group-title="ASIAN TV", SBS MTV 
