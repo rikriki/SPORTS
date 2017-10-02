@@ -22,7 +22,7 @@ http://beam-wowza.vbusiness.ph:1935/live/channel1/playlist.m3u8
 http://iptv4u.club/site/freeiptv?channel=sbs&e=1506957010&t=.m3u8 
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/473682211854487552/oKLTKx73_400x400.jpeg" group-title="ASIAN TV", SBS MTV 
 http://iptv4u.club/site/freeiptv?channel=sbsmtv&e=1506957010&t=.m3u8 
-#EXTINF:-1,tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAA2oAAAAJGIzMTgzMDc2LTVhOGEtNGZjZS04MGU3LTc0NWQ1MGRiYzI1ZQ.png" group-title="ASIAN TV", TVN
+#EXTINF:-1,tvg-logo="http://images.amcnetworks.com/blogs.amctv.com/wp-content/uploads/2013/04/amc-logo-rebrand-blk-3251.jpg" group-title="ASIAN TV", TVN
 http://iptv4u.club/site/freeiptv?channel=tvn&e=1506957010&t=.m3u8 
 #EXTINF:-1,tvg-logo="http://goldenax.co.kr/wp-content/uploads/2015/03/logo-mnet.png" group-title="ASIAN TV", MNet 
 http://iptv4u.club/site/freeiptv?channel=mnet&e=1506957010&t=.m3u8 
@@ -38,7 +38,7 @@ http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-147
 http://iptv4u.club/site/freeiptv?channel=mbc&e=1506957010&t=.m3u8 
 #EXTINF:-1,tvg-logo="https://yt3.ggpht.com/-bR6ByIXiyrg/AAAAAAAAAAI/AAAAAAAAAAA/JFyEhmlC0j8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ASIAN TV", AMC 
 http://iptv4u.club/site/freeiptv?channel=amc&e=1506957010&t=.m3u8 
-#EXTINF:-1,tvg-logo="http://images-mysky.com.ph.s3.amazonaws.com/production/media-upload/1496887529_thumbnail-fox-movies.png" group-title="ASIAN TV", Fox Movies (OFFLINE) 
+#EXTINF:-1,tvg-logo="https://ulango.tv/uploads/channels/122800/logo_fox%20movies.png" group-title="ASIAN TV", Fox Movies (OFFLINE) 
 http://iptv4u.club/site/freeiptv?channel=foxmovies&e=1506957010&t=.m3u8 
 #EXTINF:-1, tvg-logo="http://www.astropackage.com.my/wp-content/uploads/2016/01/Astro-FFM-HD-ch430.png" group-title="ASIAN TV", Fox Family Movies (OFFLINE)   
 http://iptv4u.club/site/freeiptv?channel=foxfamilymovies&e=1506957010&t=.m3u8 
@@ -98,7 +98,7 @@ http://iptv4u.club/site/freeiptv?channel=mtvasia&e=1506957010&t=.m3u8
 http://iptv4u.club/site/freeiptv?channel=mtvchina&e=1506957010&t=.m3u8 
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/892028647347015680/JKQayy2R.jpg" group-title="ASIAN TV", MTV Hits 
 http://iptv4u.club/site/freeiptv?channel=mtvhits&e=1506957010&t=.m3u8 
-#EXTINF:-1,tvg-logo="http://nowwatchtvlive.cc/wp-content/uploads/2013/04/Watch-Live-MTV-Rocks-TV-logo.jpg group-title="ASIAN TV", MTV Rocks 
+#EXTINF:-1,tvg-logo="http://nowwatchtvlive.cc/wp-content/uploads/2013/04/Watch-Live-MTV-Rocks-TV-logo.jpg" group-title="ASIAN TV", MTV Rocks 
 http://iptv4u.club/site/freeiptv?channel=mtvrocks&e=1506957010&t=.m3u8 
 #EXTINF:-1,tvg-logo="https://contentpl-a.akamaihd.net/images/playlists/image/medium/101917.png" group-title="ASIAN TV", MTV Dance 
 http://iptv4u.club/site/freeiptv?channel=mtvdance&e=1506957010&t=.m3u8 
