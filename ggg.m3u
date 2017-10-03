@@ -36,13 +36,11 @@ http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-147
 #EXTINF:-1,tvg-logo="http://lh3.googleusercontent.com/-HLDHvBggXQk/UgBT1HWKd3I/AAAAAAAABA8/NG_uQuR_q0A/mbc+tv+korea+live.jpg" group-title="ASIAN TV", MBC 
 http://iptv4u.club/site/freeiptv?channel=mbc&e=1506964521&t=.m3u8 
 #EXTINF:-1,tvg-logo="http://images.amcnetworks.com/blogs.amctv.com/wp-content/uploads/2013/04/amc-logo-rebrand-blk-3251.jpg" group-title="ASIAN TV", AMC 
-http://iptv4u.club/site/freeiptv?channel=amc&e=1506964521&t=.m3u8 
-#EXTINF:-1,tvg-logo="https://ulango.tv/uploads/channels/122800/logo_fox%20movies.png" group-title="ASIAN TV", Fox Movies (OFFLINE) 
-http://iptv4u.club/site/freeiptv?channel=foxmovies&e=1506964521&t=.m3u8 
+http://iptv4u.club/site/freeiptv?channel=amc&e=1506964521&t=.m3u8  
 #EXTINF:-1, tvg-logo="http://www.astropackage.com.my/wp-content/uploads/2016/01/Astro-FFM-HD-ch430.png" group-title="ASIAN TV", Fox Family Movies (OFFLINE)   
-http://iptv4u.club/site/freeiptv?channel=foxfamilymovies&e=1506964521&t=.m3u8 
+http://183.88.212.205:8010/play/a01m
 #EXTINF:-1,tvg-logo="https://www.indovision.tv/userfiles/image/channel/channel_16.png" group-title="ASIAN TV", Fox Action Movies (OFFLINE) 
-http://iptv4u.club/site/freeiptv?channel=foxactionmovies&e=1506964521&t=.m3u8 
+http://183.88.212.205:8010/play/a010 
 #EXTINF:-1,tvg-logo="http://tvimages.burrp.com/images/channels2/movies/Star-Movies-HD.png" group-title="ASIAN TV", Fox Movies Premium 
 http://iptv4u.club/site/freeiptv?channel=foxmoviespremium&e=1506964521&t=.m3u8 
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5254eeb7633a29_06834819.png" group-title="ASIAN TV", HBO 
