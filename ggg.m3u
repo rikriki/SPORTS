@@ -135,6 +135,8 @@ http://iptv4u.club/site/freeiptv?channel=boomerang&e=1506964521&t=.m3u8
 http://14.164.128.124:4022/rtp/232.84.1.91:10404
 #EXTINF:-1,tvg-logo="https://www.animax-asia.com/sites/asia.animax/files/animax_logo_endorsed_0.png" group-title="ASIAN TV", Animax 
 http://183.88.212.205:8010/play/a00h
+#EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5391392392d313_21504889.png" group-title="ASIAN TV", Baby TV
+http://27.254.63.162/stream/tot4k.php?channel_id=7773f3cef0334a28ad248552ea63d9e7
 #EXTINF:-1,tvg-logo="http://2017castingcalls.com/wp-content/uploads/2016/11/photo.jpg" group-title="ASIAN TV", Nickelodeon 
 http://iptv4u.club/site/freeiptv?channel=nickelodeon&e=1506964521&t=.m3u8 
 #EXTINF:-1, tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="ASIAN TV", Nick Jr. (ENG)
