@@ -9,7 +9,7 @@ http://livestream01.untvweb.com:1935/public/untvwebstream/playlist.m3u8
 http://59c3ec70cfde0.streamlock.net:443/channel_7/channel7/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/BEAM31PH_Logo.jpg/250px-BEAM31PH_Logo.jpg" group-title="PINOY TV", BEAM CHANNEL 4
 http://59c3ec70cfde0.streamlock.net:443/channel_4/channel4/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/BEAM31PH_Logo.jpg/250px-BEAM31PH_Logo.jpg" group-title="PINOY TV", BEAM CHANNEL 5
+#EXTINF:-1, tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/d/df/Cropped-island_living_logo.png" group-title="PINOY TV", ISLAND LIVING CHANNEL
 http://59c3ec70cfde0.streamlock.net:443/channel_5/channel5/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/BEAM31PH_Logo.jpg/250px-BEAM31PH_Logo.jpg" group-title="PINOY TV", BEAM CHANNEL 6
 http://59c3ec70cfde0.streamlock.net:443/channel_6/channel6/playlist.m3u8
