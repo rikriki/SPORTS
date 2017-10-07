@@ -70,7 +70,7 @@ http://183.88.212.205:8010/play/a033
 #EXTINF:-1, tvg-logo="http://www.skynetdth.com/images/channal_logo/life_time.png" group-title="ASIAN TV", LIFETIME
 http://183.88.212.205:8010/play/a03l
 #EXTINF:-1, tvg-logo="http://www.skynetdth.com/images/channal_logo/DIVI.png" group-title="ASIAN TV", Diva Universal
-http://183.88.212.205:8010/play/a03n
+http://14.164.128.124:4022/rtp/232.84.2.130:9576
 #EXTINF:-1, tvg-logo="http://www.skynetdth.com/images/channal_logo/EI.png" group-title="ASIAN TV", E!
 http://183.88.212.205:8010/play/a03o
 #EXTINF:-1, tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042011/_comedy_central_2011_-_3-line.jpg" group-title="ASIAN TV", Comedy Central
