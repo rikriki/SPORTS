@@ -73,6 +73,8 @@ http://183.88.212.205:8010/play/a03l
 http://183.88.212.205:8010/play/a03n
 #EXTINF:-1, tvg-logo="http://www.skynetdth.com/images/channal_logo/EI.png" group-title="ASIAN TV", E!
 http://183.88.212.205:8010/play/a03o
+#EXTINF:-1, tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042011/_comedy_central_2011_-_3-line.jpg" group-title="ASIAN TV", Comedy Central
+http://27.254.63.162/stream/tot4k.php?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" group-title="ASIAN TV", NBA TV
 http://doballvip.ddns.net:443/free54/0x777_2nba_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb4c46.png" group-title="ASIAN TV", Sky Sports Main Event 
