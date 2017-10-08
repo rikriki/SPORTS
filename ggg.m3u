@@ -472,5 +472,6 @@ http://dl.my-film.in/s1/Movie/The.Shawshank.Redemption.1994/The.Shawshank.Redemp
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3OTI3MDk4N15BMl5BanBnXkFtZTgwNDg2ODIyMjI@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="BLURAY/DTS/DD5/ULTRAHD MOVIES", TRANSFORMERS: THE LAST KNIGHT
 http://dl.my-film.in/s1/Movie/Transformers.The.Last.Knight.2017/Transformers.The.Last.Knight.2017.1080p.BluRay.mHD.DD5.1.x264-[My-Film].mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/UFC_Ferguson_Lee.jpg" group-title="PPV", UFC 216
-http://103.77.116.191:443/bt_sport_2_hd_360p.stream/playlist.m3u8?st=X8c_cRMi1TbhIN7GfRyQFw&username=5148&password=90cd7aa750773002c644&e=1507453599
-
+http://103.77.116.191:443/bt_sport_2_hd_360p.stream/playlist.m3u8?st=mo9VOtEYIAguVaThtgE2fQ&username=5148&password=72f6f7ac8064a009d4c4&e=1507458193
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/UFC_Ferguson_Lee.jpg" group-title="PPV", UFC 216 2
+http://103.77.116.191:443/av8.stream/playlist.m3u8?st=_NnQheCAlvPqGNh3DyEvzg&username=5148&password=86cd08aff6a093e1a2b1&e=1507458202
