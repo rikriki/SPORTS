@@ -59,6 +59,8 @@ http://14.164.128.124:4022/rtp/232.84.1.20:8094
 http://191.96.38.234:443/doballvip/0x777_warnertv_720p/chunklist.m3u8 
 #EXTINF:-1, tvg-logo="https://football-hd.com/img_channel.php?c=ch_548e8728b92736_74936861.png" group-title="ASIAN TV", KIX HD
 http://27.254.63.162/stream/tot4k.php?channel_id=e584e0adae6440eab366f5fe3a824f91
+#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df80048.jpg" group-title="ASIAN TV", RED by HBO
+http://14.164.128.124:4022/rtp/232.84.1.44:8244
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa3b20.png" group-title="ASIAN TV", FYI
 http://27.254.63.162/stream/totnew.php?channel_id=169a149fd1ef40edba0bbfc8e0f1bdd1
 #EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/60233/logo_crime%20+%20investigation.png" group-title="ASIAN TV", CRIME INVESTIGATION
@@ -79,6 +81,8 @@ http://14.164.128.124:4022/rtp/232.84.1.12:8046
 http://103.77.116.191:443/fox_sports_3_720p.stream/playlist.m3u8?st=XW8U7WcbMxpsHtKxOf2ljQ&username2=338712806554624&username=5148&password=mmmm98322f16169fde5cbe19&e=1507590970
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfbb1c3.png" group-title="ASIAN TV", Sky Sports F1
 http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1507570550&t=.m3u8 
+#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfe320c.jpg" group-title="ASIAN TV", Fight Sport
+ttp://doballvip.ddns.net:443/free53/0x222_ais_fightsport_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/pic_ch350.jpg" group-title="ASIAN TV", MTV Asia
 http://iptv4u.club/site/freeiptv?channel=mtvasia&e=1507570550&t=.m3u8
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=chv-inter.png" group-title="ASIAN TV", Channel V
@@ -93,6 +97,8 @@ http://14.164.128.124:4022/rtp/232.84.1.91:10404
 http://27.254.63.162/stream/tot4k.php?channel_id=7773f3cef0334a28ad248552ea63d9e7
 #EXTINF:-1, tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="ASIAN TV", Nick Jr. (ENG)
 http://27.254.63.162/stream/tot4k.php?channel_id=09fffe8d426745689f60cbc24da1bb49
+#EXTINF:-1,tvg-logo="http://bestmediainfo.com/wp-content/uploads/2014/06/da-vinci-learning-new.jpg" group-title="ASIAN TV", Da Vinci Learning
+http://14.164.128.124:4022/rtp/232.84.1.108:10224
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5476e8bf87fa52_31319115.png" group-title="ASIAN TV", Discovery Channel 
 http://14.164.128.124:4022/rtp/232.84.1.47:8262
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9a542.png" group-title="ASIAN TV", Nat Geo 
