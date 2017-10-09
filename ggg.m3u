@@ -25,7 +25,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://iptv4u.club/site/freeiptv?channel=tvn&e=1507570550&t=.m3u8
 #EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/391_300.png" group-title="ASIAN TV",, KBS WORLD 
 http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-1474711308/eol/20200101T0000/hash/256504442b73f1d929c1a36b033cfd53facda543/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://www.seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="ASIAN TV", Fox Movies  
+#EXTINF:-1,tvg-logo="http://cdn.24.co.za/files/Cms/General/d/127/4846b11e8b1b4c1a866c4c428bbed264.jpg" group-title="ASIAN TV", Fox Movies  
 http://iptv4u.club/site/freeiptv?channel=foxmovies&e=1507570550&t=.m3u8
 #EXTINF:-1,tvg-logo="http://www.astropackage.com.my/wp-content/uploads/2016/01/Astro-FFM-HD-ch430.png" group-title="ASIAN TV", Fox Family Movies   
 http://doballvip.ddns.net:443/free53/0x222_ais_foxfamen_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
