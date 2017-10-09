@@ -67,6 +67,8 @@ http://27.254.63.162/stream/totnew.php?channel_id=169a149fd1ef40edba0bbfc8e0f1bd
 http://27.254.63.162/stream/totnew.php?channel_id=9961a963920f45f4bc0d81c3e478b334
 #EXTINF:-1, tvg-logo="http://www.skynetdth.com/images/channal_logo/DIVI.png" group-title="ASIAN TV", Diva Universal
 http://14.164.128.124:4022/rtp/232.84.2.130:9576
+#EXTINF:-1, tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2012/04/e_logo.jpg" group-title="ASIAN TV", E!
+http://183.88.212.205:8010/play/a03o
 #EXTINF:-1, tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042011/_comedy_central_2011_-_3-line.jpg" group-title="ASIAN TV", Comedy Central
 http://27.254.63.162/stream/tot4k.php?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" group-title="ASIAN TV", NBA TV
@@ -417,5 +419,3 @@ http://dl.my-film.in/s1/Movie/The.Revenant.2015/The.Revenant.2015.BluRay.1080p.F
 http://dl.my-film.in/s1/Movie/The.Shawshank.Redemption.1994/The.Shawshank.Redemption.1994.720p.BluRay.Full.HD.DTS.x264-EbP.14957383.mkv
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3OTI3MDk4N15BMl5BanBnXkFtZTgwNDg2ODIyMjI@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="BLURAY/DTS/DD5/ULTRAHD MOVIES", TRANSFORMERS: THE LAST KNIGHT
 http://dl.my-film.in/s1/Movie/Transformers.The.Last.Knight.2017/Transformers.The.Last.Knight.2017.1080p.BluRay.mHD.DD5.1.x264-[My-Film].mkv
-#EXTINF:-1, tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/nfl/nfl/thumbs/shows/nflredzone_es.jpg" group-title="NFL", NFL REDZONE CHANNEL
-http://103.77.116.191:443/skysportmix_360p.stream/playlist.m3u8?st=o5GVDje2LsjDvNoievZ3DA&username2=338712806554624&username=5148&password=mmmmb18373d478515b19ced1&e=1507502611
