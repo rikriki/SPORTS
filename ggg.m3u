@@ -85,8 +85,12 @@ http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1507570550&t=.m3u8
 ttp://doballvip.ddns.net:443/free53/0x222_ais_fightsport_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/pic_ch350.jpg" group-title="ASIAN TV", MTV Asia
 http://iptv4u.club/site/freeiptv?channel=mtvasia&e=1507570550&t=.m3u8
+#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df95a33.png" group-title="ASIAN TV", MTV China
+http://iptv4u.club/site/freeiptv?channel=mtvchina&e=1507573290&t=.m3u8
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=chv-inter.png" group-title="ASIAN TV", Channel V
 http://14.164.128.124:4022/rtp/232.84.1.13:8052
+#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9864d.png" group-title="ASIAN TV", Trace Urban
+http://iptv4u.club/site/freeiptv?channel=traceurban&e=1507573290&t=.m3u8
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_548e80899d2e28_27436512.png" group-title="ASIAN TV", Disney Channel 
 http://14.164.128.124:4022/rtp/232.84.1.18:8082
 #EXTINF:-1,tvg-logo="http://www.toonbarn.com/wordpress/wp-content/uploads/2011/05/Disney-Junior-set-to-launch-in-the-UK-and-Canada.jpg" group-title="ASIAN TV", Disney Junior 
