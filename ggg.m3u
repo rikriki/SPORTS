@@ -40,15 +40,21 @@ http://iptv4u.club/site/freeiptv?channel=mbc&e=1506964521&t=.m3u8
 #EXTINF:-1,tvg-logo="http://images.amcnetworks.com/blogs.amctv.com/wp-content/uploads/2013/04/amc-logo-rebrand-blk-3251.jpg" group-title="ASIAN TV", AMC 
 http://iptv4u.club/site/freeiptv?channel=amc&e=1506964521&t=.m3u8  
 #EXTINF:-1,tvg-logo="http://www.astropackage.com.my/wp-content/uploads/2016/01/Astro-FFM-HD-ch430.png" group-title="ASIAN TV", Fox Family Movies   
-http://183.88.212.205:8010/play/a01m
+http://doballvip.ddns.net:443/free53/0x222_ais_foxfamen_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_568ed8edcbce27_67733492.png" group-title="ASIAN TV", Fox Action Movies  
 http://27.254.63.162/stream/tot4k.php?channel_id=206105b34a1c44b886c6cd3c59105803
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_movies_premium.png" group-title="ASIAN TV", Fox Movies Premium 
-http://183.88.212.205:8010/play/a01l
+http://doballvip.ddns.net:443/free53/0x222_ais_foxpremiumth_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
 #EXTINF:-1,tvg-logo="http://tvimages.burrp.com/images/channels2/movies/Star-Movies-HD.png" group-title="ASIAN TV", Star Movies HD
 http://14.164.128.124:4022/rtp/232.84.1.10:8034
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5254eeb7633a29_06834819.png" group-title="ASIAN TV", HBO 
 http://14.164.128.124:4022/rtp/232.84.1.19:8088
+#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df84e68.jpg" group-title="ASIAN TV", HBO Hits
+http://doballvip.ddns.net:443/free53/0x222_ais_hbohit_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85235.jpg" group-title="ASIAN TV", HBO Signature
+http://doballvip.ddns.net:443/free53/0x222_ais_hbosignature_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
+#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df8561e.jpg" group-title="ASIAN TV", HBO Family
+http://doballvip.ddns.net:443/free53/0x222_ais_hbofam_720p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5345636129ac90_79610696.png" group-title="ASIAN TV", AXN 
 http://14.164.128.124:4022/rtp/232.84.1.14:8058
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="ASIAN TV", Fox Life 
