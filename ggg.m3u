@@ -70,7 +70,7 @@ http://183.88.212.205:8010/play/a03o
 #EXTINF:-1, tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042011/_comedy_central_2011_-_3-line.jpg" group-title="ASIAN TV", Comedy Central
 http://27.254.63.162/stream/tot4k.php?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" group-title="ASIAN TV", NBA TV
-http://103.77.116.191:443/nba_tv_hd_480p.stream/playlist.m3u8?st=4miZUcSDhcCuK4J6dHh5ng&username2=338712806554624&username=5148&password=mmmm8668d4da4e0e652c2c5f&e=1507665935
+http://103.77.116.191:443/nba_tv_hd_720p.stream/playlist.m3u8?st=1OeojV9P8ODbvfcmqeTUGQ&username2=338712806554624&username=5148&password=mmmm17fab8108da23fc509ce&e=1507666615
 #EXTINF:-1, tvg-logo="http://www.tvsportsawards.org/wp-content/uploads/2017/09/SportsThematicChannel__0000s_0002_MUTV_logo.png" group-title="ASIAN TV", MUTV
 http://doballvip.ddns.net:443/free54/0x444_mutv_360p/playlist.m3u8?key=29vg5dbvh4fe6753qm66idv6
 #EXTINF:-1,tvg-logo="https://bangshift.com/wp-content/uploads/2015/07/fox.jpg" group-title="ASIAN TV", Fox Sports 1
