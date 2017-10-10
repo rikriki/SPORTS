@@ -44,9 +44,9 @@ http://103.77.116.191:443/hbo_family_720p.stream/playlist.m3u8?st=czbpeBdd0uOoGz
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5345636129ac90_79610696.png" group-title="ASIAN TV", AXN 
 http://103.77.116.191:443/axn_hd_480p.stream/playlist.m3u8?st=WAdhau1XmPreEhPB77s8iw&username2=338712806554624&username=5148&password=mmmm5197356ebab1ac7acc17&e=1507667016
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df8044c.png" group-title="ASIAN TV", FOX
-http://14.164.128.124:4022/rtp/232.84.1.66:8370
+http://103.77.116.191:443/fox_thai_480p.stream/playlist.m3u8?st=lQOgYhZ61pXpynK4VgkE3w&username2=338712806554624&username=5148&password=mmmm3cd15e05973bd191c02a&e=1507667109
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="ASIAN TV", Fox Life 
-http://14.164.128.124:4022/rtp/232.84.2.119:8382
+http://103.77.116.191:443/starworld_720p.stream/playlist.m3u8?st=gyGWiRFNVOd_y_UupdfxFQ&username2=338712806554624&username=5148&password=mmmmc5ad0ea4f8cf383c4d11&e=1507667292
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5254ef03234b73_45266199.png" group-title="ASIAN TV", FX
 http://27.254.63.162/stream/totnew.php?channel_id=2e0e4b05aa6e428593f3b45b710045b7 
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df80f7d.jpg" group-title="ASIAN TV", FOX CRIME
