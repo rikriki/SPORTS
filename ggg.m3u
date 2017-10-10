@@ -82,7 +82,7 @@ http://103.77.116.250/boboapp6/FOX_SPORTS_2/playlist.m3u8?userid=174906&e=150736
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e00c5fe.png" group-title="ASIAN TV", Fox Sports 3
 http://103.77.116.250/boboapp6/FOX_SPORTS_3/playlist.m3u8?userid=174906&e=1507362155&st=TtASQAmbtUD6p3YN8g_GiA
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfbb1c3.png" group-title="ASIAN TV", Sky Sports F1
-http://103.77.116.191:443/sky_sports_f1_360p.stream/playlist.m3u8?st=iFJY8ZEJYVdT_0j8FRKo8Q&username2=338712806554624&username=5148&password=mmmmdbb2decb2b0a4c85e577&e=1507674345
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21171.m3u8
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfe320c.jpg" group-title="ASIAN TV", Fight Sport
 http://103.77.116.250/boboapp6/FIGHT_SPORTS_HD/playlist.m3u8?userid=174906&e=1507362214&st=82KU-p2taIlZa7OY0m7Htw
 #EXTINF:-1,tvg-logo="http://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2FLogo_SI_ASN_Campaignasia.png" group-title="ASIAN TV", Sports Illustrated
