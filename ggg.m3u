@@ -34,7 +34,7 @@ http://103.77.116.191:443/fox_movies_premium_hd_480p.stream/playlist.m3u8?st=7ON
 #EXTINF:-1,tvg-logo="http://tvimages.burrp.com/images/channels2/movies/Star-Movies-HD.png" group-title="ASIAN TV", Star Movies HD
 http://14.164.128.124:4022/rtp/232.84.1.10:8034
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5254eeb7633a29_06834819.png" group-title="ASIAN TV", HBO 
-http://14.164.128.124:4022/rtp/232.84.1.19:8088
+http://103.77.116.191:443/hbo_hd_720p.stream/playlist.m3u8?st=eK2t8cNpWq8_9vpOrpgmmg&username2=338712806554624&username=5148&password=mmmmb565636dd3b3aec0542b&e=1507666111
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df84e68.jpg" group-title="ASIAN TV", HBO Hits
 http://103.77.116.191:443/hbo_hits_720p.stream/playlist.m3u8?st=slUs-M6yIKueIYlFpweCTg&username2=338712806554624&username=5148&password=mmmmd52e262373aeaf72e1c5&e=1507665097
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85235.jpg" group-title="ASIAN TV", HBO Signature
