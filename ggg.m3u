@@ -42,7 +42,7 @@ http://103.77.116.191:443/hbo_signature_720p.stream/playlist.m3u8?st=t_Oszi0Apds
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df8561e.jpg" group-title="ASIAN TV", HBO Family
 http://103.77.116.191:443/hbo_family_720p.stream/playlist.m3u8?st=czbpeBdd0uOoGzZT15H2zA&username2=338712806554624&username=5148&password=mmmmf61ac4f3122efa3c6db3&e=1507665245
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5345636129ac90_79610696.png" group-title="ASIAN TV", AXN 
-http://14.164.128.124:4022/rtp/232.84.1.14:8058
+http://103.77.116.191:443/axn_hd_480p.stream/playlist.m3u8?st=WAdhau1XmPreEhPB77s8iw&username2=338712806554624&username=5148&password=mmmm5197356ebab1ac7acc17&e=1507667016
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df8044c.png" group-title="ASIAN TV", FOX
 http://14.164.128.124:4022/rtp/232.84.1.66:8370
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="ASIAN TV", Fox Life 
