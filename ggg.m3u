@@ -81,7 +81,7 @@ http://14.164.128.124:4022/rtp/232.84.1.11:8040
 #EXTINF:-1,tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/04/fs2logo.png" group-title="ASIAN TV", Fox Sports 2  
 http://14.164.128.124:4022/rtp/232.84.1.12:8046
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e00c5fe.png" group-title="ASIAN TV", Fox Sports 3
-http://103.77.116.191:443/fox_sports_3_720p.stream/playlist.m3u8?st=rWmom061RB3N2IDhzT2mhA&username2=338712806554624&username=5148&password=mmmm98278f97a28215a4c1e4&e=1507618654
+http://103.77.116.191:443/fox_sports_3_720p.stream/playlist.m3u8?st=pLF5tzmayHuCrPlRR-GnnQ&username2=338712806554624&username=5148&password=mmmm7592237a6f3119838ca5&e=1507631980
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfbb1c3.png" group-title="ASIAN TV", Sky Sports F1
 http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1507570550&t=.m3u8 
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfe320c.jpg" group-title="ASIAN TV", Fight Sport
