@@ -58,7 +58,7 @@ http://103.77.116.250/boboapp1/warner.stream/playlist.m3u8?userid=174906&e=15073
 #EXTINF:-1, tvg-logo="https://football-hd.com/img_channel.php?c=ch_548e8728b92736_74936861.png" group-title="ASIAN TV", KIX HD
 http://27.254.63.162/stream/tot4k.php?channel_id=e584e0adae6440eab366f5fe3a824f91
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df80048.jpg" group-title="ASIAN TV", RED by HBO
-http://183.88.212.205:8010/play/a03c
+http://doballvip.ddns.net:443/doballvip/0x222_ais_redbyhboth_360p/chunklist_w2129342521.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa3b20.png" group-title="ASIAN TV", FYI
 http://27.254.63.162/stream/totnew.php?channel_id=169a149fd1ef40edba0bbfc8e0f1bdd1
 #EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/60233/logo_crime%20+%20investigation.png" group-title="ASIAN TV", CRIME INVESTIGATION
@@ -90,9 +90,9 @@ http://103.77.116.250/boboapp1/a_sportillus.stream/playlist.m3u8?userid=174906&e
 #EXTINF:-1,tvg-logo="https://tvbtn.files.wordpress.com/2013/01/golf_channel-350x291.jpg" group-title="ASIAN TV", Golf Channel
 http://103.77.116.250/boboapp6/GOLF/playlist.m3u8?userid=174906&e=1507361674&st=x8xpRKBcZqv7QJdm9OiKVQ
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/pic_ch350.jpg" group-title="ASIAN TV", MTV Asia
-http://183.88.212.205:8010/play/a01t
+http://27.254.63.162/stream/tot4k.php?channel_id=ebce2f5139c54eda8b111e5923af9c9e
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df95a33.png" group-title="ASIAN TV", MTV China
-http://183.88.212.205:8010/play/a01s
+http://27.254.63.162/stream/tot4k.php?channel_id=deb56e700dbc4d9ea5af08e9d300a675
 #EXTINF:-1,tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/mtv-rocks.png" group-title="ASIAN TV", MTV Rocks
 http://persik.by/stream/1417/252987/10227.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/892028647347015680/JKQayy2R.jpg" group-title="ASIAN TV", MTV Hits
@@ -100,7 +100,7 @@ http://persik.by/stream/1417/252987/10208.m3u8
 #EXTINF:-1,tvg-logo="http://teve.ba/img/content/mtv-live-hd.gif" group-title="ASIAN TV", MTV Live HD
 http://persik.by/stream/1417/252987/10289.m3u8
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=chv-inter.png" group-title="ASIAN TV", Channel V
-http://183.88.212.205:8010/play/a01p
+http://27.254.63.162/stream/tot4k.php?channel_id=9e38a0084e6d45d080139a166c60a102
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9864d.png" group-title="ASIAN TV", Trace Urban
 http://27.254.63.162/stream/totnew.php?channel_id=69ebf00065494dc39a3911c7d1eb9d71 
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_548e80899d2e28_27436512.png" group-title="ASIAN TV", Disney Channel 
