@@ -64,7 +64,7 @@ http://27.254.63.162/stream/totnew.php?channel_id=169a149fd1ef40edba0bbfc8e0f1bd
 #EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/60233/logo_crime%20+%20investigation.png" group-title="ASIAN TV", CRIME INVESTIGATION
 http://27.254.63.162/stream/totnew.php?channel_id=9961a963920f45f4bc0d81c3e478b334
 #EXTINF:-1, tvg-logo="http://www.skynetdth.com/images/channal_logo/DIVI.png" group-title="ASIAN TV", Diva Universal
-http://183.88.212.205:8010/play/a03n
+http://103.77.116.250/boboapp6/DIVA_UNIVERSAL/playlist.m3u8?userid=174906&e=1507381408&st=dfmzTY1VIKizZ-h9DA1IFg  
 #EXTINF:-1, tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2012/04/e_logo.jpg" group-title="ASIAN TV", E!
 http://103.77.116.250/boboapp6/E/playlist.m3u8?userid=174906&e=1507381456&st=LEA3f7plCb0eBCIbW5FXRQ
 #EXTINF:-1, tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042011/_comedy_central_2011_-_3-line.jpg" group-title="ASIAN TV", Comedy Central
