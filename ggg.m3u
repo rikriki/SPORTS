@@ -22,11 +22,11 @@ http://59c3ec70cfde0.streamlock.net:443/channel_1/channel1/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="ASIAN TV", Arirang 
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/740033272860680192/q0cWLUKf.jpg" group-title="ASIAN TV", TVN Asia 
-http://iptv4u.club/site/freeiptv?channel=tvn&e=1507570550&t=.m3u8
+http://183.88.212.205:8010/play/a024
 #EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/391_300.png" group-title="ASIAN TV",, KBS WORLD 
 http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-1474711308/eol/20200101T0000/hash/256504442b73f1d929c1a36b033cfd53facda543/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.astropackage.com.my/wp-content/uploads/2016/01/Astro-FFM-HD-ch430.png" group-title="ASIAN TV", Fox Family Movies   
-http://103.77.116.250/boboapp6/FOX_FAMILY_MOVIES/playlist.m3u8?userid=174906&e=1507380556&st=yQg4wpIr1J3WfXPBUn-J_Q
+http://183.88.212.205:8010/play/a01m
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_568ed8edcbce27_67733492.png" group-title="ASIAN TV", Fox Action Movies  
 http://103.77.116.250/boboapp1/fox_action.stream/playlist.m3u8?userid=174906&e=1507380332&st=9TLg2668SFOhnT5V379eQA
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_movies_premium.png" group-title="ASIAN TV", Fox Movies Premium 
@@ -34,7 +34,7 @@ http://103.77.116.250/boboapp1/foxp.stream/playlist.m3u8?userid=174906&e=1507380
 #EXTINF:-1,tvg-logo="http://tvimages.burrp.com/images/channels2/movies/Star-Movies-HD.png" group-title="ASIAN TV", Star Movies HD
 http://14.164.128.124:4022/rtp/232.84.1.10:8034
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5254eeb7633a29_06834819.png" group-title="ASIAN TV", HBO 
-http://103.77.116.250/boboapp1/a_hbohd.stream/playlist.m3u8?userid=174906&e=1507378294&st=2ESpOxd16-GZhTekC6LZzA
+http://103.77.116.250/boboapp1/a_hbohd.stream/playlist.m3u8?userid=174906&e=1507380027&st=J56KubENM6nuA0bDrYv9sQ
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df84e68.jpg" group-title="ASIAN TV", HBO Hits
 http://103.77.116.250/boboapp1/a_hbohit.stream/playlist.m3u8?userid=174906&e=1507380027&st=J56KubENM6nuA0bDrYv9sQ
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85235.jpg" group-title="ASIAN TV", HBO Signature
@@ -76,11 +76,11 @@ http://103.77.116.250/boboapp1/nba2.stream/playlist.m3u8?userid=174906&e=1507361
 #EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" group-title="ASIAN TV", Fox Sports HD
 http://103.77.116.250/boboapp1/fox1.stream/playlist.m3u8?userid=174906&e=1507362095&st=reCrWEfr2Ijd2y11mqvUvA
 #EXTINF:-1,tvg-logo="https://bangshift.com/wp-content/uploads/2015/07/fox.jpg" group-title="ASIAN TV", Fox Sports 1
-http://103.77.116.250/boboapp6/FOX_SPORTS_1/playlist.m3u8?userid=174906&e=1507362114&st=vLw3UguXjpa8ir3WLOidEQ
+http://183.88.212.205:8010/play/a02m
 #EXTINF:-1,tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/04/fs2logo.png" group-title="ASIAN TV", Fox Sports 2  
-http://103.77.116.250/boboapp6/FOX_SPORTS_2/playlist.m3u8?userid=174906&e=1507362138&st=dpGw1OzlCCiejNrhZ0tldw
+http://27.254.63.162/stream/tot4k.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e00c5fe.png" group-title="ASIAN TV", Fox Sports 3
-http://103.77.116.250/boboapp6/FOX_SPORTS_3/playlist.m3u8?userid=174906&e=1507362155&st=TtASQAmbtUD6p3YN8g_GiA
+http://27.254.63.162/stream/tot4k.php?channel_id=443ea6ef1768462aaffdff38ce2a4355
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfbb1c3.png" group-title="ASIAN TV", Sky Sports F1
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21171.m3u8
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfe320c.jpg" group-title="ASIAN TV", Fight Sport
@@ -90,9 +90,9 @@ http://103.77.116.250/boboapp1/a_sportillus.stream/playlist.m3u8?userid=174906&e
 #EXTINF:-1,tvg-logo="https://tvbtn.files.wordpress.com/2013/01/golf_channel-350x291.jpg" group-title="ASIAN TV", Golf Channel
 http://103.77.116.250/boboapp6/GOLF/playlist.m3u8?userid=174906&e=1507361674&st=x8xpRKBcZqv7QJdm9OiKVQ
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/pic_ch350.jpg" group-title="ASIAN TV", MTV Asia
-http://iptv4u.club/site/freeiptv?channel=mtvasia&e=1507570550&t=.m3u8
+http://183.88.212.205:8010/play/a01t
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df95a33.png" group-title="ASIAN TV", MTV China
-http://iptv4u.club/site/freeiptv?channel=mtvchina&e=1507573290&t=.m3u8
+http://183.88.212.205:8010/play/a01s
 #EXTINF:-1,tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/mtv-rocks.png" group-title="ASIAN TV", MTV Rocks
 http://persik.by/stream/1417/252987/10227.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/892028647347015680/JKQayy2R.jpg" group-title="ASIAN TV", MTV Hits
