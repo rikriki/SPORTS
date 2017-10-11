@@ -26,21 +26,21 @@ http://183.88.212.205:8010/play/a024
 #EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/391_300.png" group-title="ASIAN TV",, KBS WORLD 
 http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-1474711308/eol/20200101T0000/hash/256504442b73f1d929c1a36b033cfd53facda543/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.astropackage.com.my/wp-content/uploads/2016/01/Astro-FFM-HD-ch430.png" group-title="ASIAN TV", Fox Family Movies   
-http://183.88.212.205:8010/play/a01m
+http://103.77.116.191:443/ais_foxfamen_720p.stream/playlist.m3u8?st=F98Wji_L-mSO7Y2VtL1uyA&username2=338712806554624&username=5148&password=mmmmf85927243eb195fc07c1&e=1507752643
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_568ed8edcbce27_67733492.png" group-title="ASIAN TV", Fox Action Movies  
-http://103.77.116.250/boboapp1/fox_action.stream/playlist.m3u8?userid=174906&e=1507380332&st=9TLg2668SFOhnT5V379eQA
+http://103.77.116.191:443/foxactionmovieen_720p.stream/playlist.m3u8?st=F98Wji_L-mSO7Y2VtL1uyA&username2=338712806554624&username=5148&password=mmmmf85927243eb195fc07c1&e=1507752643
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_movies_premium.png" group-title="ASIAN TV", Fox Movies Premium 
-http://103.77.116.250/boboapp1/foxp.stream/playlist.m3u8?userid=174906&e=1507380382&st=MXTcqMCFvBZahN3o6WZDlg
+http://103.77.116.191:443/fox_movies_premium_hd_720p.stream/playlist.m3u8?st=F98Wji_L-mSO7Y2VtL1uyA&username2=338712806554624&username=5148&password=mmmmf85927243eb195fc07c1&e=1507752643
 #EXTINF:-1,tvg-logo="http://tvimages.burrp.com/images/channels2/movies/Star-Movies-HD.png" group-title="ASIAN TV", Star Movies HD
 http://14.164.128.124:4022/rtp/232.84.1.10:8034
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5254eeb7633a29_06834819.png" group-title="ASIAN TV", HBO 
-http://103.77.116.250/boboapp1/a_hbohd.stream/playlist.m3u8?userid=174906&e=1507380027&st=J56KubENM6nuA0bDrYv9sQ
+http://103.77.116.191:443/hbo_hd_720p.stream/playlist.m3u8?st=F98Wji_L-mSO7Y2VtL1uyA&username2=338712806554624&username=5148&password=mmmmf85927243eb195fc07c1&e=1507752643
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df84e68.jpg" group-title="ASIAN TV", HBO Hits
-http://103.77.116.250/boboapp1/a_hbohit.stream/playlist.m3u8?userid=174906&e=1507380027&st=J56KubENM6nuA0bDrYv9sQ
-#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85235.jpg" group-title="ASIAN TV", HBO Signature
-http://103.77.116.250/boboapp1/a_hbosignature.stream/playlist.m3u8?userid=174906&e=1507380060&st=Zhk3WjNM3ViMIbmzaDzCtQ
+http://103.77.116.191:443/hbo_hits_720p.stream/playlist.m3u8?st=F98Wji_L-mSO7Y2VtL1uyA&username2=338712806554624&username=5148&password=mmmmf85927243eb195fc07c1&e=1507752643
+EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85235.jpg" group-title="ASIAN TV", HBO Signature
+http://103.77.116.191:443/hbo_signature_720p.stream/playlist.m3u8?st=F98Wji_L-mSO7Y2VtL1uyA&username2=338712806554624&username=5148&password=mmmmf85927243eb195fc07c1&e=1507752643
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df8561e.jpg" group-title="ASIAN TV", HBO Family
-http://103.77.116.250/boboapp1/a_hbofam.stream/playlist.m3u8?userid=174906&e=1507380142&st=3UIgSbAJiAmrRPiA1o7FeQ
+http://103.77.116.191:443/hbo_family_720p.stream/playlist.m3u8?st=F98Wji_L-mSO7Y2VtL1uyA&username2=338712806554624&username=5148&password=mmmmf85927243eb195fc07c1&e=1507752643
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5345636129ac90_79610696.png" group-title="ASIAN TV", AXN 
 http://103.77.116.250/boboapp2/AXN_EA_HD/playlist.m3u8?userid=174906&e=1507380634&st=xwb1lT2l4cj_MC-4GqrYCw
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df8044c.png" group-title="ASIAN TV", FOX
