@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://lh4.googleusercontent.com/-2TIg7V8TpKo/TYD9Z5jg97I/AAAAAAAAACc/3DQcc_fXs9E/s1600/TV5+Logo.jpg" group-title="PINOY TV", TV 5 KAPATID
-http://stream3.news5.ph:1935/n5e/singko_3/playlist.m3u8
+http://stream3.news5.ph:1935/n5e/singko_3/chunklist_w975878247.m3u8
 #EXTINF:-1, tvg-logo="http://cnnphilippines.com/incoming/ttbl9f-main-logo.png/BINARY/main-logo.png" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV
