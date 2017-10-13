@@ -425,7 +425,7 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/21947.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21946.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network US" tvg-logo="http://static.iptv-epg.com/us/CartoonNetwork.us.png" group-title="USA TV",Cartoon Network 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBS US" tvg-logo="https://illuminatisymbols.info/wp-content/uploads/2013/02/cbs-logo.png" group-title="USA TV",CBS 
+#EXTINF:-1 tvg-id="" tvg-name="CBS US" tvg-logo="http://chrisglass.com/journal/images/2007/0926-cbs-logo.jpg" group-title="USA TV",CBS 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21986.m3u8
 #EXTINF:-1 tvg-id="CBS News" tvg-name="CBS NEWS US" tvg-logo="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/1970713/CBS_News_Logo.jpg" group-title="USA TV",CBS NEWS 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21982.m3u8
