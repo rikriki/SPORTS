@@ -549,7 +549,7 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/67060.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67059.m3u8
 #EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="Lifetime Network US" tvg-logo="http://www.mylifetimetv.ca/images/mylifetimetvlogoog.jpg" group-title="USA TV",Lifetime Network 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67345.m3u8
-#EXTINF:-1 tvg-id="CineMax [HD]" tvg-name="MAX E US" tvg-logo="https://sc.dish.com/shared/images/station-logos/max-e.png" group-title="USA TV",MAX E 
+#EXTINF:-1 tvg-id="CineMax [HD]" tvg-name="MAX E US" tvg-logo="http://www.latinheat.com/wp-content/uploads/2015/03/cinemax.png" group-title="USA TV",MAX E 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21852.m3u8
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC US" tvg-logo="http://static.iptv-epg.com/us/MSNBC.us.png" group-title="USA TV",MSNBC 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/88974.m3u8
