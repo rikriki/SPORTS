@@ -817,3 +817,27 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/21753.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21754.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MLB Network SD" tvg-logo="" group-title="SPORTS",MLB Network SD
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 9 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png" group-title="NBA League Pass",NBA LEAGUE PASS LIVE 9 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 8 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png" group-title="NBA League Pass",NBA LEAGUE PASS LIVE 8 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 7 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png" group-title="NBA League Pass",NBA LEAGUE PASS LIVE 7 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 6 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png" group-title="NBA League Pass",NBA LEAGUE PASS LIVE 6 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 5 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png" group-title="NBA League Pass",NBA LEAGUE PASS LIVE 5 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 4 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png" group-title="NBA League Pass",NBA LEAGUE PASS LIVE 4 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 3 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png" group-title="NBA League Pass",NBA LEAGUE PASS LIVE 3 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png" group-title="NBA League Pass",NBA LEAGUE PASS LIVE 2 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 14 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png" group-title="NBA League Pass",NBA LEAGUE PASS LIVE 14 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 10 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png" group-title="NBA League Pass",NBA LEAGUE PASS LIVE 10 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png" group-title="NBA League Pass",NBA LEAGUE PASS LIVE 1 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 15 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png" group-title="NBA League Pass",NBA LEAGUE PASS LIVE 15 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21737.m3u8
