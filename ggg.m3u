@@ -417,9 +417,9 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/21864.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21867.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEACH TV US" tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/476x268/public/beachtvhd.jpg" group-title="USA TV",BEACH TV 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67365.m3u8
-#EXTINF:-1 tvg-id="BET.us" tvg-name="BET US" tvg-logo="http://static.iptv-epg.com/us/BET.us.png" group-title="USA TV",BET 
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET US" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51QK1IuXaWL.png" group-title="USA TV",BET 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/66993.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV US" tvg-logo="http://static.iptv-epg.com/us/BloombergTV.us.png" group-title="USA TV",Bloomberg TV 
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV US" tvg-logo="https://pbs.twimg.com/profile_images/714801760632770560/7My2hMBt.jpg" group-title="USA TV",Bloomberg TV 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/88957.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BUZZR US" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/01/Buzzr-TV-Network-logo-design-america.png" group-title="USA TV",BUZZR 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67367.m3u8
@@ -433,7 +433,7 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/21946.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21993.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS US" tvg-logo="https://illuminatisymbols.info/wp-content/uploads/2013/02/cbs-logo.png" group-title="USA TV",CBS 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21986.m3u8
-#EXTINF:-1 tvg-id="CBS News" tvg-name="CBS NEWS US" tvg-logo="https://seeklogo.com/images/C/cbs-news-logo-0F3AB3DAF8-seeklogo.com.gif" group-title="USA TV",CBS NEWS 
+#EXTINF:-1 tvg-id="CBS News" tvg-name="CBS NEWS US" tvg-logo="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/1970713/CBS_News_Logo.jpg" group-title="USA TV",CBS NEWS 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21982.m3u8
 #EXTINF:-1 tvg-id="AFNPrimeAtlantic.us" tvg-name="CSPAN US" tvg-logo="https://seeklogo.com/images/C/C-Span-logo-E4DF428F45-seeklogo.com.gif" group-title="USA TV",CSPAN 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67368.m3u8
@@ -459,7 +459,7 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/21884.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/66995.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central US" tvg-logo="http://static.iptv-epg.com/us/ComedyCentral.us.png" group-title="USA TV",Comedy Central 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21878.m3u8
-#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel US" tvg-logo="http://static.iptv-epg.com/us/CookingChannel.us.png" group-title="USA TV",Cooking Channel 
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel US" tvg-logo="http://cook.fnr.sndimg.com/content/dam/images/cook/fullset/2015/6/25/0/CCTV-live-logo.jpg.rend.hgtvcom.336.252.suffix/1435335867593.jpeg" group-title="USA TV",Cooking Channel 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21876.m3u8
 #EXTINF:-1 tvg-id="Cozi [WNBC]" tvg-name="Cozi US" tvg-logo="https://media.nbcnewyork.com/designimages/coziSocialLogo.png" group-title="USA TV",Cozi 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21875.m3u8
@@ -513,9 +513,9 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/21935.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/88970.m3u8
 #EXTINF:-1 tvg-id="FYI.us" tvg-name="FYI US" tvg-logo="http://static.iptv-epg.com/us/FYI.us.png" group-title="USA TV",FYI 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67045.m3u8
-#EXTINF:-1 tvg-id="GetTVt.us" tvg-name="Get TV US" tvg-logo="http://static.iptv-epg.com/us/GetTVt.us.png" group-title="USA TV",Get TV 
+#EXTINF:-1 tvg-id="GetTVt.us" tvg-name="Get TV US" tvg-logo="hhttp://www.radikal.com/wp-content/uploads/2011/12/Capture1.png" group-title="USA TV",Get TV 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/88968.m3u8
-#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit US" tvg-logo="http://static.iptv-epg.com/us/Grit.us.png" group-title="USA TV",Grit 
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit US" tvg-logo="http://mrantenna.com/wp-content/uploads/2016/01/grit.png" group-title="USA TV",Grit 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21930.m3u8
 #EXTINF:-1 tvg-id="Hallmark.us" tvg-name="Hallmark US" tvg-logo="http://static.iptv-epg.com/us/Hallmark.us.png" group-title="USA TV",Hallmark 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/88965.m3u8
@@ -581,11 +581,11 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/21972.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21974.m3u8
 #EXTINF:-1 tvg-id="PBS" tvg-name="PBS US" tvg-logo="http://www.pbs.org/brands/wp-content/uploads/2017/01/img_logo_incorrect06a.jpg" group-title="USA TV",PBS 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21988.m3u8
-#EXTINF:-1 tvg-id="PursuitChannel.us" tvg-name="Pursuit Channel US" tvg-logo="http://static.iptv-epg.com/us/PursuitChannel.us.png" group-title="USA TV",Pursuit Channel 
+#EXTINF:-1 tvg-id="PursuitChannel.us" tvg-name="Pursuit Channel US" tvg-logo="http://masspursuittv.com/wp-content/uploads/2017/01/Pursuit_Channel_Logo_Cropped.jpg" group-title="USA TV",Pursuit Channel 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67419.m3u8
 #EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC US" tvg-logo="http://static.iptv-epg.com/us/QVC.us.png" group-title="USA TV",QVC 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67417.m3u8
-#EXTINF:-1 tvg-id="TVLand.us" tvg-name="QUBO US" tvg-logo="http://static.tvtropes.org/pmwiki/pub/images/150px-Qubo_logo_5180.png" group-title="USA TV",QUBO 
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="QUBO US" tvg-logo="https://i.pinimg.com/originals/cb/73/4c/cb734cb78558428ce3e1fc7434dcfec1.png" group-title="USA TV",QUBO 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67062.m3u8
 #EXTINF:-1 tvg-id="Showtime.us" tvg-name="Showtime US" tvg-logo="http://static.iptv-epg.com/us/Showtime.us.png" group-title="USA TV",Showtime 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21953.m3u8
@@ -599,7 +599,7 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/21987.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21994.m3u8
 #EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge US" tvg-logo="http://static.iptv-epg.com/us/StarzEdge.us.png" group-title="USA TV",Starz Edge 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21996.m3u8
-#EXTINF:-1 tvg-id="TVLand.us" tvg-name="Starz Kids & Family US" tvg-logo="https://sc.dish.com/shared/images/station-logos/sk&fm.png" group-title="USA TV",Starz Kids & Family 
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="Starz Kids & Family US" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/Starz_Kids.jpg" group-title="USA TV",Starz Kids & Family 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67061.m3u8
 #EXTINF:-1 tvg-id="Spike [US]" tvg-name="Spike TV US" tvg-logo="https://spike.mtvnimages.com/images/missing_image2.jpg" group-title="USA TV",Spike TV 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21969.m3u8
@@ -619,7 +619,7 @@ http://gehosting.xyz:25461/live/RESHAREUKONLY/123/235.ts
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67410.m3u8
 #EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC US" tvg-logo="http://static.iptv-epg.com/us/TLC.us.png" group-title="USA TV",TLC 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21979.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT US" tvg-logo="http://static.iptv-epg.com/us/TNT.us.png" group-title="USA TV",TNT 
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT US" tvg-logo="https://media.glassdoor.com/sqll/447437/tnt-usa-squarelogo.png" group-title="USA TV",TNT 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21948.m3u8
 #EXTINF:-1 tvg-id="TVLand.us" tvg-name="TV Land US" tvg-logo="http://static.iptv-epg.com/us/TVLand.us.png" group-title="USA TV",TV Land 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67056.m3u8
@@ -631,7 +631,7 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/88960.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/88959.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network US" tvg-logo="http://static.iptv-epg.com/us/USANetwork.us.png" group-title="USA TV",USA Network 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/88958.m3u8
-#EXTINF:-1 tvg-id="Viceland.us" tvg-name="Viceland US" tvg-logo="http://static.iptv-epg.com/us/Viceland.us.png" group-title="USA TV",Viceland 
+#EXTINF:-1 tvg-id="Viceland.us" tvg-name="Viceland US" tvg-logo="http://www.mymbuzz.com/wp-content/uploads/sites/2/2017/05/Viceland-TV-to-air-anime-from-All-the-Anime.jpg" group-title="USA TV",Viceland 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21955.m3u8
 #EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 US" tvg-logo="http://static.iptv-epg.com/us/VH1.us.png" group-title="USA TV",VH1 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21879.m3u8
@@ -643,7 +643,7 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/67051.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67377.m3u8
 #EXTINF:-1 tvg-id="WGNAmerica.us" tvg-name="WGN America US" tvg-logo="http://static.iptv-epg.com/us/WGNAmerica.us.png" group-title="USA TV",WGN America 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67050.m3u8
-#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="Willow Cricket US" tvg-logo="http://static.iptv-epg.com/us/WillowCricket.us.png" group-title="USA TV",Willow Cricket 
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="Willow Cricket US" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="USA TV",Willow Cricket 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21951.m3u8
 #EXTINF:-1 tvg-id="WWE.us" tvg-name="WWE US" tvg-logo="http://static.iptv-epg.com/us/WWE.us.png" group-title="USA TV",WWE 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67049.m3u8
