@@ -397,8 +397,6 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/21855.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67356.m3u8
 #EXTINF:-1 tvg-id="AFNNews.us" tvg-name="AFN News US" tvg-logo="http://static.iptv-epg.com/us/AFNNews.us.png" group-title="USA TV",AFN News 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67357.m3u8
-#EXTINF:-1 tvg-id="AFNPrimePacific.us" tvg-name="AFN Prime Pacific US" tvg-logo="http://static.iptv-epg.com/us/AFNPrimePacific.us.png" group-title="US Sports",AFN Prime Pacific 
-http://vodiptv.org:83/live/Reseller/ResellerTestLine/67359.m3u8
 #EXTINF:-1 tvg-id="AFNPrimeAtlantic.us" tvg-name="AFN Prime Atlantic US" tvg-logo="http://static.iptv-epg.com/us/AFNPrimeAtlantic.us.png" group-title="USA TV",AFN Prime Atlantic 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67358.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC US" tvg-logo="http://static.iptv-epg.com/us/AMC.us.png" group-title="USA TV",AMC 
