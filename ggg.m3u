@@ -639,3 +639,181 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/67050.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21951.m3u8
 #EXTINF:-1 tvg-id="WWE.us" tvg-name="WWE US" tvg-logo="http://static.iptv-epg.com/us/WWE.us.png" group-title="USA TV",WWE 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67049.m3u8
+#EXTINF:-1 tvg-id="Aberdeen F.C." tvg-name="ABERDEN FC TV" tvg-logo="" group-title="SPORTS",ABERDEN FC TV 
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HEARTS FC TV" tvg-logo="" group-title="SPORTS",HEARTS FC TV 
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid Tv" tvg-logo="" group-title="SPORTS",Real Madrid Tv
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHELSEA FC" tvg-logo="" group-title="SPORTS",CHELSEA FC
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVERPOOL FC TV HD" tvg-logo="" group-title="SPORTS",LIVERPOOL FC TV HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CELTIC TV" tvg-logo="" group-title="SPORTS",CELTIC TV
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RANGERS TV" tvg-logo="" group-title="SPORTS",RANGERS TV
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="" group-title="SPORTS",BARCA TV
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WILLOW CRICKET" tvg-logo="" group-title="SPORTS",WILLOW CRICKET
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="" group-title="SPORTS",TENNIS CHANNEL
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCN PHILLY" tvg-logo="" group-title="SPORTS",TCN PHILLY
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SETANTA SPORT 1" tvg-logo="" group-title="SPORTS",SETANTA SPORT 1
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS TONIGHT US" tvg-logo="" group-title="SPORTS",SPORTS TONIGHT US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67495.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV US" tvg-logo="http://static.iptv-epg.com/us/NBATV.us.png" group-title="SPORTS",NBA TV US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MLB NETWORK" tvg-logo="" group-title="SPORTS",MLB NETWORK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX" tvg-logo="" group-title="SPORTS",FIGHT BOX
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT USA" tvg-logo="" group-title="SPORTS",BEIN SPORT USA
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS SPORTS US" tvg-logo="" group-title="SPORTS",CBS SPORTS US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFN SPORTS" tvg-logo="" group-title="SPORTS",AFN SPORTS
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFN SPORTS 2" tvg-logo="" group-title="SPORTS",AFN SPORTS 2
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67512.m3u8
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News UK" tvg-logo="http://static.iptv-epg.com/gb/SkySportsNews.uk.png" group-title="SPORTS",Sky Sports News UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21158.m3u8
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix UK" tvg-logo="http://static.iptv-epg.com/gb/SkySportsMix.uk.png" group-title="SPORTS",Sky Sports Mix UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21159.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football UK" tvg-logo="http://static.iptv-epg.com/gb/SkySportsFootball.uk.png" group-title="SPORTS",Sky Sports Football UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21151.m3u8
+#EXTINF:-1 tvg-id="Sky Sport PL [HD]" tvg-name="SKY SPORTS PREMIER LEAGUE UK" tvg-logo="http://gehosting.srve.io/logos/SKY%20SPORTS%20PREMIER%20LEAGUE%20HD.png" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21161.m3u8
+#EXTINF:-1 tvg-id="Sky Main Event [HD]" tvg-name="SKY SPORT MAIN EVENT UK" tvg-logo="http://gehosting.srve.io/logos/SKY%20SPORT%20MAIN%20EVENT%20HD.png" group-title="SPORTS",SKY SPORT MAIN EVENT UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21170.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event UK" tvg-logo="http://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" group-title="SPORTS",Sky Sports Main Event UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21157.m3u8
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 UK" tvg-logo="http://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="SPORTS",Sky Sports F1 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21152.m3u8
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 UK" tvg-logo="http://static.iptv-epg.com/gb/SkySportsF1.uk.png" group-title="SPORTS",Sky Sports F1 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21171.m3u8
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena UK" tvg-logo="http://static.iptv-epg.com/gb/SkySportsArena.uk.png" group-title="SPORTS",Sky Sports Arena UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21167.m3u8
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action UK" tvg-logo="http://static.iptv-epg.com/gb/SkySportsAction.uk.png" group-title="SPORTS",Sky Sports Action UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21169.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket UK" tvg-logo="http://static.iptv-epg.com/gb/SkySportsCricket.uk.png" group-title="SPORTS",Sky Sports Cricket UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21162.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Golf [HD]" tvg-name="SKY SPORTS GOLF UK" tvg-logo="http://gehosting.srve.io/logos/SKY%20SPORTS%20GOLF%20HD.png" group-title="SPORTS",SKY SPORTS GOLF UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21155.m3u8
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 UK" tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",BT Sport 1 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21144.m3u8
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1 UK" tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",BT Sport 1 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67596.m3u8
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 UK" tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",BT Sport 2 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21178.m3u8
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 UK" tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",BT Sport 2 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67602.m3u8
+#EXTINF:-1 tvg-id="BT Sport 3 [HD]" tvg-name="BT SPORT 3 UK" tvg-logo="http://gehosting.srve.io/logos/BT%20SPORT%203%20HD.png" group-title="SPORTS",BT SPORT 3 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21182.m3u8
+#EXTINF:-1 tvg-id="AtTheRaces.uk" tvg-name="At the races UK" tvg-logo="http://static.iptv-epg.com/gb/AtTheRaces.uk.png" group-title="SPORTS",At the races UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21142.m3u8
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="BoxNation UK" tvg-logo="http://static.iptv-epg.com/gb/BoxNation.uk.png" group-title="SPORTS",BoxNation UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21146.m3u8
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="Premier Sports UK" tvg-logo="http://static.iptv-epg.com/gb/PremierSports.uk.png" group-title="SPORTS",Premier Sports UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21175.m3u8
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport/ESPN UK" tvg-logo="http://static.iptv-epg.com/gb/BTSportESPN.uk.png" group-title="SPORTS",BT Sport/ESPN UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORT EUROPE UK" tvg-logo="" group-title="SPORTS",BT SPORT EUROPE UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67597.m3u8
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport/ESPN UK" tvg-logo="http://static.iptv-epg.com/gb/BTSportESPN.uk.png" group-title="SPORTS",BT Sport/ESPN UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67599.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1 UK" tvg-logo="http://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="SPORTS",Eurosport 1 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21150.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 UK" tvg-logo="http://static.iptv-epg.com/gb/Eurosport2.uk.png" group-title="SPORTS",Eurosport 2 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPNU US" tvg-logo="" group-title="SPORTS",ESPNU US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN3 US" tvg-logo="" group-title="SPORTS",ESPN3 US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67591.m3u8
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="Racing UK" tvg-logo="http://static.iptv-epg.com/gb/RacingUK.uk.png" group-title="SPORTS",Racing UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21174.m3u8
+#EXTINF:-1 tvg-id="Celtic Football Club" tvg-name="CELTIC TV UK" tvg-logo="" group-title="SPORTS",CELTIC TV UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21185.m3u8
+#EXTINF:-1 tvg-id="Rangers TV" tvg-name="RANGERS TV UK" tvg-logo="" group-title="SPORTS",RANGERS TV UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21173.m3u8
+#EXTINF:-1 tvg-id="Liverpool FC TV" tvg-name="LFC TV UK" tvg-logo="http://gehosting.srve.io/logos/LFC%20TV.png" group-title="SPORTS",LFC TV UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21176.m3u8
+#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="Chelsea TV UK" tvg-logo="http://static.iptv-epg.com/gb/ChelseaTV.uk.png" group-title="SPORTS",Chelsea TV UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21186.m3u8
+#EXTINF:-1 tvg-id="MotorsTV.uk" tvg-name="Motors TV UK" tvg-logo="http://static.iptv-epg.com/gb/MotorsTV.uk.png" group-title="SPORTS",Motors TV UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67165.m3u8
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV UK" tvg-logo="http://static.iptv-epg.com/gb/MUTV.uk.png" group-title="SPORTS",MUTV UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOTOGP LIVE 2 UK" tvg-logo="" group-title="SPORTS",MOTOGP LIVE 2 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOTOGP LIVE 3 UK" tvg-logo="" group-title="SPORTS",MOTOGP LIVE 3 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67169.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN US" tvg-logo="http://static.iptv-epg.com/us/ESPN.us.png" group-title="SPORTS",ESPN US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 US" tvg-logo="" group-title="SPORTS",ESPN 2 US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/88971.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="ESPN NEWS  US" tvg-logo="" group-title="US Entertainment",ESPN NEWS  US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/88975.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1 US" tvg-logo="http://static.iptv-epg.com/us/FoxSports1.us.png" group-title="SPORTS",Fox Sports 1 US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21957.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2 US" tvg-logo="http://static.iptv-epg.com/us/FoxSports2.us.png" group-title="SPORTS",Fox Sports 2 US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSNET EAST US" tvg-logo="" group-title="SPORTS",SPORTSNET EAST US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSNET ONE US" tvg-logo="" group-title="SPORTS",SPORTSNET ONE US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSNET PACIFIC US" tvg-logo="" group-title="SPORTS",SPORTSNET PACIFIC US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSNET WEST US" tvg-logo="" group-title="SPORTS",SPORTSNET WEST US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS NET ONTARIO" tvg-logo="" group-title="SPORTS",SPORTS NET ONTARIO
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSNET 360 US" tvg-logo="" group-title="SPORTS",SPORTSNET 360 US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSNET WORLD" tvg-logo="" group-title="SPORTS",SPORTSNET WORLD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1 US" tvg-logo="" group-title="SPORTS",TSN 1 US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2 US" tvg-logo="" group-title="SPORTS",TSN 2 US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3 US" tvg-logo="" group-title="SPORTS",TSN 3 US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4 US" tvg-logo="" group-title="SPORTS",TSN 4 US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSN 5 US" tvg-logo="" group-title="SPORTS",TSN 5 US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 ARIZONA US" tvg-logo="" group-title="SPORTS",PAC 12 ARIZONA US
+http://gehosting.xyz:25461/live/RESHAREUKONLY/123/300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 BAY AREA US" tvg-logo="" group-title="SPORTS",PAC 12 BAY AREA US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 LA US" tvg-logo="" group-title="SPORTS",PAC 12 LA US
+http://gehosting.xyz:25461/live/RESHAREUKONLY/123/298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 MOUNTAIN US" tvg-logo="" group-title="SPORTS",PAC 12 MOUNTAIN US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21967.m3u8
+#EXTINF:-1 tvg-id="PAC12 - National" tvg-name="PAC 12 NATIONAL US" tvg-logo="" group-title="SPORTS",PAC 12 NATIONAL US
+http://gehosting.xyz:25461/live/RESHAREUKONLY/123/296.m3u8
+#EXTINF:-1 tvg-id="PAC12 - Oregon" tvg-name="PAC 12 OREGON US" tvg-logo="" group-title="SPORTS",PAC 12 OREGON US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21984.m3u8
+#EXTINF:-1 tvg-id="PAC12 - Washington" tvg-name="PAC 12 WASHINGTON US" tvg-logo="" group-title="SPORTS",PAC 12 WASHINGTON US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21990.m3u8
+#EXTINF:-1 tvg-id="NBCSN" tvg-name="NBCSN US" tvg-logo="" group-title="SPORTS",NBCSN US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21902.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network US" tvg-logo="http://static.iptv-epg.com/us/BigTenNetwork.us.png" group-title="SPORTS",Big Ten Network US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21941.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="Golf Channel US" tvg-logo="http://static.iptv-epg.com/us/GolfChannel.us.png" group-title="SPORTS",Golf Channel US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21136.m3u8
+#EXTINF:-1 tvg-id="NBC Golf" tvg-name="NBC GOLF US" tvg-logo="" group-title="SPORTS",NBC GOLF US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21900.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel US" tvg-logo="http://static.iptv-epg.com/us/TennisChannel.us.png" group-title="SPORTS",Tennis Channel US
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL Network HD" tvg-logo="" group-title="SPORTS",NHL Network HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL NOW HD" tvg-logo="" group-title="SPORTS",NFL NOW HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network HD" tvg-logo="" group-title="SPORTS",NFL Network HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network SD" tvg-logo="" group-title="SPORTS",MLB Network SD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21723.m3u8
