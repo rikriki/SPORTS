@@ -553,8 +553,6 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/67059.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67345.m3u8
 #EXTINF:-1 tvg-id="CineMax [HD]" tvg-name="MAX E US" tvg-logo="https://sc.dish.com/shared/images/station-logos/max-e.png" group-title="USA TV",MAX E 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21852.m3u8
-#EXTINF:-1 tvg-id="CineMax [HD]" tvg-name="MSN US" tvg-logo="https://sc.dish.com/shared/images/station-logos/max-e.png" group-title="USA TV",MSN 
-http://vodiptv.org:83/live/Reseller/ResellerTestLine/21889.m3u8
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC US" tvg-logo="http://static.iptv-epg.com/us/MSNBC.us.png" group-title="USA TV",MSNBC 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/88974.m3u8
 #EXTINF:-1 tvg-id="Nat Geo Wild [US]" tvg-name="National Geographic Wild US" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/01/natgeowild.png" group-title="USA TV",National Geographic Wild 
