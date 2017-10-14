@@ -843,3 +843,25 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/21736.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21737.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 15 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png" group-title="NBA League Pass",NBA TV
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/93333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 1 Local" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="NBA League Pass 2",NBA League Pass 1 Local
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" group-title="NBA League Pass 2",NBA TV HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 12 Local" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="NBA League Pass 2",NBA League Pass 12 Local
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 2 Local" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="NBA League Pass 2",NBA League Pass 2 Local
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 3 Local" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="NBA League Pass 2",NBA League Pass 3 Local
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 4 Local" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="NBA League Pass 2",NBA League Pass 4 Local
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93339.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 5 Local" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="NBA League Pass 2",NBA League Pass 5 Local
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 6 Local" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="NBA League Pass 2",NBA League Pass 6 Local
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 7 Local" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="NBA League Pass 2",NBA League Pass 7 Local
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93336.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 8 Local" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="NBA League Pass 2",NBA League Pass 8 Local
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 9 Local" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="NBA League Pass 2",NBA League Pass 9 Local
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93334.m3u8
