@@ -865,3 +865,9 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/93336.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/93335.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 9 Local" tvg-logo="http://sportsvideo.org/main/files/2015/12/NBA-League-Pass.png" group-title="NBA League Pass 2 (LIVE GAMES ONLY)",NBA League Pass 9 Local
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/93334.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN US" tvg-logo="https://wadetours.com/wp-content/uploads/2016/03/Wade-Tours-Yankees-vs-Astros.jpg" group-title="MLB CHAMPIONSHIP SERIES",ALCS (CHANNEL 1)
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21942.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN US" tvg-logo="https://wadetours.com/wp-content/uploads/2016/03/Wade-Tours-Yankees-vs-Astros.jpg" group-title="MLB CHAMPIONSHIP SERIES",ALCS (CHANNEL 2)
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21957.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN US" tvg-logo="https://cdn-betlabs.pressidium.com/wp-content/uploads/2016/08/600_440642400.jpeg" group-title="MLB CHAMPIONSHIP SERIES",NLCS 
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21991.m3u8
