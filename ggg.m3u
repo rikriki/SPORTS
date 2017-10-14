@@ -3,6 +3,8 @@
 http://stream3.news5.ph:1935/n5e/singko_3/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/753157589303603200/zQZ6stcb.jpg" group-title="PINOY TV", TV PATROL (LIVE STREAM)
 http://abslivechats-lh.akamaihd.net/i/LSHDtvpatrol_1@150554/index_800_av-p.m3u8
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2
+http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1508093596~acl=%2f*~data=hdntl~hmac=9b95d1db8192eb32e96909842e61e495dc88042fccdfbbd8c175193c6993ef9b
 #EXTINF:-1, tvg-logo="http://cnnphilippines.com/incoming/ttbl9f-main-logo.png/BINARY/main-logo.png" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV
