@@ -211,6 +211,128 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www2.myjcom.jp/special/common/channel_logo/wowow_prime.jpg" group-title="JAPAN", WOWOW Prime
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XTM KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",XTM KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooniverse KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",Tooniverse KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PBC KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",PBC KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAX KOREA KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",ANIMAX KOREA KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGN TV KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",CGN TV KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL A KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",CHANNEL A KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL KOREA KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",DISNEY CHANNEL KOREA KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBS 1 KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",EBS 1 KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FTV KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",FTV KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JAY SPORTS KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",JAY SPORTS KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JAY SPORTS 2 KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",JAY SPORTS 2 KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JAY SPORTS 3 KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",JAY SPORTS 3 KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JEI TV KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",JEI TV KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTBC KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",JTBC KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="K-BADUK KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",K-BADUK KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBS 1 KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",KBS 1 KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBS 2 KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",KBS 2 KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBS SPORTS KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",KBS SPORTS KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M NET KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",M NET KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",MBC KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC SPORTS KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",MBC SPORTS KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBN KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",MBN KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O'LIVE KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",O'LIVE KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92259.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBS KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",SBS KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBS GOLF KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",SBS GOLF KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92261.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBS SPORTS KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",SBS SPORTS KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR 2 KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",STAR 2 KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CHOSUN KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",TV CHOSUN KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN KOR" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",TVN KOR
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",BBC KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",CBS KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",CCTV KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="chosun1?HD? KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",chosun1?HD? KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CTS KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",CTS KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DONGATV19 KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",DONGATV19 KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ETN KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",ETN KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="eventTV KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",eventTV KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOODTV KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",GOODTV KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HANWOON KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",HANWOON KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HCN KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",HCN KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hpbs KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",Hpbs KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBS1 KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",KBS1 KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KBS2 KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",KBS2 KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KCTV KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",KCTV KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KCTVN KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",KCTVN KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDSTV KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",KIDSTV KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KNN KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",KNN KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KTV KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",KTV KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOUNTAINTV KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",MOUNTAINTV KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movie KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",Movie KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTN KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",MTN KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",Music KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTDTV KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",NTDTV KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OBS KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",OBS KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTNTV KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",RTNTV KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tbs KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",tbs KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tomato TV KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",Tomato TV KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV-CHOSUN KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",TV-CHOSUN KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVIS KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",TVIS KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YTN KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",YTN KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YTNWeather KP" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Korea",YTNWeather KP
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/92297.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="VOD MOVIES", JOHN WICK  
 http://dl3.vaiomusic.org/Movie/John%20Wick%202014%20-%20720p%20%28media.vaiomusic%29.mkv
 #EXTINF:-1, tvg-logo="http://budomate.com/wp-content/uploads/2016/09/john-wick-2-poster-2.png" group-title="VOD MOVIES", JOHN WICK 2 
