@@ -839,11 +839,7 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/21734.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21735.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png" group-title="NBA League Pass",NBA LEAGUE PASS LIVE 1 HD
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21736.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 15 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png" group-title="NBA League Pass",NBA LEAGUE PASS LIVE 15 HD
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 15 HD" tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" group-title="NBA League Pass",NBA LEAGUE PASS LIVE 15 HD
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 15 HD" tvg-logo="https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0001/14/thumb_13735_default_news_size_5.jpeg" group-title="LIVE EPL",LIVERPOOL VS MAN UNITED 1
-http://cdn3.googlestreamming.com:443/sky_sports_premiere_360p.stream/playlist.m3u8?st=rjANdtUidC9W9oLR0eQanw&username2=338712806554624&username=5148&password=mmmm7e9e3aa792c667e3a7ff&e=1507999803
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 15 HD" tvg-logo="https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0001/14/thumb_13735_default_news_size_5.jpeg" group-title="LIVE EPL",LIVERPOOL VS MAN UNITED 2
-http://cdn3.googlestreamming.com:443/skynet_sport_hd_480p.stream/playlist.m3u8?st=GQBt8NkO6olgofo4nRR7rA&username2=338712806554624&username=5148&password=mmmm0c1b3c57ab41a1d3930b&e=1507999952
-#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 15 HD" tvg-logo="https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0001/14/thumb_13735_default_news_size_5.jpeg" group-title="LIVE EPL",LIVERPOOL VS MAN UNITED 3
-http://cdn3.googlestreamming.com:443/0x444_tsn1_360p/playlist.m3u8?st=RCyimoEHFt7nkvCLFUPKTQ&username2=338712806554624&username=5148&password=mmmmd4afc0deda4d7e4b7974&e=1508000026
+#EXTINF:-1 tvg-id="" tvg-name="NBA LEAGUE PASS LIVE 15 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/NBA_league_pass_pre-2009.png" group-title="NBA League Pass",NBA TV
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93333.m3u8
