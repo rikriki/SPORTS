@@ -945,5 +945,34 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/89826.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/89828.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vivid XXX Local" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",Vivid XXX Local
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/89841.m3u8
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL Red Zone
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93360.m3u8
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 13 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93364.m3u8
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 1 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93376.m3u8
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 2 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93375.m3u8
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 3 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93374.m3u8
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 4 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93373.m3u8
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 5 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93372.m3u8
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 6 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93371.m3u8
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 7 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93370.m3u8
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 8 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93369.m3u8
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 9 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93368.m3u8
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 10 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93367.m3u8
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 11 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93366.m3u8
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 12 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93365.m3u8
+
 
 
