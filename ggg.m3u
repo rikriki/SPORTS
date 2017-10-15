@@ -874,4 +874,26 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/21942.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN US" tvg-logo="https://wadetours.com/wp-content/uploads/2016/03/Wade-Tours-Yankees-vs-Astros.jpg" group-title="MLB CHAMPIONSHIP SERIES",ALCS (CHANNEL 2)
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21957.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN US" tvg-logo="https://cdn-betlabs.pressidium.com/wp-content/uploads/2016/08/600_440642400.jpeg" group-title="MLB CHAMPIONSHIP SERIES",NLCS 
-http://vodiptv.org:83/live/Reseller/ResellerTestLine/21991.m3u8
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21991.
+#EXTINF:-1 tvg-id="" tvg-name="NHL 1 HD" tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NHL PACKAGE",NHL 1 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL 10 HD" tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NHL PACKAGE",NHL 10 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL 11 HD" tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NHL PACKAGE",NHL 11 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL 13 HD" tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NHL PACKAGE",NHL 13 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL 12 HD" tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NHL PACKAGE",NHL 12 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL 3 HD" tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NHL PACKAGE",NHL 3 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL 2 HD" tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NHL PACKAGE",NHL 2 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL 6 HD" tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NHL PACKAGE",NHL 6 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL 7 HD" tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NHL PACKAGE",NHL 7 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL 8 HD" tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NHL PACKAGE",NHL 8 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL 4 HD" tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NHL PACKAGE",NHL 4 HD
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67132.m3u8
