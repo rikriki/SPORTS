@@ -899,5 +899,51 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/67130.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67131.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHL 4 HD" tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NHL PACKAGE",NHL 4 HD
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 9" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 9
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 6" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 6
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 5" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 5
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 3" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 3
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 25." tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 25.
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 24" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 24
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 23" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 23
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 22" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 22
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 21" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 21
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 20" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 20
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 2" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 2
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 19" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 19
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 18" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 18
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 17" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 17
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 16" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 16
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 15" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 15
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 14" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 14
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 13" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 13
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 12" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 12
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 11" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 11
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX* ADULT 10" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX* ADULT 10
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hot" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",XXX: Hot
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vivid XXX Local" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="Adults Only",Vivid XXX Local
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/89841.m3u8
 
 
