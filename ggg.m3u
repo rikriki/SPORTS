@@ -948,31 +948,31 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/89841.m3u8
 #EXTINF:-1, tvg-logo="http://static.nfl.com/static/qs/redzone/images/redzone_nfl_network_logo_1406131762_full.png" group-title="NFL SUNDAY TICKET", NFL Red Zone
 http://103.77.116.238:443//skysportmix_360p.stream/playlist.m3u8?st=r1oYYcxqcDxL3AFrvPnQWA&username2=0845244244&username=dUONwILcavY1z0rlqdSD&password=mmmmd9e0af69d21502d99d51&e=1508101542
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 1 HD
-http://1pipo.ca:25461/live/2333/2333/10922.m3u8
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93372.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 2 HD
-http://1pipo.ca:25461/live/2333/2333/10930.m3u8
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93371.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 3 HD
-http://1pipo.ca:25461/live/2333/2333/10929.m3u8
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93360.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 4 HD
-http://1pipo.ca:25461/live/2333/2333/10928.m3u8
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93361.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 5 HD
-http://1pipo.ca:25461/live/2333/2333/10927.m3u8
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93362.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 6 HD
-http://1pipo.ca:25461/live/2333/2333/10926.m3u8
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93363.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 7 HD
-http://vodiptv.org:83/live/Reseller/ResellerTestLine/93370.ts
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93370.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 8 HD
-http://vodiptv.org:83/live/Reseller/ResellerTestLine/93369.ts
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93369.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 9 HD
-http://vodiptv.org:83/live/Reseller/ResellerTestLine/93368.ts
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93368.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 10 HD
-http://vodiptv.org:83/live/Reseller/ResellerTestLine/93367.ts
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93367.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 11 HD
-http://vodiptv.org:83/live/Reseller/ResellerTestLine/93366.ts
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93366.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 12 HD
-http://vodiptv.org:83/live/Reseller/ResellerTestLine/93365.ts
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93365.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 13 HD
-http://vodiptv.org:83/live/Reseller/ResellerTestLine/93364.ts
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/93364.m3u8
 
 
 
