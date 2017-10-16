@@ -15,6 +15,8 @@ http://livestream01.untvweb.com:1935/public/untvwebstream/playlist.m3u8
 http://iphone-streaming.ustream.tv/uhls/21881126/streams/live/iphone/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.iglesianicristo.ws/images/inctv.jpg" group-title="PINOY TV", INC TV
 http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="PINOY TV", CLTV 36
+http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_350_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/DZIQ.jpg" group-title="PINOY TV", INQUIRER 990
 http://59c3ec70cfde0.streamlock.net:443/channel_7/channel7/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/BEAM31PH_Logo.jpg/250px-BEAM31PH_Logo.jpg" group-title="PINOY TV", BEAM CHANNEL 4
