@@ -876,7 +876,7 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/21942.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN US" tvg-logo="https://wadetours.com/wp-content/uploads/2016/03/Wade-Tours-Yankees-vs-Astros.jpg" group-title="MLB CHAMPIONSHIP SERIES",ALCS (CHANNEL 2)
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21957.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN US" tvg-logo="https://cdn-betlabs.pressidium.com/wp-content/uploads/2016/08/600_440642400.jpeg" group-title="MLB CHAMPIONSHIP SERIES",NLCS 
-http://vodiptv.org:83/live/Reseller/ResellerTestLine/21991.
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21991.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHL 1 HD" tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NHL PACKAGE",NHL 1 HD
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67122.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHL 10 HD" tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NHL PACKAGE",NHL 10 HD
@@ -973,6 +973,214 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/93366.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/93365.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/Nfl_sunday_ticket.png" group-title="NFL SUNDAY TICKET", NFL SUNDAY TICKET 13 HD
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/93364.m3u8
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC1 UK" tvg-logo="http://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK TV",BBC1 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67140.m3u8
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC2 UK" tvg-logo="http://static.iptv-epg.com/gb/BBC2.uk.png" group-title="UK TV",BBC2 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21112.m3u8
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="ITV UK" tvg-logo="http://static.iptv-epg.com/gb/ITV1Anglia.uk.png" group-title="UK TV",ITV UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21062.m3u8
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC4 UK" tvg-logo="http://static.iptv-epg.com/gb/BBC4.uk.png" group-title="UK TV",BBC4 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21075.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 UK" tvg-logo="http://static.iptv-epg.com/gb/Channel4.uk.png" group-title="UK TV",Channel 4 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21100.m3u8
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5 UK" tvg-logo="http://static.iptv-epg.com/gb/Channel5.uk.png" group-title="UK TV",Channel 5 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21097.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV2 UK" tvg-logo="http://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK TV",ITV2 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67155.m3u8
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3 UK" tvg-logo="http://static.iptv-epg.com/gb/ITV3.uk.png" group-title="UK TV",ITV3 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21076.m3u8
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV4 UK" tvg-logo="http://static.iptv-epg.com/gb/ITV4.uk.png" group-title="UK TV",ITV4 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21055.m3u8
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="5Star UK" tvg-logo="http://static.iptv-epg.com/gb/5star.uk.png" group-title="UK TV",5Star UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21081.m3u8
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA UK" tvg-logo="http://static.iptv-epg.com/gb/FiveUSA.uk.png" group-title="UK TV",5USA UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21080.m3u8
+#EXTINF:-1 tvg-id="My5.uk" tvg-name="My5 UK" tvg-logo="http://static.iptv-epg.com/gb/My5.uk.png" group-title="UK TV",My5 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67142.m3u8
+#EXTINF:-1 tvg-id="E! [HD]" tvg-name="E! UK" tvg-logo="http://gehosting.srve.io/logos/E!.png" group-title="UK TV",E! UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21089.m3u8
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4 UK" tvg-logo="http://static.iptv-epg.com/gb/E4.uk.png" group-title="UK TV",E4 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21088.m3u8
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="Dave UK" tvg-logo="http://static.iptv-epg.com/gb/Dave.uk.png" group-title="UK TV",Dave UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21092.m3u8
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="More4 UK" tvg-logo="http://static.iptv-epg.com/gb/More4.uk.png" group-title="UK TV",More4 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67149.m3u8
+#EXTINF:-1 tvg-id="ITVBoxOffice.uk" tvg-name="ITV Box Office UK" tvg-logo="http://static.iptv-epg.com/gb/ITVBoxOffice.uk.png" group-title="UK TV",ITV Box Office UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21103.m3u8
+#EXTINF:-1 tvg-id="ITVEncore.uk" tvg-name="ITV Encore UK" tvg-logo="http://static.iptv-epg.com/gb/ITVEncore.uk.png" group-title="UK TV",ITV Encore UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21066.m3u8
+#EXTINF:-1 tvg-id="Sky 1" tvg-name="Sky One UK" tvg-logo="http://gehosting.srve.io/logos/SKY%20ONE%20HD.png" group-title="UK TV",Sky One UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21074.m3u8
+#EXTINF:-1 tvg-id="Sky 2" tvg-name="SKY TWO UK" tvg-logo="http://gehosting.srve.io/logos/SKY%20TWO.png" group-title="UK TV",SKY TWO UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21107.m3u8
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="Sky Arts UK" tvg-logo="http://static.iptv-epg.com/gb/SkyArts.uk.png" group-title="UK TV",Sky Arts UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21063.m3u8
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Living UK" tvg-logo="http://static.iptv-epg.com/gb/SkyLiving.uk.png" group-title="UK TV",Sky Living UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67145.m3u8
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Living UK" tvg-logo="http://static.iptv-epg.com/gb/SkyLiving.uk.png" group-title="UK TV",Sky Living UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21073.m3u8
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic UK" tvg-logo="http://static.iptv-epg.com/gb/SkyAtlantic.uk.png" group-title="UK TV",Sky Atlantic UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67148.m3u8
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic UK" tvg-logo="http://static.iptv-epg.com/gb/SkyAtlantic.uk.png" group-title="UK TV",Sky Atlantic UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21065.m3u8
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS Action UK" tvg-logo="http://static.iptv-epg.com/gb/CBSAction.uk.png" group-title="UK TV",CBS Action UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21106.m3u8
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="CBS Reality UK" tvg-logo="http://static.iptv-epg.com/gb/CBSReality.uk.png" group-title="UK TV",CBS Reality UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21104.m3u8
+#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="CBS Drama UK" tvg-logo="http://static.iptv-epg.com/gb/CBSDrama.uk.png" group-title="UK TV",CBS Drama UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21105.m3u8
+#EXTINF:-1 tvg-id="DiscoveryDMAX.uk" tvg-name="DMAX UK" tvg-logo="http://static.iptv-epg.com/gb/DiscoveryDMAX.uk.png" group-title="UK TV",DMAX UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21091.m3u8
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="Drama UK" tvg-logo="http://static.iptv-epg.com/gb/Drama.uk.png" group-title="UK TV",Drama UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21090.m3u8
+#EXTINF:-1 tvg-id="FOX.uk" tvg-name="FOX UK" tvg-logo="http://static.iptv-epg.com/gb/FOX.uk.png" group-title="UK TV",FOX UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21071.m3u8
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="GOLD UK" tvg-logo="http://static.iptv-epg.com/gb/GOLD.uk.png" group-title="UK TV",GOLD UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21070.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="Comedy Central Extra UK" tvg-logo="http://static.iptv-epg.com/gb/ComedyCentralExtra.uk.png" group-title="UK TV",Comedy Central Extra UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21094.m3u8
+#EXTINF:-1 tvg-id="AMC.uk" tvg-name="AMC UK" tvg-logo="http://static.iptv-epg.com/gb/AMC.uk.png" group-title="UK TV",AMC UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Buzzer UK" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="UK TV",Buzzer UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67147.m3u8
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="Alibi UK" tvg-logo="http://static.iptv-epg.com/gb/Alibi.uk.png" group-title="UK TV",Alibi UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21117.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network UK" tvg-logo="http://static.iptv-epg.com/gb/FoodNetwork.uk.png" group-title="UK TV",Food Network UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21079.m3u8
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4Seven UK" tvg-logo="http://static.iptv-epg.com/gb/4Seven.uk.png" group-title="UK TV",4Seven UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21077.m3u8
+#EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="Lifetime UK" tvg-logo="http://static.iptv-epg.com/gb/Lifetime.uk.png" group-title="UK TV",Lifetime UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21058.m3u8
+#EXTINF:-1 tvg-id="Blaze.uk" tvg-name="Blaze UK" tvg-logo="http://static.iptv-epg.com/gb/Blaze.uk.png" group-title="UK TV",Blaze UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21086.m3u8
+#EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="Good Food UK" tvg-logo="http://static.iptv-epg.com/gb/GoodFood.uk.png" group-title="UK TV",Good Food UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21118.m3u8
+#EXTINF:-1 tvg-id="BET.uk" tvg-name="BET UK" tvg-logo="http://static.iptv-epg.com/gb/BET.uk.png" group-title="UK TV",BET UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21135.m3u8
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="QUEST UK" tvg-logo="http://static.iptv-epg.com/gb/Quest.uk.png" group-title="UK TV",QUEST UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21057.m3u8
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="Pick UK" tvg-logo="http://static.iptv-epg.com/gb/PickTV.uk.png" group-title="UK TV",Pick UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21049.m3u8
+#EXTINF:-1 tvg-id="Spike.uk" tvg-name="Spike UK" tvg-logo="http://static.iptv-epg.com/gb/Spike.uk.png" group-title="UK TV",Spike UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21082.m3u8
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC UK" tvg-logo="http://static.iptv-epg.com/gb/TLC.uk.png" group-title="UK TV",TLC UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21072.m3u8
+#EXTINF:-1 tvg-id="Spike.uk" tvg-name="Spike UK" tvg-logo="http://static.iptv-epg.com/gb/Spike.uk.png" group-title="UK TV",Spike UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21111.m3u8
+#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="True Movies UK" tvg-logo="http://static.iptv-epg.com/gb/TrueMovies.uk.png" group-title="UK TV",True Movies UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21068.m3u8
+#EXTINF:-1 tvg-id="Syfy.uk" tvg-name="Syfy UK" tvg-logo="http://static.iptv-epg.com/gb/Syfy.uk.png" group-title="UK TV",Syfy UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21064.m3u8
+#EXTINF:-1 tvg-id="RealLives.uk" tvg-name="Real Lives UK" tvg-logo="http://static.iptv-epg.com/gb/RealLives.uk.png" group-title="UK TV",Real Lives UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21046.m3u8
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="Really UK" tvg-logo="http://static.iptv-epg.com/gb/Really.uk.png" group-title="UK TV",Really UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21045.m3u8
+#EXTINF:-1 tvg-id="UTV" tvg-name="UTV UK" tvg-logo="http://gehosting.srve.io/logos/UTV.png" group-title="UK TV",UTV UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21051.m3u8
+#EXTINF:-1 tvg-id="Watch" tvg-name="WATCH UK" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="UK TV",WATCH UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21053.m3u8
+#EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday UK" tvg-logo="http://static.iptv-epg.com/gb/Yesterday.uk.png" group-title="UK TV",Yesterday UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21054.m3u8
+#EXTINF:-1 tvg-id="Universal.uk" tvg-name="Universal Channel UK" tvg-logo="http://static.iptv-epg.com/gb/Universal.uk.png" group-title="UK TV",Universal Channel UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67153.m3u8
+#EXTINF:-1 tvg-id="TrueEntertainment.uk" tvg-name="True Entertainment UK" tvg-logo="http://static.iptv-epg.com/gb/TrueEntertainment.uk.png" group-title="UK TV",True Entertainment UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21009.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="Disney XD UK" tvg-logo="http://static.iptv-epg.com/gb/DisneyXD.uk.png" group-title="UK TV",Disney XD UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21030.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.uk" tvg-name="Disney Channel UK" tvg-logo="http://static.iptv-epg.com/gb/DisneyChannel.uk.png" group-title="UK TV",Disney Channel UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21032.m3u8
+#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr Too UK" tvg-logo="http://static.iptv-epg.com/gb/NickJrToo.uk.png" group-title="UK TV",Nick Jr Too UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21040.m3u8
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="Nick Jr UK" tvg-logo="http://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="UK TV",Nick Jr UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21036.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="Disney Junior UK" tvg-logo="http://static.iptv-epg.com/gb/DisneyJunior.uk.png" group-title="UK TV",Disney Junior UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21033.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoons UK" tvg-logo="http://static.iptv-epg.com/gb/Nicktoons.uk.png" group-title="UK TV",Nicktoons UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21038.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network UK" tvg-logo="http://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="UK TV",Cartoon Network UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21039.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon UK" tvg-logo="http://static.iptv-epg.com/gb/Nickelodeon.uk.png" group-title="UK TV",Nickelodeon UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21043.m3u8
+#EXTINF:-1 tvg-id="Pop.uk" tvg-name="Pop UK" tvg-logo="http://static.iptv-epg.com/gb/Pop.uk.png" group-title="UK TV",Pop UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21031.m3u8
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC UK" tvg-logo="http://static.iptv-epg.com/gb/CBBC.uk.png" group-title="UK TV",CBBC UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21034.m3u8
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="Boomerang UK" tvg-logo="http://static.iptv-epg.com/gb/Boomerang.uk.png" group-title="UK TV",Boomerang UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21041.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="Cartoonito UK" tvg-logo="http://static.iptv-epg.com/gb/Cartoonito.uk.png" group-title="UK TV",Cartoonito UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21042.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV UK" tvg-logo="http://static.iptv-epg.com/gb/BabyTV.uk.png" group-title="UK TV",Baby TV UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21037.m3u8
+#EXTINF:-1 tvg-id="Sky Hits [HD]" tvg-name="Sky Cinema Hits UK" tvg-logo="http://gehosting.srve.io/logos/Sky%20Cinema%20Hits%20HD.png" group-title="UK TV",Sky Cinema Hits UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21022.m3u8
+#EXTINF:-1 tvg-id="Sky Action [HD]" tvg-name="Sky Cinema Action UK" tvg-logo="http://gehosting.srve.io/logos/Sky%20Cinema%20Action%20HD.png" group-title="UK TV",Sky Cinema Action UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21007.m3u8
+#EXTINF:-1 tvg-id="Sky Premiere [HD]" tvg-name="Sky Cinema Premier UK" tvg-logo="http://gehosting.srve.io/logos/Sky%20Cinema%20Premier.png" group-title="UK TV",Sky Cinema Premier UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21020.m3u8
+#EXTINF:-1 tvg-id="Sky Comedy [HD]" tvg-name="Sky Cinema Comedy UK" tvg-logo="http://gehosting.srve.io/logos/Sky%20Cinema%20Comedy%20HD.png" group-title="UK TV",Sky Cinema Comedy UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21013.m3u8
+#EXTINF:-1 tvg-id="Sky Select [HD]" tvg-name="Sky Cinema Select UK" tvg-logo="http://gehosting.srve.io/logos/Sky%20Cinema%20Select%20HD.png" group-title="UK TV",Sky Cinema Select UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21016.m3u8
+#EXTINF:-1 tvg-id="Sky Greats [HD]" tvg-name="Sky Cinema Greats UK" tvg-logo="http://gehosting.srve.io/logos/Sky%20Cinema%20Greats.png" group-title="UK TV",Sky Cinema Greats UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21024.m3u8
+#EXTINF:-1 tvg-id="Sky Family [HD]" tvg-name="Sky Cinema Family UK" tvg-logo="http://gehosting.srve.io/logos/Sky%20Cinema%20Family.png" group-title="UK TV",Sky Cinema Family UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21026.m3u8
+#EXTINF:-1 tvg-id="Sky Disney [HD]" tvg-name="Sky Cinema Disney UK" tvg-logo="http://gehosting.srve.io/logos/Sky%20Cinema%20Disney.png" group-title="UK TV",Sky Cinema Disney UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21000.m3u8
+#EXTINF:-1 tvg-id="Sky Sci-Fi/Horror [HD]" tvg-name="Sky Cinema Sci Fi UK" tvg-logo="http://gehosting.srve.io/logos/Sky%20Cinema%20Sci-Fi.png" group-title="UK TV",Sky Cinema Sci Fi UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21015.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="Sky Cinema Thriller UK" tvg-logo="http://gehosting.srve.io/logos/Sky%20Cinema%20Thriller.png" group-title="UK TV",Sky Cinema Thriller UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21014.m3u8
+#EXTINF:-1 tvg-id="Sky Drama [HD]" tvg-name="Sky Cinema Drama UK" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="UK TV",Sky Cinema Drama UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21027.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="Sony Movies UK" tvg-logo="http://static.iptv-epg.com/gb/SonyMovies.uk.png" group-title="UK TV",Sony Movies UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21001.m3u8
+#EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="Horror Channel UK" tvg-logo="http://static.iptv-epg.com/gb/HorrorChannel.uk.png" group-title="UK TV",Horror Channel UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21003.m3u8
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="TCM UK" tvg-logo="http://static.iptv-epg.com/gb/TCM.uk.png" group-title="UK TV",TCM UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21005.m3u8
+#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="True Movies UK" tvg-logo="http://static.iptv-epg.com/gb/TrueMovies.uk.png" group-title="UK TV",True Movies UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21011.m3u8
+#EXTINF:-1 tvg-id="True Movies" tvg-name="TRUE MOVIES 2 UK" tvg-logo="http://iptvhosting.org/files/logo.png" group-title="UK TV",TRUE MOVIES 2 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21012.m3u8
+#EXTINF:-1 tvg-id="Movies24.uk" tvg-name="Movies 24 UK" tvg-logo="http://static.iptv-epg.com/gb/Movies24.uk.png" group-title="UK TV",Movies 24 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67156.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News UK" tvg-logo="http://static.iptv-epg.com/gb/SkyNews.uk.png" group-title="UK TV",Sky News UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/20958.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News UK" tvg-logo="http://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="UK TV",BBC World News UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/20961.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News UK" tvg-logo="http://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="UK TV",BBC News UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/20962.m3u8
+#EXTINF:-1 tvg-id="DiscoveryShed.uk" tvg-name="Discovery Shed UK" tvg-logo="http://static.iptv-epg.com/gb/DiscoveryShed.uk.png" group-title="UK TV",Discovery Shed UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21119.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science UK" tvg-logo="http://static.iptv-epg.com/gb/DiscoveryScience.uk.png" group-title="UK TV",Discovery Science UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21120.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo UK" tvg-logo="http://static.iptv-epg.com/gb/DiscoveryTurbo.uk.png" group-title="UK TV",Discovery Turbo UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21121.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="Discovery Channel UK" tvg-logo="http://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="UK TV",Discovery Channel UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21122.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="Nat Geo Wild UK" tvg-logo="http://static.iptv-epg.com/gb/NatGeoWild.uk.png" group-title="UK TV",Nat Geo Wild UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21123.m3u8
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="National Geographic UK" tvg-logo="http://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="UK TV",National Geographic UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21125.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="Animal Planet UK" tvg-logo="http://static.iptv-epg.com/gb/AnimalPlanet.uk.png" group-title="UK TV",Animal Planet UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21126.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery UK" tvg-logo="http://static.iptv-epg.com/gb/InvestigationDiscovery.uk.png" group-title="UK TV",Investigation Discovery UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21129.m3u8
+#EXTINF:-1 tvg-id="History2.uk" tvg-name="History 2 UK" tvg-logo="http://static.iptv-epg.com/gb/History2.uk.png" group-title="UK TV",History 2 UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21130.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="History UK" tvg-logo="http://static.iptv-epg.com/gb/HistoryChannel.uk.png" group-title="UK TV",History UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21131.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History UK" tvg-logo="http://static.iptv-epg.com/gb/DiscoveryHistory.uk.png" group-title="UK TV",Discovery History UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21132.m3u8
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="Crime & Investigation UK" tvg-logo="http://static.iptv-epg.com/gb/CrimeAndInvestigationNetwork.uk.png" group-title="UK TV",Crime & Investigation UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21133.m3u8
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="Crime & Investigation UK" tvg-logo="http://static.iptv-epg.com/gb/CrimeAndInvestigationNetwork.uk.png" group-title="UK TV",Crime & Investigation UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21134.m3u8
+#EXTINF:-1 tvg-id="Home.uk" tvg-name="Home UK" tvg-logo="http://static.iptv-epg.com/gb/Home.uk.png" group-title="UK TV",Home UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67137.m3u8
+#EXTINF:-1 tvg-id="HomeandHealth.uk" tvg-name="Discovery Home & Health UK" tvg-logo="http://static.iptv-epg.com/gb/HomeandHealth.uk.png" group-title="UK TV",Discovery Home & Health UK
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/67138.m3u8
 
 
 
