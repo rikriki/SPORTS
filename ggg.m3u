@@ -11,6 +11,8 @@ http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV
 http://livestream01.untvweb.com:1935/public/untvwebstream/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.iglesianicristo.ws/images/inctv.jpg" group-title="PINOY TV", INC TV
+http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/DZIQ.jpg" group-title="PINOY TV", INQUIRER 990
 http://59c3ec70cfde0.streamlock.net:443/channel_7/channel7/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/BEAM31PH_Logo.jpg/250px-BEAM31PH_Logo.jpg" group-title="PINOY TV", BEAM CHANNEL 4
