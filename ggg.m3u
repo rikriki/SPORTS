@@ -401,6 +401,8 @@ http://dl.funsaber.net/movie/96/6/The.Hitmans.Bodyguard.2017.720p.WEB-DL.x264.Du
 http://dl.funsaber.net/movie/96/7/Baby.Driver.2017.720p.BluRay.x264.MkvCage.Funsaber_Net.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/The_Mummy_%282017%29.jpg" group-title="VOD MOVIES", THE MUMMY
 http://dl.funsaber.net/movie/96/7/The.Mummy.2017.720p.BluRay.x264.Dubbed.FA.Funsaber_Net.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/The_Great_Wall_%28film%29.png" group-title="VOD MOVIES", THE GREAT WALL
+http://dl.funsaber.net/movie/96/2/The.Great.Wall.2016.720p.MkvCage.mkv
 #EXTINF:-1 tvg-id="ABC News [US]" tvg-name="ABC Boston US" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fa/ABC_5_WCVB_TV_Boston.png" group-title="USA TV",ABC Boston 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21856.m3u8
 #EXTINF:-1 tvg-id="A&E Network" tvg-name="A&E US" tvg-logo="http://www.dupmycd.com/ae-Logo.jpg" group-title="USA TV",A&E 
