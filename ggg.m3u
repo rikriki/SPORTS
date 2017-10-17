@@ -223,6 +223,16 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www2.myjcom.jp/special/common/channel_logo/wowow_prime.jpg" group-title="JAPAN", WOWOW Prime
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/transformers-lastknight-awfulposter-full-700x993.jpg" group-title="BLURAY/FULL HD MOVIES", Transformers: The Last Knight 
+http://dl.funsaber.net/movie/96/7/Transformers.The.Last.Knight.2017.1080p.BluRay.AMIABLE.Funsaber_Net.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/War_for_the_Planet_of_the_Apes_poster.jpg" group-title="BLURAY/FULL HD MOVIES", War For The PLanet Of The Apes 
+http://dl.funsaber.net/movie/96/7/War.For.Planet.Of.The.Apes.2017.1080p.BluRy.Full.HD.BLOW.Funsaber_Net.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Pirates_of_the_Caribbean%2C_Dead_Men_Tell_No_Tales.jpg" group-title="BLURAY/FULL HD MOVIES", POTC: DEAD MEN TELL NO TALES 
+http://dl.funsaber.net/movie/96/6/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.1080p.BluRay.X264-AMIABLE.Funsaber_Net.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg" group-title="BLURAY/FULL HD MOVIES", Wonder Woman
+http://dl.funsaber.net/movie/96/6/Wonder_Woman_2017_1080p_BluRay_SPARKS_Funsaber_Net.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg" group-title="BLURAY/FULL HD MOVIES", Spider-Man: Homecoming
+http://dl.funsaber.net/movie/96/7/Spider-Man.Homecoming.2017.1080pBluRay.SPARKS.Funsaber_Net.mkv
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="VOD MOVIES", JOHN WICK  
 http://dl3.vaiomusic.org/Movie/John%20Wick%202014%20-%20720p%20%28media.vaiomusic%29.mkv
 #EXTINF:-1, tvg-logo="http://budomate.com/wp-content/uploads/2016/09/john-wick-2-poster-2.png" group-title="VOD MOVIES", JOHN WICK 2 
