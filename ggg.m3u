@@ -4,7 +4,7 @@ http://stream3.news5.ph:1935/n5e/tv53.stream/chunklist_w1083168964.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/753157589303603200/zQZ6stcb.jpg" group-title="PINOY TV", TV PATROL (LIVE STREAM)
 http://abslivechats-lh.akamaihd.net/i/LSHDtvpatrol_1@150554/index_400_av-p.m3u8
 #EXTINF:-1, tvg-logo="http://www.juantv.me/wp-content/uploads/2016/06/header-gma-450x300.jpg" group-title="PINOY TV", GMA 7 (offline)
-http://iphone-streaming.ustream.tv/uhls/21570604/streams/live/iphone/playlist.m3u8
+http://sjc-ucdn02.ustream.tv/hkg02/hkg02-uhs-beta01/live/21570604/1508211019632/plain/uhs/3/chunk_1508212048_aaa96a3b9f.m4v
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
 http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1508302128~acl=%2f*~data=hdntl~hmac=e6d119a70f4ae867dcfc642c2ff12dc8b697fe4675faa03af5c7694b55ca8895
 #EXTINF:-1, tvg-logo="http://cnnphilippines.com/incoming/ttbl9f-main-logo.png/BINARY/main-logo.png" group-title="PINOY TV", CNN PHILIPPINES
