@@ -1217,8 +1217,11 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/67138.m3u8
 http://103.77.116.238:443//bt_sport_1_hd_360p.stream/playlist.m3u8?st=pA_gi4IAXzIn9dYbHUN1ww&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmf2d830e55cc4a90807d7&e=1508236702
 #EXTINF:-1 tvg-id="Home.uk" tvg-name="Home UK" tvg-logo="https://hd-report.com/wp-content/uploads/2017/05/celtics-cavs-logos-600x277.png" group-title="NBA LINKS",Celtics vs Cavaliers 2
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21686.m3u8
+#EXTINF:-1 tvg-id="Home.uk" tvg-name="Home UK" tvg-logo="https://hd-report.com/wp-content/uploads/2017/05/celtics-cavs-logos-600x277.png" group-title="NBA LINKS",Celtics vs Cavaliers 3
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21948.m3u8
 #EXTINF:-1 tvg-id="Home.uk" tvg-name="Home UK" tvg-logo="http://www.houstontoyotacenter.com/assets/img/TC_rocketswarriors.jpg" group-title="NBA LINKS",Rockets vs Warriors 1
 http://103.77.116.238:443//bt_sport_1_hd_360p.stream/playlist.m3u8?st=pA_gi4IAXzIn9dYbHUN1ww&username2=0640000000&username=z8rWCXTxzQYgLCGW0jSS&password=mmmmf2d830e55cc4a90807d7&e=1508236702
 #EXTINF:-1 tvg-id="Home.uk" tvg-name="Home UK" tvg-logo="http://www.houstontoyotacenter.com/assets/img/TC_rocketswarriors.jpg" group-title="NBA LINKS",Rockets vs Warriors 2
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21686.m3u8
-
+#EXTINF:-1 tvg-id="Home.uk" tvg-name="Home UK" tvg-logo="http://www.houstontoyotacenter.com/assets/img/TC_rocketswarriors.jpg" group-title="NBA LINKS",Rockets vs Warriors 3
+http://vodiptv.org:83/live/Reseller/ResellerTestLine/21948.m3u8
