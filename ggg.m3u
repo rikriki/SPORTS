@@ -1191,12 +1191,5 @@ http://vodiptv.org:83/live/Reseller/ResellerTestLine/21134.m3u8
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67137.m3u8
 #EXTINF:-1 tvg-id="HomeandHealth.uk" tvg-name="Discovery Home & Health UK" tvg-logo="http://static.iptv-epg.com/gb/HomeandHealth.uk.png" group-title="UK TV",Discovery Home & Health UK
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/67138.m3u8
-#EXTINF:-1 tvg-id="Home.uk" tvg-name="Home UK" tvg-logo="http://www.houstontoyotacenter.com/assets/img/TC_rocketswarriors.jpg" group-title="NBA LINKS",Rockets vs Warriors 1
-http://103.77.116.238:443//bt_sport_1_hd_360p.stream/playlist.m3u8?st=bOo88zmiN3p1HH8tR7y6cg&username2=0989876565&username=29vg5dbvh4fe6753qm66&password=mmmme72c09cac73a1a2fb73e&e=1508319629
-#EXTINF:-1 tvg-id="Home.uk" tvg-name="Home UK" tvg-logo="http://www.houstontoyotacenter.com/assets/img/TC_rocketswarriors.jpg" group-title="NBA LINKS",Rockets vs Warriors 2
-http://vodiptv.org:83/live/Reseller/ResellerTestLine/21144.m3u8
-#EXTINF:-1 tvg-id="Home.uk" tvg-name="Home UK" tvg-logo="http://www.houstontoyotacenter.com/assets/img/TC_rocketswarriors.jpg" group-title="NBA LINKS",Rockets vs Warriors 3
-http://vodiptv.org:83/live/Reseller/ResellerTestLine/21948.m3u8
-#EXTINF:-1 tvg-id="Home.uk" tvg-name="Home UK" tvg-logo="http://www.houstontoyotacenter.com/assets/img/TC_rocketswarriors.jpg" group-title="NBA LINKS",Rockets vs Warriors 4
-http://vodiptv.org:83/live/Reseller/ResellerTestLine/21736.m3u8
+
 
