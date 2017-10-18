@@ -427,6 +427,8 @@ http://dl.funsaber.net/movie/96/7/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tale
 http://dl.funsaber.net/movie/96/6/Unlocked.2017.720p.MkvCage.Funsaber_Net.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Baywatch_poster.jpg" group-title="VOD MOVIES", BAYWATCH
 http://dl.funsaber.net/movie/96/5/Baywatch.2017.UNRATED.BluRay.720p..Ganool.Funsaber_Net.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Wanted_film_poster.jpg" group-title="VOD MOVIES", WANTED
+http://dl.dlfile.pro/2/Wanted.2008.720p.mkv
 #EXTINF:-1 tvg-id="ABC News [US]" tvg-name="ABC Boston US" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fa/ABC_5_WCVB_TV_Boston.png" group-title="USA TV",ABC Boston 
 http://vodiptv.org:83/live/Reseller/ResellerTestLine/21856.m3u8
 #EXTINF:-1 tvg-id="A&E Network" tvg-name="A&E US" tvg-logo="http://www.dupmycd.com/ae-Logo.jpg" group-title="USA TV",A&E 
