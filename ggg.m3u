@@ -48,7 +48,7 @@ http://103.77.116.250/boboapp1/a_hbofam.stream/playlist.m3u8?userid=174906&e=150
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5345636129ac90_79610696.png" group-title="ASIAN TV", AXN 
 http://103.77.116.250/boboapp2/AXN_EA_HD/playlist.m3u8?userid=174906&e=1507380634&st=xwb1lT2l4cj_MC-4GqrYCw
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df8044c.png" group-title="ASIAN TV", FOX
-http://103.77.116.250/boboapp3/FOX/playlist.m3u8?userid=174906&e=1507380446&st=JESsAnahjNgYMN8eN375TQ
+http://27.254.63.162/stream/tot4k.php?channel_id=d0bfb50bee3741a09c53f8099a64ad52
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="ASIAN TV", Fox Life 
 http://27.254.63.162/stream/totnew.php?channel_id=65f7358b813048a0898f5677e1793cf9 
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5254ef03234b73_45266199.png" group-title="ASIAN TV", FX
@@ -113,6 +113,8 @@ http://180.183.142.148:9981/stream/channelid/895200167?ticket=A28EF10570A9B79B70
 http://180.183.142.148:9981/stream/channelid/1439636857?ticket=A28EF10570A9B79B70910EA2F17F42B8CD79D860&profile=pass
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5391392392d313_21504889.png" group-title="ASIAN TV", Baby TV
 http://27.254.63.162/stream/tot4k.php?channel_id=7773f3cef0334a28ad248552ea63d9e7
+#EXTINF:-1,tvg-logo="https://vignette1.wikia.nocookie.net/hanna-barbera/images/6/61/BOOMCN.png" group-title="ASIAN TV", Boomerang
+http://27.254.63.162/stream/tot4k.php?channel_id=06c02432266f4f42b48947e075de38c5
 #EXTINF:-1,tvg-logo="https://openlab.citytech.cuny.edu/marcrodriguez-eportfolio/files/2016/09/image.png" group-title="ASIAN TV", Cartoon Network
 http://180.183.142.148:9981/stream/channelid/406855956?ticket=A28EF10570A9B79B70910EA2F17F42B8CD79D860&profile=pass
 #EXTINF:-1, tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="ASIAN TV", Nick Jr. (ENG)
