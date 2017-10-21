@@ -117,6 +117,8 @@ http://180.183.142.148:9981/stream/channelid/895200167?ticket=A28EF10570A9B79B70
 http://180.183.142.148:9981/stream/channelid/1439636857?ticket=A28EF10570A9B79B70910EA2F17F42B8CD79D860&profile=pass
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5391392392d313_21504889.png" group-title="ASIAN TV", Baby TV
 http://27.254.63.162/stream/tot4k.php?channel_id=7773f3cef0334a28ad248552ea63d9e7
+#EXTINF:-1,tvg-logo="https://openlab.citytech.cuny.edu/marcrodriguez-eportfolio/files/2016/09/image.png" group-title="ASIAN TV", Cartoon Network
+http://180.183.142.148:9981/stream/channelid/406855956?ticket=A28EF10570A9B79B70910EA2F17F42B8CD79D860&profile=pass
 #EXTINF:-1, tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="ASIAN TV", Nick Jr. (ENG)
 http://27.254.63.162/stream/tot4k.php?channel_id=09fffe8d426745689f60cbc24da1bb49
 #EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/History%20HD.png" group-title="ASIAN TV", History HD
