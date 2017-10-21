@@ -77,6 +77,8 @@ http://27.254.63.162/stream/tot4k.php?channel_id=2f18d4ba25224edaa8bb9aac94b00d4
 http://103.77.116.250/boboapp6/UNIVERSAL_SD/playlist.m3u8?userid=174906&e=1507380421&st=70yYJV21tWZ24PfvRBQHWw
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" group-title="ASIAN TV", NBA TV
 http://103.77.116.250/boboapp1/nba2.stream/playlist.m3u8?userid=174906&e=1506094772&st=l3Sd9MBlCZsHgvqg3a-www
+#EXTINF:-1, tvg-logo="https://cdn2.hubspot.net/hubfs/396606/ESPN-logo.png" group-title="ASIAN TV", ESPN
+https://videoserver2.org/live/IZkhIwDG-1qhFWiFFhOusA/1508634964/aca0a31d14c85e19f7023c9a3889f37b.m3u8
 #EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" group-title="ASIAN TV", Fox Sports HD
 http://103.77.116.250/boboapp1/fox1.stream/playlist.m3u8?userid=174906&e=1507362095&st=reCrWEfr2Ijd2y11mqvUvA
 #EXTINF:-1,tvg-logo="https://bangshift.com/wp-content/uploads/2015/07/fox.jpg" group-title="ASIAN TV", Fox Sports 1
