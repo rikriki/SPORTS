@@ -119,6 +119,8 @@ http://180.183.142.148:9981/stream/channelid/1439636857?ticket=A28EF10570A9B79B7
 http://27.254.63.162/stream/tot4k.php?channel_id=7773f3cef0334a28ad248552ea63d9e7
 #EXTINF:-1, tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="ASIAN TV", Nick Jr. (ENG)
 http://27.254.63.162/stream/tot4k.php?channel_id=09fffe8d426745689f60cbc24da1bb49
+#EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/History%20HD.png" group-title="ASIAN TV", History HD
+http://180.183.142.148:9981/stream/channelid/712120323?ticket=A28EF10570A9B79B70910EA2F17F42B8CD79D860&profile=pass
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5476e8bf87fa52_31319115.png" group-title="ASIAN TV", Discovery Channel 
 http://180.183.142.148:9981/stream/channelid/1225898482?ticket=A28EF10570A9B79B70910EA2F17F42B8CD79D860&profile=pass
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9a542.png" group-title="ASIAN TV", Nat Geo 
@@ -148,7 +150,7 @@ http://27.254.63.162/stream/totnew.php?channel_id=82c764aa2d7f42579348b8717cb5b9
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/876772485215141889/k58i8c8N.jpg" group-title="ASIAN TV", Channel News Asia
 http://27.254.63.162/stream/totnew.php?channel_id=018d9f65365a4744b2c8222ca1d54be9 
 #EXTINF:-1, tvg-logo="http://www.skynetdth.com/images/channal_logo/CNN.png" group-title="ASIAN TV", CNN
-http://183.88.212.205:8010/play/a00l
+http://180.183.142.148:9981/stream/channelid/1214633754?ticket=A28EF10570A9B79B70910EA2F17F42B8CD79D860&profile=pass
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/WWENetworkLogo.png/200px-WWENetworkLogo.png" group-title="ASIAN TV", WWE NETWORK
 http://hlslive-l3c.med2.net.wwe.com/ls01/wwe/LINEAR/WWE_ALL_DAY_NO_ARCHIVE_VIDEO_MEDIA_2_WWE_Dual_Linear_Event_20171011_1507754001415/800K/800_slide.m3u8
 #EXTINF:-1, tvg-logo="http://tennis-win.net/wp-content/uploads/2014/11/bs-asahi.jpg" group-title="JAPAN", BS Asahi
