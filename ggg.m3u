@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/ESPN5.jpeg" group-title="PINOY TV", ESPN 5
+#EXTINF:-1, tvg-logo="http://www.entrepreneur.com.ph//images/2017/10/12/ESPN-5-4.jpg" group-title="PINOY TV", ESPN 5
 http://stream3.news5.ph:1935/n5e/tv53.stream/chunklist_w1083168964.m3u8
-#EXTINF:-1, tvg-logo="http://www.juantv.me/wp-content/uploads/2016/06/header-gma-450x300.jpg" group-title="PINOY TV", GMA 7 (offline)
-http://sjc-ucdn02.ustream.tv/hkg02/hkg02-uhs-beta01/live/21570604/1508211019632/plain/uhs/3/chunk_1508212048_aaa96a3b9f.m4v
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
-http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1508695840~acl=%2f*~data=hdntl~hmac=df5df4a050a26cba73d3bf709eab472af2f2687e05a83325a3b96bb7948e47cd
+http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1508706326~acl=%2f*~data=hdntl~hmac=0c8a74dbd32027782bf2f5822c4d985b4f9b052e2886b2665d9e433b3b7f9d8b
 #EXTINF:-1, tvg-logo="http://cnnphilippines.com/incoming/ttbl9f-main-logo.png/BINARY/main-logo.png" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV
 http://livestream01.untvweb.com:1935/public/untvwebstream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.dreamsatellite.com/logo/net_25_logo.jpg" group-title="PINOY TV", NET 25 (offline)
-http://iphone-streaming.ustream.tv/uhls/21881126/streams/live/iphone/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.iglesianicristo.ws/images/inctv.jpg" group-title="PINOY TV", INC TV
 http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_800_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="PINOY TV", CLTV 36
