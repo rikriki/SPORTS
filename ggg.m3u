@@ -6,7 +6,7 @@ http://abslivechats-lh.akamaihd.net/i/LSHDtvpatrol_1@150554/index_800_av-p.m3u8
 #EXTINF:-1, tvg-logo="http://www.juantv.me/wp-content/uploads/2016/06/header-gma-450x300.jpg" group-title="PINOY TV", GMA 7 (offline)
 http://sjc-ucdn02.ustream.tv/hkg02/hkg02-uhs-beta01/live/21570604/1508211019632/plain/uhs/3/chunk_1508212048_aaa96a3b9f.m4v
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
-http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1508607654~acl=%2f*~data=hdntl~hmac=1c8286da4447667368076b79ff1b713606cbfd1b98a8aed3a73d9a3c83a17fc2
+http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1508684711~acl=%2f*~data=hdntl~hmac=3733e95757774d723a778865288937cbfa85ca96d53b9908b41dccd39b92b027
 #EXTINF:-1, tvg-logo="http://cnnphilippines.com/incoming/ttbl9f-main-logo.png/BINARY/main-logo.png" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV
