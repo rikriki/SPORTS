@@ -736,32 +736,7 @@ http://camerta.com:8000/live/Ipsen/Ipsen/2099.m3u8
 http://camerta.com:8000/live/Ipsen/Ipsen/2102.m3u8
 #EXTINF:-1, group-title="UK & USA", USA-Fox Sports 2
 http://camerta.com:8000/live/Ipsen/Ipsen/2103.m3u8
-#EXTINF:-1, tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/images/promo/promo_xtras_nba_league_pass.png" group-title="NBA Package",NBA TV
-http://vodiptv.org:83/live/TJEk7nNRAK/ym8PT2Og1w/94808.m3u8
-#EXTINF:-1, tvg-logo="http://www.nbcsports.com/philadelphia/sites/csnphilly/files/styles/article_hero_image/public/2016/05/11/sixers-raptors-matchup_0.jpg" group-title="NBA Package",NBA 01: RAPTORS VS SIXERS 
-http://vodiptv.org:83/live/TJEk7nNRAK/ym8PT2Og1w/94740.m3u8
-#EXTINF:-1, tvg-logo="https://localtvwjw.files.wordpress.com/2012/02/2-3-cavs-magic.jpg" group-title="NBA Package",NBA 02: CAVS VS MAGIC
-http://vodiptv.org:83/live/TJEk7nNRAK/ym8PT2Og1w/94739.m3u8
-#EXTINF:-1, tvg-logo="https://hopssportstalk.files.wordpress.com/2012/05/miami-heat-at-indiana-pacers-nba-matchup-jpg2.jpg" group-title="NBA Package",NBA 03: HEAT VS PACERS
-http://vodiptv.org:83/live/TJEk7nNRAK/ym8PT2Og1w/94738.m3u8
-#EXTINF:-1, tvg-logo="https://i1.wp.com/exstreamal.com/wp-content/uploads/2017/07/New-York-Knicks-vs-Detroit-Pistons.jpg" group-title="NBA Package",NBA 04:KNICKS VS PISTONS
-http://vodiptv.org:83/live/TJEk7nNRAK/ym8PT2Og1w/94737.m3u8
-#EXTINF:-1, tvg-logo="http://www.unitedcenter.com/assets/1/7/chicago-bulls-san-antonio-spurs.jpg" group-title="NBA Package",NBA 05: BULLS VS SPURS
-http://vodiptv.org:83/live/TJEk7nNRAK/ym8PT2Og1w/94736.m3u8
-#EXTINF:-1, tvg-logo="http://www.houstontoyotacenter.com/assets/img/TC_rocketsmavs.jpg" group-title="NBA Package",NBA 06: ROCKETS VS MAVS
-http://vodiptv.org:83/live/TJEk7nNRAK/ym8PT2Og1w/94735.m3u8
-#EXTINF:-1, tvg-logo="https://i0.wp.com/rmn.ph/wp-content/uploads/2017/03/gsw-memPHIS.jpg" group-title="NBA Package",NBA 07: MEMPHIS VS GSW
-http://vodiptv.org:83/live/TJEk7nNRAK/ym8PT2Og1w/94734.m3u8
-#EXTINF:-1, tvg-logo="https://media1.fdncms.com/portmerc/imager/u/original/5804887/1332292771-blazers-bucks.jpeg" group-title="NBA Package",NBA 08: BUCKS VS BLAZERS
-http://vodiptv.org:83/live/TJEk7nNRAK/ym8PT2Og1w/94733.m3u8
-#EXTINF:-1, tvg-logo="https://i2.wp.com/digindenver.com/wp-content/uploads/sites/16/2017/02/nuggets-kings.jpg" group-title="NBA Package",NBA 09: NUGGETS VS KINGS
-http://vodiptv.org:83/live/TJEk7nNRAK/ym8PT2Og1w/94732.m3u8
-#EXTINF:-1, tvg-logo="https://www.getmoresports.com/wp-content/uploads/2015/11/Utah%20JazzvsOklahoma%20City%20Thunder.jpg" group-title="NBA Package",NBA 10: JAZZ VS THUNDER
-http://vodiptv.org:83/live/TJEk7nNRAK/ym8PT2Og1w/94731.m3u8
-#EXTINF:-1, tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/images/promo/promo_xtras_nba_league_pass.png" group-title="NBA Package",NBA 11:
-http://vodiptv.org:83/live/TJEk7nNRAK/ym8PT2Og1w/94730.m3u8
-#EXTINF:-1, tvg-logo="https://webcdn3.cox.com/content/dam/cox/residential/images/promo/promo_xtras_nba_league_pass.png" group-title="NBA Package",NBA 12:
-http://vodiptv.org:83/live/TJEk7nNRAK/ym8PT2Og1w/94729.m3u8
+
 
 
 
