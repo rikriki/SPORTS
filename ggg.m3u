@@ -818,6 +818,8 @@ http://configuration.tn:8000/live/Ipsen/Ipsen/2116.m3u8
 http://configuration.tn:8000/live/Ipsen/Ipsen/1625.m3u8
 #EXTINF:-1, group-title="SPORTS", USA-NBA
 http://configuration.tn:8000/live/Ipsen/Ipsen/2385.m3u8
+#EXTINF:1, tvg-logo="https://www.wellsfargocenterphilly.com/assets/img/det_vs_76ers_16MKD008_1300x480-d0ac7837f5.jpg" group-title="NBA LEAGUE PASS", DET vs PHI
+http://31.220.2.50:25461/live/Free200/Free200/1126.m3u8
 
 
 
