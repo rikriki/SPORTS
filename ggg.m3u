@@ -28,7 +28,7 @@ http://59c3ec70cfde0.streamlock.net:443/channel_1/channel1/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="ASIAN TV", Arirang 
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/740033272860680192/q0cWLUKf.jpg" group-title="ASIAN TV", TVN Asia 
-http://180.183.142.148:9981/stream/channelid/1614406999?ticket=A28EF10570A9B79B70910EA2F17F42B8CD79D860&profile=pass
+http://183.88.212.205:8010/play/a024
 #EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/391_300.png" group-title="ASIAN TV",, KBS WORLD 
 http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-1474711308/eol/20200101T0000/hash/256504442b73f1d929c1a36b033cfd53facda543/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.astropackage.com.my/wp-content/uploads/2016/01/Astro-FFM-HD-ch430.png" group-title="ASIAN TV", Fox Family Movies   
@@ -62,7 +62,7 @@ http://103.77.116.250/boboapp1/warner.stream/playlist.m3u8?userid=174906&e=15073
 #EXTINF:-1, tvg-logo="https://football-hd.com/img_channel.php?c=ch_548e8728b92736_74936861.png" group-title="ASIAN TV", KIX HD
 http://27.254.63.162/stream/tot4k.php?channel_id=e584e0adae6440eab366f5fe3a824f91
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df80048.jpg" group-title="ASIAN TV", RED by HBO
-http://doballvip.ddns.net:443/doballvip/0x222_ais_redbyhboth_720p/playlist.m3u8
+http://183.88.212.205:8010/play/a03c
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa3b20.png" group-title="ASIAN TV", FYI
 http://27.254.63.162/stream/totnew.php?channel_id=169a149fd1ef40edba0bbfc8e0f1bdd1
 #EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/60233/logo_crime%20+%20investigation.png" group-title="ASIAN TV", CRIME INVESTIGATION
@@ -108,23 +108,23 @@ http://27.254.63.162/stream/tot4k.php?channel_id=9e38a0084e6d45d080139a166c60a10
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9864d.png" group-title="ASIAN TV", Trace Urban
 http://27.254.63.162/stream/totnew.php?channel_id=69ebf00065494dc39a3911c7d1eb9d71 
 #EXTINF:-1,tvg-logo="https://www.animax-asia.com/sites/asia.animax/files/animax_logo_endorsed_0.png" group-title="ASIAN TV", ANIMAX
-http://180.183.142.148:9981/stream/channelid/419894261?ticket=A28EF10570A9B79B70910EA2F17F42B8CD79D860&profile=pass
+http://iptv4u.club/site/freeiptv?channel=animax&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_548e80899d2e28_27436512.png" group-title="ASIAN TV", Disney Channel 
-http://180.183.142.148:9981/stream/channelid/895200167?ticket=A28EF10570A9B79B70910EA2F17F42B8CD79D860&profile=pass
+http://iptv4u.club/site/freeiptv?channel=disney&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 #EXTINF:-1,tvg-logo="http://www.toonbarn.com/wordpress/wp-content/uploads/2011/05/Disney-Junior-set-to-launch-in-the-UK-and-Canada.jpg" group-title="ASIAN TV", Disney Junior 
-http://180.183.142.148:9981/stream/channelid/1439636857?ticket=A28EF10570A9B79B70910EA2F17F42B8CD79D860&profile=pass
+http://183.88.212.205:8010/play/a02u
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5391392392d313_21504889.png" group-title="ASIAN TV", Baby TV
 http://27.254.63.162/stream/tot4k.php?channel_id=7773f3cef0334a28ad248552ea63d9e7
 #EXTINF:-1,tvg-logo="https://vignette1.wikia.nocookie.net/hanna-barbera/images/6/61/BOOMCN.png" group-title="ASIAN TV", Boomerang
 http://27.254.63.162/stream/tot4k.php?channel_id=06c02432266f4f42b48947e075de38c5
 #EXTINF:-1,tvg-logo="https://openlab.citytech.cuny.edu/marcrodriguez-eportfolio/files/2016/09/image.png" group-title="ASIAN TV", Cartoon Network
-http://180.183.142.148:9981/stream/channelid/406855956?ticket=A28EF10570A9B79B70910EA2F17F42B8CD79D860&profile=pass
+http://183.88.212.205:8010/play/a01b
 #EXTINF:-1, tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="ASIAN TV", Nick Jr. (ENG)
 http://27.254.63.162/stream/tot4k.php?channel_id=09fffe8d426745689f60cbc24da1bb49
 #EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/History%20HD.png" group-title="ASIAN TV", History HD
 http://180.183.142.148:9981/stream/channelid/712120323?ticket=A28EF10570A9B79B70910EA2F17F42B8CD79D860&profile=pass
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5476e8bf87fa52_31319115.png" group-title="ASIAN TV", Discovery Channel 
-http://180.183.142.148:9981/stream/channelid/1225898482?ticket=A28EF10570A9B79B70910EA2F17F42B8CD79D860&profile=pass
+http://iptv4u.club/site/freeiptv?channel=discovery&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9a542.png" group-title="ASIAN TV", Nat Geo 
 http://27.254.63.162/stream/tot4k.php?channel_id=850a8ca433184938bfaeaf770abc5d7a
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_54f21cb811caa5_99461820.png" group-title="ASIAN TV", Nat Geo WILD HD 
@@ -134,7 +134,7 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 #EXTINF:-1,tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="ASIAN TV", NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Dis_TLC.png" group-title="ASIAN TV", TLC
-http://180.183.142.148:9981/stream/channelid/1489914239?ticket=979C9F59F5DF6D4003E138180BD72635E7E02A06&profile=pass
+http://183.88.212.205:8010/play/a032
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LIVING%20ASIA.png" group-title="ASIAN TV", LIVING ASIA CHANNEL
 https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://s3-ap-southeast-1.amazonaws.com/afc-prod/thumbnails/standard_mobile/1314/9683/8243/afc-default.jpg" group-title="ASIAN TV", ASIA FOOD CHANNEL
@@ -154,7 +154,7 @@ http://27.254.63.162/stream/totnew.php?channel_id=82c764aa2d7f42579348b8717cb5b9
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/876772485215141889/k58i8c8N.jpg" group-title="ASIAN TV", Channel News Asia
 http://27.254.63.162/stream/totnew.php?channel_id=018d9f65365a4744b2c8222ca1d54be9 
 #EXTINF:-1, tvg-logo="http://www.skynetdth.com/images/channal_logo/CNN.png" group-title="ASIAN TV", CNN
-http://180.183.142.148:9981/stream/channelid/1214633754?ticket=A28EF10570A9B79B70910EA2F17F42B8CD79D860&profile=pass
+http://iptv4u.club/site/freeiptv?channel=cnn&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 #EXTINF:-1, tvg-logo="http://tennis-win.net/wp-content/uploads/2014/11/bs-asahi.jpg" group-title="JAPAN", BS Asahi
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-3WgJDDR0Nb8/AAAAAAAAAAI/AAAAAAAAAAA/GZQsfVI-QnU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="JAPAN", BS Fuji
