@@ -737,87 +737,87 @@ http://camerta.com:8000/live/Ipsen/Ipsen/2102.m3u8
 #EXTINF:-1, group-title="UK & USA", USA-Fox Sports 2
 http://camerta.com:8000/live/Ipsen/Ipsen/2103.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Sky_Sports-News
-http://configuration.tn:8000/live/Ipsen/Ipsen/2223.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2223.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Sports(main events)
-http://configuration.tn:8000/live/Ipsen/Ipsen/874.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/874.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Sports(main events) B
-http://configuration.tn:8000/live/Ipsen/Ipsen/2971.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2971.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Sports(cricket)
-http://configuration.tn:8000/live/Ipsen/Ipsen/421.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/421.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-UK-Sports(cricket) B
-http://configuration.tn:8000/live/Ipsen/Ipsen/2972.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2972.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Sports(Action)
-http://configuration.tn:8000/live/Ipsen/Ipsen/420.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/420.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Sports(Action) B
-http://configuration.tn:8000/live/Ipsen/Ipsen/2973.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2973.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Sports(golf)
-http://configuration.tn:8000/live/Ipsen/Ipsen/419.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/419.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-UK-Sports(golf) b
-http://configuration.tn:8000/live/Ipsen/Ipsen/2974.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2974.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Sport(premier league)
-http://configuration.tn:8000/live/Ipsen/Ipsen/418.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/418.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Sport(premier league) B
-http://configuration.tn:8000/live/Ipsen/Ipsen/2975.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2975.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Sports_Football
-http://configuration.tn:8000/live/Ipsen/Ipsen/2228.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2228.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-sky_sport_F1
-http://configuration.tn:8000/live/Ipsen/Ipsen/2014.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2014.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Premier Sports
-http://configuration.tn:8000/live/Ipsen/Ipsen/2153.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2153.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Racing
-http://configuration.tn:8000/live/Ipsen/Ipsen/2016.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2016.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Box_Nation
-http://configuration.tn:8000/live/Ipsen/Ipsen/1595.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/1595.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Sky_Box_Office(when match)
-http://configuration.tn:8000/live/Ipsen/Ipsen/2275.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2275.m3u8
 #EXTINF:-1, group-title="SPORTS", UK:Setanta
-http://configuration.tn:8000/live/Ipsen/Ipsen/1504.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/1504.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-BTsport-europe
-http://configuration.tn:8000/live/Ipsen/Ipsen/1468.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/1468.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-BT_Sport1
-http://configuration.tn:8000/live/Ipsen/Ipsen/1308.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/1308.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-BT_Sport2
-http://configuration.tn:8000/live/Ipsen/Ipsen/1309.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/1309.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-BT Sport 3
-http://configuration.tn:8000/live/Ipsen/Ipsen/2093.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2093.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-BT-Espn
-http://configuration.tn:8000/live/Ipsen/Ipsen/1594.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/1594.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Eurosport1_HD
-http://configuration.tn:8000/live/Ipsen/Ipsen/3830.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/3830.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Eurosport2_HD
-http://configuration.tn:8000/live/Ipsen/Ipsen/3829.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/3829.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Liverpool_FC
-http://configuration.tn:8000/live/Ipsen/Ipsen/2209.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2209.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-AtThe-Races
-http://configuration.tn:8000/live/Ipsen/Ipsen/396.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/396.m3u8
 #EXTINF:-1, group-title="SPORTS", UK-Motors_TV
-http://configuration.tn:8000/live/Ipsen/Ipsen/2216.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2216.m3u8
 #EXTINF:-1, group-title="SPORTS", spt-Sport_tonight-UK
-http://configuration.tn:8000/live/Ipsen/Ipsen/1263.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/1263.m3u8
 #EXTINF:-1, group-title="SPORTS", spt-Bs Sport
-http://configuration.tn:8000/live/Ipsen/Ipsen/657.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/657.m3u8
 #EXTINF:-1, group-title="SPORTS", US-Fox SPORT1
-http://configuration.tn:8000/live/Ipsen/Ipsen/2638.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2638.m3u8
 #EXTINF:-1, group-title="SPORTS", US-TSN Sport 1
-http://configuration.tn:8000/live/Ipsen/Ipsen/1257.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/1257.m3u8
 #EXTINF:-1, group-title="SPORTS", US-TSN 2
-http://configuration.tn:8000/live/Ipsen/Ipsen/2642.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2642.m3u8
 #EXTINF:-1, group-title="SPORTS", US-TSN 3
-http://configuration.tn:8000/live/Ipsen/Ipsen/2641.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2641.m3u8
 #EXTINF:-1, group-title="SPORTS", US-TSN 4
-http://configuration.tn:8000/live/Ipsen/Ipsen/2640.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2640.m3u8
 #EXTINF:-1, group-title="SPORTS", US-TSN 5
-http://configuration.tn:8000/live/Ipsen/Ipsen/2639.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2639.m3u8
 #EXTINF:-1, group-title="SPORTS", US-WWE
-http://configuration.tn:8000/live/Ipsen/Ipsen/2730.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2730.m3u8
 #EXTINF:-1, group-title="SPORTS", USA:NFL_now
-http://configuration.tn:8000/live/Ipsen/Ipsen/2078.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2078.m3u8
 #EXTINF:-1, group-title="SPORTS", USA-NBCSN sport
-http://configuration.tn:8000/live/Ipsen/Ipsen/2116.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2116.m3u8
 #EXTINF:-1, group-title="SPORTS", US-Sports Net
-http://configuration.tn:8000/live/Ipsen/Ipsen/1625.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/1625.m3u8
 #EXTINF:-1, group-title="SPORTS", USA-NBA
-http://configuration.tn:8000/live/Ipsen/Ipsen/2385.ts
+http://configuration.tn:8000/live/Ipsen/Ipsen/2385.m3u8
 
 
 
