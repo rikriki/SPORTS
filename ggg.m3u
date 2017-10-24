@@ -818,16 +818,5 @@ http://configuration.tn:8000/live/Ipsen/Ipsen/2116.m3u8
 http://configuration.tn:8000/live/Ipsen/Ipsen/1625.m3u8
 #EXTINF:-1, group-title="SPORTS", USA-NBA
 http://configuration.tn:8000/live/Ipsen/Ipsen/2385.m3u8
-#EXTINF:1, tvg-logo="https://1prso3391sqpaf1e11k5i8s1-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Pistons-1.jpg" group-title="NBA LEAGUE PASS", PISTONS VS SIXERS
-http://ace-tv.xyz:25461/live/hdforty.xyz@gmail.com/I8h4a53fZe/6110.m3u8
-#EXTINF:1, tvg-logo="http://www.philipsarena.com/assets/img/1516_HWK_WIRED_Hawks-Event-Images_Heat-c141b3da8c.jpg" group-title="NBA LEAGUE PASS", HEAT VS HAWKS
-http://ace-tv.xyz:25461/live/hdforty.xyz@gmail.com/I8h4a53fZe/6109.m3u8
-#EXTINF:1, tvg-logo="http://www.houstontoyotacenter.com/assets/img/TC_rocketsgrizzlies.jpg" group-title="NBA LEAGUE PASS", ROCKETS VS GRIZZLIES
-http://ace-tv.xyz:25461/live/hdforty.xyz@gmail.com/I8h4a53fZe/286.m3u8
-#EXTINF:1, tvg-logo="https://i.ytimg.com/vi/swGZRoGAyqE/maxresdefault.jpg" group-title="NBA LEAGUE PASS", BUCKS VS HORNETS
-http://ace-tv.xyz:25461/live/hdforty.xyz@gmail.com/I8h4a53fZe/285.m3u8
-#EXTINF:1, tvg-logo="https://i.ytimg.com/vi/n5E7rXRFnz8/hqdefault.jpg" group-title="NBA LEAGUE PASS", WARRIORS VS MAVERICKS
-http://ace-tv.xyz:25461/live/hdforty.xyz@gmail.com/I8h4a53fZe/6106.m3u8
-#EXTINF:1, tvg-logo="https://i.ytimg.com/vi/6zchc0_DioQ/maxresdefault.jpg" group-title="NBA LEAGUE PASS", SPURS VS RAPTORS
-http://ace-tv.xyz:25461/live/hdforty.xyz@gmail.com/I8h4a53fZe/6105.m3u8
+
 
