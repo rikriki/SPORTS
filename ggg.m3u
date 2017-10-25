@@ -820,6 +820,10 @@ http://configuration.tn:8000/live/Ipsen/Ipsen/1625.m3u8
 http://configuration.tn:8000/live/Ipsen/Ipsen/2385.m3u8
 #EXTINF:1, tvg-logo="https://www.wellsfargocenterphilly.com/assets/img/hou_vs_76ers_16MKD008_1300x480-eb0c0f9c08.jpg" group-title="NBA LEAGUE PASS", SIXERS VS ROCKETS
 http://ace-tv.xyz:25461/live/hdforty.xyz@gmail.com/I8h4a53fZe/6108.m3u8
+#EXTINF:1, tvg-logo="https://www.sofascore.com/images/event-details/minnesota-timberwolves-detroit-pistons-7524600.png" group-title="NBA LEAGUE PASS", PISTONS VS TWOLVES
+http://ace-tv.xyz:25461/live/hdforty.xyz@gmail.com/I8h4a53fZe/6109.
+#EXTINF:1, tvg-logo="https://cbsdenver.files.wordpress.com/2014/10/hornets-nuggets-logo.jpg" group-title="NBA LEAGUE PASS", HORNETS VS NUGGETS
+http://ace-tv.xyz:25461/live/hdforty.xyz@gmail.com/I8h4a53fZe/6110.m3u8
 
 
 
