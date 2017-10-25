@@ -818,6 +818,8 @@ http://configuration.tn:8000/live/Ipsen/Ipsen/2116.m3u8
 http://configuration.tn:8000/live/Ipsen/Ipsen/1625.m3u8
 #EXTINF:-1, group-title="SPORTS", USA-NBA
 http://configuration.tn:8000/live/Ipsen/Ipsen/2385.m3u8
+#EXTINF:1, tvg-logo="https://www.wellsfargocenterphilly.com/assets/img/hou_vs_76ers_16MKD008_1300x480-eb0c0f9c08.jpg" group-title="NBA LEAGUE PASS", SIXERS VS ROCKETS
+http://ace-tv.xyz:25461/live/hdforty.xyz@gmail.com/I8h4a53fZe/6108.m3u8
 
 
 
