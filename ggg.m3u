@@ -34,7 +34,7 @@ http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-147
 #EXTINF:-1,tvg-logo="http://www.astropackage.com.my/wp-content/uploads/2016/01/Astro-FFM-HD-ch430.png" group-title="ASIAN TV", Fox Family Movies   
 http://iptv4u.club/site/freeiptv?channel=foxfamilymovies&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_568ed8edcbce27_67733492.png" group-title="ASIAN TV", Fox Action Movies  
-http://27.254.63.162/stream/tot4k.php?channel_id=6744e98748214c32912a46d1c7277d55
+http://103.77.116.250/boboapp1/fox_action.stream/playlist.m3u8?userid=174906&e=1507380332&st=9TLg2668SFOhnT5V379eQA
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_movies_premium.png" group-title="ASIAN TV", Fox Movies Premium 
 http://103.77.116.250/boboapp1/foxp.stream/playlist.m3u8?userid=174906&e=1507380382&st=MXTcqMCFvBZahN3o6WZDlg
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5254eeb7633a29_06834819.png" group-title="ASIAN TV", HBO 
@@ -48,13 +48,13 @@ http://103.77.116.250/boboapp1/a_hbofam.stream/playlist.m3u8?userid=174906&e=150
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5345636129ac90_79610696.png" group-title="ASIAN TV", AXN 
 http://103.77.116.250/boboapp2/AXN_EA_HD/playlist.m3u8?userid=174906&e=1507380634&st=xwb1lT2l4cj_MC-4GqrYCw
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df8044c.png" group-title="ASIAN TV", FOX
-http://27.254.63.162/stream/tot4k.php?channel_id=d0bfb50bee3741a09c53f8099a64ad52
+http://103.77.116.250/boboapp3/FOX/playlist.m3u8?userid=174906&e=1507380446&st=JESsAnahjNgYMN8eN375TQ
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="ASIAN TV", Fox Life 
-http://27.254.63.162/stream/totnew.php?channel_id=65f7358b813048a0898f5677e1793cf9 
+http://103.77.116.250/boboapp6/STAR_WORLD/playlist.m3u8?userid=174906&e=1507380714&st=sJJYDXEeTHd19lnxmjse7A
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5254ef03234b73_45266199.png" group-title="ASIAN TV", FX
-http://27.254.63.162/stream/totnew.php?channel_id=2e0e4b05aa6e428593f3b45b710045b7 
+http://103.77.116.250/boboapp6/FX/playlist.m3u8?userid=174906&e=1507380880&st=1bIoPSuP-RstiMBF9UgMpg
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df80f7d.jpg" group-title="ASIAN TV", FOX CRIME
-http://27.254.63.162/stream/totnew.php?channel_id=5028f7ff1d1b4d5f8189690233364737
+http://103.77.116.250/boboapp6/FOX_CRIME/playlist.m3u8?userid=174906&e=1507380740&st=xR6GcsiXauMgoY6-gxSwRw
 #EXTINF:-1, tvg-logo="https://football-hd.com/img_channel.php?c=ch_5476e1ac54b681_73639985.png" group-title="ASIAN TV", CINEMAX
 http://103.77.116.250/boboapp1/a_cinemax.stream/playlist.m3u8?userid=174906&e=1507380501&st=pG7_Icq6HwFYnelF2xw2eQ
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df82e42.png" group-title="ASIAN TV", Warner TV
@@ -62,9 +62,9 @@ http://103.77.116.250/boboapp1/warner.stream/playlist.m3u8?userid=174906&e=15073
 #EXTINF:-1, tvg-logo="https://football-hd.com/img_channel.php?c=ch_548e8728b92736_74936861.png" group-title="ASIAN TV", KIX HD
 http://27.254.63.162/stream/tot4k.php?channel_id=e584e0adae6440eab366f5fe3a824f91
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df80048.jpg" group-title="ASIAN TV", RED by HBO
-http://14.163.246.221:4022/rtp/232.84.1.9:8028
+http://14.163.246.221:4022/rtp/232.84.1.44:8244
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa3b20.png" group-title="ASIAN TV", FYI
-http://27.254.63.162/stream/totnew.php?channel_id=169a149fd1ef40edba0bbfc8e0f1bdd1
+http://103.77.116.250/boboapp2/FYI_HD_Thailand/playlist.m3u8?userid=174906&e=1507380576&st=zosyHW9YgWr-Nt-HQp67yw
 #EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/60233/logo_crime%20+%20investigation.png" group-title="ASIAN TV", CRIME INVESTIGATION
 http://27.254.63.162/stream/totnew.php?channel_id=9961a963920f45f4bc0d81c3e478b334
 #EXTINF:-1, tvg-logo="http://www.skynetdth.com/images/channal_logo/DIVI.png" group-title="ASIAN TV", Diva Universal
@@ -72,7 +72,7 @@ http://103.77.116.250/boboapp6/DIVA_UNIVERSAL/playlist.m3u8?userid=174906&e=1507
 #EXTINF:-1, tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2012/04/e_logo.jpg" group-title="ASIAN TV", E!
 http://103.77.116.250/boboapp6/E/playlist.m3u8?userid=174906&e=1507381456&st=LEA3f7plCb0eBCIbW5FXRQ
 #EXTINF:-1, tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042011/_comedy_central_2011_-_3-line.jpg" group-title="ASIAN TV", Comedy Central
-http://27.254.63.162/stream/tot4k.php?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
+http://103.77.116.250/boboapp6/COMEDY_CENTRAL/playlist.m3u8?userid=174906&e=1507380475&st=5ua8jainSOFRRBIJ88GgNA
 #EXTINF:-1, tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/HAL/universal-colour-living.png" group-title="ASIAN TV", Universal
 http://103.77.116.250/boboapp6/UNIVERSAL_SD/playlist.m3u8?userid=174906&e=1507380421&st=70yYJV21tWZ24PfvRBQHWw
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" group-title="ASIAN TV", NBA TV
@@ -84,9 +84,9 @@ http://103.77.116.250/boboapp1/fox1.stream/playlist.m3u8?userid=174906&e=1507362
 #EXTINF:-1,tvg-logo="https://bangshift.com/wp-content/uploads/2015/07/fox.jpg" group-title="ASIAN TV", Fox Sports 1
 http://cdn3.googlestreamming.com:443/fox_sports_1_480p.stream/playlist.m3u8?st=ShJJVMZ1g1-gTyROYk-W5g&username2=338712806554624&username=5148&password=mmmmf3ec7a03228db901b37a&e=1508873846
 #EXTINF:-1,tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/04/fs2logo.png" group-title="ASIAN TV", Fox Sports 2  
-http://27.254.63.162/stream/tot4k.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4
+http://103.77.116.250/boboapp6/FOX_SPORTS_2/playlist.m3u8?userid=174906&e=1507362138&st=dpGw1OzlCCiejNrhZ0tldw
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e00c5fe.png" group-title="ASIAN TV", Fox Sports 3
-http://27.254.63.162/stream/tot4k.php?channel_id=443ea6ef1768462aaffdff38ce2a4355
+http://103.77.116.250/boboapp6/FOX_SPORTS_3/playlist.m3u8?userid=174906&e=1507362155&st=TtASQAmbtUD6p3YN8g_GiA
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfe320c.jpg" group-title="ASIAN TV", Fight Sport
 http://103.77.116.250/boboapp6/FIGHT_SPORTS_HD/playlist.m3u8?userid=174906&e=1507362214&st=82KU-p2taIlZa7OY0m7Htw
 #EXTINF:-1,tvg-logo="http://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2FLogo_SI_ASN_Campaignasia.png" group-title="ASIAN TV", Sports Illustrated
@@ -94,9 +94,9 @@ http://103.77.116.250/boboapp1/a_sportillus.stream/playlist.m3u8?userid=174906&e
 #EXTINF:-1,tvg-logo="https://tvbtn.files.wordpress.com/2013/01/golf_channel-350x291.jpg" group-title="ASIAN TV", Golf Channel
 http://103.77.116.250/boboapp6/GOLF/playlist.m3u8?userid=174906&e=1507361674&st=x8xpRKBcZqv7QJdm9OiKVQ
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/pic_ch350.jpg" group-title="ASIAN TV", MTV Asia
-http://27.254.63.162/stream/tot4k.php?channel_id=ebce2f5139c54eda8b111e5923af9c9e
+http://iptv4u.club/site/freeiptv?channel=mtvasia&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df95a33.png" group-title="ASIAN TV", MTV China
-http://27.254.63.162/stream/tot4k.php?channel_id=deb56e700dbc4d9ea5af08e9d300a675
+http://iptv4u.club/site/freeiptv?channel=mtvchina&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 #EXTINF:-1,tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/mtv-rocks.png" group-title="ASIAN TV", MTV Rocks
 http://persik.by/stream/1417/252987/10227.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/892028647347015680/JKQayy2R.jpg" group-title="ASIAN TV", MTV Hits
@@ -104,9 +104,9 @@ http://persik.by/stream/1417/252987/10208.m3u8
 #EXTINF:-1,tvg-logo="http://teve.ba/img/content/mtv-live-hd.gif" group-title="ASIAN TV", MTV Live HD
 http://persik.by/stream/1417/252987/10289.m3u8
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=chv-inter.png" group-title="ASIAN TV", Channel V
-http://27.254.63.162/stream/tot4k.php?channel_id=9e38a0084e6d45d080139a166c60a102
+http://14.163.246.221:4022/rtp/232.84.1.13:8052
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9864d.png" group-title="ASIAN TV", Trace Urban
-http://27.254.63.162/stream/totnew.php?channel_id=69ebf00065494dc39a3911c7d1eb9d71 
+http://iptv4u.club/site/freeiptv?channel=traceurban&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 #EXTINF:-1,tvg-logo="https://www.animax-asia.com/sites/asia.animax/files/animax_logo_endorsed_0.png" group-title="ASIAN TV", ANIMAX
 http://183.88.212.205:8010/play/a00h
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_548e80899d2e28_27436512.png" group-title="ASIAN TV", Disney Channel 
@@ -114,9 +114,9 @@ http://iptv4u.club/site/freeiptv?channel=disney&e=1508211057&acc=test&exp=151078
 #EXTINF:-1,tvg-logo="http://www.toonbarn.com/wordpress/wp-content/uploads/2011/05/Disney-Junior-set-to-launch-in-the-UK-and-Canada.jpg" group-title="ASIAN TV", Disney Junior 
 http://14.163.246.221:4022/rtp/232.84.1.90:10398
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5391392392d313_21504889.png" group-title="ASIAN TV", Baby TV
-http://27.254.63.162/stream/tot4k.php?channel_id=7773f3cef0334a28ad248552ea63d9e7
+http://103.77.116.238:443//baby_tv_hd_360p.stream/playlist.m3u8?st=K8oZVROD2_rw45_bSPRtCQ&username2=0986546676&username=h2jjD3rdxBAZwh2jjD3r&password=mmmm319554c0b375aac6dc41&e=1508938697
 #EXTINF:-1,tvg-logo="https://vignette1.wikia.nocookie.net/hanna-barbera/images/6/61/BOOMCN.png" group-title="ASIAN TV", Boomerang
-http://27.254.63.162/stream/tot4k.php?channel_id=06c02432266f4f42b48947e075de38c5
+http://iptv4u.club/site/freeiptv?channel=boomerang&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 #EXTINF:-1,tvg-logo="https://openlab.citytech.cuny.edu/marcrodriguez-eportfolio/files/2016/09/image.png" group-title="ASIAN TV", Cartoon Network
 http://14.163.246.221:4022/rtp/232.84.1.16:8070
 #EXTINF:-1, tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="ASIAN TV", Nick Jr. (ENG)
