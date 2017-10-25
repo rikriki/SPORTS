@@ -29,7 +29,7 @@ http://59c3ec70cfde0.streamlock.net:443/channel_1/channel1/playlist.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/740033272860680192/q0cWLUKf.jpg" group-title="ASIAN TV", TVN Asia 
 http://183.88.212.205:8010/play/a024
-#EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/391_300.png" group-title="ASIAN TV",, KBS WORLD 
+#EXTINF:-1,tvg-logo="https://www2.t-expo.jp/img/exhibitors/35957/KBS-World-logo%201.jpg" group-title="ASIAN TV",, KBS WORLD 
 http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-1474711308/eol/20200101T0000/hash/256504442b73f1d929c1a36b033cfd53facda543/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.astropackage.com.my/wp-content/uploads/2016/01/Astro-FFM-HD-ch430.png" group-title="ASIAN TV", Fox Family Movies   
 http://iptv4u.club/site/freeiptv?channel=foxfamilymovies&e=1508211057&acc=test&exp=1510789576&t=.m3u8
@@ -71,7 +71,7 @@ http://27.254.63.162/stream/totnew.php?channel_id=9961a963920f45f4bc0d81c3e478b3
 http://103.77.116.250/boboapp6/DIVA_UNIVERSAL/playlist.m3u8?userid=174906&e=1507381408&st=dfmzTY1VIKizZ-h9DA1IFg  
 #EXTINF:-1, tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2012/04/e_logo.jpg" group-title="ASIAN TV", E!
 http://103.77.116.250/boboapp6/E/playlist.m3u8?userid=174906&e=1507381456&st=LEA3f7plCb0eBCIbW5FXRQ
-#EXTINF:-1, tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042011/_comedy_central_2011_-_3-line.jpg" group-title="ASIAN TV", Comedy Central
+#EXTINF:-1, tvg-logo="https://www.gmkfreelogos.com/logos/C/img/Comedy_Central-2.gif" group-title="ASIAN TV", Comedy Central
 http://103.77.116.250/boboapp6/COMEDY_CENTRAL/playlist.m3u8?userid=174906&e=1507380475&st=5ua8jainSOFRRBIJ88GgNA
 #EXTINF:-1, tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/HAL/universal-colour-living.png" group-title="ASIAN TV", Universal
 http://103.77.116.250/boboapp6/UNIVERSAL_SD/playlist.m3u8?userid=174906&e=1507380421&st=70yYJV21tWZ24PfvRBQHWw
@@ -79,7 +79,7 @@ http://103.77.116.250/boboapp6/UNIVERSAL_SD/playlist.m3u8?userid=174906&e=150738
 http://103.77.116.250/boboapp1/nba2.stream/playlist.m3u8?userid=174906&e=1506094772&st=l3Sd9MBlCZsHgvqg3a-www
 #EXTINF:-1, tvg-logo="https://cdn2.hubspot.net/hubfs/396606/ESPN-logo.png" group-title="ASIAN TV", ESPN
 https://videoserver2.org/live/IZkhIwDG-1qhFWiFFhOusA/1508634964/aca0a31d14c85e19f7023c9a3889f37b.m3u8
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" group-title="ASIAN TV", Fox Sports HD
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/5c/50/5e/5c505e36859f936483a675ccba45d50a.jpg" group-title="ASIAN TV", Fox Sports HD
 http://103.77.116.250/boboapp1/fox1.stream/playlist.m3u8?userid=174906&e=1507362095&st=reCrWEfr2Ijd2y11mqvUvA
 #EXTINF:-1,tvg-logo="https://bangshift.com/wp-content/uploads/2015/07/fox.jpg" group-title="ASIAN TV", Fox Sports 1
 http://cdn3.googlestreamming.com:443/fox_sports_1_480p.stream/playlist.m3u8?st=7QwtPwk1nXTJ-rXWxl_8BQ&username2=338712806554624&username=5148&password=mmmmc16582fd06d438ea1654&e=1508942556
@@ -137,7 +137,7 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 http://14.163.246.221:4022/rtp/232.84.1.49:8274
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LIVING%20ASIA.png" group-title="ASIAN TV", LIVING ASIA CHANNEL
 https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://s3-ap-southeast-1.amazonaws.com/afc-prod/thumbnails/standard_mobile/1314/9683/8243/afc-default.jpg" group-title="ASIAN TV", ASIA FOOD CHANNEL
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-VuLNDkX-3yM/AAAAAAAAAAI/AAAAAAAAAAA/LB8nlxqMtdQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ASIAN TV", ASIA FOOD CHANNEL
 http://103.77.116.250/boboapp3/ASIAN_F/playlist.m3u8?userid=174906&e=1506100671&st=deMFeNtZqD50O237US9rNA
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfaa444.png" group-title="ASIAN TV", FashionTV
 http://27.254.63.162/stream/totnew.php?channel_id=df468a12ae6547de9637486bdc2025aa
