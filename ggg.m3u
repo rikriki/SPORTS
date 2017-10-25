@@ -824,6 +824,8 @@ http://ace-tv.xyz:25461/live/hdforty.xyz@gmail.com/I8h4a53fZe/6374.m3u8
 http://ace-tv.xyz:25461/live/hdforty.xyz@gmail.com/I8h4a53fZe/6109.m3u8
 #EXTINF:1, tvg-logo="https://cbsdenver.files.wordpress.com/2014/10/hornets-nuggets-logo.jpg" group-title="NBA LEAGUE PASS", HORNETS VS NUGGETS
 http://ace-tv.xyz:25461/live/hdforty.xyz@gmail.com/I8h4a53fZe/6110.m3u8
+#EXTINF:1, tvg-logo="http://www.barclayscenter.com/assets/img/nets-vs-cavs_event-thumb_noBranding.jpg" group-title="NBA LEAGUE PASS", NETS VS CAVALIERS
+http://ace-tv.xyz:25461/live/hdforty.xyz@gmail.com/I8h4a53fZe/6107.m3u8
 
 
 
