@@ -818,5 +818,54 @@ http://configuration.tn:8000/live/Ipsen/Ipsen/2116.m3u8
 http://configuration.tn:8000/live/Ipsen/Ipsen/1625.m3u8
 #EXTINF:-1, group-title="SPORTS", USA-NBA
 http://configuration.tn:8000/live/Ipsen/Ipsen/2385.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN MOVIES 1HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/46.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN MOVIES 2HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/43.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN MOVIES 3HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/44.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN MOVIES 4HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/45.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", Bein HD SERIE 1
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/49.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BeIn GOURMET HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/50.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BeiN Junior
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/51.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN:BEINSPORTS1HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/5.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN:BEINSPORTS2HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/8.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN:BEINSPORTS3HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/11.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN:BEINSPORTS4HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/14.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN:BEINSPORTS5HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/17.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN:BEINSPORTS6HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/20.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN:BEINSPORTS7HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/23.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN:BEINSPORTS8HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/26.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN:BEINSPORTS9HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/29.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN:BEINSPORTS10HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/32.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN:BEINSPORTS11HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/35.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN:BEINSPORTS12HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/36.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN:BEINSPORTS13HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/37.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN:BEINSPORTS14HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/38.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN:BEINSPORTS15HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/39.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN:BEINSPORTS16HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/40.m3u8
+#EXTINF:-1,group-title="BEIN CHANNELS", BEIN:BEINSPORTS17HD
+http://145.239.199.135:8000/live/iptvdroideasylivetv/iptvdroideasylivetv/42.m3u8
+
 
 
