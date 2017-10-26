@@ -2,8 +2,8 @@
 #EXTINF:-1, tvg-logo="http://www.entrepreneur.com.ph//images/2017/10/12/ESPN-5-4.jpg" group-title="PINOY TV", ESPN 5
 http://stream3.news5.ph:1935/n5e/tv53.stream/chunklist_w1083168964.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
-http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1509051848~acl=%2f*~data=hdntl~hmac=712c6f088f46c3665ca5eda9406de5d74b764986f08d3a570d793d3479d4b253
-#EXTINF:-1, tvg-logo="http://cnnphilippines.com/incoming/ttbl9f-main-logo.png/BINARY/main-logo.png" group-title="PINOY TV", CNN PHILIPPINES
+http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1509065587~acl=%2f*~data=hdntl~hmac=66f15a58b023d1423cb1ebf8f9e7be60cdb9a2138ed6d915c72ea980f21cb7cf
+EXTINF:-1, tvg-logo="http://cnnphilippines.com/incoming/ttbl9f-main-logo.png/BINARY/main-logo.png" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV
 http://livestream01.untvweb.com:1935/public/untvwebstream/playlist.m3u8
@@ -68,7 +68,7 @@ http://103.77.116.250/boboapp2/FYI_HD_Thailand/playlist.m3u8?userid=174906&e=150
 #EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/60233/logo_crime%20+%20investigation.png" group-title="ASIAN TV", CRIME INVESTIGATION
 http://27.254.63.162/stream/totnew.php?channel_id=9961a963920f45f4bc0d81c3e478b334
 #EXTINF:-1, tvg-logo="http://www.skynetdth.com/images/channal_logo/DIVI.png" group-title="ASIAN TV", Diva Universal
-http://123.29.70.3/v4live.m3u8?c=vstv383&q=hd&deviceType=9&userId=5&deviceId=5821358&type=tv&p=0&zn=net&rkey=HXDdnn0kWyqdjuij&grantor=1&pkg=pkg10&profiles=hd,sd&location= 
+http://123.29.70.3/v4live.m3u8?c=vstv383&q=sd&deviceType=9&userId=5&deviceId=5821358&type=tv&p=0&zn=net&rkey=YbCfJzk15662VLkJ&grantor=1&pkg=pkg10&profiles=hd,sd&location=
 #EXTINF:-1, tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2012/04/e_logo.jpg" group-title="ASIAN TV", E!
 http://103.77.116.250/boboapp6/E/playlist.m3u8?userid=174906&e=1507381456&st=LEA3f7plCb0eBCIbW5FXRQ
 #EXTINF:-1, tvg-logo="https://www.gmkfreelogos.com/logos/C/img/Comedy_Central-2.gif" group-title="ASIAN TV", Comedy Central
