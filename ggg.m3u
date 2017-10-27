@@ -73,7 +73,7 @@ http://14.176.2.251:4022/rtp/232.84.1.109:10230
 http://103.77.116.250/boboapp6/E/playlist.m3u8?userid=174906&e=1507381456&st=LEA3f7plCb0eBCIbW5FXRQ
 #EXTINF:-1, tvg-logo="https://www.gmkfreelogos.com/logos/C/img/Comedy_Central-2.gif" group-title="ASIAN TV", Comedy Central
 http://103.77.116.250/boboapp6/COMEDY_CENTRAL/playlist.m3u8?userid=174906&e=1507380475&st=5ua8jainSOFRRBIJ88GgNA
-#EXTINF:-1, tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/HAL/universal-colour-living.png" group-title="ASIAN TV", Universal
+#EXTINF:-1, tvg-logo="https://astro-image-resizer.s3-ap-southeast-1.amazonaws.com/3/crop/Portals/0/Images/ArticleImages/2275/800x0_eGG-mediaroom_main.jpg" group-title="ASIAN TV", EGG Network
 http://103.77.116.250/boboapp6/UNIVERSAL_SD/playlist.m3u8?userid=174906&e=1507380421&st=70yYJV21tWZ24PfvRBQHWw
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" group-title="ASIAN TV", NBA TV
 http://103.77.116.250/boboapp1/nba2.stream/playlist.m3u8?userid=174906&e=1506094772&st=l3Sd9MBlCZsHgvqg3a-www
