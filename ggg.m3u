@@ -6,7 +6,7 @@ http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?
 #EXTINF:-1, tvg-logo="http://cnnphilippines.com/incoming/ttbl9f-main-logo.png/BINARY/main-logo.png" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV
-http://livestream01.untvweb.com:1935/public/untvwebstream/playlist.m3u8
+https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/chunklist_b2592000.m3u8?720
 #EXTINF:-1, tvg-logo="http://www.iglesianicristo.ws/images/inctv.jpg" group-title="PINOY TV", INC TV
 http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_800_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="PINOY TV", CLTV 36
