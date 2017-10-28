@@ -25,8 +25,6 @@ http://59c3ec70cfde0.streamlock.net:443/channel_3/channel3/playlist.m3u8
 http://59c3ec70cfde0.streamlock.net:443/channel_2/channel2/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.shoptv.com.ph/skin/frontend/cudsly/default/images/shoptv-logo.png" group-title="PINOY TV", BEAM SHOP TV
 http://59c3ec70cfde0.streamlock.net:443/channel_1/channel1/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" group-title="PINOY TV", NBA TV
-http://nitrotv.for-the.biz:25461/live/regi_mclub/DmHyLKnXB4/6053.ts
 #EXTINF:-1, tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="ASIAN TV", Arirang 
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/740033272860680192/q0cWLUKf.jpg" group-title="ASIAN TV", TVN Asia 
