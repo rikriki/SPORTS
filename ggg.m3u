@@ -68,7 +68,7 @@ http://103.77.116.250/boboapp2/FYI_HD_Thailand/playlist.m3u8?userid=174906&e=150
 #EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/60233/logo_crime%20+%20investigation.png" group-title="ASIAN TV", CRIME INVESTIGATION
 http://27.254.63.162/stream/totnew.php?channel_id=9961a963920f45f4bc0d81c3e478b334
 #EXTINF:-1, tvg-logo="http://www.skynetdth.com/images/channal_logo/DIVI.png" group-title="ASIAN TV", Diva Universal
-http://14.176.2.251:4022/rtp/232.84.1.109:10230
+http://103.1.237.88/fetch/.m3u8?s=9dd1c0a7c0855ea62e71d9f894510eb1&t=1509192318&token_id=vXkc9Thh%2FCDxZ3fbaTRiT5RRBsw76X4F4KFyAQRXHw%2FYkbhbp76qd7eNQ6FpRZtJm8BipUWXEx5VX%2BEXArAAsU9UmOXpyPpKdB%2B7uoy3OD5udsarhcR9VP3vt8UJhOg02LO4%2FB64pAcGaV8U6lTr1%2B1ZoG9MTKp7vJDQWnqC7B5iexzhBOdQjR0MWu9yM8S6GLLXIF2kQuubTef0AvJcNzsEWWppMH4BCAAqGYVxXZY0FO7SKQpi7E4fvg86C5jIsSpmoxym5RZEHtjuAAJllA%3D%3D
 #EXTINF:-1, tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2012/04/e_logo.jpg" group-title="ASIAN TV", E!
 http://103.77.116.250/boboapp6/E/playlist.m3u8?userid=174906&e=1507381456&st=LEA3f7plCb0eBCIbW5FXRQ
 #EXTINF:-1, tvg-logo="https://www.gmkfreelogos.com/logos/C/img/Comedy_Central-2.gif" group-title="ASIAN TV", Comedy Central
