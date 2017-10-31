@@ -578,6 +578,8 @@ http://playlist.prg09.v-ip-tv.com/atip/3/49/channel-105/0/pc.m3u8
 http://playlist.prg09.v-ip-tv.com/atip/3/49/channel-107/0/pc.m3u8
 #EXTINF:-1 group-title="FOR ADULTS ONLY" tvg-logo="https://i.pinimg.com/originals/98/f0/53/98f0539c4c96bcad56886269e022997c.jpg", HOT 35
 http://playlist.prg09.v-ip-tv.com/atip/3/49/channel-108/0/pc.m3u8
+#EXTINF:1, tvg-logo="https://i.axs.com/2017/08/la-clippers-vs-golden-state-warriors-tickets_10-30-17_17_59a72762c12e1.png" group-title="NBA LINKS", CLIPPERS VS WARRIORS
+http://d3lcwdpnkit94n.cloudfront.net/hls/ch1_hd720.m3u8
 
 
 
