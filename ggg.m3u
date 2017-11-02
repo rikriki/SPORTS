@@ -2,7 +2,7 @@
 #EXTINF:-1, tvg-logo="http://www.entrepreneur.com.ph//images/2017/10/12/ESPN-5-4.jpg" group-title="PINOY TV", ESPN 5
 http://stream3.news5.ph:1935/n5e/tv53.stream/chunklist_w1083168964.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
-http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1509712262~acl=%2f*~data=hdntl~hmac=f32e576d371dad3baf9bf0e837bae9543a02fd057d56e2f599faca36c30c7441
+http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_708_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1509748799~acl=%2f*~data=hdntl~hmac=cb44782866d6bdc705dba4c3fdadf8773585065b9f23ea9056a60301a80a5213
 #EXTINF:-1, tvg-logo="http://cnnphilippines.com/incoming/ttbl9f-main-logo.png/BINARY/main-logo.png" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV
