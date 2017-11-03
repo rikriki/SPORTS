@@ -597,5 +597,49 @@ http://sv4avadl.uploadet.ir/Movie/2017/4k/4K%20Relaxing%20Fireplace%20with%20Cra
 http://sv4avadl.uploadet.ir/Movie/2017/4k/The%20Best%204K%20Aquarium%20for%20Relaxation%20-%20%20Sleep%20Relax%20Meditation%20Music%20Screensaver_AVADL.BiZ.mp4
 #EXTINF:1, tvg-logo="http://sv4avadl.uploadet.ir/Movie/2017/4k/The%20Best%20Relaxing%20Garden%20in%204K%20-%20Butterflies%20%20Birds%20and%20Flowers_AVADL.BiZ_s.jpg" group-title="4K VIDEOS SAMPLE", FIREPLACE
 http://sv4avadl.uploadet.ir/https://static.filmon.com/theme/img/transparent-1x1.gifMovie/2017/4k/The%20Best%20Relaxing%20Garden%20in%204K%20-%20Butterflies%20%20Birds%20and%20Flowers_AVADL.BiZ.mp4
-#EXTINF:1, tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/bbcone.png" group-title="UK CHANNELS", BBC 1
-http://31.204.154.52:8080/edge/554/tracks-v1a1/index.m3u8?token=31.21.126618.cfff3476fd5ee3dc21468518558cb33f.1.1.1.657.0.0.99b64b10d3573dbbfb0e092f1f5a95f2
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/PKF0ejC.png" group-title="UK",Arise News
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/RH6Nqfv.png" group-title="UK",BBC Radio One
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/2Ll2RSs.png" group-title="UK",BBC Radio Two
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/n1OXex4.png" group-title="UK",BBC Radio Four
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News*
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/XCBnJzR.png" group-title="UK",RT UK
+https://secure-streams.akamaized.net/rt-uk/index.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/uYEvE4q.png" group-title="UK",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/cOSePHo.png" group-title="UK",Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/2j8tsJq.png" group-title="UK",Heart
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/wCN0Llv.png" group-title="UK",IdealWorld
+http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/Hvshq0m.png" group-title="UK",Insight
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/lhHx6by.png" group-title="UK",Jewellery Maker
+http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/OiZowUH.png" group-title="UK",Kool London Radio
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/HCOqABQ.png" group-title="UK",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/ZBo8N7o.jpg" group-title="UK",MUTV
+http://tglmutvh-i.akamaihd.net/hls/live/514453/mutv_stb/01.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 2
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 3
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+#EXTINF:-1,  tvg-logo="https://i.imgur.com/FSukyxY.png" group-title="UK",QVC 4
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+#EXTINF:-1,  tvg-logo="https://static.movietele.it/files/images/2017/08/logo-sky-sport-premier-league-2016.jpg" group-title="UK",Sky Sports Premier League
+http://iptv4u.club/site/freeiptv?channel=skysportspremierleague&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/672809163123253248/r7Y7cDsL.png" group-title="UK",Sky Sports F1
+http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/831129516168863744/gYIoz_Ok.jpg" group-title="UK",At the Races
+http://51.15.5.246:3135/AtRac/1/index.m3u8
