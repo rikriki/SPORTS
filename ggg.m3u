@@ -485,6 +485,16 @@ http://sv4avadl.uploadet.ir/Movie/2017/11/Valerian.and.the.City.of.a.Thousand.Pl
 http://dl.my-film.in/s1/Movie/Kong.Skull.Island.2017/Kong.Skull.Island.2017.720p.MkvCage.95363031.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Atomic_Blonde_poster.jpg" group-title="VOD MOVIES", ATOMIC BLONDE
 http://sv4avadl.uploadet.ir/Movie/2017/11/Atomic.Bl0nde.2017.720p.BRRip_AVADL.CO.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Divergent.jpg" group-title="VOD MOVIES", DIVERGENT
+http://dl.dlfile.pro/ali/film/movie/Divergent%202014%20BluRay%20720p.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Insurgent_poster.jpg" group-title="VOD MOVIES", DIVERGENT: INSURGENT
+http://dl.tehmovies.org/94/4/Insurgent.2015.720p.HDrip.Tehmovies.com.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Allegiantfilmposter.jpg" group-title="VOD MOVIES", DIVERGENT: ALLEGIANT
+http://dl.tehmovies.org/94/95/4/Allegiant.2016.720p.Tehmovies.org.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/The_Maze_Runner_poster.jpg" group-title="VOD MOVIES", MAZE RUNNER 1
+http://mc1.dl3enter.in/files/d1/film/2014/The%20Maze%20Runner/The.Maze.Runner.2014.1080p.BluRay.DL.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Maze-Runner-The-Scorch-Trials-Poster.jpg" group-title="VOD MOVIES", MAZE RUNNER 2
+http://dl.tehmovies.org/94/8/Maze.Runner.The.Scorch.Trials.2015.720p.Tehmovies.ir.mkv
 #EXTINF:-1 group-title="FOR ADULTS ONLY" tvg-logo="https://i.pinimg.com/originals/98/f0/53/98f0539c4c96bcad56886269e022997c.jpg",JASMIN TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="FOR ADULTS ONLY" tvg-logo="https://i.pinimg.com/originals/98/f0/53/98f0539c4c96bcad56886269e022997c.jpg", Pink TV HD
