@@ -649,5 +649,4 @@ http://178.156.80.9:8090/ITV2/playlist.m3u8
 http://178.156.80.9:8090/ITV4/playlist.m3u8 
 #EXTINF:-1,  tvg-logo="https://cdn.slidesharecdn.com/ss_thumbnails/film4-090515081628-phpapp01-thumbnail-4.jpg" group-title="UK",FILM4
 http://178.156.80.13:8090/FILM4/playlist.m3u8 
-#EXTINF:-1,  tvg-logo="http://www.astra2sat.com/wp-content/uploads/2014/06/redbutton.jpg" group-title="UK",BBC RED BUTTON 1
-http://109.146.174.180:9981/stream/channelid/647165219
+
