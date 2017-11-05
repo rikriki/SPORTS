@@ -182,7 +182,7 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 #EXTINF:-1,tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="ASIAN TV", NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Dis_TLC.png" group-title="ASIAN TV", TLC
-http://14.189.196.84:4022/rtp/232.84.1.49:8274
+http://14.191.54.141:4022/rtp/232.84.1.49:8274
 #EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/734_300.png" group-title="ASIAN TV", DMAX
 http://103.77.116.250/boboapp2/DMAX_Southeast_Asia/playlist.m3u8?userid=174906&e=1506458745&st=o_NZDcNdpHj6mWPO4t8Pkw
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LIVING%20ASIA.png" group-title="ASIAN TV", LIVING ASIA CHANNEL
