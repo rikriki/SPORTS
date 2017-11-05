@@ -2,7 +2,7 @@
 #EXTINF:-1, tvg-logo="http://www.entrepreneur.com.ph//images/2017/10/12/ESPN-5-4.jpg" group-title="PINOY TV", ESPN 5
 http://stream3.news5.ph:1935/n5e/tv53.stream/chunklist_w1083168964.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
-http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1509878318~acl=%2f*~data=hdntl~hmac=01bd523c34efbfbbbc69a5abd6dbf1dc2877c2a0bbc717ae4256304111769353
+http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1509980946~acl=%2f*~data=hdntl~hmac=dc206cc59fae1a6f41fb48b354aad8e10c7097bdc9245b92182acae4fd59689f
 #EXTINF:-1, tvg-logo="http://cnnphilippines.com/incoming/ttbl9f-main-logo.png/BINARY/main-logo.png" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV
@@ -643,10 +643,5 @@ http://iptv4u.club/site/freeiptv?channel=skysportspremierleague&e=1508211057&acc
 http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 #EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/831129516168863744/gYIoz_Ok.jpg" group-title="UK",At the Races
 http://51.15.5.246:3135/AtRac/1/index.m3u8
-#EXTINF:-1,  tvg-logo="https://static.filmon.com/couch/channels/67/logo.png" group-title="UK",ITV2
-http://178.156.80.9:8090/ITV2/playlist.m3u8
-#EXTINF:-1,  tvg-logo="https://static.filmon.com/couch/channels/101/logo.png" group-title="UK",ITV4
-http://178.156.80.9:8090/ITV4/playlist.m3u8 
-#EXTINF:-1,  tvg-logo="https://cdn.slidesharecdn.com/ss_thumbnails/film4-090515081628-phpapp01-thumbnail-4.jpg" group-title="UK",FILM4
-http://178.156.80.13:8090/FILM4/playlist.m3u8 
+
 
