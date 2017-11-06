@@ -643,5 +643,46 @@ http://iptv4u.club/site/freeiptv?channel=skysportspremierleague&e=1508211057&acc
 http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 #EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/831129516168863744/gYIoz_Ok.jpg" group-title="UK",At the Races
 http://51.15.5.246:3135/AtRac/1/index.m3u8
+#EXTINF:-1,group-title="UK", UK BBC One
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/1804.m3u8
+#EXTINF:-1,group-title="UK", UK BBC 3 HD
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/2532.m3u8
+#EXTINF:-1,group-title="UK", UK:ITV 2 HD
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/1785.m3u8
+#EXTINF:-1,group-title="UK", UK:ITV 3 HD
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/1784.m3u8
+#EXTINF:-1,group-title="UK", UK Sky News
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/1789.m3u8
+#EXTINF:-1,group-title="UK", UK Sky Thriller
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/1816.m3u8
+#EXTINF:-1,group-title="UK", UK SkyDramaRom
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/1815.m3u8
+#EXTINF:-1,group-title="UK", UK Sky ScFi/Horror
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/1817.m3u8
+#EXTINF:-1,group-title="UK", UK Sky Movies Showcase
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/1790.m3u8
+#EXTINF:-1,group-title="UK", UK Sky Movies Premiere
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/1818.m3u8
+#EXTINF:-1,group-title="UK", UK Sky Movies Comedy
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/1823.m3u8
+#EXTINF:-1,group-title="UK", UK Sky Movies Action & Adventure
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/1824.m3u8
+#EXTINF:-1,group-title="UK", UK: Sky Movies Sci-Fi HD
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/2535.m3u8
+#EXTINF:-1,group-title="UK", UK: Sky movie Atlantic
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/2536.m3u8
+#EXTINF:-1,group-title="UK", UK Discovery Channel
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/1840.m3u8
+#EXTINF:-1,group-title="UK", UK DiscoveryScienceChannel
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/1842.m3u8
+#EXTINF:-1,group-title="UK", UK DiscoveryChannelIreland
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/1799.m3u8
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/1828.m3u8
+#EXTINF:-1,group-title="UK", UK: SKY ONE HD
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/2533.m3u8
+#EXTINF:-1,group-title="UK", UK: Setanta Sport
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/2543.m3u8
+#EXTINF:-1,group-title="UK", UK: CHANNEL FOUR
+http://h.etv.al:8000/live/besi/q3RvtOpXr4/2537.m3u8
 
 
