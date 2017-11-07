@@ -643,6 +643,8 @@ http://iptv4u.club/site/freeiptv?channel=skysportspremierleague&e=1508211057&acc
 http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 #EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/831129516168863744/gYIoz_Ok.jpg" group-title="UK",At the Races
 http://51.15.5.246:3135/AtRac/1/index.m3u8
+#EXTINF:-1,  tvg-logo="https://sonicscoop.com/wp-content/uploads/2017/10/BBCOnejpg.jpg" group-title="UK",BBC One
+http://185.73.239.36:25461/live/plexpersonal/mainplex/83.m3u8
 
 
 
