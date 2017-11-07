@@ -166,7 +166,7 @@ http://27.254.63.162/stream/tot4k.php?channel_id=7773f3cef0334a28ad248552ea63d9e
 #EXTINF:-1,tvg-logo="https://vignette1.wikia.nocookie.net/hanna-barbera/images/6/61/BOOMCN.png" group-title="ASIAN TV", Boomerang
 http://iptv4u.club/site/freeiptv?channel=boomerang&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 #EXTINF:-1,tvg-logo="https://openlab.citytech.cuny.edu/marcrodriguez-eportfolio/files/2016/09/image.png" group-title="ASIAN TV", Cartoon Network
-http://14.166.98.13:4022/rtp/232.84.1.16:8070
+http://103.77.116.250/boboapp5/cnetwork/playlist.m3u8?userid=174906&e=1506098517&st=M--8T6FpcG_dCyAFoWknxg
 #EXTINF:-1, tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="ASIAN TV", Nick Jr. (ENG)
 http://27.254.63.162/stream/tot4k.php?channel_id=09fffe8d426745689f60cbc24da1bb49
 #EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/History%20HD.png" group-title="ASIAN TV", History HD
