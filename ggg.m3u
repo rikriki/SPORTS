@@ -661,6 +661,26 @@ http://185.73.239.36:25461/live/plexpersonal/mainplex/10.m3u8
 http://185.73.239.36:25461/live/plexpersonal/mainplex/89.m3u8
 #EXTINF:-1, group-title="UK",CHANNEL 5 HD
 http://185.73.239.36:25461/live/plexpersonal/mainplex/90.m3u8
+#EXTINF:-1, group-title="UK",Sky Movies Greats
+http://185.73.239.36:25461/live/plexpersonal/mainplex/740.m3u8
+#EXTINF:-1, group-title="UK",Sky Movies Thriller
+http://185.73.239.36:25461/live/plexpersonal/mainplex/199.m3u8
+#EXTINF:-1, group-title="UK",Sky Movies Select
+http://185.73.239.36:25461/live/plexpersonal/mainplex/207.m3u8
+#EXTINF:-1, group-title="UK",Sky Movies Sci-Fi & Horror
+http://185.73.239.36:25461/live/plexpersonal/mainplex/205.m3u8
+#EXTINF:-1, group-title="UK",Sky Movies Premiere
+http://185.73.239.36:25461/live/plexpersonal/mainplex/204.m3u8
+#EXTINF:-1, group-title="UK",group-title="UK", Sky Movies Family
+http://185.73.239.36:25461/live/plexpersonal/mainplex/202.m3u8
+#EXTINF:-1, group-title="UK",Sky Movies Drama & Romance
+http://185.73.239.36:25461/live/plexpersonal/mainplex/201.m3u8
+#EXTINF:-1, group-title="UK",Sky Movies Disney
+http://185.73.239.36:25461/live/plexpersonal/mainplex/200.m3u8
+#EXTINF:-1, group-title="UK",Sky Movies Comedy
+http://185.73.239.36:25461/live/plexpersonal/mainplex/198.m3u8
+#EXTINF:-1, group-title="UK",Sky Movies Action & Adventure
+http://185.73.239.36:25461/live/plexpersonal/mainplex/197.m3u8
 
 
 
