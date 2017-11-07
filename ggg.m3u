@@ -719,6 +719,26 @@ http://191.96.38.234:443/free54/0x444_btsport3manic_360p/playlist.m3u8?key=zrybn
 http://191.96.38.234:443/free54/0x444_btsportespnmanic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
 #EXTINF:-1, group-title="UK",Cbeeies
 http://185.73.239.36:25461/live/plexpersonal/mainplex/92.m3u8
+#EXTINF:-1, group-title="UK",Disney Channel
+http://185.73.239.36:25461/live/plexpersonal/mainplex/95.m3u8
+#EXTINF:-1, group-title="UK",Disney XD
+http://185.73.239.36:25461/live/plexpersonal/mainplex/96.m3u8
+#EXTINF:-1, group-title="UK",Disney Jr
+http://185.73.239.36:25461/live/plexpersonal/mainplex/97.m3u8
+#EXTINF:-1, group-title="UK",Cartoon network
+http://185.73.239.36:25461/live/plexpersonal/mainplex/98.m3u8
+#EXTINF:-1, group-title="UK",Boomerang
+http://185.73.239.36:25461/live/plexpersonal/mainplex/100.m3u8
+#EXTINF:-1, group-title="UK",Nickelodeon
+http://185.73.239.36:25461/live/plexpersonal/mainplex/104.m3u8
+#EXTINF:-1, group-title="UK",Nick Toons
+http://185.73.239.36:25461/live/plexpersonal/mainplex/103.m3u8
+#EXTINF:-1, group-title="UK",Nick Jr
+http://185.73.239.36:25461/live/plexpersonal/mainplex/105.m3u8
+#EXTINF:-1, group-title="UK",NickJr Too
+http://185.73.239.36:25461/live/plexpersonal/mainplex/106.m3u8
+#EXTINF:-1, group-title="UK",Baby TV
+http://185.73.239.36:25461/live/plexpersonal/mainplex/107.m3u8
 
 
 
