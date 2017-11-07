@@ -707,6 +707,14 @@ http://185.73.239.36:25461/live/plexpersonal/mainplex/330.m3u8
 http://185.73.239.36:25461/live/plexpersonal/mainplex/332.m3u8
 #EXTINF:-1, group-title="UK",MTV Base
 http://185.73.239.36:25461/live/plexpersonal/mainplex/331.m3u8
+#EXTINF:-1, group-title="UK",BT Sport 1
+http://191.96.38.234:443/free54/0x444_btsport1manic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
+#EXTINF:-1, group-title="UK",BT Sport 2
+http://191.96.38.234:443/free54/0x444_btsport2manic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
+#EXTINF:-1, group-title="UK",BT Sport 3
+http://191.96.38.234:443/free54/0x444_btsport3manic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
+#EXTINF:-1, group-title="UK",BT Sport ESPN
+http://191.96.38.234:443/free54/0x444_btsportespnmanic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
 
 
 
