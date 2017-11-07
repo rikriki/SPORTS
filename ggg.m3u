@@ -673,7 +673,7 @@ http://185.73.239.36:25461/live/plexpersonal/mainplex/207.m3u8
 http://185.73.239.36:25461/live/plexpersonal/mainplex/205.m3u8
 #EXTINF:-1, group-title="UK",Sky Movies Premiere
 http://185.73.239.36:25461/live/plexpersonal/mainplex/204.m3u8
-#EXTINF:-1, group-title="UK",group-title="UK", Sky Movies Family
+#EXTINF:-1, group-title="UK",Sky Movies Family
 http://185.73.239.36:25461/live/plexpersonal/mainplex/202.m3u8
 #EXTINF:-1, group-title="UK",Sky Movies Drama & Romance
 http://185.73.239.36:25461/live/plexpersonal/mainplex/201.m3u8
