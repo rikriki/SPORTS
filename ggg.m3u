@@ -28,7 +28,7 @@ http://59c3ec70cfde0.streamlock.net:443/channel_1/channel1/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="ASIAN TV", Arirang 
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/740033272860680192/q0cWLUKf.jpg" group-title="ASIAN TV", TVN Asia 
-http://iptv4u.club/site/freeiptv?channel=tvn&e=1508211057&acc=test&exp=1510789576&t=.m3u8
+http://183.88.212.205:8010/play/a024
 #EXTINF:-1,tvg-logo="https://www2.t-expo.jp/img/exhibitors/35957/KBS-World-logo%201.jpg" group-title="ASIAN TV",, KBS WORLD 
 http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-1474711308/eol/20200101T0000/hash/256504442b73f1d929c1a36b033cfd53facda543/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.astropackage.com.my/wp-content/uploads/2016/01/Astro-FFM-HD-ch430.png" group-title="ASIAN TV", Fox Family Movies   
