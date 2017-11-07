@@ -697,6 +697,16 @@ http://185.73.239.36:25461/live/plexpersonal/mainplex/1038.m3u8
 http://185.73.239.36:25461/live/plexpersonal/mainplex/1042.m3u8
 #EXTINF:-1, group-title="UK",SKY SPORTS PREMIER LEAGUE HD 
 http://185.73.239.36:25461/live/plexpersonal/mainplex/1037.m3u8
+#EXTINF:-1, group-title="UK",MTV Rocks
+http://185.73.239.36:25461/live/plexpersonal/mainplex/335.m3u8
+#EXTINF:-1, group-title="UK",MTV Hits
+http://185.73.239.36:25461/live/plexpersonal/mainplex/333.m3u8
+#EXTINF:-1, group-title="UK",MTV Dance
+http://185.73.239.36:25461/live/plexpersonal/mainplex/330.m3u8
+#EXTINF:-1, group-title="UK",MTV Classic
+http://185.73.239.36:25461/live/plexpersonal/mainplex/332.m3u8
+#EXTINF:-1, group-title="UK",MTV Base
+http://185.73.239.36:25461/live/plexpersonal/mainplex/331.m3u8
 
 
 
