@@ -661,6 +661,8 @@ http://185.73.239.36:25461/live/plexpersonal/mainplex/10.m3u8
 http://185.73.239.36:25461/live/plexpersonal/mainplex/89.m3u8
 #EXTINF:-1, group-title="UK",CHANNEL 5 HD
 http://185.73.239.36:25461/live/plexpersonal/mainplex/90.m3u8
+#EXTINF:-1, group-title="UK",E4
+http://185.73.239.36:25461/live/plexpersonal/mainplex/13.m3u8
 #EXTINF:-1, group-title="UK",Sky Movies Greats
 http://185.73.239.36:25461/live/plexpersonal/mainplex/740.m3u8
 #EXTINF:-1, group-title="UK",Sky Movies Thriller
