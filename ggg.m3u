@@ -681,6 +681,22 @@ http://185.73.239.36:25461/live/plexpersonal/mainplex/200.m3u8
 http://185.73.239.36:25461/live/plexpersonal/mainplex/198.m3u8
 #EXTINF:-1, group-title="UK",Sky Movies Action & Adventure
 http://185.73.239.36:25461/live/plexpersonal/mainplex/197.m3u8
+#EXTINF:-1, group-title="UK",SKY SPORTS ARENA HD 
+http://185.73.239.36:25461/live/plexpersonal/mainplex/1039.m3u8
+#EXTINF:-1, group-title="UK",SKY SPORTS CRICKET HD 
+http://185.73.239.36:25461/live/plexpersonal/mainplex/1034.m3u8
+#EXTINF:-1, group-title="UK",SKY SPORTS FOOTBALL HD 
+http://185.73.239.36:25461/live/plexpersonal/mainplex/1040.m3u8
+#EXTINF:-1, group-title="UK",SKY SPORTS GOLF HD 
+http://185.73.239.36:25461/live/plexpersonal/mainplex/1036.m3u8
+#EXTINF:-1, group-title="UK",SKY SPORTS MAIN EVENT HD 
+http://185.73.239.36:25461/live/plexpersonal/mainplex/1033.m3u8
+#EXTINF:-1, group-title="UK",SKY SPORTS MIX HD 
+http://185.73.239.36:25461/live/plexpersonal/mainplex/1038.m3u8
+#EXTINF:-1, group-title="UK",SKY SPORTS NEWS HD 
+http://185.73.239.36:25461/live/plexpersonal/mainplex/1042.m3u8
+#EXTINF:-1, group-title="UK",SKY SPORTS PREMIER LEAGUE HD 
+http://185.73.239.36:25461/live/plexpersonal/mainplex/1037.m3u8
 
 
 
