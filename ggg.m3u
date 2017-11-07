@@ -645,6 +645,22 @@ http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1508211057&acc=test&exp=1
 http://51.15.5.246:3135/AtRac/1/index.m3u8
 #EXTINF:-1,  tvg-logo="https://sonicscoop.com/wp-content/uploads/2017/10/BBCOnejpg.jpg" group-title="UK",BBC One
 http://185.73.239.36:25461/live/plexpersonal/mainplex/83.m3u8
+#EXTINF:-1, group-title="UK",ITV 1
+http://185.73.239.36:25461/live/plexpersonal/mainplex/5.m3u8
+#EXTINF:-1, group-title="UK",ITV 2
+http://185.73.239.36:25461/live/plexpersonal/mainplex/6.m3u8
+#EXTINF:-1, group-title="UK",ITV 3
+http://185.73.239.36:25461/live/plexpersonal/mainplex/7.m3u8
+#EXTINF:-1, group-title="UK",ITV 4
+http://185.73.239.36:25461/live/plexpersonal/mainplex/8.m3u8
+#EXTINF:-1, group-title="UK",ITV Be
+http://185.73.239.36:25461/live/plexpersonal/mainplex/9.m3u8
+#EXTINF:-1, group-title="UK",ITV Encore
+http://185.73.239.36:25461/live/plexpersonal/mainplex/10.m3u8
+#EXTINF:-1, group-title="UK",CHANNEL 4 HD
+http://185.73.239.36:25461/live/plexpersonal/mainplex/89.m3u8
+#EXTINF:-1, group-title="UK",CHANNEL 5 HD
+http://185.73.239.36:25461/live/plexpersonal/mainplex/90.m3u8
 
 
 
