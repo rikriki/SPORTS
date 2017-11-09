@@ -843,6 +843,16 @@ http://191.96.38.234:443/free54/0x444_btsport2manic_360p/playlist.m3u8?key=zrybn
 http://191.96.38.234:443/free54/0x444_btsport3manic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
 #EXTINF:-1, group-title="UK",BT Sport ESPN
 http://191.96.38.234:443/free54/0x444_btsportespnmanic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
+#EXTINF:-1, group-title="UK",MTV_Rocks
+http://isriptv.com:25461/live/Fahmi/Fahmi/4275.m3u8
+#EXTINF:-1, group-title="UK",MTV_Music
+http://isriptv.com:25461/live/Fahmi/Fahmi/4276.m3u8
+#EXTINF:-1, group-title="UK",MTV_Hits
+http://isriptv.com:25461/live/Fahmi/Fahmi/4277.m3u8
+#EXTINF:-1, group-title="UK",MTV_Dance
+http://isriptv.com:25461/live/Fahmi/Fahmi/4278.m3u8
+#EXTINF:-1, group-title="UK",MTV_Base
+http://isriptv.com:25461/live/Fahmi/Fahmi/4279.m3u8
 
 
 
