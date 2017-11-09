@@ -673,6 +673,18 @@ http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-RESERVE1/FycU1jfxxx/51.m3
 http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-RESERVE1/FycU1jfxxx/53.m3u8
 #EXTINF:-1, group-title="UK", Sky Movies Comedy HD
 http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-RESERVE1/FycU1jfxxx/50.m3u8
+#EXTINF:-1, group-title="UK",Sky Sports F1
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-1/WXNLUydMhM/75.m3u8
+#EXTINF:-1, group-title="UK",Sky Sports 1
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-1/WXNLUydMhM/76.m3u8
+#EXTINF:-1, group-title="UK",Sky Sports 2
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-1/WXNLUydMhM/77.m3u8
+#EXTINF:-1, group-title="UK",Sky Sports 3
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-1/WXNLUydMhM/78.m3u8
+#EXTINF:-1, group-title="UK",Sky Sports 4
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-1/WXNLUydMhM/79.m3u8
+#EXTINF:-1, group-title="UK",Sky Sports 5
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-1/WXNLUydMhM/80.m3u8
 #EXTINF:-1, group-title="UK",BT Sport 1
 http://191.96.38.234:443/free54/0x444_btsport1manic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
 #EXTINF:-1, group-title="UK",BT Sport 2
@@ -681,6 +693,7 @@ http://191.96.38.234:443/free54/0x444_btsport2manic_360p/playlist.m3u8?key=zrybn
 http://191.96.38.234:443/free54/0x444_btsport3manic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
 #EXTINF:-1, group-title="UK",BT Sport ESPN
 http://191.96.38.234:443/free54/0x444_btsportespnmanic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
+
 
 
 
