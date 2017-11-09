@@ -645,76 +645,34 @@ http://iptv4u.club/site/freeiptv?channel=skysportspremierleague&e=1508211057&acc
 http://iptv4u.club/site/freeiptv?channel=skysportsf1&e=1508211057&acc=test&exp=1510789576&t=.m3u8
 #EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/831129516168863744/gYIoz_Ok.jpg" group-title="UK",At the Races
 http://51.15.5.246:3135/AtRac/1/index.m3u8
-#EXTINF:-1,  tvg-logo="https://sonicscoop.com/wp-content/uploads/2017/10/BBCOnejpg.jpg" group-title="UK",BBC One
-http://185.73.239.36:25461/live/plexpersonal/mainplex/83.m3u8
-#EXTINF:-1,BBC TWO HD
-http://185.73.239.36:25461/live/plexpersonal/mainplex/84.m3u8
-#EXTINF:-1, group-title="UK",BBC FOUR HD
-http://185.73.239.36:25461/live/plexpersonal/mainplex/85.m3u8
-#EXTINF:-1, group-title="UK",ITV 1
-http://185.73.239.36:25461/live/plexpersonal/mainplex/86.m3u8
-#EXTINF:-1, group-title="UK",ITV 2
-http://185.73.239.36:25461/live/plexpersonal/mainplex/87.m3u8
-#EXTINF:-1, group-title="UK",ITV 3
-http://185.73.239.36:25461/live/plexpersonal/mainplex/7.m3u8
-#EXTINF:-1, group-title="UK",ITV 4
-http://185.73.239.36:25461/live/plexpersonal/mainplex/8.m3u8
-#EXTINF:-1, group-title="UK",ITV Be
-http://185.73.239.36:25461/live/plexpersonal/mainplex/88.m3u8
-#EXTINF:-1, group-title="UK",ITV Encore
-http://185.73.239.36:25461/live/plexpersonal/mainplex/10.m3u8
-#EXTINF:-1, group-title="UK",CHANNEL 4 HD
-http://185.73.239.36:25461/live/plexpersonal/mainplex/89.m3u8
-#EXTINF:-1, group-title="UK",CHANNEL 5 HD
-http://185.73.239.36:25461/live/plexpersonal/mainplex/90.m3u8
-#EXTINF:-1, group-title="UK",E4
-http://185.73.239.36:25461/live/plexpersonal/mainplex/13.m3u8
-#EXTINF:-1, group-title="UK",Sky Movies Greats
-http://185.73.239.36:25461/live/plexpersonal/mainplex/740.m3u8
-#EXTINF:-1, group-title="UK",Sky Movies Thriller
-http://185.73.239.36:25461/live/plexpersonal/mainplex/199.m3u8
-#EXTINF:-1, group-title="UK",Sky Movies Select
-http://185.73.239.36:25461/live/plexpersonal/mainplex/207.m3u8
-#EXTINF:-1, group-title="UK",Sky Movies Sci-Fi & Horror
-http://185.73.239.36:25461/live/plexpersonal/mainplex/205.m3u8
-#EXTINF:-1, group-title="UK",Sky Movies Premiere
-http://185.73.239.36:25461/live/plexpersonal/mainplex/204.m3u8
-#EXTINF:-1, group-title="UK",Sky Movies Family
-http://185.73.239.36:25461/live/plexpersonal/mainplex/202.m3u8
-#EXTINF:-1, group-title="UK",Sky Movies Drama & Romance
-http://185.73.239.36:25461/live/plexpersonal/mainplex/201.m3u8
-#EXTINF:-1, group-title="UK",Sky Movies Disney
-http://185.73.239.36:25461/live/plexpersonal/mainplex/200.m3u8
-#EXTINF:-1, group-title="UK",Sky Movies Comedy
-http://185.73.239.36:25461/live/plexpersonal/mainplex/198.m3u8
-#EXTINF:-1, group-title="UK",Sky Movies Action & Adventure
-http://185.73.239.36:25461/live/plexpersonal/mainplex/197.m3u8
-#EXTINF:-1, group-title="UK",SKY SPORTS ARENA HD 
-http://185.73.239.36:25461/live/plexpersonal/mainplex/1039.m3u8
-#EXTINF:-1, group-title="UK",SKY SPORTS CRICKET HD 
-http://185.73.239.36:25461/live/plexpersonal/mainplex/1034.m3u8
-#EXTINF:-1, group-title="UK",SKY SPORTS FOOTBALL HD 
-http://185.73.239.36:25461/live/plexpersonal/mainplex/1040.m3u8
-#EXTINF:-1, group-title="UK",SKY SPORTS GOLF HD 
-http://185.73.239.36:25461/live/plexpersonal/mainplex/1036.m3u8
-#EXTINF:-1, group-title="UK",SKY SPORTS MAIN EVENT HD 
-http://185.73.239.36:25461/live/plexpersonal/mainplex/1033.m3u8
-#EXTINF:-1, group-title="UK",SKY SPORTS MIX HD 
-http://185.73.239.36:25461/live/plexpersonal/mainplex/1038.m3u8
-#EXTINF:-1, group-title="UK",SKY SPORTS NEWS HD 
-http://185.73.239.36:25461/live/plexpersonal/mainplex/1042.m3u8
-#EXTINF:-1, group-title="UK",SKY SPORTS PREMIER LEAGUE HD 
-http://185.73.239.36:25461/live/plexpersonal/mainplex/1037.m3u8
-#EXTINF:-1, group-title="UK",MTV Rocks
-http://185.73.239.36:25461/live/plexpersonal/mainplex/335.m3u8
-#EXTINF:-1, group-title="UK",MTV Hits
-http://185.73.239.36:25461/live/plexpersonal/mainplex/333.m3u8
-#EXTINF:-1, group-title="UK",MTV Dance
-http://185.73.239.36:25461/live/plexpersonal/mainplex/330.m3u8
-#EXTINF:-1, group-title="UK",MTV Classic
-http://185.73.239.36:25461/live/plexpersonal/mainplex/332.m3u8
-#EXTINF:-1, group-title="UK",MTV Base
-http://185.73.239.36:25461/live/plexpersonal/mainplex/331.m3u8
+#EXTINF:-1, group-title="UK", SkyShowcase
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-RESERVE1/FycU1jfxxx/47.m3u8
+#EXTINF:-1, group-title="UK", Sky One HD
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-RESERVE1/FycU1jfxxx/40.m3u8
+#EXTINF:-1, group-title="UK", SKY Two HD
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-RESERVE1/FycU1jfxxx/41.m3u8
+#EXTINF:-1, group-title="UK", SkySelect
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-RESERVE1/FycU1jfxxx/58.m3u8
+#EXTINF:-1, group-title="UK", Sky Movies Select
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-RESERVE1/FycU1jfxxx/57.m3u8
+#EXTINF:-1, group-title="UK", SKY Movies Premier HD
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-RESERVE1/FycU1jfxxx/43.m3u8
+#EXTINF:-1, group-title="UK", Sky Movies Action
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-RESERVE1/FycU1jfxxx/48.m3u8
+#EXTINF:-1, group-title="UK", Sky Movies Action & Adventure HD
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-RESERVE1/FycU1jfxxx/45.m3u8
+#EXTINF:-1, group-title="UK", Sky Movies Sci-fi & Horror HD
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-RESERVE1/FycU1jfxxx/55.m3u8
+#EXTINF:-1, group-title="UK", Sky Movies Hits Showcase HD
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-RESERVE1/FycU1jfxxx/46.m3u8
+#EXTINF:-1, group-title="UK", Sky Movies Family HD
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-RESERVE1/FycU1jfxxx/49.m3u8
+#EXTINF:-1, group-title="UK", Sky Movies Drama & Romance
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-RESERVE1/FycU1jfxxx/51.m3u8
+#EXTINF:-1, group-title="UK", Sky Movies Crime &Thriller HD
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-RESERVE1/FycU1jfxxx/53.m3u8
+#EXTINF:-1, group-title="UK", Sky Movies Comedy HD
+http://163.172.14.187:1944/live/WWW.IPTV2424.COM-08-11-RESERVE1/FycU1jfxxx/50.m3u8
 #EXTINF:-1, group-title="UK",BT Sport 1
 http://191.96.38.234:443/free54/0x444_btsport1manic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
 #EXTINF:-1, group-title="UK",BT Sport 2
@@ -723,28 +681,7 @@ http://191.96.38.234:443/free54/0x444_btsport2manic_360p/playlist.m3u8?key=zrybn
 http://191.96.38.234:443/free54/0x444_btsport3manic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
 #EXTINF:-1, group-title="UK",BT Sport ESPN
 http://191.96.38.234:443/free54/0x444_btsportespnmanic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
-#EXTINF:-1, group-title="UK",Cbeeies
-http://185.73.239.36:25461/live/plexpersonal/mainplex/92.m3u8
-#EXTINF:-1, group-title="UK",Disney Channel
-http://185.73.239.36:25461/live/plexpersonal/mainplex/95.m3u8
-#EXTINF:-1, group-title="UK",Disney XD
-http://185.73.239.36:25461/live/plexpersonal/mainplex/96.m3u8
-#EXTINF:-1, group-title="UK",Disney Jr
-http://185.73.239.36:25461/live/plexpersonal/mainplex/97.m3u8
-#EXTINF:-1, group-title="UK",Cartoon network
-http://185.73.239.36:25461/live/plexpersonal/mainplex/98.m3u8
-#EXTINF:-1, group-title="UK",Boomerang
-http://185.73.239.36:25461/live/plexpersonal/mainplex/100.m3u8
-#EXTINF:-1, group-title="UK",Nickelodeon
-http://185.73.239.36:25461/live/plexpersonal/mainplex/104.m3u8
-#EXTINF:-1, group-title="UK",Nick Toons
-http://185.73.239.36:25461/live/plexpersonal/mainplex/103.m3u8
-#EXTINF:-1, group-title="UK",Nick Jr
-http://185.73.239.36:25461/live/plexpersonal/mainplex/105.m3u8
-#EXTINF:-1, group-title="UK",NickJr Too
-http://185.73.239.36:25461/live/plexpersonal/mainplex/106.m3u8
-#EXTINF:-1, group-title="UK",Baby TV
-http://185.73.239.36:25461/live/plexpersonal/mainplex/107.m3u8
+
 
 
 
