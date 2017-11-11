@@ -73,7 +73,7 @@ http://14.166.202.217:4022/rtp/232.84.1.109:10230
 http://103.77.116.250/boboapp6/E/playlist.m3u8?userid=174906&e=1507381456&st=LEA3f7plCb0eBCIbW5FXRQ
 #EXTINF:-1, tvg-logo="https://www.gmkfreelogos.com/logos/C/img/Comedy_Central-2.gif" group-title="ASIAN TV", Comedy Central
 http://103.77.116.250/boboapp6/COMEDY_CENTRAL/playlist.m3u8?userid=174906&e=1507380475&st=5ua8jainSOFRRBIJ88GgNA
-#EXTINF:-1, tvg-logo="https://astro-image-resizer.s3-ap-southeast-1.amazonaws.com/3/crop/Portals/0/Images/ArticleImages/2275/800x0_eGG-mediaroom_main.jpg" group-title="ASIAN TV", EGG Network
+#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/4kW0DkfCD48/hqdefault.jpg" group-title="ASIAN TV", EGG Network
 http://103.77.116.250/boboapp6/UNIVERSAL_SD/playlist.m3u8?userid=174906&e=1507380421&st=70yYJV21tWZ24PfvRBQHWw
 #EXTINF:-1, tvg-logo="http://www.lakecooptv.asia/images/evehd.png" group-title="ASIAN TV", Eve
 http://doballvip.ddns.net:443/doballvip/0x222_evehd_360p/chunklist_w1873757179.m3u8
@@ -151,7 +151,7 @@ http://27.254.63.162/stream/tot4k.php?channel_id=ebce2f5139c54eda8b111e5923af9c9
 http://27.254.63.162/stream/tot4k.php?channel_id=deb56e700dbc4d9ea5af08e9d300a675
 #EXTINF:-1,tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/mtv-rocks.png" group-title="ASIAN TV", MTV Rocks
 http://persik.by/stream/1417/252987/10227.m3u8
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/892028647347015680/JKQayy2R.jpg" group-title="ASIAN TV", MTV Hits
+#EXTINF:-1,tvg-logo="http://www.mtv.co.uk/sites/default/files/styles/carousel_wide/public/mtv_uk/playlists/2017/04/03/mtv-hits.jpg" group-title="ASIAN TV", MTV Hits
 http://persik.by/stream/1417/252987/10208.m3u8
 #EXTINF:-1,tvg-logo="http://teve.ba/img/content/mtv-live-hd.gif" group-title="ASIAN TV", MTV Live HD
 http://persik.by/stream/1417/252987/10289.m3u8
@@ -193,7 +193,7 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Dis_TLC.png" group-title="ASIAN TV", TLC
 http://14.166.202.217:4022/rtp/232.84.1.49:8274
-#EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/734_300.png" group-title="ASIAN TV", DMAX
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/DM_LOGO_RGB.svg/400px-DM_LOGO_RGB.svg.png" group-title="ASIAN TV", DMAX
 http://103.77.116.250/boboapp2/DMAX_Southeast_Asia/playlist.m3u8?userid=174906&e=1506458745&st=o_NZDcNdpHj6mWPO4t8Pkw
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LIVING%20ASIA.png" group-title="ASIAN TV", LIVING ASIA CHANNEL
 https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8
