@@ -649,28 +649,32 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_inde
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
 #EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/831129516168863744/gYIoz_Ok.jpg" group-title="UK",At the Races
 http://51.15.5.246:3135/AtRac/1/index.m3u8
-#EXTINF:-1, group-title="UK",Sky Sports Main Event
-http://doballvip.ddns.net:443/doballvip/0x444_skysportmainevent_360p/chunklist_w417163297.m3u8
-#EXTINF:-1, group-title="UK",Sky Sports Action
-http://doballvip.ddns.net:443/doballvip/0x444_skysportactionmanic_360p/chunklist_w2032887300.m3u8
-#EXTINF:-1, group-title="UK",Sky Sports Premiere League
-http://doballvip.ddns.net:443/doballvip/0x444_skysportpremieremanic_360p/chunklist_w475280030.m3u8
-#EXTINF:-1, group-title="UK",Sky Sports Football
-http://doballvip.ddns.net:443/doballvip/0x444_skysportfootball_360p/chunklist_w260254645.m3u8
-#EXTINF:-1, group-title="UK",Sky Sports Arena
-http://doballvip.ddns.net:443/doballvip/0x444_skysportarena_360p/chunklist_w486589485.m3u8
-#EXTINF:-1, group-title="UK",Sky Sports Mix
-http://doballvip.ddns.net:443/doballvip/0x444_skysportmixmanic_360p/chunklist_w34599006.m3u8
-#EXTINF:-1, group-title="UK",Sky Sports News
-http://doballvip.ddns.net:443/doballvip/0x444_skysportnewsmanic_360p/chunklist_w1585720801.m3u8
-#EXTINF:-1, group-title="UK",BT Sport 1
-http://doballvip.ddns.net:443/doballvip/0x444_btsport1manic_360p/chunklist_w902490960.m3u8
-#EXTINF:-1, group-title="UK",BT Sport 2
-http://doballvip.ddns.net:443/doballvip/0x444_btsport2manic_360p/chunklist_w1715920601.m3u8
-#EXTINF:-1, group-title="UK",BT Sport 3
-http://doballvip.ddns.net:443/doballvip/0x444_btsport3manic_360p/chunklist_w2041808560.m3u8
-#EXTINF:-1, group-title="UK",BT Sport ESPN
-http://doballvip.ddns.net:443/doballvip/0x444_btsportespnmanic_360p/chunklist_w1274723264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: British Eurosport 1 HD" tvg-logo="" group-title="Sports",UK: British Eurosport 1 HD
+http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25292.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: British EuroSports 2" tvg-logo="" group-title="Sports",UK: British EuroSports 2
+http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25293.ts
+#EXTINF:-1 tvg-id="uk.SKY SPORTS NEWS HD" tvg-name="UK: SKY SPORTS NEWS" tvg-logo="" group-title="Sports",UK: SKY SPORTS NEWS
+http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25309.ts
+#EXTINF:-1 tvg-id="BT Sport 1 HD" tvg-name="VIP : BT Sport 1 HD" tvg-logo="http://mikesandroid.info/UsaLogos/BT%20SPORTS%201.png" group-title="Sports",VIP : BT Sport 1 HD
+http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25322.ts
+#EXTINF:-1 tvg-id="BT Sport 2" tvg-name="VIP : BT Sport 2  HD" tvg-logo="http://mikesandroid.info/UsaLogos/BT%20SPORTS%202.png" group-title="Sports",VIP : BT Sport 2  HD
+http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25321.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP : BT Sport 3 HD" tvg-logo="http://mikesandroid.info/UsaLogos/BT%20SPORTS%203.png" group-title="Sports",VIP : BT Sport 3 HD
+http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25320.ts
+#EXTINF:-1 tvg-id="uk.Sky Sports Main Event" tvg-name="VIp : Sky Sports  HD Main Event" tvg-logo="" group-title="Sports",VIp : Sky Sports  HD Main Event
+http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25315.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP : Sky Sports 3 HD Action" tvg-logo="" group-title="Sports",VIP : Sky Sports 3 HD Action
+http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25313.ts
+#EXTINF:-1 tvg-id="uk.Sky Sports The Open" tvg-name="VIP : Sky Sports 4 HD The Golf The Open" tvg-logo="" group-title="Sports",VIP : Sky Sports 4 HD The Golf The Open
+http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25312.ts
+#EXTINF:-1 tvg-id="uk.Sky Spts F1 HD" tvg-name="VIP : SKY SPORTS F1 HD" tvg-logo="" group-title="Sports",VIP : SKY SPORTS F1 HD
+http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25310.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP : Sky Sports HD cricket" tvg-logo="" group-title="Sports",VIP : Sky Sports HD cricket
+http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25314.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP : Sky Sports HD Football" tvg-logo="" group-title="Sports",VIP : Sky Sports HD Football
+http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/29247.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP : SKY SPORTS HD Prem League" tvg-logo="" group-title="Sports",VIP : SKY SPORTS HD Prem League
+http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25311.ts
 #EXTINF:-1 tvg-id="BBC One HD" tvg-name="BBC One HD" tvg-logo="http://mikesandroid.info/UsaLogos/BBC1.png" group-title="UK",BBC One HD
 http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7232.ts
 #EXTINF:-1 tvg-id="BBC Two HD" tvg-name="BBC Two HD" tvg-logo="http://mikesandroid.info/UsaLogos/BBC2.png" group-title="UK",BBC Two HD
