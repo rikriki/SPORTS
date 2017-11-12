@@ -749,3 +749,7 @@ http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/20073.ts
 http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/20071.ts
 #EXTINF:-1 tvg-id="Sky Cinema Crime & Thiller HD" tvg-name="Sky Thriller Movies" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20SELECT.png" group-title="UK",Sky Thriller Movies
 http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7113.ts
+#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 UK" tvg-logo="http://mikesandroid.info/UsaLogos/CHANNEL%204.png" group-title="UK",Channel 4 UK
+http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7267.ts
+#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5 UK" tvg-logo="http://mikesandroid.info/UsaLogos/CHANNEL%205.png" group-title="UK",Channel 5 UK
+http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7269.ts
