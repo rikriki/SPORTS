@@ -649,111 +649,554 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_inde
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
 #EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/831129516168863744/gYIoz_Ok.jpg" group-title="UK",At the Races
 http://51.15.5.246:3135/AtRac/1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK: British Eurosport 1 HD" tvg-logo="" group-title="UK",UK: British Eurosport 1 HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25292.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: British EuroSports 2" tvg-logo="" group-title="UK",UK: British EuroSports 2
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25293.ts
-#EXTINF:-1 tvg-id="uk.SKY SPORTS NEWS HD" tvg-name="UK: SKY SPORTS NEWS" tvg-logo="" group-title="UK",UK: SKY SPORTS NEWS
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25309.ts
-#EXTINF:-1 tvg-id="BT Sport 1 HD" tvg-name="VIP : BT Sport 1 HD" tvg-logo="http://mikesandroid.info/UsaLogos/BT%20SPORTS%201.png" group-title="UK",VIP : BT Sport 1 HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25322.ts
-#EXTINF:-1 tvg-id="BT Sport 2" tvg-name="VIP : BT Sport 2  HD" tvg-logo="http://mikesandroid.info/UsaLogos/BT%20SPORTS%202.png" group-title="UK",VIP : BT Sport 2  HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25321.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIP : BT Sport 3 HD" tvg-logo="http://mikesandroid.info/UsaLogos/BT%20SPORTS%203.png" group-title="UK",VIP : BT Sport 3 HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25320.ts
-#EXTINF:-1 tvg-id="uk.Sky Sports Main Event" tvg-name="VIp : Sky Sports  HD Main Event" tvg-logo="" group-title="UK",VIp : Sky Sports  HD Main Event
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25315.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIP : Sky Sports 3 HD Action" tvg-logo="" group-title="UK",VIP : Sky Sports 3 HD Action
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25313.ts
-#EXTINF:-1 tvg-id="uk.Sky Sports The Open" tvg-name="VIP : Sky Sports 4 HD The Golf The Open" tvg-logo="" group-title="UK",VIP : Sky Sports 4 HD The Golf The Open
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25312.ts
-#EXTINF:-1 tvg-id="uk.Sky Spts F1 HD" tvg-name="VIP : SKY SPORTS F1 HD" tvg-logo="" group-title="UK",VIP : SKY SPORTS F1 HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25310.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIP : Sky Sports HD cricket" tvg-logo="" group-title="UK",VIP : Sky Sports HD cricket
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25314.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIP : Sky Sports HD Football" tvg-logo="" group-title="UK",VIP : Sky Sports HD Football
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/29247.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIP : SKY SPORTS HD Prem League" tvg-logo="" group-title="UK",VIP : SKY SPORTS HD Prem League
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/25311.ts
-#EXTINF:-1 tvg-id="BBC One HD" tvg-name="BBC One HD" tvg-logo="http://mikesandroid.info/UsaLogos/BBC1.png" group-title="UK",BBC One HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7232.ts
-#EXTINF:-1 tvg-id="BBC Two HD" tvg-name="BBC Two HD" tvg-logo="http://mikesandroid.info/UsaLogos/BBC2.png" group-title="UK",BBC Two HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7235.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBC Three HD" tvg-logo="http://mikesandroid.info/UsaLogos/BBC3.png" group-title="UK",BBC Three HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7234.ts
-#EXTINF:-1 tvg-id="BBC Four UK" tvg-name="BBC Four UK" tvg-logo="http://mikesandroid.info/UsaLogos/BBC4.png" group-title="UK",BBC Four UK
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7230.ts
-#EXTINF:-1 tvg-id="BBC One London" tvg-name="BBC One London" tvg-logo="http://mikesandroid.info/UsaLogos/BBC%20LONDON.png" group-title="UK",BBC One London
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7233.ts
-#EXTINF:-1 tvg-id="ITV Encore" tvg-name="ITV Encore" tvg-logo="http://mikesandroid.info/UsaLogos/ITV%20ENCORE.png" group-title="UK",ITV Encore
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7314.ts
-#EXTINF:-1 tvg-id="ITV 2" tvg-name="ITV 2" tvg-logo="http://mikesandroid.info/UsaLogos/ITV%202.png" group-title="UK",ITV 2
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7310.ts
-#EXTINF:-1 tvg-id="ITV3" tvg-name="ITV 3" tvg-logo="http://mikesandroid.info/UsaLogos/ITV%203.png" group-title="UK",ITV 3
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7311.ts
-#EXTINF:-1 tvg-id="ITV4" tvg-name="ITV 4" tvg-logo="http://mikesandroid.info/UsaLogos/ITV%204.png" group-title="UK",ITV 4
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7312.ts
-#EXTINF:-1 tvg-id="ITV 1 LONDON" tvg-name="ITV 1 LONDON" tvg-logo="http://mikesandroid.info/UsaLogos/ITV%20LONDON.png" group-title="UK",ITV 1 LONDON
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7308.ts
-#EXTINF:-1 tvg-id="ITV Be" tvg-name="ITV Be" tvg-logo="http://mikesandroid.info/UsaLogos/ITV%20BE.png" group-title="UK",ITV Be
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7313.ts
-#EXTINF:-1 tvg-id="MTV Base UK" tvg-name="MTV Base UK" tvg-logo="" group-title="UK",MTV Base UK
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7326.ts
-#EXTINF:-1 tvg-id="MTV Hits UK" tvg-name="MTV Hits UK" tvg-logo="" group-title="UK",MTV Hits UK
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7330.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK MTV Hits! 2" tvg-logo="http://mikesandroid.info/UsaLogos/MTV.png" group-title="UK",UK MTV Hits! 2
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7331.ts
-#EXTINF:-1 tvg-id="E4" tvg-name="E4" tvg-logo="http://mikesandroid.info/UsaLogos/E4.png" group-title="UK",E4
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7294.ts
-#EXTINF:-1 tvg-id="E4" tvg-name="E4 2" tvg-logo="http://mikesandroid.info/UsaLogos/E4.png" group-title="UK",E4 2
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/20197.ts
-#EXTINF:-1 tvg-id="Sky 1" tvg-name="Sky 1" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%201.png" group-title="UK",Sky 1
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7359.ts
-#EXTINF:-1 tvg-id="Sky2" tvg-name="Sky 2" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%202.png" group-title="UK",Sky 2
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7360.ts
-#EXTINF:-1 tvg-id="Sky Cinema Action & Adventure HD" tvg-name="Sky Action Movies" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20ACTION.png" group-title="UK",Sky Action Movies
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7361.ts
-#EXTINF:-1 tvg-id="Sky Arts HD" tvg-name="Sky Arts" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20ARTS.png" group-title="UK",Sky Arts
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7362.ts
-#EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20ATLANTIC.png" group-title="UK",Sky Atlantic
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7363.ts
-#EXTINF:-1 tvg-id="Sky Cinema Action &Adventure HD" tvg-name="Sky Cinema Action & Adventure HD" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20ACTION&ADVENTURE.png" group-title="UK",Sky Cinema Action & Adventure HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7064.ts
-#EXTINF:-1 tvg-id="Sky Cinema Comedy HD" tvg-name="Sky Cinema Comedy HD" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20COMEDY.png" group-title="UK",Sky Cinema Comedy HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7065.ts
-#EXTINF:-1 tvg-id="Sky Cinema Crime & Thiller HD" tvg-name="Sky Cinema Crime & Thriller HD" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20CRIME&THRILLER.png" group-title="UK",Sky Cinema Crime & Thriller HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7066.ts
-#EXTINF:-1 tvg-id="Sky DramaRom Movies" tvg-name="Sky Cinema Drama n Romance HD" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20DRAMA&ROMANCE.png" group-title="UK",Sky Cinema Drama n Romance HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7068.ts
-#EXTINF:-1 tvg-id="Sky Cinema Family HD" tvg-name="Sky Cinema Family HD" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20FAMILY.png" group-title="UK",Sky Cinema Family HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7069.ts
-#EXTINF:-1 tvg-id="Sky Cinema Hits HD" tvg-name="Sky Cinema Hits HD" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20HITS.png" group-title="UK",Sky Cinema Hits HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7070.ts
-#EXTINF:-1 tvg-id="Sky Cinema Premiere HD" tvg-name="Sky Cinema Premiere HD" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20PREMIERE.png" group-title="UK",Sky Cinema Premiere HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7071.ts
-#EXTINF:-1 tvg-id="Sky Cinema SciFi & Horror HD" tvg-name="Sky Cinema SciFi & Horror HD" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20SCIFI%20&%20HORROR.png" group-title="UK",Sky Cinema SciFi & Horror HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7072.ts
-#EXTINF:-1 tvg-id="Sky Cinema Select HD" tvg-name="Sky Cinema Select HD" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20SELECT.png" group-title="UK",Sky Cinema Select HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7073.ts
-#EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic 2" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20ATLANTIC.png" group-title="UK",Sky Atlantic 2
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/20091.ts
-#EXTINF:-1 tvg-id="Sky Cinema Disney HD" tvg-name="Sky Cinema Disney HDL 2" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20DISNEY.png" group-title="UK",Sky Cinema Disney HDL 2
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/20087.ts
-#EXTINF:-1 tvg-id="Sky Cinema Disney HD" tvg-name="Sky Cinema Disney HD" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20DISNEY.png" group-title="UK",Sky Cinema Disney HD
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7067.ts
-#EXTINF:-1 tvg-id="Sky Cinema Family HD" tvg-name="Sky Cinema Family HDL 2" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20FAMILY.png" group-title="UK",Sky Cinema Family HDL 2
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/20086.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinama Greats" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20GREATS.png" group-title="UK",Sky Cinama Greats
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/20078.ts
-#EXTINF:-1 tvg-id="SONY MOVIE Channlel Uk" tvg-name="SONY MOVIE Channlel UK" tvg-logo="http://mikesandroid.info/UsaLogos/SONY%20MOVIE%20CHANNEL.png" group-title="UK",SONY MOVIE Channlel UK
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7106.ts
-#EXTINF:-1 tvg-id="Sky Cinema Premiere HD" tvg-name="Sky Premiere Movies 2" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20PREMIERE.png" group-title="UK",Sky Premiere Movies 2
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/20073.ts
-#EXTINF:-1 tvg-id="Sky Cinema Select HD" tvg-name="Sky Select Movies 2" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20SELECT.png" group-title="UK",Sky Select Movies 2
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/20071.ts
-#EXTINF:-1 tvg-id="Sky Cinema Crime & Thiller HD" tvg-name="Sky Thriller Movies" tvg-logo="http://mikesandroid.info/UsaLogos/SKY%20SELECT.png" group-title="UK",Sky Thriller Movies
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7113.ts
-#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 UK" tvg-logo="http://mikesandroid.info/UsaLogos/CHANNEL%204.png" group-title="UK",Channel 4 UK
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7267.ts
-#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5 UK" tvg-logo="http://mikesandroid.info/UsaLogos/CHANNEL%205.png" group-title="UK",Channel 5 UK
-http://amiptv.ddns.net:25461/live/Lou_Martial/Lou_Martial418653254/7269.ts
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7496.ts
+#EXTINF:-1,UK: BBC EARTH HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7082.ts
+#EXTINF:-1,UK:True Movies 1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1031.ts
+#EXTINF:-1,UK:TLC - IRELAND
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/421.ts
+#EXTINF:-1,UK:Sky Movies Modern
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/425.ts
+#EXTINF:-1,UK: HBO 2
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1033.ts
+#EXTINF:-1,UK: HBO 1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1034.ts
+#EXTINF:-1,UK: BBC World News
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/384.ts
+#EXTINF:-1,UK:4Seven
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/388.ts
+#EXTINF:-1,UK: W   1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4450.ts
+#EXTINF:-1,UK: VH1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1035.ts
+#EXTINF:-1,UK: Universal + 1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4453.ts
+#EXTINF:-1,UK: True Movies 2
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1036.ts
+#EXTINF:-1,UK: Travel Channel
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1037.ts
+#EXTINF:-1,UK: TLC + 2
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4451.ts
+#EXTINF:-1,UK: TLC   1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4445.ts
+#EXTINF:-1,UK: TLC
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1415.ts
+#EXTINF:-1,UK: Tiny Pop  +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4461.ts
+#EXTINF:-1,UK: Syfy + 1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4452.ts
+#EXTINF:-1,UK: Sony Chnl   1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4442.ts
+#EXTINF:-1,UK: SkySpBoxOff (PPV Events Only)
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5212.ts
+#EXTINF:-1,UK: Sky Two
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/423.ts
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/2459.ts
+#EXTINF:-1,UK: SKY SPORTS GOLF
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/2460.ts
+#EXTINF:-1,UK: SKY SPORTS ACTION
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/2461.ts
+#EXTINF:-1,UK: SKY SPORTS CRICKET
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/2462.ts
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/2463.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/424.ts
+#EXTINF:-1,UK: Sky Living +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4446.ts
+#EXTINF:-1,UK: Sky Cinema Premiere  1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4471.ts
+#EXTINF:-1,UK: Sky Atlantic  1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4447.ts
+#EXTINF:-1,UK: Setanta Sports 1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1026.ts
+#EXTINF:-1,UK: SATENTA SPORT
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1027.ts
+#EXTINF:-1,UK: RTE Two
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1425.ts
+#EXTINF:-1,UK: RTE One
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1426.ts
+#EXTINF:-1,UK: Racing UK
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/391.ts
+#EXTINF:-1,UK: PREMIERE SPORT HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1028.ts
+#EXTINF:-1,UK: Nickelodeon  +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4462.ts
+#EXTINF:-1,UK: Nickelodeon
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/383.ts
+#EXTINF:-1,UK: Nick Jr +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4463.ts
+#EXTINF:-1,UK: Nick Jr Too
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4464.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/430.ts
+#EXTINF:-1,UK: MUTV
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/758.ts
+#EXTINF:-1,UK: MTV  +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4470.ts
+#EXTINF:-1,UK: LFC TV
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/2895.ts
+#EXTINF:-1,UK: ITV4
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/379.ts
+#EXTINF:-1,UK: ITV3
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/380.ts
+#EXTINF:-1,UK: ITV2
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/381.ts
+#EXTINF:-1,UK: ITV1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/382.ts
+#EXTINF:-1,UK: ID + 1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4449.ts
+#EXTINF:-1,UK: Horror Channel  +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4444.ts
+#EXTINF:-1,UK: Home&Health  +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4458.ts
+#EXTINF:-1,UK: History +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4459.ts
+#EXTINF:-1,UK: Good Food
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1038.ts
+#EXTINF:-1,UK: Food Network  1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4443.ts
+#EXTINF:-1,UK: Food Network
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1039.ts
+#EXTINF:-1,UK: Eurosport 2
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4473.ts
+#EXTINF:-1,UK: Eurosport 1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4472.ts
+#EXTINF:-1,UK: Eir Sports2
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4684.ts
+#EXTINF:-1,UK: Eir Sports1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4683.ts
+#EXTINF:-1,UK: E!  + 1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4448.ts
+#EXTINF:-1,UK: E!
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1040.ts
+#EXTINF:-1,UK: Disney XD  +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4465.ts
+#EXTINF:-1,UK: Disney Channel  +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4466.ts
+#EXTINF:-1,UK: Discovery Science  1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4467.ts
+#EXTINF:-1,UK: Discovery History +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4468.ts
+#EXTINF:-1,UK: Discovery  +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4469.ts
+#EXTINF:-1,UK: Crime investigation  1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4455.ts
+#EXTINF:-1,UK: Comedy Central Extra  +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4456.ts
+#EXTINF:-1,UK: Chelsea FC
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1030.ts
+#EXTINF:-1,UK: Challenge  +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4454.ts
+#EXTINF:-1,UK: Cartoon Network
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1041.ts
+#EXTINF:-1,UK: BT Sports 2 SD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/2464.ts
+#EXTINF:-1,UK: BT Sport Mosaic 2
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4474.ts
+#EXTINF:-1,UK: BT Sport Mosaic
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4475.ts
+#EXTINF:-1,UK: BT Sport Extra 5
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4480.ts
+#EXTINF:-1,UK: BT Sport Extra 4
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4479.ts
+#EXTINF:-1,UK: BT Sport Extra 3
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4478.ts
+#EXTINF:-1,UK: BT Sport Extra 2
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4477.ts
+#EXTINF:-1,UK: BT Sport Extra 1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4476.ts
+#EXTINF:-1,UK: BT Sport 3 SD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4954.ts
+#EXTINF:-1,UK: BBC4 HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/385.ts
+#EXTINF:-1,UK: BBC TWO HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/852.ts
+#EXTINF:-1,UK: At The Races
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/440.ts
+#EXTINF:-1,UK: Animal Planet  +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4457.ts
+#EXTINF:-1,UK: Alibi
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/390.ts
+#EXTINF:-1,UK: 5Star
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/387.ts
+#EXTINF:-1,UK: 3e
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/389.ts
+#EXTINF:-1,UK: ID
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1429.ts
+#EXTINF:-1,UK: BT Sport 3 HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5547.ts
+#EXTINF:-1,UK: Crime & Investigiation
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5497.ts
+#EXTINF:-1,UK: Sky Sports Mix
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5496.ts
+#EXTINF:-1,UK: Premier Sports HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1427.ts
+#EXTINF:-1,UK: 5USA
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/386.ts
+#EXTINF:-1,UK:VIP Cartoon network HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5642.ts
+#EXTINF:-1,UK: AMC FROM BT
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5805.ts
+#EXTINF:-1,UK: BBC ALBA
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5806.ts
+#EXTINF:-1,UK: BBC Parliament
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5809.ts
+#EXTINF:-1,UK: BET
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5771.ts
+#EXTINF:-1,UK: BritishMuslim
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5770.ts
+#EXTINF:-1,UK: Channel 4
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5811.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5810.ts
+#EXTINF:-1,UK: CHANNEL 5
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5813.ts
+#EXTINF:-1,UK: CHANNEL 5 FHD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5812.ts
+#EXTINF:-1,UK: CNBC Europe
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5769.ts
+#EXTINF:-1,UK: FOX News
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5782.ts
+#EXTINF:-1,UK: Inspiration
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5781.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5780.ts
+#EXTINF:-1,UK: ITV ENCORE
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5804.ts
+#EXTINF:-1,UK: KERRANG
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5786.ts
+#EXTINF:-1,UK: KISS UK
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5785.ts
+#EXTINF:-1,UK: Movies 4 Men
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5779.ts
+#EXTINF:-1,UK: QUEST
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5778.ts
+#EXTINF:-1,UK: Real Lives
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5776.ts
+#EXTINF:-1,UK: SKY NEWS
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5784.ts
+#EXTINF:-1,UK: SMASH HITS
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5777.ts
+#EXTINF:-1,UK: Sony Movie
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5775.ts
+#EXTINF:-1,UK: Sony Channel
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5774.ts
+#EXTINF:-1,UK: VICELAND
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5807.ts
+#EXTINF:-1,UK: Watch
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/5783.ts
+#EXTINF:-1,UK: SKY NEWS HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/6001.ts
+#EXTINF:-1,UK: Golf Channel
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7063.ts
+#EXTINF:-1,UK: Cartoonito
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7144.ts
+#EXTINF:-1,UK: Sky Cinema Action HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7300.ts
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7297.ts
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7293.ts
+#EXTINF:-1,UK: Sky Cinema Disney HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7298.ts
+#EXTINF:-1,UK: Sky Cinema Drama & Romance HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7294.ts
+#EXTINF:-1,UK: Sky Cinema Family HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7299.ts
+#EXTINF:-1,UK: Sky Cinema Premier HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7301.ts
+#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7296.ts
+#EXTINF:-1,UK: Sky Cinema Select HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7292.ts
+#EXTINF:-1,UK: Cbeebies
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7439.ts
+#EXTINF:-1,UK: History
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7437.ts
+#EXTINF:-1,UK: Magic
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7436.ts
+#EXTINF:-1,UK: MTV
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7438.ts
+#EXTINF:-1,UK: Scuzz
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7435.ts
+#EXTINF:-1,UK: TCM
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7440.ts
+#EXTINF:-1,UK: National Geographic
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7441.ts
+#EXTINF:-1,UK: H2
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7442.ts
+#EXTINF:-1,UK: NATGEO WILD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7463.ts
+#EXTINF:-1,UK: VIVA
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7472.ts
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/26.ts
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/18.ts
+#EXTINF:-1,UK: SKY SPORTS GOLF HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/20.ts
+#EXTINF:-1,UK: SKY SPORTS ACTION HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/22.ts
+#EXTINF:-1,UK: SKY SPORTS CRICKET HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/24.ts
+#EXTINF:-1,UK: Clubland
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7597.ts
+#EXTINF:-1,UK: Heart TV
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7598.ts
+#EXTINF:-1,UK: Citv
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7676.ts
+#EXTINF:-1,UK: Celtic FC TV (Live for Matches )
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7682.ts
+#EXTINF:-1,UK: RANGERS FC TV (matchtime)
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7681.ts
+#EXTINF:-1,UK: MUTV Backup
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7686.ts
+#EXTINF:-1,UK: EUROSPORT 2 HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7688.ts
+#EXTINF:-1,UK: EUROSPORT 1 HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7689.ts
+#EXTINF:-1,UK: Capital TV
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7781.ts
+#EXTINF:-1,UK: CNN FHD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7794.ts
+#EXTINF:-1,UK: ITV 2 FHD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7791.ts
+#EXTINF:-1,UK: ITV 3 FHD 1080
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7792.ts
+#EXTINF:-1,UK: ITV 4 FHD 1080
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7793.ts
+#EXTINF:-1,UK: TV ONE HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7989.ts
+#EXTINF:-1,UK: BBC 3 FHD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7994.ts
+#EXTINF:-1,UK: LFC TV HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7996.ts
+#EXTINF:-1,UK: MUTV FHD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/7995.ts
+#EXTINF:-1,UK: STV FHD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8033.ts
+#EXTINF:-1,UK: TG4
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8412.ts
+#EXTINF:-1,UK: BT FHD 1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8620.ts
+#EXTINF:-1,UK: BT FHD 2
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8619.ts
+#EXTINF:-1,UK: BT FHD 3
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8618.ts
+#EXTINF:-1,UK: SKY SPORTS FHD 1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8615.ts
+#EXTINF:-1,UK: SKY SPORTS FHD CRICKET
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8614.ts
+#EXTINF:-1,UK: SKY SPORTS FHD ACTION
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8613.ts
+#EXTINF:-1,UK: SKY SPORTS FHD GOLF
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8617.ts
+#EXTINF:-1,UK: SKY SPORTS FHD PREMIER LEAGUE
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8616.ts
+#EXTINF:-1,UK: SKY SPORTS FHD MAIN EVENT
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8612.ts
+#EXTINF:-1,UK: RTE News Now
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8631.ts
+#EXTINF:-1,UK: ITV +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8684.ts
+#EXTINF:-1,UK: ITV2 +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8685.ts
+#EXTINF:-1,UK: ITV3  +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8686.ts
+#EXTINF:-1,UK: ITV4 +1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8687.ts
+#EXTINF:-1,UK: RTE JUNIOR
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8682.ts
+#EXTINF:-1,UK: TV3
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8683.ts
+#EXTINF:-1,UK: Euronews
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8695.ts
+#EXTINF:-1,UK: BBC ONE SD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8868.ts
+#EXTINF:-1,UK: BT Sport 1 backup
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8950.ts
+#EXTINF:-1,UK: Sky Cinema Hits
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8867.ts
+#EXTINF:-1,UK: BOX OFFICE HD 1
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/9131.ts
+#EXTINF:-1,UK: BOX OFFICE HD 2
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/9130.ts
+#EXTINF:-1,UK: BOX OFFICE HD 3
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/9129.ts
+#EXTINF:-1,UK: BOX OFFICE HD 4
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/9128.ts
+#EXTINF:-1,UK: Islam Channel
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/9148.ts
+#EXTINF:-1,UK: Peace TV
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/9149.ts
+#EXTINF:-1,UK: Amc
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/9160.ts
+#EXTINF:-1,UK: ITV BOX OFFICE PPV
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/9183.ts
+#EXTINF:-1,UK: Sky Sport Football HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/10164.ts
+#EXTINF:-1,UK: MTV 90's
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/11121.ts
+#EXTINF:-1,UK: Channel AKA
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/10185.ts
+#EXTINF:-1,UK: Sky Sport Arena HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/10165.ts
+#EXTINF:-1,UK: 4Music
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/11777.ts
+#EXTINF:-1,UK: Cartoon Network HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/11775.ts
+#EXTINF:-1,UK: MTV Base HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/11771.ts
+#EXTINF:-1,UK: Sky Sports News FHD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/11774.ts
+#EXTINF:-1,UK: Box hits
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/11779.ts
+#EXTINF:-1,UK: Sky Sports The Open
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/11781.ts
+#EXTINF:-1,UK: Sky Sports The Open HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/11782.ts
+#EXTINF:-1,UK : Yesterday
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/420.ts
+#EXTINF:-1,UK : Sky Sport F1 HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/443.ts
+#EXTINF:-1,UK : Sky Sport 1 SD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1922.ts
+#EXTINF:-1,UK : SKY One
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/422.ts
+#EXTINF:-1,UK : Sky Movies Drama
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/427.ts
+#EXTINF:-1,UK : SKY Atlantic HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/428.ts
+#EXTINF:-1,UK : Sky Arts
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/429.ts
+#EXTINF:-1,UK : Nat Geo Graphic
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/431.ts
+#EXTINF:-1,UK : Mototrs TV
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1029.ts
+#EXTINF:-1,UK : More 4
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/432.ts
+#EXTINF:-1,UK : Manchester United TV
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/433.ts
+#EXTINF:-1,UK : Living UK
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/426.ts
+#EXTINF:-1,UK : Life time
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/894.ts
+#EXTINF:-1,UK : FOX
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/434.ts
+#EXTINF:-1,UK : Eden
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/436.ts
+#EXTINF:-1,UK : Dave
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/437.ts
+#EXTINF:-1,UK : Comedy Central
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/438.ts
+#EXTINF:-1,UK : CNN
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/3134.ts
+#EXTINF:-1,UK : Chelsea TV
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/439.ts
+#EXTINF:-1,UK : Animal Planet
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/441.ts
+#EXTINF:-1,UK | UTV
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1416.ts
+#EXTINF:-1,UK | Tiny POP
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4460.ts
+#EXTINF:-1,UK | Syfy
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/74.ts
+#EXTINF:-1,UK | Sky Sport News
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/16.ts
+#EXTINF:-1,UK | Sky Movies Thriller
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/54.ts
+#EXTINF:-1,UK | Sky Movies Showcase
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/55.ts
+#EXTINF:-1,UK | Sky Movies Premiere
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/56.ts
+#EXTINF:-1,UK | Sky Movies Greats
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/57.ts
+#EXTINF:-1,UK | Sky Movies Family
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/58.ts
+#EXTINF:-1,UK | Sky Movies Disney
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/59.ts
+#EXTINF:-1,UK | Sky Movies Comedy
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/60.ts
+#EXTINF:-1,UK | Sky Movies Action
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/61.ts
+#EXTINF:-1,UK | Sky Movie Sci-Fi
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/62.ts
+#EXTINF:-1,UK | Nicktoons
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1433.ts
+#EXTINF:-1,UK | Nick Jr
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1434.ts
+#EXTINF:-1,UK | London Live
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1417.ts
+#EXTINF:-1,UK | ITV be
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1627.ts
+#EXTINF:-1,UK | Irish Tv
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1418.ts
+#EXTINF:-1,UK | Home & Health
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/66.ts
+#EXTINF:-1,UK | Good Food
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1414.ts
+#EXTINF:-1,UK | gold
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1432.ts
+#EXTINF:-1,UK | Film 4
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1419.ts
+#EXTINF:-1,UK | E4
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1420.ts
+#EXTINF:-1,UK | E!
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1430.ts
+#EXTINF:-1,UK | Drama
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/174.ts
+#EXTINF:-1,UK | DMax
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/853.ts
+#EXTINF:-1,UK | Disney XD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/47.ts
+#EXTINF:-1,UK | Disney Junior
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/48.ts
+#EXTINF:-1,UK | Disney
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/49.ts
+#EXTINF:-1,UK | Discovery Turbo
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/63.ts
+#EXTINF:-1,UK | Discovery Shed
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/64.ts
+#EXTINF:-1,UK | Discovery Science
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/65.ts
+#EXTINF:-1,UK | Discovery History
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/67.ts
+#EXTINF:-1,UK | DISCOVERY
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/68.ts
+#EXTINF:-1,UK | CBS reality
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1421.ts
+#EXTINF:-1,UK | CBS Drama
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1422.ts
+#EXTINF:-1,UK | CBS Action
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1423.ts
+#EXTINF:-1,UK | BT Sport Europe HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/3.ts
+#EXTINF:-1,UK | BT Sport ESPN
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/4.ts
+#EXTINF:-1,UK | BT Sport 2 HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/6.ts
+#EXTINF:-1,UK | BT Sport 1 HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/8.ts
+#EXTINF:-1,UK | Boxnation
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/9.ts
+#EXTINF:-1,UK | boomerang
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1424.ts
+#EXTINF:-1,UK | BBC World News
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/761.ts
+#EXTINF:-1,UK Pick
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/1428.ts
+#EXTINF:-1,UK CBBC
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/167.ts
+#EXTINF:-1,UK BBC Three HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/184.ts
+#EXTINF:-1,UK BBC ONE HD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/185.ts
+#EXTINF:-1,UK Baby TV
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/171.ts
+#EXTINF:-1,UK HD : SKY SPORTS ARENA FHD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/9437.ts
+#EXTINF:-1,UK HD : SKY SPORTS FOOTBALL FHD
+http://iptvfree1.com:6969/live/96wfdYZ8ut/zfXy3ZA1MI/9436.ts
