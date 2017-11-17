@@ -62,7 +62,7 @@ http://103.77.116.250/boboapp1/warner.stream/playlist.m3u8?userid=174906&e=15073
 #EXTINF:-1, tvg-logo="https://football-hd.com/img_channel.php?c=ch_548e8728b92736_74936861.png" group-title="ASIAN TV", KIX HD
 http://27.254.63.162/stream/tot4k.php?channel_id=e584e0adae6440eab366f5fe3a824f91
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df80048.jpg" group-title="ASIAN TV", RED by HBO
-http://191.96.38.44:443/seedbet53/0x222_ais_redbyhbo_720p/playlist.m3u8?key=iczelhijf72lt6ql1vzbs13e
+http://183.88.212.205:8010/play/a03c
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa3b20.png" group-title="ASIAN TV", FYI
 http://103.77.116.250/boboapp2/FYI_HD_Thailand/playlist.m3u8?userid=174906&e=1507380576&st=zosyHW9YgWr-Nt-HQp67yw
 #EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/60233/logo_crime%20+%20investigation.png" group-title="ASIAN TV", CRIME INVESTIGATION
@@ -136,21 +136,19 @@ http://103.77.116.250/boboapp1/a_truesp7.stream/playlist.m3u8?userid=174906&e=15
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff28ea.png" group-title="ASIAN TV",Sky Sports F1 
 http://191.96.38.234:443/free54/0x444_skysportf1manic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfbb9d0.png" group-title="ASIAN TV",BT Sport 1 
-http://191.96.38.234:443/free54/0x444_btsport1manic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
+http://dooballsodhd.8img.xyz:443/free54/0x444_btsport1manic_360p/chunklist_w1551413768.m3u8?key=ehr1gnc8np834g37r4eehxi5
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfbea75.png" group-title="ASIAN TV",BT Sport 2 
-http://191.96.38.44:443/seedbet54/0x444_btsport2manic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
+http://dooballsodhd.8img.xyz:443/free54/0x444_btsport2manic_360p/chunklist_w1551413768.m3u8?key=ehr1gnc8np834g37r4eehxi5
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfc11e2.png" group-title="ASIAN TV",BT Sport 3 
-http://191.96.38.44:443/seedbet54/0x444_btsport3manic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
+http://dooballsodhd.8img.xyz:443/free54/0x444_btsport3manic_360p/chunklist_w1551413768.m3u8?key=ehr1gnc8np834g37r4eehxi5
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfc15b0.png" group-title="ASIAN TV",BT Sport ESPN 
-http://191.96.38.44:443/seedbet54/0x444_btsportespnmanic_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb2cbd.png" group-title="ASIAN TV",Eurosport 
-http://191.96.38.234:443/free/0x777_eurosport_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
+http://dooballsodhd.8img.xyz:443/free54/0x444_btsportespnmanic_360p/chunklist_w1551413768.m3u8?key=ehr1gnc8np834g37r4eehxi5
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb30ce.png" group-title="ASIAN TV",Eurosport 1
-http://191.96.38.234:443/free54/0x444_eurosportuk1_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
+http://dooballsodhd.8img.xyz:443/free54/0x444_eurosportuk1_360p/chunklist_w1567287504.m3u8?key=g4pqv1lcvx1faghkd1k396k5
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb34e5.png" group-title="ASIAN TV",Eurosport 2
-http://191.96.38.234:443/free54/0x444_eurosportuk2_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
+http://dooballsodhd.8img.xyz:443/free54/0x444_eurosportuk2_360p/chunklist_w1567287504.m3u8?key=g4pqv1lcvx1faghkd1k396k5
 #EXTINF:-1, tvg-logo="http://www.insideworldfootball.com/app/uploads/2016/01/MUTV_logo.jpeg" group-title="ASIAN TV",MUTV 
-http://191.96.38.44:443/seedbet54/0x444_mutv_360p/playlist.m3u8?key=zrybnkumdzsua3iyn6hrcz37
+http://dooballsodhd.8img.xyz:443/free54/0x444_mutv_360p/chunklist_w2022409526.m3u8?key=ezdrchkfs7mpmde7mav4qlj9
 #EXTINF:-1,tvg-logo="https://contentpl-a.akamaihd.net/images/playlists/image/medium/114567.jpg" group-title="ASIAN TV", MTV Asia
 http://27.254.63.162/stream/tot4k.php?channel_id=ebce2f5139c54eda8b111e5923af9c9e
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df95a33.png" group-title="ASIAN TV", MTV China
