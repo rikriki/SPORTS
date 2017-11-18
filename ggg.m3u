@@ -76,7 +76,7 @@ http://103.77.116.250/boboapp6/COMEDY_CENTRAL/playlist.m3u8?userid=174906&e=1507
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/4kW0DkfCD48/hqdefault.jpg" group-title="ASIAN TV", EGG Network
 http://103.77.116.250/boboapp6/UNIVERSAL_SD/playlist.m3u8?userid=174906&e=1507380421&st=70yYJV21tWZ24PfvRBQHWw
 #EXTINF:-1, tvg-logo="http://www.lakecooptv.asia/images/evehd.png" group-title="ASIAN TV", Eve
-http://doballvip.ddns.net:443/doballvip/0x222_evehd_360p/chunklist_w1873757179.m3u8
+http://183.88.212.205:8010/play/a033
 #EXTINF:-1, tvg-logo="http://www.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="ASIAN TV", Lifetime
 http://183.88.212.205:8010/play/a03l
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" group-title="ASIAN TV", NBA TV
@@ -1115,5 +1115,25 @@ http://nitrotv.for-the.biz:25461/live/Nitro/free/3137.ts
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3150.ts
 #EXTINF:-1, group-title="UK", Cbeebies HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3131.ts
+#EXTINF:-1, tvg-logo="https://hd-report.com/wp-content/uploads/bfi_thumb/nba-league-pass-logo-n4nqey4d3dr2bieukzl5ibk3rf2urbe5wvnyirfv2o.jpg" group-title="NBA LEAGUE PASS (LIVE MATCHES ONLY)", NBA 1 HD
+http://nitrotv.for-the.biz:25461/live/Nitro/free/12925.ts
+#EXTINF:-1, tvg-logo="https://hd-report.com/wp-content/uploads/bfi_thumb/nba-league-pass-logo-n4nqey4d3dr2bieukzl5ibk3rf2urbe5wvnyirfv2o.jpg" group-title="NBA LEAGUE PASS (LIVE MATCHES ONLY)", NBA 2 HD
+http://nitrotv.for-the.biz:25461/live/Nitro/free/12943.ts
+#EXTINF:-1, tvg-logo="https://hd-report.com/wp-content/uploads/bfi_thumb/nba-league-pass-logo-n4nqey4d3dr2bieukzl5ibk3rf2urbe5wvnyirfv2o.jpg" group-title="NBA LEAGUE PASS (LIVE MATCHES ONLY)", NBA 3 HD
+http://nitrotv.for-the.biz:25461/live/Nitro/free/12942.ts
+#EXTINF:-1, tvg-logo="https://hd-report.com/wp-content/uploads/bfi_thumb/nba-league-pass-logo-n4nqey4d3dr2bieukzl5ibk3rf2urbe5wvnyirfv2o.jpg" group-title="NBA LEAGUE PASS (LIVE MATCHES ONLY)", NBA 4 HD
+http://nitrotv.for-the.biz:25461/live/Nitro/free/12941.ts
+#EXTINF:-1, tvg-logo="https://hd-report.com/wp-content/uploads/bfi_thumb/nba-league-pass-logo-n4nqey4d3dr2bieukzl5ibk3rf2urbe5wvnyirfv2o.jpg" group-title="NBA LEAGUE PASS (LIVE MATCHES ONLY)", NBA 5 HD
+http://nitrotv.for-the.biz:25461/live/Nitro/free/12940.ts
+#EXTINF:-1, tvg-logo="https://hd-report.com/wp-content/uploads/bfi_thumb/nba-league-pass-logo-n4nqey4d3dr2bieukzl5ibk3rf2urbe5wvnyirfv2o.jpg" group-title="NBA LEAGUE PASS (LIVE MATCHES ONLY)", NBA 6 HD
+http://nitrotv.for-the.biz:25461/live/Nitro/free/12939.ts
+#EXTINF:-1, tvg-logo="https://hd-report.com/wp-content/uploads/bfi_thumb/nba-league-pass-logo-n4nqey4d3dr2bieukzl5ibk3rf2urbe5wvnyirfv2o.jpg" group-title="NBA LEAGUE PASS (LIVE MATCHES ONLY)", NBA 7 HD
+http://nitrotv.for-the.biz:25461/live/Nitro/free/12938.ts
+#EXTINF:-1, tvg-logo="https://hd-report.com/wp-content/uploads/bfi_thumb/nba-league-pass-logo-n4nqey4d3dr2bieukzl5ibk3rf2urbe5wvnyirfv2o.jpg" group-title="NBA LEAGUE PASS (LIVE MATCHES ONLY)", NBA 8 HD
+http://nitrotv.for-the.biz:25461/live/Nitro/free/12937.ts
+#EXTINF:-1, tvg-logo="https://hd-report.com/wp-content/uploads/bfi_thumb/nba-league-pass-logo-n4nqey4d3dr2bieukzl5ibk3rf2urbe5wvnyirfv2o.jpg" group-title="NBA LEAGUE PASS (LIVE MATCHES ONLY)", NBA 9 HD
+http://nitrotv.for-the.biz:25461/live/Nitro/free/13130.ts
+#EXTINF:-1, tvg-logo="https://hd-report.com/wp-content/uploads/bfi_thumb/nba-league-pass-logo-n4nqey4d3dr2bieukzl5ibk3rf2urbe5wvnyirfv2o.jpg" group-title="NBA LEAGUE PASS (LIVE MATCHES ONLY)", NBA 10 HD
+http://nitrotv.for-the.biz:25461/live/Nitro/free/13131.ts
 
 
