@@ -176,7 +176,7 @@ http://183.88.212.205:8010/play/a02u
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5391392392d313_21504889.png" group-title="ASIAN TV", Baby TV
 http://27.254.63.162/stream/tot4k.php?channel_id=7773f3cef0334a28ad248552ea63d9e7
 #EXTINF:-1,tvg-logo="http://www.toonamiasia.com/images/toonami_logo.png" group-title="ASIAN TV", Toonami
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD327L720P/chunklist_b700000.m3u8
+http://amd.cdn.turner.com/adultswim/big/streams/playlists/toonami.m3u8
 #EXTINF:-1,tvg-logo="https://openlab.citytech.cuny.edu/marcrodriguez-eportfolio/files/2016/09/image.png" group-title="ASIAN TV", Cartoon Network
 http://103.77.116.250/boboapp5/cnetwork/playlist.m3u8?userid=174906&e=1506098517&st=M--8T6FpcG_dCyAFoWknxg
 #EXTINF:-1, tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="ASIAN TV", Nick Jr. (ENG)
