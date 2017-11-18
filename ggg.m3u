@@ -2,7 +2,7 @@
 #EXTINF:-1, tvg-logo="http://www.entrepreneur.com.ph//images/2017/10/12/ESPN-5-4.jpg" group-title="PINOY TV", ESPN 5
 http://stream3.news5.ph:1935/n5e/tv53.stream/chunklist_w1083168964.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
-http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1511021534~acl=%2f*~data=hdntl~hmac=edaf07f7977e2b7057cbeb1c89ab92fca2b379b70bcf9ed17877ee0b9c27d16b
+http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1511104231~acl=%2f*~data=hdntl~hmac=37df9715331d1400bbed4b144d9780096a7d29b13207b190397a61cfeadc51cf
 #EXTINF:-1, tvg-logo="http://cnnphilippines.com/incoming/ttbl9f-main-logo.png/BINARY/main-logo.png" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV
@@ -1083,5 +1083,37 @@ http://nitrotv.for-the.biz:25461/live/Nitro/free/2091.ts
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3187.ts
 #EXTINF:-1, group-title="UK", Eleven Sports HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/2100.ts
+#EXTINF:-1, group-title="UK", Disney Channel
+http://nitrotv.for-the.biz:25461/live/Nitro/free/3410.ts
+#EXTINF:-1, group-title="UK", Disney Jr.
+http://nitrotv.for-the.biz:25461/live/Nitro/free/3194.ts
+#EXTINF:-1, group-title="UK", Disney XD
+http://nitrotv.for-the.biz:25461/live/Nitro/free/3168.ts
+#EXTINF:-1, group-title="UK", Nickelodeon HD
+http://nitrotv.for-the.biz:25461/live/Nitro/free/1340.ts
+#EXTINF:-1, group-title="UK", Boomerang
+http://nitrotv.for-the.biz:25461/live/Nitro/free/3176.ts
+#EXTINF:-1, group-title="UK", Baby TV
+http://nitrotv.for-the.biz:25461/live/Nitro/free/3188.ts
+#EXTINF:-1, group-title="UK", Cartoon Network
+http://nitrotv.for-the.biz:25461/live/Nitro/free/3201.ts
+#EXTINF:-1, group-title="UK", Cartoonito
+http://nitrotv.for-the.biz:25461/live/Nitro/free/3175.ts
+#EXTINF:-1, group-title="UK", Nick Jr
+http://nitrotv.for-the.biz:25461/live/Nitro/free/3380.ts
+#EXTINF:-1, group-title="UK", Nick Jr Too
+http://nitrotv.for-the.biz:25461/live/Nitro/free/3378.ts
+#EXTINF:-1, group-title="UK", Nickelodeon
+http://nitrotv.for-the.biz:25461/live/Nitro/free/3384.ts
+#EXTINF:-1, group-title="UK", Nicktoons
+http://nitrotv.for-the.biz:25461/live/Nitro/free/3434.ts
+#EXTINF:-1, group-title="UK", RTE jr
+http://nitrotv.for-the.biz:25461/live/Nitro/free/3148.ts
+#EXTINF:-1, group-title="UK", Tiny Pop
+http://nitrotv.for-the.biz:25461/live/Nitro/free/3137.ts
+#EXTINF:-1, group-title="UK", POP
+http://nitrotv.for-the.biz:25461/live/Nitro/free/3150.ts
+#EXTINF:-1, group-title="UK", Cbeebies HD
+http://nitrotv.for-the.biz:25461/live/Nitro/free/3131.ts
 
 
