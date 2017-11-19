@@ -121,6 +121,8 @@ http://103.77.116.250/boboapp1/thd1.stream/playlist.m3u8?userid=174906&e=1507361
 http://103.77.116.250/boboapp1/thd22.stream/playlist.m3u8?userid=174906&e=1507361948&st=udFSeNMbzYJzvemjkCAF2Q
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dffa6a1.png" group-title="ASIAN TV",True Sport HD 3  
 http://103.77.116.250/boboapp1/thd333.stream/playlist.m3u8?userid=174906&e=1507361971&st=AZ83OTkQDdltF8FDkLGe6w
+#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/839_300.png" group-title="ASIAN TV",Setanta Asia 
+http://dooballsodhd.8img.xyz:443/free54/0x777_2sporthd4_720p/chunklist_w1078870726.m3u8?key=t9rp7l174suan4lwsi5ui9jm
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e01dcd2.jpg" group-title="ASIAN TV",True Sport 1  
 http://103.77.116.250/boboapp1/a_truesp1.stream/playlist.m3u8?userid=174906&e=1507362353&st=iGcQdky1xy9Fe8_nQ4YgHg
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e0000e3.png" group-title="ASIAN TV",True Sport 2  
