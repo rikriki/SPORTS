@@ -669,455 +669,297 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklis
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://latintrends.com/wp-content/uploads/2012/09/musicchoicenews.jpg" group-title="MUSIC/RADIO", Y2K
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
-#EXTINF:-1, group-title="UK", Channel 4 HD
+#EXTINF:-1 tvg-id="uk.Channel 4 HD" tvg-name="UK: Channel 4 HD" tvg-logo="https://brandstruck.co/wp-content/uploads/2017/04/Channel-4-logo.jpg" group-title="U.K.",UK: Channel 4 HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3190.ts
-#EXTINF:-1, group-title="UK", Channel 5 HD
+#EXTINF:-1 tvg-id="uk.Channel 5" tvg-name="UK: Channel 5 HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/5/57/Channel_5_logo_2011b.svg/revision/latest/scale-to-width-down/150?cb=20111103235441" group-title="U.K.",UK: Channel 5 HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3388.ts
-#EXTINF:-1, group-title="UK", ITV 1 HD
+#EXTINF:-1 tvg-id="uk.ITV" tvg-name="UK: ITV 1 HD" tvg-logo="http://www.entertainmentdoor.com.pk/images/channel_image/ITV1HD-logo.jpg" group-title="U.K.",UK: ITV 1 HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3207.ts
-#EXTINF:-1, group-title="UK", ITV 2 HD
+#EXTINF:-1 tvg-id="uk.ITV2" tvg-name="UK: ITV 2 HD" tvg-logo="https://vignette1.wikia.nocookie.net/logosfake/images/d/d5/ITV2_2015_Teal.png/revision/latest?cb=20150814164735" group-title="U.K.",UK: ITV 2 HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3206.ts
-#EXTINF:-1, group-title="UK", ITV 3 HD
+#EXTINF:-1 tvg-id="uk.ITV3 HD" tvg-name="UK: ITV 3 HD" tvg-logo="http://image.guardian.co.uk/sys-images/Media/Pix/pictures/2006/01/09/ITV3logo300.jpg" group-title="U.K.",UK: ITV 3 HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3205.ts
-#EXTINF:-1, group-title="UK", ITV 4 HD
+#EXTINF:-1 tvg-id="uk.ITV4" tvg-name="UK: ITV 4 HD" tvg-logo="http://image.guardian.co.uk/sys-images/Media/Pix/pictures/2006/01/09/ITV4logo300.jpg" group-title="U.K.",UK: ITV 4 HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3204.ts
-#EXTINF:-1, group-title="UK", ITV ENCORE HD
+#EXTINF:-1 tvg-id="uk.ITV Encore HD" tvg-name="UK: ITV ENCORE HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/4/45/ITV_Encore_HD.svg/revision/latest/scale-to-width-down/185?cb=20161230203058" group-title="U.K.",UK: ITV ENCORE HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1299.ts
-#EXTINF:-1, group-title="UK", BBC 1 HD
+#EXTINF:-1 tvg-id="uk.BBC One HD" tvg-name="UK: BBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/BBC_One_logo.svg/500px-BBC_One_logo.svg.png" group-title="U.K.",UK: BBC 1 HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1310.ts
-#EXTINF:-1, group-title="UK", BBC 2 HD
+#EXTINF:-1 tvg-id="uk.BBC Two Eng" tvg-name="UK: BBC 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/400px-BBC_Two.svg.png" group-title="U.K.",UK: BBC 2 HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1311.ts
-#EXTINF:-1, group-title="UK", BBC 3
+#EXTINF:-1 tvg-id="us.UniMas HD" tvg-name="UK: BBC 3" tvg-logo="http://static.trustedreviews.com/94/00002b398/1305_orh370w630/BBC-Three.jpg" group-title="U.K.",UK: BBC 3
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3451.ts
-#EXTINF:-1, group-title="UK", BBC 4 HD
+#EXTINF:-1 tvg-id="uk.BBC Four HD" tvg-name="UK: BBC 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/200px-BBC_Four.svg.png" group-title="U.K.",UK: BBC 4 HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3447.ts
-#EXTINF:-1, group-title="UK", BBC NEWS HD
+#EXTINF:-1 tvg-id="uk.BBC NEWS" tvg-name="UK: BBC NEWS HD" tvg-logo="http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png" group-title="U.K.",UK: BBC NEWS HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1313.ts
-#EXTINF:-1, group-title="UK", 4 Seven
+#EXTINF:-1 tvg-id="uk.4seven" tvg-name="UK: 4 Seven" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/4seven.svg/160px-4seven.svg.png" group-title="U.K.",UK: 4 Seven
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3454.ts
-#EXTINF:-1, group-title="UK", 5Star HD
+#EXTINF:-1 tvg-id="uk.5STAR" tvg-name="UK: 5Star HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/5Star_logo.png/200px-5Star_logo.png" group-title="U.K.",UK: 5Star HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3453.ts
-#EXTINF:-1, group-title="UK", 5USA HD
+#EXTINF:-1 tvg-id="uk.5 USA" tvg-name="UK: 5USA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/5USA_logo.svg/200px-5USA_logo.svg.png" group-title="U.K.",UK: 5USA HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3448.ts
-#EXTINF:-1, group-title="UK", AND TV FHD
+#EXTINF:-1 tvg-id="uk.&TV" tvg-name="UK: AND TV FHD" tvg-logo="http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/styles/smartcrop_800x800/public/images/tv-images/2016/04/20/%26tv.jpg?itok=F89ogZgD" group-title="U.K.",UK: AND TV FHD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1306.ts
-#EXTINF:-1, group-title="UK", Animal Planet HD
+#EXTINF:-1 tvg-id="uk.AnimalPlnt HD" tvg-name="UK: Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/380px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="U.K.",UK: Animal Planet HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1308.ts
-#EXTINF:-1, group-title="UK", ALIBI HD
+#EXTINF:-1 tvg-id="uk.alibi" tvg-name="UK: ALIBI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Alibi-logo-2015.png/150px-Alibi-logo-2015.png" group-title="U.K.",UK: ALIBI HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3452.ts
-#EXTINF:-1, group-title="UK", Discovery Channel HD
+#EXTINF:-1 tvg-id="uk.Discovery" tvg-name="UK: Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Discovery_logo_2013.png/150px-Discovery_logo_2013.png" group-title="U.K.",UK: Discovery Channel HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/2066.ts
-#EXTINF:-1, group-title="UK", Comedy Central HD
+#EXTINF:-1 tvg-id="uk.Comedy Central HD" tvg-name="UK: Comedy Central HD" tvg-logo="http://www.stashmedia.tv/wp-content/uploads/2010/12/comedy-logo.png" group-title="U.K.",UK: Comedy Central HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1323.ts
-#EXTINF:-1, group-title="UK", Dave HD
+#EXTINF:-1 tvg-id="uk.Dave" tvg-name="UK: Dave HD" tvg-logo="http://digitalspyuk.cdnds.net/13/06/768x576/gallery_media-dave-logo.jpg" group-title="U.K.",UK: Dave HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1324.ts
-#EXTINF:-1, group-title="UK", FOX HD
+#EXTINF:-1 tvg-id="uk.FOX" tvg-name="UK: FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/400px-FOX_wordmark.svg.png" group-title="U.K.",UK: FOX HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1331.ts
-#EXTINF:-1, group-title="UK", Eden HD
+#EXTINF:-1 tvg-id="uk.Eden" tvg-name="UK: Eden HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Eden_logo.png/200px-Eden_logo.png" group-title="U.K.",UK: Eden HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1327.ts
-#EXTINF:-1, group-title="UK", E4 HD
+#EXTINF:-1 tvg-id="uk.E4 HD" tvg-name="UK: E4 HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/6/65/E4_uk_hd.png/revision/latest/scale-to-width-down/150?cb=20110828140109" group-title="U.K.",UK: E4 HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1326.ts
-#EXTINF:-1, group-title="UK", Film4 HD
+#EXTINF:-1 tvg-id="uk.Film4" tvg-name="UK: Film4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/260px-Film4.svg.png" group-title="U.K.",UK: Film4 HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1330.ts
-#EXTINF:-1, group-title="UK", Good Food HD
+#EXTINF:-1 tvg-id="uk.Good Food HD" tvg-name="UK: Good Food HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/9/9a/Good_Food.svg/revision/latest/scale-to-width-down/200?cb=20140715223956" group-title="U.K.",UK: Good Food HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1332.ts
-#EXTINF:-1, group-title="UK", Discovery HD
+#EXTINF:-1 tvg-id="uk.Discovery HD" tvg-name="UK: Discovery HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430" group-title="U.K.",UK: Discovery HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1325.ts
-#EXTINF:-1, group-title="UK", Lifetime HD
+#EXTINF:-1 tvg-id="uk.Lifetime HD" tvg-name="UK: Lifetime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/300px-Lifetime_logo17.svg.png" group-title="U.K.",UK: Lifetime HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1300.ts
-#EXTINF:-1, group-title="UK", MTV HD
+#EXTINF:-1 tvg-id="uk.MTV" tvg-name="UK: MTV HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/8/8c/MTV_3.png/revision/latest/scale-to-width-down/185?cb=20141222203932" group-title="U.K.",UK: MTV HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1335.ts
-#EXTINF:-1, group-title="UK", More4 HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: More4 HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/7/79/More4_logo.svg/revision/latest/scale-to-width-down/200?cb=20120123130602" group-title="U.K.",UK: More4 HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3382.ts
-#EXTINF:-1, group-title="UK", Nat Geo Wild HD
+#EXTINF:-1 tvg-id="uk.Nat Geo Wild" tvg-name="UK: Nat Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/400px-Logo_Nat_Geo_Wild.svg.png" group-title="U.K.",UK: Nat Geo Wild HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1339.ts
-#EXTINF:-1, group-title="UK", Nat Geo HD
+#EXTINF:-1 tvg-id="uk.Nat Geo HD" tvg-name="UK: Nat Geo HD" tvg-logo="https://www.thelogodb.com/images/media/logo/vsuwwu1436891071.png/medium" group-title="U.K.",UK: Nat Geo HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1338.ts
-#EXTINF:-1, group-title="UK", Insight HD
+#EXTINF:-1 tvg-id="uk.Insight HD" tvg-name="UK: Insight HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/ac/Insight_2014.png/revision/latest?cb=20160207065046" group-title="U.K.",UK: Insight HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1334.ts
-#EXTINF:-1, group-title="UK", National Geographic Wild HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: National Geographic Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/400px-Logo_Nat_Geo_Wild.svg.png" group-title="U.K.",UK: National Geographic Wild HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3377.ts
-#EXTINF:-1, group-title="UK", National Geographic HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: National Geographic HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_uk.jpg" group-title="U.K.",UK: National Geographic HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3433.ts
-#EXTINF:-1, group-title="UK", Sky 1 HD
+#EXTINF:-1 tvg-id="uk.Sky1" tvg-name="UK: Sky 1 HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/f/fa/Sky-1_on_white-2015.png/revision/latest/scale-to-width-down/250?cb=20160422170823" group-title="U.K.",UK: Sky 1 HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1346.ts
-#EXTINF:-1, group-title="UK", Sony TV HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sony TV HD" tvg-logo="https://pbs.twimg.com/profile_images/800029326812946433/USzCzkZL_400x400.jpg" group-title="U.K.",UK: Sony TV HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3409.ts
-#EXTINF:-1, group-title="UK", Sky Living HD
+#EXTINF:-1 tvg-id="uk.Sky Living HD" tvg-name="UK: Sky Living HD" tvg-logo="https://www.thelogodb.com/images/media/logo/uqwpyu1434040374.png/medium" group-title="U.K.",UK: Sky Living HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1347.ts
-#EXTINF:-1, group-title="UK", Sky Arts HD
+#EXTINF:-1 tvg-id="uk.Sky Arts HD" tvg-name="UK: Sky Arts HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1140.1433844471.png" group-title="U.K.",UK: Sky Arts HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1302.ts
-#EXTINF:-1, group-title="UK", Universal HD
+#EXTINF:-1 tvg-id="uk.Universal" tvg-name="UK: Universal HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/e/e6/Universal_Int_2013.png/revision/latest/scale-to-width-down/250?cb=20130505201440" group-title="U.K.",UK: Universal HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1373.ts
-#EXTINF:-1, group-title="UK", TCM HD
+#EXTINF:-1 tvg-id="uk.TCM" tvg-name="UK: TCM HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cd/TCM_Latin_America.png/revision/latest/scale-to-width-down/200?cb=20151209165240" group-title="U.K.",UK: TCM HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1372.ts
-#EXTINF:-1, group-title="UK", Syfy HD
+#EXTINF:-1 tvg-id="uk.Syfy" tvg-name="UK: Syfy HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/2/24/Syfy_logo.svg/revision/latest/scale-to-width-down/320?cb=20160810120339" group-title="U.K.",UK: Syfy HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1371.ts
-#EXTINF:-1, group-title="UK", HISTORY 2 HD
+#EXTINF:-1 tvg-id="UK: HISTORY 2 HD" tvg-name="UK: HISTORY 2 HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/e/eb/H2.svg/revision/latest/scale-to-width-down/200?cb=20161204212050" group-title="U.K.",UK: HISTORY 2 HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1333.ts
-#EXTINF:-1, group-title="UK", ITV BE HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: ITV BE HD" tvg-logo="https://pbs.twimg.com/profile_images/586156201672646657/5fIuWOif_bigger.png" group-title="U.K.",UK: ITV BE HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3203.ts
-#EXTINF:-1, group-title="UK", MTV Live HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV Live HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/1/14/MTV_Live_Logo.png/revision/latest/scale-to-width-down/80?cb=20160207072213" group-title="U.K.",UK: MTV Live HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1336.ts
-#EXTINF:-1, group-title="UK", STV HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: STV HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fe/STV_2014.png/revision/latest/scale-to-width-down/196?cb=20140603225451" group-title="U.K.",UK: STV HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3138.ts
-#EXTINF:-1, group-title="UK", W HD
+#EXTINF:-1 tvg-id="uk.W HD" tvg-name="UK: W HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/200px-W_Network_Logo.svg.png" group-title="U.K.",UK: W HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1375.ts
-#EXTINF:-1, group-title="UK", UTV HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: UTV HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/UTV_2016.svg/revision/latest/scale-to-width-down/80?cb=20160324222836" group-title="U.K.",UK: UTV HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1374.ts
-#EXTINF:-1, group-title="UK", BET
+#EXTINF:-1 tvg-id="uk.BET:BlackEntTv" tvg-name="UK: BET" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRA2YHQCD3gr0bxHX39gCais1aAjjJ8IcpS9-5EoN7L1wm1rk7lrw" group-title="U.K.",UK: BET
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3185.ts
-#EXTINF:-1, group-title="UK", CBS Drama
+#EXTINF:-1 tvg-id="uk.CBS Drama" tvg-name="UK: CBS Drama" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/fa/Cbs-drama-logo.png/revision/latest/scale-to-width-down/250?cb=20170106104735" group-title="U.K.",UK: CBS Drama
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3444.ts
-#EXTINF:-1, group-title="UK", CBS Action
+#EXTINF:-1 tvg-id="uk.CBS Action" tvg-name="UK: CBS Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/CBS_action_RGB.png/200px-CBS_action_RGB.png" group-title="U.K.",UK: CBS Action
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3191.ts
-#EXTINF:-1, group-title="UK", H2
+#EXTINF:-1 tvg-id="UK: HISTORY 2 HD" tvg-name="UK: H2" tvg-logo="https://pbs.twimg.com/profile_images/527566993520467968/Zoh-jdUa.jpeg" group-title="U.K.",UK: H2
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3165.ts
-#EXTINF:-1, group-title="UK", GOLD
+#EXTINF:-1 tvg-id="uk.GOLD" tvg-name="UK: GOLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/250px-Gold_2014.svg.png" group-title="U.K.",UK: GOLD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3416.ts
-#EXTINF:-1, group-title="UK", Challenge
+#EXTINF:-1 tvg-id="uk.Challenge" tvg-name="UK: Challenge" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Challenge_logo_2016.png/220px-Challenge_logo_2016.png" group-title="U.K.",UK: Challenge
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3443.ts
-#EXTINF:-1, group-title="UK", Channel AKA
+#EXTINF:-1 tvg-id="" tvg-name="UK: Channel AKA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Channel_AKA_logo.png/200px-Channel_AKA_logo.png" group-title="U.K.",UK: Channel AKA
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3173.ts
-#EXTINF:-1, group-title="UK", Blaze
+#EXTINF:-1 tvg-id="" tvg-name="UK: Blaze" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/48/Blaze.svg/revision/latest/scale-to-width-down/250?cb=20161029175136" group-title="U.K.",UK: Blaze
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3177.ts
-#EXTINF:-1, group-title="UK", DMAX
+#EXTINF:-1 tvg-id="uk.DMAX" tvg-name="UK: DMAX" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b5/DMAX_logo.svg/revision/latest/scale-to-width-down/180?cb=20100418162838" group-title="U.K.",UK: DMAX
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3195.ts
-#EXTINF:-1, group-title="UK", Community
+#EXTINF:-1 tvg-id="uk.Community" tvg-name="UK: Community" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/09/Community_title.jpg/revision/latest/scale-to-width-down/250?cb=20141112082951" group-title="U.K.",UK: Community
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3170.ts
-#EXTINF:-1, group-title="UK", ComedyXtra
+#EXTINF:-1 tvg-id="uk.Comedy Central Extra" tvg-name="UK: ComedyXtra" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/e2/Comedy_Central_Extra.svg/revision/latest/scale-to-width-down/125?cb=20110204172542" group-title="U.K.",UK: ComedyXtra
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3428.ts
-#EXTINF:-1, group-title="UK", Discovery Science
+#EXTINF:-1 tvg-id="uk.Disc.Science" tvg-name="UK: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="U.K.",UK: Discovery Science
 http://nitrotv.for-the.biz:25461/live/Nitro/free/2063.ts
-#EXTINF:-1, group-title="UK", Discovery Shed
+#EXTINF:-1 tvg-id="uk.Discovery Shed" tvg-name="UK: Discovery Shed" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Discovery_Shed.png/150px-Discovery_Shed.png" group-title="U.K.",UK: Discovery Shed
 http://nitrotv.for-the.biz:25461/live/Nitro/free/2062.ts
-#EXTINF:-1, group-title="UK", Discovery Turbo
+#EXTINF:-1 tvg-id="uk.Disc.Turbo" tvg-name="UK: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/350px-Discovery_Turbo.png" group-title="U.K.",UK: Discovery Turbo
 http://nitrotv.for-the.biz:25461/live/Nitro/free/2061.ts
-#EXTINF:-1, group-title="UK", E! Entertainment
+#EXTINF:-1 tvg-id="uk.E!" tvg-name="UK: E! Entertainment" tvg-logo="http://www.logotypes101.com/logos/369/4E6FF8D73A16CA6B1A72995ECB1B5380/eentertainment.png" group-title="U.K.",UK: E! Entertainment
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3200.ts
-#EXTINF:-1, group-title="UK", Drama
+#EXTINF:-1 tvg-id="uk.Drama" tvg-name="UK: Drama" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/94/2000px-Drama_Circle_Logo_%282013%29_svg.png/revision/latest/scale-to-width-down/185?cb=20140323212832" group-title="U.K.",UK: Drama
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3442.ts
-#EXTINF:-1, group-title="UK", Discovery History
+#EXTINF:-1 tvg-id="uk.Disc.History" tvg-name="UK: Discovery History" tvg-logo="https://external.ford1-1.fna.fbcdn.net/safe_image.php?d=AQCWioVY_p7iXUu9&w=264&h=264&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fd%2Fd8%2FDiscovery_History_logo.png&colorbox&f&_nc_hash=AQD-zu-KgALKwFjC" group-title="U.K.",UK: Discovery History
 http://nitrotv.for-the.biz:25461/live/Nitro/free/2065.ts
-#EXTINF:-1, group-title="UK", Chart Show TV
+#EXTINF:-1 tvg-id="uk.Chart Show TV" tvg-name="UK: Chart Show TV" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/18/Index.jpg/revision/latest?cb=20150107213603" group-title="U.K.",UK: Chart Show TV
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3172.ts
-#EXTINF:-1, group-title="UK", Forces TV
+#EXTINF:-1 tvg-id="uk.Forces TV" tvg-name="UK: Forces TV" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/0d/FORCES_TV_%282014%29.png/revision/latest/scale-to-width-down/220?cb=20160126200905" group-title="U.K.",UK: Forces TV
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3166.ts
-#EXTINF:-1, group-title="UK", Food Network
+#EXTINF:-1 tvg-id="uk.Food Network" tvg-name="UK: Food Network" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/75/FN-Logo.svg/revision/latest/scale-to-width-down/200?cb=20160529145051" group-title="U.K.",UK: Food Network
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3368.ts
-#EXTINF:-1, group-title="UK", CBS Reality
+#EXTINF:-1 tvg-id="uk.CBS Reality" tvg-name="UK: CBS Reality" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b0/CBS_Reality_2013.svg/revision/latest/scale-to-width-down/300?cb=20160214214520" group-title="U.K.",UK: CBS Reality
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3425.ts
-#EXTINF:-1, group-title="UK", Dave ja vu
+#EXTINF:-1 tvg-id="" tvg-name="UK: Dave ja vu" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/64/Dave_logo_%28circle%29.svg/revision/latest/scale-to-width-down/100?cb=20120209234339" group-title="U.K.",UK: Dave ja vu
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3169.ts
-#EXTINF:-1, group-title="UK", 3E
+#EXTINF:-1 tvg-id="" tvg-name="UK: 3E" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/5d/3e_2017.png/revision/latest/scale-to-width-down/200?cb=20170107125817" group-title="U.K.",UK: 3E
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3181.ts
-#EXTINF:-1, group-title="UK", London Live
+#EXTINF:-1 tvg-id="" tvg-name="UK: London Live" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/a8/London_Live.svg/revision/latest/scale-to-width-down/300?cb=20160214215730" group-title="U.K.",UK: London Live
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3159.ts
-#EXTINF:-1, group-title="UK", MTV BASE
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV BASE" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/29/Mtvbase.png/revision/latest?cb=20130928172211" group-title="U.K.",UK: MTV BASE
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3158.ts
-#EXTINF:-1, group-title="UK", MTV CLASSIC
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV CLASSIC" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/a5/MTV_CLASSIC_2010.png/revision/latest/scale-to-width-down/130?cb=20111124004336" group-title="U.K.",UK: MTV CLASSIC
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3157.ts
-#EXTINF:-1, group-title="UK", MTV DANCE
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV DANCE" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/be/Mtvdance.png/revision/latest?cb=20130928172352" group-title="U.K.",UK: MTV DANCE
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3156.ts
-#EXTINF:-1, group-title="UK", MTV MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV MUSIC" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/1a/MTV_Music.png/revision/latest/scale-to-width-down/200?cb=20100525161948" group-title="U.K.",UK: MTV MUSIC
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3155.ts
-#EXTINF:-1, group-title="UK", MTV ROCKS
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV ROCKS" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/ec/Mtvrocks.png/revision/latest?cb=20130928172711" group-title="U.K.",UK: MTV ROCKS
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3154.ts
-#EXTINF:-1, group-title="UK", Motors TV
+#EXTINF:-1 tvg-id="" tvg-name="UK: Motors TV" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Motors_TV.svg/revision/latest/scale-to-width-down/250?cb=20100330070517" group-title="UK SPORTS & INTERNATIONAL",UK: Motors TV
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3379.ts
-#EXTINF:-1, group-title="UK", Movies4men
+#EXTINF:-1 tvg-id="" tvg-name="UK: Movies4men" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/movies_4_men.jpg" group-title="U.K.",UK: Movies4men
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3422.ts
-#EXTINF:-1, group-title="UK", Nollywood Movies
+#EXTINF:-1 tvg-id="" tvg-name="UK: Nollywood Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Nollywood_Movies.PNG/220px-Nollywood_Movies.PNG" group-title="U.K.",UK: Nollywood Movies
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3376.ts
-#EXTINF:-1, group-title="UK", MTV Hits
+#EXTINF:-1 tvg-id="" tvg-name="UK: MTV Hits" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/eb/Mtvhits.png/revision/latest?cb=20130928172552" group-title="U.K.",UK: MTV Hits
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3372.ts
-#EXTINF:-1, group-title="UK", Horror Channel
+#EXTINF:-1 tvg-id="" tvg-name="UK: Horror Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/horror_channel_uk.jpg" group-title="U.K.",UK: Horror Channel
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3431.ts
-#EXTINF:-1, group-title="UK", Horse Country
+#EXTINF:-1 tvg-id="" tvg-name="UK: Horse Country" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/1c/Horse_%26_Country_2009.png/revision/latest/scale-to-width-down/200?cb=20100427194328" group-title="U.K.",UK: Horse Country
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3162.ts
-#EXTINF:-1, group-title="UK", My 5
+#EXTINF:-1 tvg-id="" tvg-name="UK: My 5" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/9/92/DemandFive.png/revision/latest/scale-to-width-down/150?cb=20140630114449" group-title="U.K.",UK: My 5
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3153.ts
-#EXTINF:-1, group-title="UK", Home
+#EXTINF:-1 tvg-id="" tvg-name="UK: Home" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c0/Home_red.svg/revision/latest/scale-to-width-down/200?cb=20140117194403" group-title="U.K.",UK: Home
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3163.ts
-#EXTINF:-1, group-title="UK", History
+#EXTINF:-1 tvg-id="" tvg-name="UK: History" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d6/History_Channel_2015_logo.jpg/revision/latest/scale-to-width-down/185?cb=20150531212611" group-title="U.K.",UK: History
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3164.ts
-#EXTINF:-1, group-title="UK", Home&Health
+#EXTINF:-1 tvg-id="uk.Home & Health" tvg-name="UK: Home&Health" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/1/19/Discovery_H-H.png/revision/latest/scale-to-width-down/250?cb=20130430170040" group-title="U.K.",UK: Home&Health
 http://nitrotv.for-the.biz:25461/live/Nitro/free/2064.ts
-#EXTINF:-1, group-title="UK", Quest
+#EXTINF:-1 tvg-id="" tvg-name="UK: Quest" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/f/f7/Quest_logo.svg/revision/latest/scale-to-width-down/250?cb=20091105171324" group-title="U.K.",UK: Quest
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3385.ts
-#EXTINF:-1, group-title="UK", Pick TV
+#EXTINF:-1 tvg-id="" tvg-name="UK: Pick TV" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/be/Pick_logo-0.png/revision/latest/scale-to-width-down/80?cb=20160719063305" group-title="U.K.",UK: Pick TV
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3387.ts
-#EXTINF:-1, group-title="UK", SONY SET MAX
+#EXTINF:-1 tvg-id="" tvg-name="UK: SONY SET MAX" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Sonymax2016.png/revision/latest/scale-to-width-down/100?cb=20170112182237" group-title="U.K.",UK: SONY SET MAX
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3421.ts
-#EXTINF:-1, group-title="UK", Really
+#EXTINF:-1 tvg-id="" tvg-name="UK: Really" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/0/06/2000px-Really_Circle_Logo_%282013%29_svg.png/revision/latest/scale-to-width-down/150?cb=20140323214606" group-title="U.K.",UK: Really
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3389.ts
-#EXTINF:-1, group-title="UK", ZEE TV
+#EXTINF:-1 tvg-id="" tvg-name="UK: ZEE TV" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/38/Zee_TV_2011.png/revision/latest/scale-to-width-down/122?cb=20110926114755" group-title="U.K.",UK: ZEE TV
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3182.ts
-#EXTINF:-1, group-title="UK", Watch
+#EXTINF:-1 tvg-id="" tvg-name="UK: Watch" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/20/W_%28UKTV%29.png/revision/latest/scale-to-width-down/200?cb=20160125234504" group-title="U.K.",UK: Watch
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3184.ts
-#EXTINF:-1, group-title="UK", Vintage TV
+#EXTINF:-1 tvg-id="" tvg-name="UK: Vintage TV" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/90/VintageTV.png/revision/latest/scale-to-width-down/300?cb=20130716123303" group-title="U.K.",UK: Vintage TV
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3132.ts
-#EXTINF:-1, group-title="UK", TV5 Monde
+#EXTINF:-1 tvg-id="" tvg-name="UK: TV5 Monde" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/ea/TV5_MONDE_HD.jpg/revision/latest/scale-to-width-down/220?cb=20150316125811" group-title="U.K.",UK: TV5 Monde
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3134.ts
-#EXTINF:-1, group-title="UK", TV3
+#EXTINF:-1 tvg-id="" tvg-name="UK: TV3" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/a/a5/TV3_%28Ireland%29_2017.svg/revision/latest/scale-to-width-down/150?cb=20170118132450" group-title="U.K.",UK: TV3
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3189.ts
-#EXTINF:-1, group-title="UK", True Movies 2
+#EXTINF:-1 tvg-id="" tvg-name="UK: True Movies 2" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/f7/True_Movies_2_2006.png/revision/latest?cb=20130811092927" group-title="U.K.",UK: True Movies 2
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3193.ts
-#EXTINF:-1, group-title="UK", True Crime
+#EXTINF:-1 tvg-id="" tvg-name="UK: True Crime" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c1/True_Crime_Logo.png/revision/latest?cb=20160705213449" group-title="U.K.",UK: True Crime
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3135.ts
-#EXTINF:-1, group-title="UK", Sky Living
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Living" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/6/62/SkyLiving16.png/revision/latest/scale-to-width-down/300?cb=20160419205650" group-title="U.K.",UK: Sky Living
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3423.ts
-#EXTINF:-1, group-title="UK", Sony SAB
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sony SAB" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cf/Sab_TV_2011.png/revision/latest/scale-to-width-down/150?cb=20110927162124" group-title="U.K.",UK: Sony SAB
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3140.ts
-#EXTINF:-1, group-title="UK", Scuzz
+#EXTINF:-1 tvg-id="" tvg-name="UK: Scuzz" tvg-logo="https://pbs.twimg.com/profile_images/817447660814794754/AKLanQNG_400x400.jpg" group-title="U.K.",UK: Scuzz
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3145.ts
-#EXTINF:-1, group-title="UK", S4C
+#EXTINF:-1 tvg-id="" tvg-name="UK: S4C" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/38/S4C_2014.svg/revision/latest/scale-to-width-down/200?cb=20140410142924" group-title="U.K.",UK: S4C
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3146.ts
-#EXTINF:-1, group-title="UK", Tru TV
+#EXTINF:-1 tvg-id="" tvg-name="UK: Tru TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/200px-TruTV_logo_2014.png" group-title="U.K.",UK: Tru TV
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3183.ts
-#EXTINF:-1, group-title="UK", Travel Channel
+#EXTINF:-1 tvg-id="" tvg-name="UK: Travel Channel" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/64/Travel_Channel_2014.svg/revision/latest/scale-to-width-down/200?cb=20161115234003" group-title="U.K.",UK: Travel Channel
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3136.ts
-#EXTINF:-1, group-title="UK", Starz TV
+#EXTINF:-1 tvg-id="" tvg-name="UK: Starz TV" tvg-logo="https://pbs.twimg.com/profile_images/717752579925520384/c0KSabm-_400x400.jpg" group-title="U.K.",UK: Starz TV
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3139.ts
-#EXTINF:-1, group-title="UK", SyFy
+#EXTINF:-1 tvg-id="" tvg-name="UK: SyFy" tvg-logo="http://www.bryanreesman.com/blog/wp-content/uploads/2010/03/Syfy-logo.jpg" group-title="U.K.",UK: SyFy
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3411.ts
-#EXTINF:-1, group-title="UK", TCM
+#EXTINF:-1 tvg-id="" tvg-name="UK: TCM" tvg-logo="https://www.thelogodb.com/images/media/logo/wvvqxs1433965422.png/medium" group-title="U.K.",UK: TCM
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3438.ts
-#EXTINF:-1, group-title="UK", TG4
+#EXTINF:-1 tvg-id="" tvg-name="UK: TG4" tvg-logo="https://pbs.twimg.com/profile_images/818865016791252992/eJswNFLn_400x400.jpg" group-title="U.K.",UK: TG4
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3412.ts
-#EXTINF:-1, group-title="UK", The Vault
+#EXTINF:-1 tvg-id="" tvg-name="UK: The Vault" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/1a/The_Vault_TV_channel_logo_2014.png/revision/latest?cb=20151101174016" group-title="U.K.",UK: The Vault
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3414.ts
-#EXTINF:-1, group-title="UK", TLC
+#EXTINF:-1 tvg-id="" tvg-name="UK: TLC" tvg-logo="https://pbs.twimg.com/profile_images/807298199472009216/jSJEyPDJ_400x400.jpg" group-title="U.K.",UK: TLC
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3413.ts
-#EXTINF:-1, group-title="UK", True Movies
+#EXTINF:-1 tvg-id="" tvg-name="UK: True Movies" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/7/70/True_Movies_2005.png/revision/latest?cb=20130811093136" group-title="U.K.",UK: True Movies
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3418.ts
-#EXTINF:-1, group-title="UK", VH1
+#EXTINF:-1 tvg-id="" tvg-name="UK: VH1" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/1/14/MTV_Live_Logo.png/revision/latest/scale-to-width-down/80?cb=20160207072213" group-title="U.K.",UK: VH1
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3417.ts
-#EXTINF:-1, group-title="UK", Sky Arts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Arts" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1140.1433844471.png" group-title="U.K.",UK: Sky Arts
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3394.ts
-#EXTINF:-1, group-title="UK", Sky Atlantic
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Atlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sky_Atlantic_DE_Logo_2015.png/250px-Sky_Atlantic_DE_Logo_2015.png" group-title="U.K.",UK: Sky Atlantic
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3390.ts
-#EXTINF:-1, group-title="UK", VIVA
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIVA" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d1/VIVA_logo_2011.png/revision/latest/scale-to-width-down/250?cb=20101129220058" group-title="U.K.",UK: VIVA
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3445.ts
-#EXTINF:-1, group-title="UK", Yesterday
+#EXTINF:-1 tvg-id="" tvg-name="UK: Yesterday" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c8/YesterdayCircle.png/revision/latest/scale-to-width-down/120?cb=20120826163931" group-title="U.K.",UK: Yesterday
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3439.ts
-#EXTINF:-1, group-title="UK", ZEE CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="UK: ZEE CINEMA" tvg-logo="https://pbs.twimg.com/profile_images/422349684615557120/4X8EqJ97_400x400.jpeg" group-title="U.K.",UK: ZEE CINEMA
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3186.ts
-#EXTINF:-1, group-title="UK", Viceland
+#EXTINF:-1 tvg-id="" tvg-name="UK: Viceland" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/c/c4/Viceland_stacked.png/revision/latest/scale-to-width-down/640?cb=20161101091228" group-title="U.K.",UK: Viceland
 http://nitrotv.for-the.biz:25461/live/Nitro/free/2104.ts
-#EXTINF:-1, group-title="UK", True Entertainment
+#EXTINF:-1 tvg-id="uk.True Ent" tvg-name="UK: True Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/True_Entertainment_logo.png" group-title="U.K.",UK: True Entertainment
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1376.ts
-#EXTINF:-1, group-title="UK", Spike
+#EXTINF:-1 tvg-id="" tvg-name="UK: Spike" tvg-logo="https://pbs.twimg.com/profile_images/789477232666374144/ry6eMin7_400x400.jpg" group-title="U.K.",UK: Spike
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3415.ts
-#EXTINF:-1, group-title="UK", Real Lives
+#EXTINF:-1 tvg-id="" tvg-name="UK: Real Lives" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b7/Real_Lives.png/revision/latest/scale-to-width-down/300?cb=20150615111708" group-title="U.K.",UK: Real Lives
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3392.ts
-#EXTINF:-1, group-title="UK", Investigation Discovery
+#EXTINF:-1 tvg-id="" tvg-name="UK: Investigation Discovery" tvg-logo="http://wac.6f93.edgecastcdn.net/806F93/static.pubblicitaitalia.it/wp-content/uploads/2016/10/ID.png" group-title="U.K.",UK: Investigation Discovery
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3374.ts
-#EXTINF:-1, group-title="UK", VH1 Classic
+#EXTINF:-1 tvg-id="" tvg-name="UK: VH1 Classic" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d9/VH1_CLASSIC_2014.png/revision/latest?cb=20150317194849" group-title="U.K.",UK: VH1 Classic
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3420.ts
-#EXTINF:-1, group-title="UK", UTV
+#EXTINF:-1 tvg-id="" tvg-name="UK: UTV" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/UTV_2016.svg/revision/latest/scale-to-width-down/80?cb=20160324222836" group-title="U.K.",UK: UTV
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3133.ts
-#EXTINF:-1, group-title="UK", Living UK
+#EXTINF:-1 tvg-id="" tvg-name="UK: Living UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Livingchannelnz.png" group-title="U.K.",UK: Living UK
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3432.ts
-#EXTINF:-1, group-title="UK", Oireachtas
+#EXTINF:-1 tvg-id="" tvg-name="UK: Oireachtas" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTypX7T1mr00YC8E0-4EIx_20MFzHKfUMLx7GMTDybkrPsSN7ErwhpD-A" group-title="U.K.",UK: Oireachtas
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3151.ts
-#EXTINF:-1, group-title="UK", Movies 24
+#EXTINF:-1 tvg-id="" tvg-name="UK: Movies 24" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/5e/Movies_24.svg/revision/latest/scale-to-width-down/250?cb=20170109133858" group-title="U.K.",UK: Movies 24
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3381.ts
-#EXTINF:-1, group-title="UK", 4Music
+#EXTINF:-1 tvg-id="" tvg-name="UK: 4Music" tvg-logo="http://s3.eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2012/03/0103124MusicEG.jpg" group-title="U.K.",UK: 4Music
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3180.ts
-#EXTINF:-1, group-title="UK", Crime & Investigation
+#EXTINF:-1 tvg-id="" tvg-name="UK: Crime & Investigation" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9c/Crime_and_Investigation_Canada_TV_logo.png/revision/latest/scale-to-width-down/300?cb=20141114005511" group-title="U.K.",UK: Crime & Investigation
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3196.ts
-#EXTINF:-1, group-title="UK", Docu Box HD
+#EXTINF:-1 tvg-id="" tvg-name="UK: Docu Box HD" tvg-logo="http://spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png" group-title="U.K.",UK: Docu Box HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/7956.ts
-#EXTINF:-1, group-title="UK", Sky Hits HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1354.ts
-#EXTINF:-1, group-title="UK", SKY MOVIES SELECT
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1357.ts
-#EXTINF:-1, group-title="UK", Sky Movies Thriller
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1358.ts
-#EXTINF:-1, group-title="UK", SKY MOVIES ACTION
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1348.ts
-#EXTINF:-1, group-title="UK", Sky Comedy HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1349.ts
-#EXTINF:-1, group-title="UK", SKY MOVIES PREMIERE
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1355.ts
-#EXTINF:-1, group-title="UK", Sky Movies Sci-Fi and Horror HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3393.ts
-#EXTINF:-1, group-title="UK", SKY MOVIES FAMILY
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1352.ts
-#EXTINF:-1, group-title="UK", Sky Movies Greats
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1353.ts
-#EXTINF:-1, group-title="UK", Sky Movies Disney
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1350.ts
-#EXTINF:-1, group-title="UK", SKY MOVIES DRAMA
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1351.ts
-#EXTINF:-1, group-title="UK", Sky Movies Showcase
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3142.ts
-#EXTINF:-1, group-title="UK", SKY MOVIES COMEDY
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3391.ts
-#EXTINF:-1, group-title="UK", Sky Movies Premier Plus
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3407.ts
-#EXTINF:-1, group-title="UK", Sky Movies Sci-Fi and Horror
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1356.ts
-#EXTINF:-1, group-title="UK", BoxNation HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/12355.ts
-#EXTINF:-1, group-title="UK", BoxNation
-http://nitrotv.for-the.biz:25461/live/Nitro/free/2191.ts
-#EXTINF:-1, group-title="UK", BT ESPN HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1314.ts
-#EXTINF:-1, group-title="UK", BT SPORTS 1 HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1318.ts
-#EXTINF:-1, group-title="UK", BT FHD 1
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1315.ts
-#EXTINF:-1, group-title="UK", BT SPORTS 2 HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1319.ts
-#EXTINF:-1, group-title="UK", BT FHD 2
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1316.ts
-#EXTINF:-1, group-title="UK", BT SPORTS 3 HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1320.ts
-#EXTINF:-1, group-title="UK", BT FHD 3
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1317.ts
-#EXTINF:-1, group-title="UK", Sky Sports F1 HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1365.ts
-#EXTINF:-1, group-title="UK", Sky Sports Main Event HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1360.ts
-#EXTINF:-1, group-title="UK", SKY SPORTS FHD F1
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1368.ts
-#EXTINF:-1, group-title="UK", Sky Sports Cricket HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1361.ts
-#EXTINF:-1, group-title="UK", Sky Sports Cricket FHD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/7947.ts
-#EXTINF:-1, group-title="UK", SKY SPORTS Main Event FHD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1366.ts
-#EXTINF:-1, group-title="UK", Sky Sports Action HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1362.ts
-#EXTINF:-1, group-title="UK", SKY SPORTS Action FHD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1367.ts
-#EXTINF:-1, group-title="UK", Sky Sports Golf HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1363.ts
-#EXTINF:-1, group-title="UK", SKY SPORTS Golf FHD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1303.ts
-#EXTINF:-1, group-title="UK", Sky Sports Premier League HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1364.ts
-#EXTINF:-1, group-title="UK", SKY SPORTS Premier League FHD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1304.ts
-#EXTINF:-1, group-title="UK", Sky Sports Arena FHD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/7949.ts
-#EXTINF:-1, group-title="UK", Sky Sports Arena HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/7948.ts
-#EXTINF:-1, group-title="UK", Sky Sports Football FHD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/7951.ts
-#EXTINF:-1, group-title="UK", Sky Sports Football HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/7950.ts
-#EXTINF:-1, group-title="UK", Premier Sports
-http://nitrotv.for-the.biz:25461/live/Nitro/free/2089.ts
-#EXTINF:-1, group-title="UK", Premier Sports HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1341.ts
-#EXTINF:-1, group-title="UK", Sky Sports News
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1369.ts
-#EXTINF:-1, group-title="UK", Sky Sports Mix
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1305.ts
-#EXTINF:-1, group-title="UK", Racing UK HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1342.ts
-#EXTINF:-1, group-title="UK", Eurosport 1 HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/2088.ts
-#EXTINF:-1, group-title="UK", Eurosport 2 HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/2087.ts
-#EXTINF:-1, group-title="UK", Eurosport 1
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3199.ts
-#EXTINF:-1, group-title="UK", Eurosport 2
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3198.ts
-#EXTINF:-1, group-title="UK", SKY SPORTS 1
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3404.ts
-#EXTINF:-1, group-title="UK", CHELSEA TV HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3552.ts
-#EXTINF:-1, group-title="UK", MUTV HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/1337.ts
-#EXTINF:-1, group-title="UK", Liverpool TV
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3371.ts
-#EXTINF:-1, group-title="UK", LFC HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3551.ts
-#EXTINF:-1, group-title="UK", My Fight Box HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/7957.ts
-#EXTINF:-1, group-title="UK", At The Races
-http://nitrotv.for-the.biz:25461/live/Nitro/free/2086.ts
-#EXTINF:-1, group-title="UK", Racing UK
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3386.ts
-#EXTINF:-1, group-title="UK", eir Sport 1
-http://nitrotv.for-the.biz:25461/live/Nitro/free/2090.ts
-#EXTINF:-1, group-title="UK", eir Sport 2
-http://nitrotv.for-the.biz:25461/live/Nitro/free/5313.ts
-#EXTINF:-1, group-title="UK", RTE ONE HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3435.ts
-#EXTINF:-1, group-title="UK", RTE TWO HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3436.ts
-#EXTINF:-1, group-title="UK", Sports : SKY SPORTS 1 IRELAND
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3571.ts
-#EXTINF:-1, group-title="UK", Sports : SKY SPORTS 2 IRELAND
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3570.ts
-#EXTINF:-1, group-title="UK", Ginx eSports
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3367.ts
-#EXTINF:-1, group-title="UK", SKY SPORTS 2
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3403.ts
-#EXTINF:-1, group-title="UK", SKY SPORTS 3
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3402.ts
-#EXTINF:-1, group-title="UK", SKY SPORTS 4
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3401.ts
-#EXTINF:-1, group-title="UK", SKY SPORTS 5
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3400.ts
-#EXTINF:-1, group-title="UK", BT SPORT ESPN
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3396.ts
-#EXTINF:-1, group-title="UK", BT SPORT 1
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3399.ts
-#EXTINF:-1, group-title="UK", BT SPORT 2
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3398.ts
-#EXTINF:-1, group-title="UK", BT SPORT 3
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3397.ts
-#EXTINF:-1, group-title="UK", BT Sport Extra 1
-http://nitrotv.for-the.biz:25461/live/Nitro/free/2095.ts
-#EXTINF:-1, group-title="UK", BT Sport Extra 2
-http://nitrotv.for-the.biz:25461/live/Nitro/free/2094.ts
-#EXTINF:-1, group-title="UK", BT Sport Extra 3
-http://nitrotv.for-the.biz:25461/live/Nitro/free/2093.ts
-#EXTINF:-1, group-title="UK", BT Sport Extra 4
-http://nitrotv.for-the.biz:25461/live/Nitro/free/2092.ts
-#EXTINF:-1, group-title="UK", BT Sport Extra 5
-http://nitrotv.for-the.biz:25461/live/Nitro/free/2091.ts
-#EXTINF:-1, group-title="UK", BT Sport Extra 6
-http://nitrotv.for-the.biz:25461/live/Nitro/free/3187.ts
-#EXTINF:-1, group-title="UK", Eleven Sports HD
-http://nitrotv.for-the.biz:25461/live/Nitro/free/2100.ts
-#EXTINF:-1, group-title="UK", Disney Channel
+#EXTINF:-1, group-title="U.K.", Disney Channel
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3410.ts
-#EXTINF:-1, group-title="UK", Disney Jr.
+#EXTINF:-1, group-title="U.K.", Disney Jr.
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3194.ts
-#EXTINF:-1, group-title="UK", Disney XD
+#EXTINF:-1, group-title="U.K.", Disney XD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3168.ts
-#EXTINF:-1, group-title="UK", Nickelodeon HD
+#EXTINF:-1, group-title="U.K.", Nickelodeon HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/1340.ts
-#EXTINF:-1, group-title="UK", Boomerang
+#EXTINF:-1, group-title="U.K.", Boomerang
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3176.ts
-#EXTINF:-1, group-title="UK", Baby TV
+#EXTINF:-1, group-title="U.K.", Baby TV
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3188.ts
-#EXTINF:-1, group-title="UK", Cartoon Network
+#EXTINF:-1, group-title="U.K.", Cartoon Network
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3201.ts
-#EXTINF:-1, group-title="UK", Cartoonito
+#EXTINF:-1, group-title="U.K.", Cartoonito
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3175.ts
-#EXTINF:-1, group-title="UK", Nick Jr
+#EXTINF:-1, group-title="U.K.", Nick Jr
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3380.ts
-#EXTINF:-1, group-title="UK", Nick Jr Too
+#EXTINF:-1, group-title="U.K.", Nick Jr Too
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3378.ts
-#EXTINF:-1, group-title="UK", Nickelodeon
+#EXTINF:-1, group-title="U.K.", Nickelodeon
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3384.ts
-#EXTINF:-1, group-title="UK", Nicktoons
+#EXTINF:-1, group-title="U.K.", Nicktoons
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3434.ts
-#EXTINF:-1, group-title="UK", RTE jr
+#EXTINF:-1, group-title="U.K.", RTE jr
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3148.ts
-#EXTINF:-1, group-title="UK", Tiny Pop
+#EXTINF:-1, group-title="U.K.", Tiny Pop
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3137.ts
-#EXTINF:-1, group-title="UK", POP
+#EXTINF:-1, group-title="U.K.", POP
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3150.ts
-#EXTINF:-1, group-title="UK", Cbeebies HD
+#EXTINF:-1, group-title="U.K.", Cbeebies HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/3131.ts
 #EXTINF:-1, tvg-logo="https://hd-report.com/wp-content/uploads/bfi_thumb/nba-league-pass-logo-n4nqey4d3dr2bieukzl5ibk3rf2urbe5wvnyirfv2o.jpg" group-title="NBA LEAGUE PASS (LIVE MATCHES ONLY)", NBA 1 HD
 http://nitrotv.for-the.biz:25461/live/Nitro/free/12925.ts
