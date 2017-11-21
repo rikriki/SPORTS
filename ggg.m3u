@@ -669,660 +669,553 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklis
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://latintrends.com/wp-content/uploads/2012/09/musicchoicenews.jpg" group-title="MUSIC/RADIO", Y2K
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
-#EXTINF:-1, group-title="UK", 3e UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1790.ts
-#EXTINF:-1, group-title="UK", 4Music UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1936.ts
-#EXTINF:-1, group-title="UK", 4Seven UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1937.ts
-#EXTINF:-1, group-title="UK", 5Star UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1963.ts
-#EXTINF:-1, group-title="UK", 5USA UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1964.ts
-#EXTINF:-1, group-title="UK", AMC From BT UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1892.ts
-#EXTINF:-1, group-title="UK", AT THE RACES UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1801.ts
-#EXTINF:-1, group-title="UK", Alibi UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1916.ts
-#EXTINF:-1, group-title="UK", Animal Planet +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1878.ts
-#EXTINF:-1, group-title="UK", Animal Planet UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1879.ts
-#EXTINF:-1, group-title="UK", BBC Four HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1990.ts
-#EXTINF:-1, group-title="UK", BBC Four UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1989.ts
-#EXTINF:-1, group-title="UK", BBC News HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1777.ts
-#EXTINF:-1, group-title="UK", BBC One Channel Islands UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1776.ts
-#EXTINF:-1, group-title="UK", BBC One HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1998.ts
-#EXTINF:-1, group-title="UK", BBC One Northern Ireland UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/2000.ts
-#EXTINF:-1, group-title="UK", BBC One Oxford UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1775.ts
-#EXTINF:-1, group-title="UK", BBC One Scotland UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1786.ts
-#EXTINF:-1, group-title="UK", BBC One UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1997.ts
-#EXTINF:-1, group-title="UK", BBC One Wales UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/2002.ts
-#EXTINF:-1, group-title="UK", BBC One Yorks UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1774.ts
-#EXTINF:-1, group-title="UK", BBC Parliament UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/2003.ts
-#EXTINF:-1, group-title="UK", BBC Two HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1995.ts
-#EXTINF:-1, group-title="UK", BBC Two Scotland UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/2004.ts
-#EXTINF:-1, group-title="UK", BBC Two UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1994.ts
-#EXTINF:-1, group-title="UK", BBC World News UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/2006.ts
-#EXTINF:-1, group-title="UK", BET UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1961.ts
-#EXTINF:-1, group-title="UK", BT Sport 1 HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/370.ts
-#EXTINF:-1, group-title="UK", BT Sport 1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/369.ts
-#EXTINF:-1, group-title="UK", BT Sport 2 HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/368.ts
-#EXTINF:-1, group-title="UK", BT Sport 2 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/367.ts
-#EXTINF:-1, group-title="UK", BT Sport 3 HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/366.ts
-#EXTINF:-1, group-title="UK", BT Sport 3 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/365.ts
-#EXTINF:-1, group-title="UK", BT Sport ESPN HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1743.ts
-#EXTINF:-1, group-title="UK", BT Sport ESPN UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1819.ts
-#EXTINF:-1, group-title="UK", BT Sport Extra 1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1818.ts
-#EXTINF:-1, group-title="UK", BT Sport Extra 2 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1817.ts
-#EXTINF:-1, group-title="UK", BT Sport Extra 3 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1816.ts
-#EXTINF:-1, group-title="UK", BT Sport Extra 4 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1815.ts
-#EXTINF:-1, group-title="UK", BT Sport Extra 5 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1814.ts
-#EXTINF:-1, group-title="UK", BT Sport Mosaic 2 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1813.ts
-#EXTINF:-1, group-title="UK", Baby TV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1852.ts
-#EXTINF:-1, group-title="UK", Bike Channel UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1893.ts
-#EXTINF:-1, group-title="UK", Blaze UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1787.ts
-#EXTINF:-1, group-title="UK", Bloomberg TV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1770.ts
-#EXTINF:-1, group-title="UK", Boomerang +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1769.ts
-#EXTINF:-1, group-title="UK", Boomerang UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1862.ts
-#EXTINF:-1, group-title="UK", Box Hits UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1768.ts
-#EXTINF:-1, group-title="UK", Box Upfront UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1767.ts
-#EXTINF:-1, group-title="UK", BoxNation HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5712.ts
-#EXTINF:-1, group-title="UK", BoxNation UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1805.ts
-#EXTINF:-1, group-title="UK", CAPITAL TV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1778.ts
-#EXTINF:-1, group-title="UK", CBBC HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1993.ts
-#EXTINF:-1, group-title="UK", CBBC UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1991.ts
-#EXTINF:-1, group-title="UK", CBS Action UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1909.ts
-#EXTINF:-1, group-title="UK", CBS Drama UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1908.ts
-#EXTINF:-1, group-title="UK", CBS Reality UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1910.ts
-#EXTINF:-1, group-title="UK", CBeebies HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1741.ts
-#EXTINF:-1, group-title="UK", CITV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1740.ts
-#EXTINF:-1, group-title="UK", CNN UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1764.ts
-#EXTINF:-1, group-title="UK", Cartoon Network UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1857.ts
-#EXTINF:-1, group-title="UK", Cartoonito UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1865.ts
-#EXTINF:-1, group-title="UK", Challenge +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1944.ts
-#EXTINF:-1, group-title="UK", Challenge UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1782.ts
-#EXTINF:-1, group-title="UK", Channel 4 HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1970.ts
-#EXTINF:-1, group-title="UK", Channel 4 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1972.ts
-#EXTINF:-1, group-title="UK", Channel 5 HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1967.ts
-#EXTINF:-1, group-title="UK", Channel 5 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1968.ts
-#EXTINF:-1, group-title="UK", Channel AKA UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1945.ts
-#EXTINF:-1, group-title="UK", Chart Show Hits UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1766.ts
-#EXTINF:-1, group-title="UK", Chart Show TV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1765.ts
-#EXTINF:-1, group-title="UK", Chelsea TV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1796.ts
-#EXTINF:-1, group-title="UK", Comedy Central Extra +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1894.ts
-#EXTINF:-1, group-title="UK", Comedy Central Extra UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1895.ts
-#EXTINF:-1, group-title="UK", Comedy Central UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1896.ts
-#EXTINF:-1, group-title="UK", Crime+Investigation +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1880.ts
-#EXTINF:-1, group-title="UK", DMAX +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1876.ts
-#EXTINF:-1, group-title="UK", DMAX UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1877.ts
-#EXTINF:-1, group-title="UK", Dave UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1911.ts
-#EXTINF:-1, group-title="UK", Dave ja vu UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1788.ts
-#EXTINF:-1, group-title="UK", Discovery Channel +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1887.ts
-#EXTINF:-1, group-title="UK", Discovery Channel UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1886.ts
-#EXTINF:-1, group-title="UK", Discovery History +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1872.ts
-#EXTINF:-1, group-title="UK", Discovery History UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1873.ts
-#EXTINF:-1, group-title="UK", Discovery Home & Health +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1868.ts
-#EXTINF:-1, group-title="UK", Discovery Home & Health UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1826.ts
-#EXTINF:-1, group-title="UK", Discovery Science +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1874.ts
-#EXTINF:-1, group-title="UK", Discovery Science UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1875.ts
-#EXTINF:-1, group-title="UK", Discovery Shed UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1885.ts
-#EXTINF:-1, group-title="UK", Discovery Turbo UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1884.ts
-#EXTINF:-1, group-title="UK", Disney Channel +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1843.ts
-#EXTINF:-1, group-title="UK", Disney Channel UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1844.ts
-#EXTINF:-1, group-title="UK", Disney Junior +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1762.ts
-#EXTINF:-1, group-title="UK", Disney Junior UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1845.ts
-#EXTINF:-1, group-title="UK", Disney XD +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1847.ts
-#EXTINF:-1, group-title="UK", Disney XD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1846.ts
-#EXTINF:-1, group-title="UK", Drama UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1863.ts
-#EXTINF:-1, group-title="UK", E! +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1907.ts
-#EXTINF:-1, group-title="UK", E! UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1934.ts
-#EXTINF:-1, group-title="UK", E4 +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1965.ts
-#EXTINF:-1, group-title="UK", E4 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1966.ts
-#EXTINF:-1, group-title="UK", Eden +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1946.ts
-#EXTINF:-1, group-title="UK", Eden UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1935.ts
-#EXTINF:-1, group-title="UK", Eurosport 1 HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1812.ts
-#EXTINF:-1, group-title="UK", Eurosport 2 HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1811.ts
-#EXTINF:-1, group-title="UK", FOX News UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1760.ts
-#EXTINF:-1, group-title="UK", FOX UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1913.ts
-#EXTINF:-1, group-title="UK", FOX+ UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1914.ts
-#EXTINF:-1, group-title="UK", Film4 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1830.ts
-#EXTINF:-1, group-title="UK", Flava UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1761.ts
-#EXTINF:-1, group-title="UK", Food Network +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1941.ts
-#EXTINF:-1, group-title="UK", Food Network UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1942.ts
-#EXTINF:-1, group-title="UK", GINX eSports TV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1758.ts
-#EXTINF:-1, group-title="UK", GOLD +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1947.ts
-#EXTINF:-1, group-title="UK", GOLD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1915.ts
-#EXTINF:-1, group-title="UK", Geo News PK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1759.ts
-#EXTINF:-1, group-title="UK", Good Food UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1912.ts
-#EXTINF:-1, group-title="UK", H2 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1871.ts
-#EXTINF:-1, group-title="UK", Hillsong Channel UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1757.ts
-#EXTINF:-1, group-title="UK", History +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1866.ts
-#EXTINF:-1, group-title="UK", History UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1867.ts
-#EXTINF:-1, group-title="UK", Home +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1869.ts
-#EXTINF:-1, group-title="UK", Home UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1870.ts
-#EXTINF:-1, group-title="UK", Horror Channel +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1926.ts
-#EXTINF:-1, group-title="UK", Horror Channel UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1825.ts
-#EXTINF:-1, group-title="UK", ITV +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1984.ts
-#EXTINF:-1, group-title="UK", ITV Encore +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1973.ts
-#EXTINF:-1, group-title="UK", ITV Encore UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1927.ts
-#EXTINF:-1, group-title="UK", ITV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1985.ts
-#EXTINF:-1, group-title="UK", ITV2 +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1981.ts
-#EXTINF:-1, group-title="UK", ITV2 HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1983.ts
-#EXTINF:-1, group-title="UK", ITV2 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1982.ts
-#EXTINF:-1, group-title="UK", ITV3 +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1978.ts
-#EXTINF:-1, group-title="UK", ITV3 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1979.ts
-#EXTINF:-1, group-title="UK", ITV4 +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1975.ts
-#EXTINF:-1, group-title="UK", ITV4 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1976.ts
-#EXTINF:-1, group-title="UK", ITVBe +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1974.ts
-#EXTINF:-1, group-title="UK", Investigation Discovery +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1882.ts
-#EXTINF:-1, group-title="UK", Investigation Discovery UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1883.ts
-#EXTINF:-1, group-title="UK", KISS UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1929.ts
-#EXTINF:-1, group-title="UK", KIX +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1755.ts
-#EXTINF:-1, group-title="UK", KIX UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1756.ts
-#EXTINF:-1, group-title="UK", Kerrang! TV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1928.ts
-#EXTINF:-1, group-title="UK", LFC TV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1802.ts
-#EXTINF:-1, group-title="UK", MTV +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1834.ts
-#EXTINF:-1, group-title="UK", MTV 90's UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1754.ts
-#EXTINF:-1, group-title="UK", MTV Base UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1836.ts
-#EXTINF:-1, group-title="UK", MTV Classic UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1837.ts
-#EXTINF:-1, group-title="UK", MTV Dance UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1838.ts
-#EXTINF:-1, group-title="UK", MTV Hits UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1839.ts
-#EXTINF:-1, group-title="UK", MTV Music UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1840.ts
-#EXTINF:-1, group-title="UK", MTV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1835.ts
-#EXTINF:-1, group-title="UK", MU TV HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1797.ts
-#EXTINF:-1, group-title="UK", MUTV HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1810.ts
-#EXTINF:-1, group-title="UK", MUTV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1809.ts
-#EXTINF:-1, group-title="UK", Made In Bristol UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1949.ts
-#EXTINF:-1, group-title="UK", Made In Cardif UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1950.ts
-#EXTINF:-1, group-title="UK", More4 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1930.ts
-#EXTINF:-1, group-title="UK", Motors TV HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1891.ts
-#EXTINF:-1, group-title="UK", Movies 24 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1829.ts
-#EXTINF:-1, group-title="UK", Movies4Men +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1828.ts
-#EXTINF:-1, group-title="UK", Movies4Men UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1827.ts
-#EXTINF:-1, group-title="UK", My5 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1789.ts
-#EXTINF:-1, group-title="UK", Nat Geo Wild UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1889.ts
-#EXTINF:-1, group-title="UK", Nick Jr. +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1849.ts
-#EXTINF:-1, group-title="UK", Nick Jr. Peppa UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1753.ts
-#EXTINF:-1, group-title="UK", Nick Jr. Too UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1848.ts
-#EXTINF:-1, group-title="UK", Nick Jr. UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1850.ts
-#EXTINF:-1, group-title="UK", NickToons UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1864.ts
-#EXTINF:-1, group-title="UK", Nickelodeon +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1858.ts
-#EXTINF:-1, group-title="UK", Nickelodeon UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1859.ts
-#EXTINF:-1, group-title="UK", PBS America UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1791.ts
-#EXTINF:-1, group-title="UK", POP +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1751.ts
-#EXTINF:-1, group-title="UK", POP UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1752.ts
-#EXTINF:-1, group-title="UK", Pick +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1951.ts
-#EXTINF:-1, group-title="UK", Pick UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1853.ts
-#EXTINF:-1, group-title="UK", Premier Sports HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1807.ts
-#EXTINF:-1, group-title="UK", Premier Sports UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1808.ts
-#EXTINF:-1, group-title="UK", Psychic Today UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1962.ts
-#EXTINF:-1, group-title="UK", QUEST RED +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1749.ts
-#EXTINF:-1, group-title="UK", QUEST RED UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1750.ts
-#EXTINF:-1, group-title="UK", QUEST UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1890.ts
-#EXTINF:-1, group-title="UK", RTÉ Jr UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1854.ts
-#EXTINF:-1, group-title="UK", RTÉ News Now UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1748.ts
-#EXTINF:-1, group-title="UK", RTÉ One HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1933.ts
-#EXTINF:-1, group-title="UK", RTÉ One UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1856.ts
-#EXTINF:-1, group-title="UK", RTÉ Two HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1932.ts
-#EXTINF:-1, group-title="UK", RTÉ Two UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1855.ts
+#EXTINF:-1, group-title="UK", BBC EARTH HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7082.ts
+#EXTINF:-1, group-title="UK", True Movies 1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1031.ts
+#EXTINF:-1, group-title="UK", TLC - IRELAND
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/421.ts
+#EXTINF:-1, group-title="UK", Sky Movies Modern
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/425.ts
+#EXTINF:-1, group-title="UK", HBO 2
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1033.ts
+#EXTINF:-1, group-title="UK", HBO 1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1034.ts
+#EXTINF:-1, group-title="UK", BBC World News
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/384.ts
+#EXTINF:-1, group-title="UK", 4Seven
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/388.ts
+#EXTINF:-1, group-title="UK", W   1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4450.ts
+#EXTINF:-1, group-title="UK", VH1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1035.ts
+#EXTINF:-1, group-title="UK", Universal + 1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4453.ts
+#EXTINF:-1, group-title="UK", True Movies 2
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1036.ts
+#EXTINF:-1, group-title="UK", Travel Channel
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1037.ts
+#EXTINF:-1, group-title="UK", TLC + 2
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4451.ts
+#EXTINF:-1, group-title="UK", TLC   1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4445.ts
+#EXTINF:-1, group-title="UK", TLC
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1415.ts
+#EXTINF:-1, group-title="UK", Tiny Pop  +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4461.ts
+#EXTINF:-1, group-title="UK", Syfy + 1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4452.ts
+#EXTINF:-1, group-title="UK", Sony Chnl   1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4442.ts
+#EXTINF:-1, group-title="UK", SkySpBoxOff (PPV Events Only)
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5212.ts
+#EXTINF:-1, group-title="UK", Sky Two
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/423.ts
+#EXTINF:-1, group-title="UK", SKY SPORTS PREMIER LEAGUE
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/2459.ts
+#EXTINF:-1, group-title="UK", SKY SPORTS GOLF
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/2460.ts
+#EXTINF:-1, group-title="UK", SKY SPORTS ACTION
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/2461.ts
+#EXTINF:-1, group-title="UK", SKY SPORTS CRICKET
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/2462.ts
+#EXTINF:-1, group-title="UK", SKY SPORTS MAIN EVENT
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/2463.ts
+#EXTINF:-1, group-title="UK", Sky Movies Select HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/424.ts
+#EXTINF:-1, group-title="UK", Sky Living +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4446.ts
+#EXTINF:-1, group-title="UK", Sky Cinema Premiere  1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4471.ts
+#EXTINF:-1, group-title="UK", Sky Atlantic  1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4447.ts
+#EXTINF:-1, group-title="UK", Setanta Sports 1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1026.ts
+#EXTINF:-1, group-title="UK", SATENTA SPORT
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1027.ts
+#EXTINF:-1, group-title="UK", RTE Two
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1425.ts
+#EXTINF:-1, group-title="UK", RTE One
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1426.ts
 #EXTINF:-1, group-title="UK", Racing UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1800.ts
-#EXTINF:-1, group-title="UK", Real Lives +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1952.ts
-#EXTINF:-1, group-title="UK", Real Lives UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1939.ts
-#EXTINF:-1, group-title="UK", Really UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1940.ts
-#EXTINF:-1, group-title="UK", Redbul TV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1784.ts
-#EXTINF:-1, group-title="UK", S4C UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1931.ts
-#EXTINF:-1, group-title="UK", Scuzz UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1747.ts
-#EXTINF:-1, group-title="UK", Sky 1 HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1920.ts
-#EXTINF:-1, group-title="UK", Sky 1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1919.ts
-#EXTINF:-1, group-title="UK", Sky 2 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1918.ts
-#EXTINF:-1, group-title="UK", Sky Arts UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1917.ts
-#EXTINF:-1, group-title="UK", Sky Atlantic +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1921.ts
-#EXTINF:-1, group-title="UK", Sky Atlantic UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1922.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Action & Adventure HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/351.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Action & Adventure UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/352.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Comedy HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/349.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Comedy UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/350.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Crime & Thriller UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/348.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Disney HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/346.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Disney UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/347.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Drama & Romance UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/345.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Family HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/343.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Family UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/344.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Greats UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/342.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Oscars UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1823.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Premiere +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1824.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Premiere UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/341.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Sci-Fi & Horror UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/340.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Select UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/339.ts
-#EXTINF:-1, group-title="UK", Sky Hits UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1822.ts
-#EXTINF:-1, group-title="UK", Sky Living +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1923.ts
-#EXTINF:-1, group-title="UK", Sky Living UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1924.ts
-#EXTINF:-1, group-title="UK", Sky News UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1925.ts
-#EXTINF:-1, group-title="UK", Sky Sports Action HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/333.ts
-#EXTINF:-1, group-title="UK", Sky Sports Action UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/374.ts
-#EXTINF:-1, group-title="UK", Sky Sports Arena HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/6201.ts
-#EXTINF:-1, group-title="UK", Sky Sports Arena UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/6200.ts
-#EXTINF:-1, group-title="UK", Sky Sports Cricket HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/334.ts
-#EXTINF:-1, group-title="UK", Sky Sports Cricket UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/375.ts
-#EXTINF:-1, group-title="UK", Sky Sports F1 HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/371.ts
-#EXTINF:-1, group-title="UK", Sky Sports F1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/337.ts
-#EXTINF:-1, group-title="UK", Sky Sports Football HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/6204.ts
-#EXTINF:-1, group-title="UK", Sky Sports Football UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/6203.ts
-#EXTINF:-1, group-title="UK", Sky Sports Golf HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/332.ts
-#EXTINF:-1, group-title="UK", Sky Sports Golf UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/373.ts
-#EXTINF:-1, group-title="UK", Sky Sports Main Event HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/335.ts
-#EXTINF:-1, group-title="UK", Sky Sports Main Event UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/376.ts
-#EXTINF:-1, group-title="UK", Sky Sports Mix HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1821.ts
-#EXTINF:-1, group-title="UK", Sky Sports News HQ UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/336.ts
-#EXTINF:-1, group-title="UK", Sky Sports Premier League HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/331.ts
-#EXTINF:-1, group-title="UK", Sky Sports Premier League UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/372.ts
-#EXTINF:-1, group-title="UK", Sony Channel +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1943.ts
-#EXTINF:-1, group-title="UK", Starz TV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1746.ts
-#EXTINF:-1, group-title="UK", Syfy +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1899.ts
-#EXTINF:-1, group-title="UK", Syfy UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1900.ts
-#EXTINF:-1, group-title="UK", TCM +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1954.ts
-#EXTINF:-1, group-title="UK", TCM UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1955.ts
-#EXTINF:-1, group-title="UK", TG4 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1793.ts
-#EXTINF:-1, group-title="UK", TLC +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1902.ts
-#EXTINF:-1, group-title="UK", TLC +2 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1901.ts
-#EXTINF:-1, group-title="UK", TLC UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1903.ts
-#EXTINF:-1, group-title="UK", TV3 +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1957.ts
-#EXTINF:-1, group-title="UK", TV3 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1958.ts
-#EXTINF:-1, group-title="UK", The Box UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1745.ts
-#EXTINF:-1, group-title="UK", The Vault UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1744.ts
-#EXTINF:-1, group-title="UK", Tiny Pop +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1860.ts
-#EXTINF:-1, group-title="UK", Tiny Pop UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1861.ts
-#EXTINF:-1, group-title="UK", Travel Channel UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1781.ts
-#EXTINF:-1, group-title="UK", True Crime +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1832.ts
-#EXTINF:-1, group-title="UK", True Crime UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1833.ts
-#EXTINF:-1, group-title="UK", True Entertainment UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1783.ts
-#EXTINF:-1, group-title="UK", True Movies 2 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1831.ts
-#EXTINF:-1, group-title="UK", UTV HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1959.ts
-#EXTINF:-1, group-title="UK", Universal Channel +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1897.ts
-#EXTINF:-1, group-title="UK", Universal Channel UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1898.ts
-#EXTINF:-1, group-title="UK", VH1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1841.ts
-#EXTINF:-1, group-title="UK", VIVA UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1842.ts
-#EXTINF:-1, group-title="UK", Viceland UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1953.ts
-#EXTINF:-1, group-title="UK", Vintage TV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1960.ts
-#EXTINF:-1, group-title="UK", W +1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1904.ts
-#EXTINF:-1, group-title="UK", W UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1905.ts
-#EXTINF:-1, group-title="UK", William Hill TV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1772.ts
-#EXTINF:-1, group-title="UK", World Fight Channel UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1948.ts
-#EXTINF:-1, group-title="UK", YESTERDAY UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1906.ts
-#EXTINF:-1, group-title="UK", YourTV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1785.ts
-#EXTINF:-1, group-title="UK", eir Sport 1 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1804.ts
-#EXTINF:-1, group-title="UK", eir Sport 2 HD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1798.ts
-#EXTINF:-1, group-title="UK", eir Sport 2 UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1803.ts
-#EXTINF:-1, group-title="UK", tru TV UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1956.ts
-#EXTINF:-1, group-title="UK", BBC One FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1999.ts
-#EXTINF:-1, group-title="UK", BBC One Northern Ireland FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/2001.ts
-#EXTINF:-1, group-title="UK", BBC One Scotland FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5732.ts
-#EXTINF:-1, group-title="UK", BBC Two FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1996.ts
-#EXTINF:-1, group-title="UK", BoxNation FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/6422.ts
-#EXTINF:-1, group-title="UK", BT Sport 1 FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5716.ts
-#EXTINF:-1, group-title="UK", BT Sport 2 FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5715.ts
-#EXTINF:-1, group-title="UK", BT Sport 3 FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5714.ts
-#EXTINF:-1, group-title="UK", Channel 4 FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1971.ts
-#EXTINF:-1, group-title="UK", Channel 5 FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1969.ts
-#EXTINF:-1, group-title="UK", Crime & Investigation FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/7604.ts
-#EXTINF:-1, group-title="UK", CNN FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1780.ts
-#EXTINF:-1, group-title="UK", Crime+Investigation FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1881.ts
-#EXTINF:-1, group-title="UK", Disney Junior FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/7602.ts
-#EXTINF:-1, group-title="UK", Disney XD FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/7603.ts
-#EXTINF:-1, group-title="UK", eir Sport 2 FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5713.ts
-#EXTINF:-1, group-title="UK", History FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/7599.ts
-#EXTINF:-1, group-title="UK", ITV Box Office FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/7600.ts
-#EXTINF:-1, group-title="UK", ITV FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1986.ts
-#EXTINF:-1, group-title="UK", ITV2 FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5738.ts
-#EXTINF:-1, group-title="UK", ITV3 FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1980.ts
-#EXTINF:-1, group-title="UK", ITV4 FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1977.ts
-#EXTINF:-1, group-title="UK", LFC TV FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5710.ts
-#EXTINF:-1, group-title="UK", MUTV FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5736.ts
-#EXTINF:-1, group-title="UK", National Geographic FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1888.ts
-#EXTINF:-1, group-title="UK", Premier Sports FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5737.ts
-#EXTINF:-1, group-title="UK", Racing FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1799.ts
-#EXTINF:-1, group-title="UK", RT FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1779.ts
-#EXTINF:-1, group-title="UK", Sky Atlantic FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/7598.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Box Office 1 FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5726.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Box Office 2 FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5725.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Box Office 3D FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5724.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Box Office 4 FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5723.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Crime & Thriller FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/338.ts
-#EXTINF:-1, group-title="UK", Sky News FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/6439.ts
-#EXTINF:-1, group-title="UK", Sky Sports Action FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5720.ts
-#EXTINF:-1, group-title="UK", Sky Sports Arena FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/6202.ts
-#EXTINF:-1, group-title="UK", Sky Sports Box Office FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/7601.ts
-#EXTINF:-1, group-title="UK", Sky Sports Cricket FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5721.ts
-#EXTINF:-1, group-title="UK", Sky Sports F1 FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5717.ts
-#EXTINF:-1, group-title="UK", Sky Sports Football FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/6205.ts
-#EXTINF:-1, group-title="UK", Sky Sports Golf FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5719.ts
-#EXTINF:-1, group-title="UK", Sky Sports Main Event FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5722.ts
-#EXTINF:-1, group-title="UK", Sky Sports Premier League FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5718.ts
-#EXTINF:-1, group-title="UK", STV FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1987.ts
-#EXTINF:-1, group-title="UK", UTV FHD UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1988.ts
-#EXTINF:-1, group-title="UK", ITV Box Office UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/6196.ts
-#EXTINF:-1, group-title="UK", Sky Box Office UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1806.ts
-#EXTINF:-1, group-title="UK", Sky Cinema Box Office 3D UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/5727.ts
-#EXTINF:-1, group-title="UK", Sky Sports Box Office UK
-http://portal.geniptv.com:8080/live/nazzareno.aglietti1day/XPygOSKBUk/1820.ts
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/391.ts
+#EXTINF:-1, group-title="UK", PREMIERE SPORT HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1028.ts
+#EXTINF:-1, group-title="UK", Nickelodeon  +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4462.ts
+#EXTINF:-1, group-title="UK", Nickelodeon
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/383.ts
+#EXTINF:-1, group-title="UK", Nick Jr +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4463.ts
+#EXTINF:-1, group-title="UK", Nick Jr Too
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4464.ts
+#EXTINF:-1, group-title="UK", Nat Geo Wild
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/430.ts
+#EXTINF:-1, group-title="UK", MUTV
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/758.ts
+#EXTINF:-1, group-title="UK", MTV  +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4470.ts
+#EXTINF:-1, group-title="UK", LFC TV
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/2895.ts
+#EXTINF:-1, group-title="UK", ITV4
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/379.ts
+#EXTINF:-1, group-title="UK", ITV3
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/380.ts
+#EXTINF:-1, group-title="UK", ITV2
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/381.ts
+#EXTINF:-1, group-title="UK", ITV1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/382.ts
+#EXTINF:-1, group-title="UK", ID + 1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4449.ts
+#EXTINF:-1, group-title="UK", Horror Channel  +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4444.ts
+#EXTINF:-1, group-title="UK", Home&Health  +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4458.ts
+#EXTINF:-1, group-title="UK", History +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4459.ts
+#EXTINF:-1, group-title="UK", Good Food
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1038.ts
+#EXTINF:-1, group-title="UK", Food Network  1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4443.ts
+#EXTINF:-1, group-title="UK", Food Network
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1039.ts
+#EXTINF:-1, group-title="UK", Eurosport 2
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4473.ts
+#EXTINF:-1, group-title="UK", Eurosport 1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4472.ts
+#EXTINF:-1, group-title="UK", Eir Sports2
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4684.ts
+#EXTINF:-1, group-title="UK", Eir Sports1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4683.ts
+#EXTINF:-1, group-title="UK", E!  + 1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4448.ts
+#EXTINF:-1, group-title="UK", E!
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1040.ts
+#EXTINF:-1, group-title="UK", Disney XD  +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4465.ts
+#EXTINF:-1, group-title="UK", Disney Channel  +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4466.ts
+#EXTINF:-1, group-title="UK", Discovery Science  1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4467.ts
+#EXTINF:-1, group-title="UK", Discovery History +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4468.ts
+#EXTINF:-1, group-title="UK", Discovery  +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4469.ts
+#EXTINF:-1, group-title="UK", Crime investigation  1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4455.ts
+#EXTINF:-1, group-title="UK", Comedy Central Extra  +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4456.ts
+#EXTINF:-1, group-title="UK", Chelsea FC
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1030.ts
+#EXTINF:-1, group-title="UK", Challenge  +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4454.ts
+#EXTINF:-1, group-title="UK", Cartoon Network
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1041.ts
+#EXTINF:-1, group-title="UK", BT Sports 2 SD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/2464.ts
+#EXTINF:-1, group-title="UK", BT Sport Mosaic 2
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4474.ts
+#EXTINF:-1, group-title="UK", BT Sport Mosaic
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4475.ts
+#EXTINF:-1, group-title="UK", BT Sport Extra 5
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4480.ts
+#EXTINF:-1, group-title="UK", BT Sport Extra 4
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4479.ts
+#EXTINF:-1, group-title="UK", BT Sport Extra 3
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4478.ts
+#EXTINF:-1, group-title="UK", BT Sport Extra 2
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4477.ts
+#EXTINF:-1, group-title="UK", BT Sport Extra 1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4476.ts
+#EXTINF:-1, group-title="UK", BT Sport 3 SD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4954.ts
+#EXTINF:-1, group-title="UK", BBC4 HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/385.ts
+#EXTINF:-1, group-title="UK", BBC TWO HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/852.ts
+#EXTINF:-1, group-title="UK", At The Races
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/440.ts
+#EXTINF:-1, group-title="UK", Animal Planet  +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4457.ts
+#EXTINF:-1, group-title="UK", Alibi
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/390.ts
+#EXTINF:-1, group-title="UK", 5Star
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/387.ts
+#EXTINF:-1, group-title="UK", 3e
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/389.ts
+#EXTINF:-1, group-title="UK", ID
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1429.ts
+#EXTINF:-1, group-title="UK", BT Sport 3 HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5547.ts
+#EXTINF:-1, group-title="UK", Crime & Investigiation
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5497.ts
+#EXTINF:-1, group-title="UK", Sky Sports Mix
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5496.ts
+#EXTINF:-1, group-title="UK", Premier Sports HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1427.ts
+#EXTINF:-1, group-title="UK", 5USA
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/386.ts
+#EXTINF:-1, group-title="UK", VIP Cartoon network HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5642.ts
+#EXTINF:-1, group-title="UK", AMC FROM BT
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5805.ts
+#EXTINF:-1, group-title="UK", BBC ALBA
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5806.ts
+#EXTINF:-1, group-title="UK", BBC Parliament
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5809.ts
+#EXTINF:-1, group-title="UK", BET
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5771.ts
+#EXTINF:-1, group-title="UK", BritishMuslim
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5770.ts
+#EXTINF:-1, group-title="UK", Channel 4
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5811.ts
+#EXTINF:-1, group-title="UK", Channel 4 HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5810.ts
+#EXTINF:-1, group-title="UK", CHANNEL 5
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5813.ts
+#EXTINF:-1, group-title="UK", CHANNEL 5 FHD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5812.ts
+#EXTINF:-1, group-title="UK", CNBC Europe
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5769.ts
+#EXTINF:-1, group-title="UK", FOX News
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5782.ts
+#EXTINF:-1, group-title="UK", Inspiration
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5781.ts
+#EXTINF:-1, group-title="UK", Investigation Discovery
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5780.ts
+#EXTINF:-1, group-title="UK", ITV ENCORE
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5804.ts
+#EXTINF:-1, group-title="UK", KERRANG
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5786.ts
+#EXTINF:-1, group-title="UK", KISS UK
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5785.ts
+#EXTINF:-1, group-title="UK", Movies 4 Men
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5779.ts
+#EXTINF:-1, group-title="UK", QUEST
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5778.ts
+#EXTINF:-1, group-title="UK", Real Lives
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5776.ts
+#EXTINF:-1, group-title="UK", SKY NEWS
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5784.ts
+#EXTINF:-1, group-title="UK", SMASH HITS
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5777.ts
+#EXTINF:-1, group-title="UK", Sony Movie
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5775.ts
+#EXTINF:-1, group-title="UK", Sony Channel
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5774.ts
+#EXTINF:-1, group-title="UK", VICELAND
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5807.ts
+#EXTINF:-1, group-title="UK", Watch
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/5783.ts
+#EXTINF:-1, group-title="UK", SKY NEWS HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/6001.ts
+#EXTINF:-1, group-title="UK", Golf Channel
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7063.ts
+#EXTINF:-1, group-title="UK", Cartoonito
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7144.ts
+#EXTINF:-1, group-title="UK", Sky Cinema Action HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7300.ts
+#EXTINF:-1, group-title="UK", Sky Cinema Comedy HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7297.ts
+#EXTINF:-1, group-title="UK", Sky Cinema Crime & Thriller HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7293.ts
+#EXTINF:-1, group-title="UK", Sky Cinema Disney HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7298.ts
+#EXTINF:-1, group-title="UK", Sky Cinema Drama & Romance HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7294.ts
+#EXTINF:-1, group-title="UK", Sky Cinema Family HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7299.ts
+#EXTINF:-1, group-title="UK", Sky Cinema Premier HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7301.ts
+#EXTINF:-1, group-title="UK", Sky Cinema Sci-Fi & Horror HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7296.ts
+#EXTINF:-1, group-title="UK", Sky Cinema Select HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7292.ts
+#EXTINF:-1, group-title="UK", Cbeebies
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7439.ts
+#EXTINF:-1, group-title="UK", History
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7437.ts
+#EXTINF:-1, group-title="UK", Magic
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7436.ts
+#EXTINF:-1, group-title="UK", MTV
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7438.ts
+#EXTINF:-1, group-title="UK", Scuzz
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7435.ts
+#EXTINF:-1, group-title="UK", TCM
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7440.ts
+#EXTINF:-1, group-title="UK", National Geographic
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7441.ts
+#EXTINF:-1, group-title="UK", H2
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7442.ts
+#EXTINF:-1, group-title="UK", NATGEO WILD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7463.ts
+#EXTINF:-1, group-title="UK", VIVA
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7472.ts
+#EXTINF:-1, group-title="UK", SKY SPORTS MAIN EVENT HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/26.ts
+#EXTINF:-1, group-title="UK", SKY SPORTS PREMIER LEAGUE HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/18.ts
+#EXTINF:-1, group-title="UK", SKY SPORTS GOLF HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/20.ts
+#EXTINF:-1, group-title="UK", SKY SPORTS ACTION HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/22.ts
+#EXTINF:-1, group-title="UK", SKY SPORTS CRICKET HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/24.ts
+#EXTINF:-1, group-title="UK", Clubland
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7597.ts
+#EXTINF:-1, group-title="UK", Heart TV
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7598.ts
+#EXTINF:-1, group-title="UK", Citv
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7676.ts
+#EXTINF:-1, group-title="UK", Celtic FC TV (Live for Matches )
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7682.ts
+#EXTINF:-1, group-title="UK", RANGERS FC TV (matchtime)
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7681.ts
+#EXTINF:-1, group-title="UK", MUTV Backup
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7686.ts
+#EXTINF:-1, group-title="UK", EUROSPORT 2 HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7688.ts
+#EXTINF:-1, group-title="UK", EUROSPORT 1 HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7689.ts
+#EXTINF:-1, group-title="UK", Capital TV
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7781.ts
+#EXTINF:-1, group-title="UK", CNN FHD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7794.ts
+#EXTINF:-1, group-title="UK", ITV 2 FHD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7791.ts
+#EXTINF:-1, group-title="UK", ITV 3 FHD 1080
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7792.ts
+#EXTINF:-1, group-title="UK", ITV 4 FHD 1080
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7793.ts
+#EXTINF:-1, group-title="UK", TV ONE HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7989.ts
+#EXTINF:-1, group-title="UK", BBC 3 FHD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7994.ts
+#EXTINF:-1, group-title="UK", LFC TV HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7996.ts
+#EXTINF:-1, group-title="UK", MUTV FHD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/7995.ts
+#EXTINF:-1, group-title="UK", STV FHD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8033.ts
+#EXTINF:-1, group-title="UK", TG4
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8412.ts
+#EXTINF:-1, group-title="UK", BT FHD 1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8620.ts
+#EXTINF:-1, group-title="UK", BT FHD 2
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8619.ts
+#EXTINF:-1, group-title="UK", BT FHD 3
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8618.ts
+#EXTINF:-1, group-title="UK", SKY SPORTS FHD 1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8615.ts
+#EXTINF:-1, group-title="UK", SKY SPORTS FHD CRICKET
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8614.ts
+#EXTINF:-1, group-title="UK", SKY SPORTS FHD ACTION
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8613.ts
+#EXTINF:-1, group-title="UK", SKY SPORTS FHD GOLF
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8617.ts
+#EXTINF:-1, group-title="UK", SKY SPORTS FHD PREMIER LEAGUE
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8616.ts
+#EXTINF:-1, group-title="UK", SKY SPORTS FHD MAIN EVENT
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8612.ts
+#EXTINF:-1, group-title="UK", RTE News Now
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8631.ts
+#EXTINF:-1, group-title="UK", ITV +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8684.ts
+#EXTINF:-1, group-title="UK", ITV2 +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8685.ts
+#EXTINF:-1, group-title="UK", ITV3  +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8686.ts
+#EXTINF:-1, group-title="UK", ITV4 +1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8687.ts
+#EXTINF:-1, group-title="UK", RTE JUNIOR
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8682.ts
+#EXTINF:-1, group-title="UK", TV3
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8683.ts
+#EXTINF:-1, group-title="UK", Euronews
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8695.ts
+#EXTINF:-1, group-title="UK", BBC ONE SD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8868.ts
+#EXTINF:-1, group-title="UK", BT Sport 1 backup
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8950.ts
+#EXTINF:-1, group-title="UK", Sky Cinema Hits
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8867.ts
+#EXTINF:-1, group-title="UK", BOX OFFICE HD 1
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/9131.ts
+#EXTINF:-1, group-title="UK", BOX OFFICE HD 2
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/9130.ts
+#EXTINF:-1, group-title="UK", BOX OFFICE HD 3
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/9129.ts
+#EXTINF:-1, group-title="UK", BOX OFFICE HD 4
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/9128.ts
+#EXTINF:-1, group-title="UK", Islam Channel
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/9148.ts
+#EXTINF:-1, group-title="UK", Peace TV
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/9149.ts
+#EXTINF:-1, group-title="UK", Amc
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/9160.ts
+#EXTINF:-1, group-title="UK", ITV BOX OFFICE PPV
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/9183.ts
+#EXTINF:-1, group-title="UK", Sky Sport Football HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/10164.ts
+#EXTINF:-1, group-title="UK", MTV 90's
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/11121.ts
+#EXTINF:-1, group-title="UK", Channel AKA
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/10185.ts
+#EXTINF:-1, group-title="UK", Sky Sport Arena HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/10165.ts
+#EXTINF:-1, group-title="UK", 4Music
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/11777.ts
+#EXTINF:-1, group-title="UK", Cartoon Network HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/11775.ts
+#EXTINF:-1, group-title="UK", MTV Base HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/11771.ts
+#EXTINF:-1, group-title="UK", Sky Sports News FHD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/11774.ts
+#EXTINF:-1, group-title="UK", Box hits
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/11779.ts
+#EXTINF:-1, group-title="UK", Sky Sports The Open
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/11781.ts
+#EXTINF:-1, group-title="UK", Sky Sports The Open HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/11782.ts
+#EXTINF:-1, group-title="UK", Yesterday
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/420.ts
+#EXTINF:-1, group-title="UK", Sky Sport F1 HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/443.ts
+#EXTINF:-1, group-title="UK", Sky Sport 1 SD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1922.ts
+#EXTINF:-1, group-title="UK", SKY One
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/422.ts
+#EXTINF:-1, group-title="UK", Sky Movies Drama
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/427.ts
+#EXTINF:-1, group-title="UK", SKY Atlantic HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/428.ts
+#EXTINF:-1, group-title="UK", Sky Arts
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/429.ts
+#EXTINF:-1, group-title="UK", Nat Geo Graphic
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/431.ts
+#EXTINF:-1, group-title="UK", Mototrs TV
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1029.ts
+#EXTINF:-1, group-title="UK", More 4
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/432.ts
+#EXTINF:-1, group-title="UK", Manchester United TV
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/433.ts
+#EXTINF:-1, group-title="UK", Living UK
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/426.ts
+#EXTINF:-1, group-title="UK", Life time
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/894.ts
+#EXTINF:-1, group-title="UK", FOX
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/434.ts
+#EXTINF:-1, group-title="UK", Eden
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/436.ts
+#EXTINF:-1, group-title="UK", Dave
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/437.ts
+#EXTINF:-1, group-title="UK", Comedy Central
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/438.ts
+#EXTINF:-1, group-title="UK", CNN
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/3134.ts
+#EXTINF:-1, group-title="UK", Chelsea TV
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/439.ts
+#EXTINF:-1, group-title="UK", Animal Planet
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/441.ts
+#EXTINF:-1, group-title="UK", UTV
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1416.ts
+#EXTINF:-1, group-title="UK", Tiny POP
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4460.ts
+#EXTINF:-1, group-title="UK", Syfy
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/74.ts
+#EXTINF:-1, group-title="UK", Sky Sport News
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/16.ts
+#EXTINF:-1, group-title="UK", Sky Movies Thriller
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/54.ts
+#EXTINF:-1, group-title="UK", Sky Movies Showcase
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/55.ts
+#EXTINF:-1, group-title="UK", Sky Movies Premiere
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/56.ts
+#EXTINF:-1, group-title="UK", Sky Movies Greats
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/57.ts
+#EXTINF:-1, group-title="UK", Sky Movies Family
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/58.ts
+#EXTINF:-1, group-title="UK", Sky Movies Disney
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/59.ts
+#EXTINF:-1, group-title="UK", Sky Movies Comedy
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/60.ts
+#EXTINF:-1, group-title="UK", Sky Movies Action
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/61.ts
+#EXTINF:-1, group-title="UK", Sky Movie Sci-Fi
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/62.ts
+#EXTINF:-1, group-title="UK", Nicktoons
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1433.ts
+#EXTINF:-1, group-title="UK", Nick Jr
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1434.ts
+#EXTINF:-1, group-title="UK", London Live
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1417.ts
+#EXTINF:-1, group-title="UK", ITV be
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1627.ts
+#EXTINF:-1, group-title="UK", Irish Tv
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1418.ts
+#EXTINF:-1, group-title="UK", Home & Health
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/66.ts
+#EXTINF:-1, group-title="UK", Good Food
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1414.ts
+#EXTINF:-1, group-title="UK", gold
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1432.ts
+#EXTINF:-1, group-title="UK", Film 4
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1419.ts
+#EXTINF:-1, group-title="UK", E4
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1420.ts
+#EXTINF:-1, group-title="UK", E!
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1430.ts
+#EXTINF:-1, group-title="UK", Drama
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/174.ts
+#EXTINF:-1, group-title="UK", DMax
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/853.ts
+#EXTINF:-1, group-title="UK", Disney XD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/47.ts
+#EXTINF:-1, group-title="UK", Disney Junior
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/48.ts
+#EXTINF:-1, group-title="UK", Disney
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/49.ts
+#EXTINF:-1, group-title="UK", Discovery Turbo
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/63.ts
+#EXTINF:-1, group-title="UK", Discovery Shed
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/64.ts
+#EXTINF:-1, group-title="UK", Discovery Science
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/65.ts
+#EXTINF:-1, group-title="UK", Discovery History
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/67.ts
+#EXTINF:-1, group-title="UK", DISCOVERY
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/68.ts
+#EXTINF:-1, group-title="UK", CBS reality
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1421.ts
+#EXTINF:-1, group-title="UK", CBS Drama
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1422.ts
+#EXTINF:-1, group-title="UK", CBS Action
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1423.ts
+#EXTINF:-1, group-title="UK", BT Sport Europe HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/3.ts
+#EXTINF:-1, group-title="UK", BT Sport ESPN
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/4.ts
+#EXTINF:-1, group-title="UK", BT Sport 2 HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/6.ts
+#EXTINF:-1, group-title="UK", BT Sport 1 HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/8.ts
+#EXTINF:-1, group-title="UK", Boxnation
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/9.ts
+#EXTINF:-1, group-title="UK", boomerang
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1424.ts
+#EXTINF:-1, group-title="UK", BBC World News
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/761.ts
+#EXTINF:-1, group-title="UK", Pick
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/1428.ts
+#EXTINF:-1, group-title="UK", CBBC
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/167.ts
+#EXTINF:-1, group-title="UK", BBC Three HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/184.ts
+#EXTINF:-1, group-title="UK", BBC ONE HD
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/185.ts
+#EXTINF:-1, group-title="UK", Baby TV
+http://iptvfree1.com:6969/live/sZnMZlfwwr/aXCcepNmr0/171.ts
+
 
 
 
