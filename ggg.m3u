@@ -177,8 +177,8 @@ http://183.88.212.205:8010/play/a00x
 http://183.88.212.205:8010/play/a02u
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5391392392d313_21504889.png" group-title="ASIAN TV", Baby TV
 http://183.88.212.205:8010/play/a01e
-#EXTINF:-1,tvg-logo="http://www.toonamiasia.com/images/toonami_logo.png" group-title="ASIAN TV", Toonami
-http://amd.cdn.turner.com/adultswim/big/streams/playlists/toonami.m3u8
+#EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/hanna-barbera/images/6/61/BOOMCN.png" group-title="ASIAN TV", Boomerang
+http://183.88.212.205:8010/play/a03d
 #EXTINF:-1,tvg-logo="https://openlab.citytech.cuny.edu/marcrodriguez-eportfolio/files/2016/09/image.png" group-title="ASIAN TV", Cartoon Network
 http://103.77.116.250/boboapp5/cnetwork/playlist.m3u8?userid=174906&e=1506098517&st=M--8T6FpcG_dCyAFoWknxg
 #EXTINF:-1, tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="ASIAN TV", Nick Jr. (ENG)
@@ -199,8 +199,6 @@ http://183.88.212.205:8010/play/a02y
 http://183.88.212.205:8010/play/a01q
 #EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Nat%20Geo%20People%20HD.png" group-title="ASIAN TV", Nat Geo People
 http://183.88.212.205:8010/play/a02z
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Outdoor_Channel.svg/140px-Outdoor_Channel.svg.png" group-title="ASIAN TV", Outdoor Channel
-http://183.88.212.205:8010/play/a03d
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/644753216727445504/LmzG_qHM.jpg" group-title="ASIAN TV", BBC Earth
 http://183.88.212.205:8010/play/a03e
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_537a434fe62f88_23303977.png" group-title="ASIAN TV", Animal Planet 
