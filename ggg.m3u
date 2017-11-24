@@ -176,7 +176,7 @@ http://183.88.212.205:8010/play/a00x
 #EXTINF:-1,tvg-logo="http://www.toonbarn.com/wordpress/wp-content/uploads/2011/05/Disney-Junior-set-to-launch-in-the-UK-and-Canada.jpg" group-title="ASIAN TV", Disney Junior 
 http://123.27.175.6:4022/rtp/232.84.1.90:10398
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5391392392d313_21504889.png" group-title="ASIAN TV", Baby TV
-http://183.88.212.205:8010/play/a01e
+http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8
 #EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/hanna-barbera/images/6/61/BOOMCN.png" group-title="ASIAN TV", Boomerang
 http://183.88.212.205:8010/play/a03d
 #EXTINF:-1,tvg-logo="https://openlab.citytech.cuny.edu/marcrodriguez-eportfolio/files/2016/09/image.png" group-title="ASIAN TV", Cartoon Network
