@@ -86,9 +86,9 @@ http://103.77.116.250/boboapp1/fox1.stream/playlist.m3u8?userid=174906&e=1507362
 #EXTINF:-1,tvg-logo="https://bangshift.com/wp-content/uploads/2015/07/fox.jpg" group-title="ASIAN TV", Fox Sports 1
 http://183.88.212.205:8010/play/a02m
 #EXTINF:-1,tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/04/fs2logo.png" group-title="ASIAN TV", Fox Sports 2  
-http://183.88.212.205:8010/play/a02n
+http://vps817.vpshispeed.net:8081/tv11/fox2/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e00c5fe.png" group-title="ASIAN TV", Fox Sports 3
-http://183.88.212.205:8010/play/a02o
+http://vps817.vpshispeed.net:8081/tv11/fox3/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfe320c.jpg" group-title="ASIAN TV", Fight Sport
 http://103.77.116.250/boboapp6/FIGHT_SPORTS_HD/playlist.m3u8?userid=174906&e=1507362214&st=82KU-p2taIlZa7OY0m7Htw
 #EXTINF:-1,tvg-logo="http://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2FLogo_SI_ASN_Campaignasia.png" group-title="ASIAN TV", Sports Illustrated
