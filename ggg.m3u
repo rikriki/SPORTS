@@ -31,7 +31,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://183.88.212.205:8010/play/a024
 #EXTINF:-1, tvg-logo="https://www.biznethome.net/img/channels/NHKPREMIUM.png" group-title="ASIAN TV", NHK World Premium
 http://183.88.212.205:8010/play/a027
-#EXTINF:-1, tvg-logo=https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/14/25/16/1425164b-e415-7a24-1d49-3f45010ab0c7/source/512x512bb.jpg" group-title="ASIAN TV", NHK World TV
+#EXTINF:-1, tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/14/25/16/1425164b-e415-7a24-1d49-3f45010ab0c7/source/512x512bb.jpg" group-title="ASIAN TV", NHK World TV
 http://183.88.212.205:8010/play/a028
 #EXTINF:-1,tvg-logo="https://www2.t-expo.jp/img/exhibitors/35957/KBS-World-logo%201.jpg" group-title="ASIAN TV",, KBS WORLD 
 http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-1474711308/eol/20200101T0000/hash/256504442b73f1d929c1a36b033cfd53facda543/playlist.m3u8
