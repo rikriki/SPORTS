@@ -45,25 +45,25 @@ http://103.77.116.250/boboapp1/foxp.stream/playlist.m3u8?userid=174906&e=1507380
 http://103.77.116.250/boboapp1/a_hbohd.stream/playlist.m3u8?userid=174906&e=1507378294&st=2ESpOxd16-GZhTekC6LZzA
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/hbo_hits.jpg" group-title="ASIAN TV", HBO Hits
 http://103.77.116.250/boboapp1/a_hbohit.stream/playlist.m3u8?userid=174906&e=1507380027&st=J56KubENM6nuA0bDrYv9sQ
-#EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/hbo_signature.png" group-title="ASIAN TV", HBO Signature
+#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85235.jpg" group-title="ASIAN TV", HBO Signature
 http://103.77.116.250/boboapp1/a_hbosignature.stream/playlist.m3u8?userid=174906&e=1507380060&st=Zhk3WjNM3ViMIbmzaDzCtQ
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/hbo_family.jpg" group-title="ASIAN TV", HBO Family
 http://103.77.116.250/boboapp1/a_hbofam.stream/playlist.m3u8?userid=174906&e=1507380142&st=3UIgSbAJiAmrRPiA1o7FeQ
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/axn_150x150.jpg" group-title="ASIAN TV", AXN 
 http://103.77.116.250/boboapp2/AXN_EA_HD/playlist.m3u8?userid=174906&e=1507380634&st=xwb1lT2l4cj_MC-4GqrYCw
-#EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/fox_channel.png" group-title="ASIAN TV", FOX
+#EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch330.gif" group-title="ASIAN TV", FOX
 http://103.77.116.250/boboapp3/FOX/playlist.m3u8?userid=174906&e=1507380446&st=JESsAnahjNgYMN8eN375TQ
-#EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_156.png" group-title="ASIAN TV", Fox Life 
+#EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch301.gif" group-title="ASIAN TV", Fox Life 
 http://183.88.212.205:8010/play/a021
-#EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_159.png" group-title="ASIAN TV", FX
+#EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch310.gif" group-title="ASIAN TV", FX
 http://103.77.116.250/boboapp6/FX/playlist.m3u8?userid=174906&e=1507380880&st=1bIoPSuP-RstiMBF9UgMpg
-#EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/fox_crime.png" group-title="ASIAN TV", FOX CRIME
+#EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch313.gif" group-title="ASIAN TV", FOX CRIME
 http://183.88.212.205:8010/play/a020
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/max_hd.jpg" group-title="ASIAN TV", CINEMAX
 http://103.77.116.250/boboapp6/CINEMAX/playlist.m3u8?userid=174906&e=1507380529&st=esI3x6zFU-rrgDf3rQggMA
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/warner_tv.png" group-title="ASIAN TV", Warner TV
 http://103.77.116.250/boboapp1/warner.stream/playlist.m3u8?userid=174906&e=1507380312&st=uOCzPpqDjqPWvq168gjBHA
-#EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/KIX_LOGO_150x150.jpg" group-title="ASIAN TV", KIX HD
+#EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch309.gif" group-title="ASIAN TV", KIX HD
 http://27.254.63.162/stream/tot4k.php?channel_id=e584e0adae6440eab366f5fe3a824f91
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/REDbyHBO_150x150.jpg" group-title="ASIAN TV", RED by HBO
 http://183.88.212.205:8010/play/a03c
@@ -71,9 +71,9 @@ http://183.88.212.205:8010/play/a03c
 http://103.77.116.250/boboapp2/FYI_HD_Thailand/playlist.m3u8?userid=174906&e=1507380576&st=zosyHW9YgWr-Nt-HQp67yw
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/logo-ci.jpg" group-title="ASIAN TV", CRIME INVESTIGATION
 http://103.77.116.191:443//foreign/ci_hd_720p.stream/playlist.m3u8?st=Y-w728F3j826bEQJlX9twQ&username2=0986546676&username=h2jjD3rdxBAZwh2jjD3r&password=mmmmc9e7ac3bf31739016527&e=1512055906
-#EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/diva_universal.png" group-title="ASIAN TV", Diva Universal
+#EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch303.gif" group-title="ASIAN TV", Diva Universal
 http://183.88.212.205:8010/play/a03n
-#EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/E!_entertainment_150.png" group-title="ASIAN TV", E!
+#EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch328.gif" group-title="ASIAN TV", E!
 http://103.77.116.250/boboapp6/E/playlist.m3u8?userid=174906&e=1507381456&st=LEA3f7plCb0eBCIbW5FXRQ
 #EXTINF:-1, tvg-logo="https://www.gmkfreelogos.com/logos/C/img/Comedy_Central-2.gif" group-title="ASIAN TV", Comedy Central
 http://103.77.116.250/boboapp6/COMEDY_CENTRAL/playlist.m3u8?userid=174906&e=1507380475&st=5ua8jainSOFRRBIJ88GgNA
@@ -81,7 +81,7 @@ http://103.77.116.250/boboapp6/COMEDY_CENTRAL/playlist.m3u8?userid=174906&e=1507
 http://103.77.116.250/boboapp6/UNIVERSAL_SD/playlist.m3u8?userid=174906&e=1507380421&st=70yYJV21tWZ24PfvRBQHWw
 #EXTINF:-1, tvg-logo="http://www.lakecooptv.asia/images/evehd.png" group-title="ASIAN TV", Eve
 http://183.88.212.205:8010/play/a033
-#EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_167.png" group-title="ASIAN TV", Lifetime
+#EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch302.gif" group-title="ASIAN TV", Lifetime
 http://183.88.212.205:8010/play/a03l
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" group-title="ASIAN TV", NBA TV
 http://103.77.116.250/boboapp1/nba2.stream/playlist.m3u8?userid=174906&e=1506094772&st=l3Sd9MBlCZsHgvqg3a-www
@@ -201,7 +201,7 @@ http://183.88.212.205:8010/play/a02x
 http://183.88.212.205:8010/play/a02y
 #EXTINF:-1,tvg-logo="http://www.lonnytv.com/ch/natgeo%20music.png" group-title="ASIAN TV", Nat Geo Music
 http://183.88.212.205:8010/play/a01q
-#EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Nat%20Geo%20People%20HD.png" group-title="ASIAN TV", Nat Geo People
+#EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch255.gif" group-title="ASIAN TV", Nat Geo People
 http://183.88.212.205:8010/play/a02z
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/644753216727445504/LmzG_qHM.jpg" group-title="ASIAN TV", BBC Earth
 http://183.88.212.205:8010/play/a03e
