@@ -100,21 +100,21 @@ http://103.77.116.250/boboapp1/a_sportillus.stream/playlist.m3u8?userid=174906&e
 #EXTINF:-1,tvg-logo="https://tvbtn.files.wordpress.com/2013/01/golf_channel-350x291.jpg" group-title="ASIAN TV", Golf Channel
 http://103.77.116.250/boboapp6/GOLF/playlist.m3u8?userid=174906&e=1507361674&st=x8xpRKBcZqv7QJdm9OiKVQ
 #EXTINF:-1, tvg-logo="http://www.j2-play.net//uploads/filemanager/source/live_channel/Sport/skynet_plus.png" group-title="ASIAN TV",SkyNet Sports PLUS   
-http://103.77.116.250/boboapp6/SKYNET_SPORTS_PLUS/playlist.m3u8?userid=174906&e=1507361420&st=3rzaEbGgVDVRlfw_SRO8Hg
+http://183.88.212.205:8010/play/a02p
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb0fcb.png" group-title="ASIAN TV",SkyNet Sports HD  
-http://103.77.116.250/boboapp6/SKYNET_SPORTS_HD/playlist.m3u8?userid=174906&e=1507361443&st=d-gxCfxoSonBLQdOTwycGg
+http://183.88.212.205:8010/play/a00r
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb1347.png" group-title="ASIAN TV",Skynet Sports-1 
-http://103.77.116.250/boboapp6/SKYNET_SPORTS-1/playlist.m3u8?userid=174906&e=1507361461&st=KhRIO8dJUcC49WMT3sOL9w
+http://183.88.212.205:8010/play/a02j
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb1685.png" group-title="ASIAN TV",Skynet Sports-2 
-http://103.77.116.250/boboapp6/SKYNET_SPORTS-2/playlist.m3u8?userid=174906&e=1507361483&st=rEhCqTMjxP_ABAgVGmb6iA
+http://183.88.212.205:8010/play/a02k
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb1a5f.png" group-title="ASIAN TV",Skynet Sports-3 
-http://103.77.116.250/boboapp6/SKYNET_SPORTS-3/playlist.m3u8?userid=174906&e=1507361507&st=3QzsLXnrUkxHSwSIs5WRDg
+http://183.88.212.205:8010/play/a02l
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb1e47.png" group-title="ASIAN TV",Skynet Sports-4 
-http://103.77.116.250/boboapp6/SKYNET_SPORTS-4/playlist.m3u8?userid=174906&e=1507361528&st=DHp3ubciJtaOWQUTC6ikAw
+http://183.88.212.205:8010/play/a00a
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb24f9.png" group-title="ASIAN TV",Skynet Sports-5   
-http://103.77.116.250/boboapp6/SKYNET_SPORTS-5/playlist.m3u8?userid=174906&e=1507361549&st=RlpRXjSRqM2rB-Pk12Km-A
+http://183.88.212.205:8010/play/a00b
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb28a0.png" group-title="ASIAN TV",Skynet Sports-6   
-http://103.77.116.250/boboapp6/SKYNET_SPORTS-6/playlist.m3u8?userid=174906&e=1507361568&st=bQn_CQkRLH7wJONWNZwrOA
+http://183.88.212.205:8010/play/a00c
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dffb84a.jpg" group-title="ASIAN TV",Tennis HD  
 http://103.77.116.250/boboapp1/tennis3.stream/playlist.m3u8?userid=174906&e=1507361897&st=42sD5A0eLLfSqHhsNbXWLA
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff949c.png" group-title="ASIAN TV",True Sport HD
@@ -185,7 +185,9 @@ http://183.88.212.205:8010/play/a01e
 http://183.88.212.205:8010/play/a03d
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/cartoon_network.png" group-title="ASIAN TV", Cartoon Network
 http://183.88.212.205:8010/play/a01b
-#EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/nickjr.jpg" group-title="ASIAN TV", Nick Jr. (ENG)
+#EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch240.gif" group-title="ASIAN TV", Nickelodeon
+http://183.88.212.205:8010/play/a01f
+#EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/nickjr.jpg" group-title="ASIAN TV", Nick Jr. 
 http://183.88.212.205:8010/play/a01c
 #EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/History%20HD.png" group-title="ASIAN TV", History HD
 http://103.77.116.250/boboapp1/a_history.stream/playlist.m3u8?userid=174906&e=1506407724&st=CjVnoW-pAqmhUVpTRVcxPA
