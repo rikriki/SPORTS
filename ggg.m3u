@@ -27,7 +27,7 @@ http://59c3ec70cfde0.streamlock.net:443/channel_2/channel2/playlist.m3u8
 http://59c3ec70cfde0.streamlock.net:443/channel_1/channel1/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="ASIAN TV", Arirang 
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/740033272860680192/q0cWLUKf.jpg" group-title="ASIAN TV", TVN Asia 
+#EXTINF:-1, tvg-logo="http://www.singteltv.com.sg/_channels/ico_ch619.gif" group-title="ASIAN TV", TVN Asia 
 http://183.88.212.205:8010/play/a024
 #EXTINF:-1, tvg-logo="https://www.biznethome.net/img/channels/NHKPREMIUM.png" group-title="ASIAN TV", NHK World Premium
 http://183.88.212.205:8010/play/a027
