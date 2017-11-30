@@ -193,7 +193,7 @@ http://103.77.116.250/boboapp1/a_history.stream/playlist.m3u8?userid=174906&e=15
 http://183.88.212.205:8010/play/a031
 #EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="ASIAN TV", Discovery Asia
 http://183.88.212.205:8010/play/a00t
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/883282025796468736/QWVgdH5E.jpg" group-title="ASIAN TV", Discovery Science
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="ASIAN TV", Discovery Science
 http://183.88.212.205:8010/play/a034
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9a542.png" group-title="ASIAN TV", Nat Geo 
 http://183.88.212.205:8010/play/a02x
