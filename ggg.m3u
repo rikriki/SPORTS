@@ -228,7 +228,7 @@ http://191.96.38.44:443/seedbet54/0x222_euronews_720p/chunklist_w1835669505.m3u8
 #EXTINF:-1, tvg-logo="https://football-hd.com/img_channel.php?c=news-springnews-hd.png" group-title="ASIAN TV", Sky News HD
 http://183.88.212.205:8010/play/a00e
 #EXTINF:-1, tvg-logo="https://football-hd.com/img_channel.php?c=news-foxnews.png" group-title="ASIAN TV", Fox News
-http://183.88.212.205:8010/play/a00f
+http://103.77.116.191:443/news/fox_news_720p.stream/chunklist.m3u8?st=rrnyA8Dx3l-pO6Qjykn_6w&username=12587&password=3cabcdeed69524d943674b92dfac56da&e=151196666
 #EXTINF:-1, tvg-logo="http://www.logoeps.net/wp-content/uploads/2012/04/france_24-logo.jpg" group-title="ASIAN TV", France 24
 http://183.88.212.205:8010/play/a02h
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/876772485215141889/k58i8c8N.jpg" group-title="ASIAN TV", Channel News Asia
