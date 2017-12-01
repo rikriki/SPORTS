@@ -25,7 +25,7 @@ http://59c3ec70cfde0.streamlock.net:443/channel_3/channel3/playlist.m3u8
 http://59c3ec70cfde0.streamlock.net:443/channel_2/channel2/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.shoptv.com.ph/skin/frontend/cudsly/default/images/shoptv-logo.png" group-title="PINOY TV", BEAM SHOP TV
 http://59c3ec70cfde0.streamlock.net:443/channel_1/channel1/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="ASIAN TV", Arirang 
+#EXTINF:-1, tvg-logo="https://0.soompi.io/wp-content/uploads/4/p/8c/389704/389704.png" group-title="ASIAN TV", Arirang 
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.singteltv.com.sg/_channels/ico_ch619.gif" group-title="ASIAN TV", TVN Asia 
 http://183.88.212.205:8010/play/a024
@@ -71,7 +71,7 @@ http://183.88.212.205:8010/play/a03c
 http://103.77.116.250/boboapp2/FYI_HD_Thailand/playlist.m3u8?userid=174906&e=1507380576&st=zosyHW9YgWr-Nt-HQp67yw
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/logo-ci.jpg" group-title="ASIAN TV", CRIME INVESTIGATION
 http://103.77.116.191:443//foreign/ci_hd_720p.stream/playlist.m3u8?st=Y-w728F3j826bEQJlX9twQ&username2=0986546676&username=h2jjD3rdxBAZwh2jjD3r&password=mmmmc9e7ac3bf31739016527&e=1512055906
-#EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch303.gif" group-title="ASIAN TV", Diva Universal
+#EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Images/DIVA.png" group-title="ASIAN TV", Diva Universal
 http://183.88.212.205:8010/play/a03n
 #EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch328.gif" group-title="ASIAN TV", E!
 http://103.77.116.250/boboapp6/E/playlist.m3u8?userid=174906&e=1507381456&st=LEA3f7plCb0eBCIbW5FXRQ
