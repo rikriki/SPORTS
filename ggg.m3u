@@ -98,7 +98,7 @@ http://103.77.116.250/boboapp6/FIGHT_SPORTS_HD/playlist.m3u8?userid=174906&e=150
 #EXTINF:-1,tvg-logo="http://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2FLogo_SI_ASN_Campaignasia.png" group-title="ASIAN TV", Sports Illustrated
 http://103.77.116.250/boboapp1/a_sportillus.stream/playlist.m3u8?userid=174906&e=1507362072&st=Cb0dcFmu00-YZH2h0XhAHA
 #EXTINF:-1,tvg-logo="https://tvbtn.files.wordpress.com/2013/01/golf_channel-350x291.jpg" group-title="ASIAN TV", Golf Channel
-http://183.88.212.205:8010/play/a02q
+http://103.77.116.250/boboapp1/golf2.stream/playlist.m3u8?userid=174906&e=1507361697&st=SW8uEK5qSjGvUOMaFxTn0g
 #EXTINF:-1, tvg-logo="http://www.j2-play.net//uploads/filemanager/source/live_channel/Sport/skynet_plus.png" group-title="ASIAN TV",SkyNet Sports PLUS   
 http://183.88.212.205:8010/play/a02p
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb0fcb.png" group-title="ASIAN TV",SkyNet Sports HD  
