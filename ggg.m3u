@@ -25,6 +25,14 @@ http://59c3ec70cfde0.streamlock.net:443/channel_3/channel3/playlist.m3u8
 http://59c3ec70cfde0.streamlock.net:443/channel_2/channel2/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.shoptv.com.ph/skin/frontend/cudsly/default/images/shoptv-logo.png" group-title="PINOY TV", BEAM SHOP TV
 http://59c3ec70cfde0.streamlock.net:443/channel_1/channel1/playlist.m3u8
+#EXTINF:-1, group-title="PINOY TV", TFC
+http://vaders.tv/live/cici/cici/38782.ts
+#EXTINF:-1, group-title="PINOY TV", GMA Life TV
+http://vaders.tv/live/cici/cici/39631.ts
+#EXTINF:-1, group-title="PINOY TV", GMA News
+http://vaders.tv/live/cici/cici/39633.ts
+#EXTINF:-1, group-title="PINOY TV", GMA Pinoy
+http://vaders.tv/live/cici/cici/39632.ts
 #EXTINF:-1, tvg-logo="https://0.soompi.io/wp-content/uploads/4/p/8c/389704/389704.png" group-title="ASIAN TV", Arirang 
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.singteltv.com.sg/_channels/ico_ch619.gif" group-title="ASIAN TV", TVN Asia 
