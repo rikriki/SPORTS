@@ -50,7 +50,7 @@ http://103.77.116.250/boboapp1/a_hbosignature.stream/playlist.m3u8?userid=174906
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/hbo_family.jpg" group-title="ASIAN TV", HBO Family
 http://103.77.116.250/boboapp1/a_hbofam.stream/playlist.m3u8?userid=174906&e=1507380142&st=3UIgSbAJiAmrRPiA1o7FeQ
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/axn_150x150.jpg" group-title="ASIAN TV", AXN 
-http://103.77.116.250/boboapp2/AXN_EA_HD/playlist.m3u8?userid=174906&e=1507380634&st=xwb1lT2l4cj_MC-4GqrYCw
+http://103.77.116.250/boboapp1/a_axnhd.stream/playlist.m3u8?userid=174906&e=1507380600&st=ym2suzzRy7tJCh5GjAw_Zw
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch330.gif" group-title="ASIAN TV", FOX
 http://103.77.116.250/boboapp3/FOX/playlist.m3u8?userid=174906&e=1507380446&st=JESsAnahjNgYMN8eN375TQ
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch301.gif" group-title="ASIAN TV", Fox Life 
