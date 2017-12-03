@@ -54,7 +54,7 @@ http://103.77.116.250/boboapp1/a_axnhd.stream/playlist.m3u8?userid=174906&e=1507
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch330.gif" group-title="ASIAN TV", FOX
 http://103.77.116.250/boboapp3/FOX/playlist.m3u8?userid=174906&e=1507380446&st=JESsAnahjNgYMN8eN375TQ
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch301.gif" group-title="ASIAN TV", Fox Life 
-http://183.88.212.205:8010/play/a021
+http://103.77.116.250/boboapp6/STAR_WORLD/playlist.m3u8?userid=174906&e=1507380714&st=sJJYDXEeTHd19lnxmjse7A
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch310.gif" group-title="ASIAN TV", FX
 http://103.77.116.250/boboapp6/FX/playlist.m3u8?userid=174906&e=1507380880&st=1bIoPSuP-RstiMBF9UgMpg
 #EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch313.gif" group-title="ASIAN TV", FOX CRIME
