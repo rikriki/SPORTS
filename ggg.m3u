@@ -631,51 +631,51 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklis
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://latintrends.com/wp-content/uploads/2012/09/musicchoicenews.jpg" group-title="MUSIC/RADIO", Y2K
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
-#EXTINF:-1, group-title="United Kingdom", 3e
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/3e_Ireland_2017.png" group-title="United Kingdom", 3e
 http://vaders.tv/live/cici/cici/16947.ts
-#EXTINF:-1, group-title="United Kingdom", BBC One HD
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_one_hd.png"  group-title="United Kingdom", BBC One HD
 http://vaders.tv/live/cici/cici/2464.ts
-#EXTINF:-1, group-title="United Kingdom", BBC One
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_one.png" group-title="United Kingdom", BBC One
 http://vaders.tv/live/cici/cici/39862.ts
-#EXTINF:-1, group-title="United Kingdom", BBC Two HD
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_two_uk_hd.png" group-title="United Kingdom", BBC Two HD
 http://vaders.tv/live/cici/cici/2467.ts
-#EXTINF:-1, group-title="United Kingdom", BBC Two
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_two_uk.png" group-title="United Kingdom", BBC Two
 http://vaders.tv/live/cici/cici/39863.ts
-#EXTINF:-1, group-title="United Kingdom", BBC Four HD
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_four_uk_hd.png" group-title="United Kingdom", BBC Four HD
 http://vaders.tv/live/cici/cici/2469.ts
-#EXTINF:-1, group-title="United Kingdom", BBC Four
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_four_uk.png" group-title="United Kingdom", BBC Four
 http://vaders.tv/live/cici/cici/39864.ts
-#EXTINF:-1, group-title="United Kingdom", BBC News HD
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_news_hd.png" group-title="United Kingdom", BBC News HD
 http://vaders.tv/live/cici/cici/38777.ts
-#EXTINF:-1, group-title="United Kingdom", BBC News
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_news.png" group-title="United Kingdom", BBC News
 http://vaders.tv/live/cici/cici/39871.ts
-#EXTINF:-1, group-title="United Kingdom", Channel 4 HD
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_4_uk_hd.png" group-title="United Kingdom", Channel 4 HD
 http://vaders.tv/live/cici/cici/2476.ts
-#EXTINF:-1, group-title="United Kingdom", Channel 4
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_4_uk.png" group-title="United Kingdom", Channel 4
 http://vaders.tv/live/cici/cici/39865.ts
-#EXTINF:-1, group-title="United Kingdom", Channel 5 HD
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_5_uk.png" group-title="United Kingdom", Channel 5 HD
 http://vaders.tv/live/cici/cici/2477.ts
-#EXTINF:-1, group-title="United Kingdom", Channel 5
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_5_uk.png" group-title="United Kingdom", Channel 5
 http://vaders.tv/live/cici/cici/39866.ts
-#EXTINF:-1, group-title="United Kingdom", ITV 1 HD
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_hd.png" group-title="United Kingdom", ITV 1 HD
 http://vaders.tv/live/cici/cici/2470.ts
-#EXTINF:-1, group-title="United Kingdom", ITV 1
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_channel_tv.png" group-title="United Kingdom", ITV 1
 http://vaders.tv/live/cici/cici/39867.ts
-#EXTINF:-1, group-title="United Kingdom", ITV 2 HD
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_2_hd.png" group-title="United Kingdom", ITV 2 HD
 http://vaders.tv/live/cici/cici/2471.ts
-#EXTINF:-1, group-title="United Kingdom", ITV 2
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_2.png" group-title="United Kingdom", ITV 2
 http://vaders.tv/live/cici/cici/39868.ts
-#EXTINF:-1, group-title="United Kingdom", ITV 3 HD
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_3_hd.png" group-title="United Kingdom", ITV 3 HD
 http://vaders.tv/live/cici/cici/2472.ts
-#EXTINF:-1, group-title="United Kingdom", ITV 3
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_3.png" group-title="United Kingdom", ITV 3
 http://vaders.tv/live/cici/cici/39869.ts
-#EXTINF:-1, group-title="United Kingdom", ITV 4 HD
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_4_hd.png" group-title="United Kingdom", ITV 4 HD
 http://vaders.tv/live/cici/cici/2473.ts
-#EXTINF:-1, group-title="United Kingdom", ITV 4
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_4.png" group-title="United Kingdom", ITV 4
 http://vaders.tv/live/cici/cici/39870.ts
-#EXTINF:-1, group-title="United Kingdom", ITV Encore HD
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_encore.png" group-title="United Kingdom", ITV Encore HD
 http://vaders.tv/live/cici/cici/2475.ts
-#EXTINF:-1, group-title="United Kingdom", ITV Encore
+#EXTINF:-1, tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_encore.png" group-title="United Kingdom", ITV Encore
 http://vaders.tv/live/cici/cici/39872.ts
 #EXTINF:-1, group-title="United Kingdom", Sky 1
 http://vaders.tv/live/cici/cici/2573.ts
