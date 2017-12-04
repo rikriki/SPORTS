@@ -200,19 +200,19 @@ http://103.77.116.191:443/cartoon/nick_jr._720p.stream/chunklist.m3u8
 #EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/History%20HD.png" group-title="ASIAN TV", History HD
 http://103.77.116.250/boboapp1/a_history.stream/playlist.m3u8?userid=174906&e=1506407724&st=CjVnoW-pAqmhUVpTRVcxPA
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5476e8bf87fa52_31319115.png" group-title="ASIAN TV", Discovery Channel 
-http://183.88.212.205:8010/play/a031
+http://163.44.207.172:9981/stream/channelid/2052540386
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch204.gif" group-title="ASIAN TV", Discovery Asia
-http://183.88.212.205:8010/play/a00t
+http://163.44.207.172:9981/stream/channelid/1584278498
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="ASIAN TV", Discovery Science
-http://183.88.212.205:8010/play/a034
+http://163.44.207.172:9981/stream/channelid/1088956635
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9a542.png" group-title="ASIAN TV", Nat Geo 
-http://183.88.212.205:8010/play/a02x
+http://163.44.207.172:9981/stream/channelid/537109182
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_54f21cb811caa5_99461820.png" group-title="ASIAN TV", Nat Geo WILD HD 
-http://183.88.212.205:8010/play/a02y
+http://163.44.207.172:9981/stream/channelid/1133872704
 #EXTINF:-1,tvg-logo="http://www.lonnytv.com/ch/natgeo%20music.png" group-title="ASIAN TV", Nat Geo Music
 http://183.88.212.205:8010/play/a01q
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch255.gif" group-title="ASIAN TV", Nat Geo People
-http://183.88.212.205:8010/play/a02z
+http://163.44.207.172:9981/stream/channelid/1733872268
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/644753216727445504/LmzG_qHM.jpg" group-title="ASIAN TV", BBC Earth
 http://183.88.212.205:8010/play/a03e
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_537a434fe62f88_23303977.png" group-title="ASIAN TV", Animal Planet 
@@ -242,7 +242,7 @@ http://183.88.212.205:8010/play/a02h
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/876772485215141889/k58i8c8N.jpg" group-title="ASIAN TV", Channel News Asia
 http://183.88.212.205:8010/play/a02f
 #EXTINF:-1, tvg-logo="http://www.skynetdth.com/images/channal_logo/CNN.png" group-title="ASIAN TV", CNN
-http://183.88.212.205:8010/play/a00l
+http://163.44.207.172:9981/stream/channelid/504328147
 #EXTINF:-1, tvg-logo="http://tennis-win.net/wp-content/uploads/2014/11/bs-asahi.jpg" group-title="JAPAN", BS Asahi
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-3WgJDDR0Nb8/AAAAAAAAAAI/AAAAAAAAAAA/GZQsfVI-QnU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="JAPAN", BS Fuji
