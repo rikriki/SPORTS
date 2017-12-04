@@ -695,9 +695,9 @@ http://vaders.tv/live/cici/cici/2571.ts
 http://vaders.tv/live/cici/cici/2572.ts
 #EXTINF:-1, group-title="United Kingdom", Pick TV
 http://vaders.tv/live/cici/cici/2578.ts
-#EXTINF:-1, group-title="United Kingdom", 5USA
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/5usa.png" group-title="United Kingdom", 5USA
 http://vaders.tv/live/cici/cici/34211.ts
-#EXTINF:-1, group-title="United Kingdom", 5STAR
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/5star.png" group-title="United Kingdom", 5STAR
 http://vaders.tv/live/cici/cici/34212.ts
 #EXTINF:-1, group-title="United Kingdom", CBS Drama
 http://vaders.tv/live/cici/cici/34214.ts
@@ -737,7 +737,7 @@ http://vaders.tv/live/cici/cici/36177.ts
 http://vaders.tv/live/cici/cici/36178.ts
 #EXTINF:-1, group-title="United Kingdom", Challenge
 http://vaders.tv/live/cici/cici/37245.ts
-#EXTINF:-1, group-title="United Kingdom", Alibi
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/alibi.png" group-title="United Kingdom", Alibi
 http://vaders.tv/live/cici/cici/37247.ts
 #EXTINF:-1, group-title="United Kingdom", TLC UK
 http://vaders.tv/live/cici/cici/39028.ts
@@ -753,7 +753,7 @@ http://vaders.tv/live/cici/cici/39817.ts
 http://vaders.tv/live/cici/cici/39640.ts
 #EXTINF:-1, group-title="United Kingdom", Discovery History
 http://vaders.tv/live/cici/cici/39816.ts
-#EXTINF:-1, group-title="United Kingdom", Animal Planet UK
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/animalplanet.png" group-title="United Kingdom", Animal Planet UK
 http://vaders.tv/live/cici/cici/39641.ts
 #EXTINF:-1, group-title="United Kingdom", National Geographic UK
 http://vaders.tv/live/cici/cici/39029.ts
@@ -839,9 +839,9 @@ http://vaders.tv/live/cici/cici/39827.ts
 http://vaders.tv/live/cici/cici/2570.ts
 #EXTINF:-1, group-title="United Kingdom", Sky Sports News
 http://vaders.tv/live/cici/cici/39826.ts
-#EXTINF:-1, group-title="United Kingdom", BT Sports 1 HD
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/btsport1hd.png"  group-title="United Kingdom", BT Sports 1 HD
 http://vaders.tv/live/cici/cici/2487.ts
-#EXTINF:-1, group-title="United Kingdom", BT Sports 1
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/btsport1.png"  group-title="United Kingdom", BT Sports 1
 http://vaders.tv/live/cici/cici/39828.ts
 #EXTINF:-1, group-title="United Kingdom", BT Sports 2 HD
 http://vaders.tv/live/cici/cici/2488.ts
@@ -869,7 +869,7 @@ http://vaders.tv/live/cici/cici/3009.ts
 http://vaders.tv/live/cici/cici/19296.ts
 #EXTINF:-1, group-title="United Kingdom", Racing UK HD
 http://vaders.tv/live/cici/cici/19295.ts
-#EXTINF:-1, group-title="United Kingdom", At The Races
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/attheraces.png" group-title="United Kingdom", At The Races
 http://vaders.tv/live/cici/cici/19297.ts
 #EXTINF:-1, group-title="United Kingdom", Eir Sports 1 HD
 http://vaders.tv/live/cici/cici/2593.ts
