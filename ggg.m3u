@@ -699,11 +699,11 @@ http://vaders.tv/live/cici/cici/2578.ts
 http://vaders.tv/live/cici/cici/34211.ts
 #EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/5star.png" group-title="United Kingdom", 5STAR
 http://vaders.tv/live/cici/cici/34212.ts
-#EXTINF:-1, group-title="United Kingdom", CBS Drama
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/cbsdrama.png" group-title="United Kingdom", CBS Drama
 http://vaders.tv/live/cici/cici/34214.ts
 #EXTINF:-1, group-title="United Kingdom", CBS Reality
 http://vaders.tv/live/cici/cici/34215.ts
-#EXTINF:-1, group-title="United Kingdom", CBS Action
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/cbsaction.png" group-title="United Kingdom", CBS Action
 http://vaders.tv/live/cici/cici/34213.ts
 #EXTINF:-1, group-title="United Kingdom", Comedy Central UK
 http://vaders.tv/live/cici/cici/39642.ts
@@ -759,7 +759,7 @@ http://vaders.tv/live/cici/cici/39641.ts
 http://vaders.tv/live/cici/cici/39029.ts
 #EXTINF:-1, group-title="United Kingdom", Nat Geo Wild UK
 http://vaders.tv/live/cici/cici/72692.ts
-#EXTINF:-1, group-title="United Kingdom", Boomerang UK
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/boomerang.png" group-title="United Kingdom", Boomerang UK
 http://vaders.tv/live/cici/cici/37248.ts
 #EXTINF:-1, group-title="United Kingdom", Cartoon Network UK
 http://vaders.tv/live/cici/cici/37249.ts
@@ -773,7 +773,7 @@ http://vaders.tv/live/cici/cici/37251.ts
 http://vaders.tv/live/cici/cici/52255.ts
 #EXTINF:-1, group-title="United Kingdom", Nicktoons UK
 http://vaders.tv/live/cici/cici/52256.ts
-#EXTINF:-1, group-title="United Kingdom", CBBC HD
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/cbbchd.png" group-title="United Kingdom", CBBC HD
 http://vaders.tv/live/cici/cici/37252.ts
 #EXTINF:-1, group-title="United Kingdom", CBeebies
 http://vaders.tv/live/cici/cici/37253.ts
@@ -783,7 +783,7 @@ http://vaders.tv/live/cici/cici/37254.ts
 http://vaders.tv/live/cici/cici/37255.ts
 #EXTINF:-1, group-title="United Kingdom", Disney XD UK
 http://vaders.tv/live/cici/cici/52253.ts
-#EXTINF:-1, group-title="United Kingdom", BabyTV
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/babytv.png" group-title="United Kingdom", BabyTV
 http://vaders.tv/live/cici/cici/39643.ts
 #EXTINF:-1, group-title="United Kingdom", Pop UK
 http://vaders.tv/live/cici/cici/52257.ts
@@ -843,17 +843,17 @@ http://vaders.tv/live/cici/cici/39826.ts
 http://vaders.tv/live/cici/cici/2487.ts
 #EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/btsport1.png"  group-title="United Kingdom", BT Sports 1
 http://vaders.tv/live/cici/cici/39828.ts
-#EXTINF:-1, group-title="United Kingdom", BT Sports 2 HD
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/btsport2hd.png" group-title="United Kingdom", BT Sports 2 HD
 http://vaders.tv/live/cici/cici/2488.ts
-#EXTINF:-1, group-title="United Kingdom", BT Sports 2
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/btsport2.png" group-title="United Kingdom", BT Sports 2
 http://vaders.tv/live/cici/cici/39829.ts
-#EXTINF:-1, group-title="United Kingdom", BT Sports 3 HD
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/btsport3hd.png" group-title="United Kingdom", BT Sports 3 HD
 http://vaders.tv/live/cici/cici/2489.ts
-#EXTINF:-1, group-title="United Kingdom", BT Sports 3
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/btsport3.png" group-title="United Kingdom", BT Sports 3
 http://vaders.tv/live/cici/cici/39830.ts
-#EXTINF:-1, group-title="United Kingdom", BT Sports ESPN HD
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/btsportespnhd.png" group-title="United Kingdom", BT Sports ESPN HD
 http://vaders.tv/live/cici/cici/2790.ts
-#EXTINF:-1, group-title="United Kingdom", BT Sports ESPN
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/btsportespn.png" group-title="United Kingdom", BT Sports ESPN
 http://vaders.tv/live/cici/cici/39831.ts
 #EXTINF:-1, group-title="United Kingdom", Eurosport 1 HD
 http://vaders.tv/live/cici/cici/19293.ts
@@ -873,7 +873,7 @@ http://vaders.tv/live/cici/cici/19295.ts
 http://vaders.tv/live/cici/cici/19297.ts
 #EXTINF:-1, group-title="United Kingdom", Eir Sports 1 HD
 http://vaders.tv/live/cici/cici/2593.ts
-#EXTINF:-1, group-title="United Kingdom", Boxnation
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/boxnation.png" group-title="United Kingdom", Boxnation
 http://vaders.tv/live/cici/cici/39646.ts
 #EXTINF:-1, group-title="United Kingdom", Sky Cinema Drama HD
 http://vaders.tv/live/cici/cici/72668.ts
