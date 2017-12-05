@@ -815,9 +815,9 @@ http://vaders.tv/live/cici/cici/39822.ts
 http://vaders.tv/live/cici/cici/2481.ts
 #EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skysportsgolf.png" group-title="United Kingdom", Sky Sports Golf
 http://vaders.tv/live/cici/cici/39823.ts
-#EXTINF:-1, tvg-logo="https://dls-tech.co.uk/wp-content/uploads/2017/07/Screen-Shot-2017-07-10-at-12.22.05.png" group-title="United Kingdom", Sky Sports Premier League HD
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skysportsplhd.png" group-title="United Kingdom", Sky Sports Premier League HD
 http://vaders.tv/live/cici/cici/2482.ts
-#EXTINF:-1, tvg-logo="https://dls-tech.co.uk/wp-content/uploads/2017/07/Screen-Shot-2017-07-10-at-12.22.05.png" group-title="United Kingdom", Sky Sports Premier League
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skysportspl.png" group-title="United Kingdom", Sky Sports Premier League
 http://vaders.tv/live/cici/cici/39824.ts
 #EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skysportsf1hd.png" group-title="United Kingdom", Sky Sports F1 HD
 http://vaders.tv/live/cici/cici/2483.ts
@@ -831,9 +831,9 @@ http://vaders.tv/live/cici/cici/47385.ts
 http://vaders.tv/live/cici/cici/42360.ts
 #EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skysportsfootball.png" group-title="United Kingdom", Sky Sports Football
 http://vaders.tv/live/cici/cici/47386.ts
-#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skysportsmixhd.png" group-title="United Kingdom", Sky Sports Mix HD
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skyspmixhd.png" group-title="United Kingdom", Sky Sports Mix HD
 http://vaders.tv/live/cici/cici/37235.ts
-#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skysportsmix.png" group-title="United Kingdom", Sky Sports Mix
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skyspmix.png" group-title="United Kingdom", Sky Sports Mix
 http://vaders.tv/live/cici/cici/39827.ts
 #EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skysportsnewshd.png" group-title="United Kingdom", Sky Sports News HD
 http://vaders.tv/live/cici/cici/2570.ts
@@ -875,9 +875,9 @@ http://vaders.tv/live/cici/cici/19297.ts
 http://vaders.tv/live/cici/cici/2593.ts
 #EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/boxnation.png" group-title="United Kingdom", Boxnation
 http://vaders.tv/live/cici/cici/39646.ts
-#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skycinemadramaandromancehd.png" group-title="United Kingdom", Sky Cinema Drama HD
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skydramaandromhd.png" group-title="United Kingdom", Sky Cinema Drama HD
 http://vaders.tv/live/cici/cici/72668.ts
-#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skycinemahitshd.png" group-title="United Kingdom", Sky Cinema Hits HD
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skyhitshd.png" group-title="United Kingdom", Sky Cinema Hits HD
 http://vaders.tv/live/cici/cici/72681.ts
 #EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skyshowcasehd.png" group-title="United Kingdom", Sky Cinema Showcase HD
 http://vaders.tv/live/cici/cici/72682.ts
@@ -885,19 +885,19 @@ http://vaders.tv/live/cici/cici/72682.ts
 http://vaders.tv/live/cici/cici/2736.ts
 #EXTINF:-1, tvg-logo="http://www.shoofeetv.com/images/2013/09/20130902215948_channelsbig.png" group-title="United Kingdom", Sky Cinema Modern Greats HD
 http://vaders.tv/live/cici/cici/2737.ts
-#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skycinemapremierehd.png" group-title="United Kingdom", Sky Cinema Premiere HD
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skypremierehd.png" group-title="United Kingdom", Sky Cinema Premiere HD
 http://vaders.tv/live/cici/cici/2738.ts
-#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skycinemafamilyhd.png" group-title="United Kingdom", Sky Cinema Family HD
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skyfamilyhd.png" group-title="United Kingdom", Sky Cinema Family HD
 http://vaders.tv/live/cici/cici/2741.ts
-#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skycinemadisneyhd.png" group-title="United Kingdom", Sky Cinema Disney HD
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skydisneyhd.png" group-title="United Kingdom", Sky Cinema Disney HD
 http://vaders.tv/live/cici/cici/2742.ts
-#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skycinemascifiandhorrorhd.pngg" group-title="United Kingdom", Sky Cinema Sci-Fi & Horror HD
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skycinemascifiandhorrorhd.png" group-title="United Kingdom", Sky Cinema Sci-Fi & Horror HD
 http://vaders.tv/live/cici/cici/39813.ts
 #EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skycinemacrimeandthrillerhd.png" group-title="United Kingdom", Sky Cinema Crime & Thriller HD
 http://vaders.tv/live/cici/cici/2739.ts
-#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skycinemacomedyhd.png" group-title="United Kingdom", Sky Cinema Comedy HD
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skycomedyhd.png" group-title="United Kingdom", Sky Cinema Comedy HD
 http://vaders.tv/live/cici/cici/2743.ts
-#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skycinemahitshd.png" group-title="United Kingdom", Sky Cinema Hits
+#EXTINF:-1, tvg-logo="http://50.7.149.122:3074/picon/skyhits.png" group-title="United Kingdom", Sky Cinema Hits
 http://vaders.tv/live/cici/cici/2735.ts
 #EXTINF:-1, group-title="SPORTS", Sky Sports Main Event HD
 http://vaders.tv/live/cici/cici/2889.ts
