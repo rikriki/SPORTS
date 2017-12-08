@@ -46,7 +46,7 @@ http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-147
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_410.png" group-title="ASIAN TV", Fox Family Movies   
 http://103.77.116.250/boboapp6/FOX_FAMILY_MOVIES/playlist.m3u8?userid=174906&e=1507380556&st=yQg4wpIr1J3WfXPBUn-J_Q
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_411.png" group-title="ASIAN TV", Fox Action Movies  
-http://103.77.116.250/boboapp6/FOX_ACTION_MOVIES_HD/playlist.m3u8?userid=174906&e=1507380362&st=NvqbZVmBUu3ol5fAKQvyRg
+http://103.77.116.191:443//movie/fox_action_movies_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_409.png" group-title="ASIAN TV", Fox Movies Premium 
 http://103.77.116.191:443/movie/fox_movies_premium_hd_720p.stream/chunklist.m3u8?st=rrnyA8Dx3l-pO6Qjykn_6w&username=12587&password=3cabcdeed69524d943674b92dfac56da&e=151196666
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/hbo_hd.png" group-title="ASIAN TV", HBO 
