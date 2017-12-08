@@ -76,7 +76,7 @@ http://183.88.212.205:8010/play/a03c
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/BIO_FYI_150x150.jpg" group-title="ASIAN TV", FYI
 http://103.77.116.250/boboapp2/FYI_HD_Thailand/playlist.m3u8?userid=174906&e=1507380576&st=zosyHW9YgWr-Nt-HQp67yw
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/logo-ci.jpg" group-title="ASIAN TV", CRIME INVESTIGATION
-http://103.77.116.191:443//foreign/ci_hd_720p.stream/playlist.m3u8?st=Y-w728F3j826bEQJlX9twQ&username2=0986546676&username=h2jjD3rdxBAZwh2jjD3r&password=mmmmc9e7ac3bf31739016527&e=1512055906
+http://103.77.116.191:443//foreign/ci_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Images/DIVA.png" group-title="ASIAN TV", Diva Universal
 http://103.77.116.250/boboapp6/DIVA_UNIVERSAL/playlist.m3u8?userid=174906&e=1507381408&st=dfmzTY1VIKizZ-h9DA1IFg  
 #EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch328.gif" group-title="ASIAN TV", E!
@@ -143,24 +143,8 @@ http://103.77.116.250/boboapp1/a_truesp5.stream/playlist.m3u8?userid=174906&e=15
 http://103.77.116.250/boboapp1/a_truesp6.stream/playlist.m3u8?userid=174906&e=1507362814&st=kJskK0yX3fyfP0GUkNIw3g
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e0032c3.png" group-title="ASIAN TV",True Sport 7  
 http://103.77.116.250/boboapp1/a_truesp7.stream/playlist.m3u8?userid=174906&e=1507362860&st=uu5BVvCvsghT2IRuE0GRmw
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff28ea.png" group-title="ASIAN TV",Sky Sports F1 
-http://191.96.38.44:443/seedbet54/0x444_skysportf1manic_360p/chunklist_w1086904758.m3u8?key=hqv6trdiac68mb2ucemvaqgz
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfbb9d0.png" group-title="ASIAN TV",BT Sport 1 
-http://191.96.38.44:443/seedbet54/0x444_btsport1manic_360p/chunklist_w1639605668.m3u8?key=hqv6trdiac68mb2ucemvaqgz
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfbea75.png" group-title="ASIAN TV",BT Sport 2 
-http://191.96.38.44:443/seedbet54/0x444_btsport2manic_360p/chunklist_w1639605668.m3u8?key=hqv6trdiac68mb2ucemvaqgz
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfc11e2.png" group-title="ASIAN TV",BT Sport 3 
-http://191.96.38.44:443/seedbet54/0x444_btsport3manic_360p/chunklist_w1639605668.m3u8?key=hqv6trdiac68mb2ucemvaqgz
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfc15b0.png" group-title="ASIAN TV",BT Sport ESPN 
-http://191.96.38.44:443/seedbet54/0x444_btsportespnmanic_360p/chunklist_w1639605668.m3u8?key=hqv6trdiac68mb2ucemvaqgz
 #EXTINF:-1, tvg-logo="http://www.smarttvradar.com/wp-content/uploads/2012/11/logoBritishEurosport.jpg" group-title="ASIAN TV",Eurosport
 http://103.77.116.250/boboapp6/EURO_SPORTS/playlist.m3u8?userid=174906&e=1506094685&st=pDfntLkvU1TsyWNMAS1l4w
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb30ce.png" group-title="ASIAN TV",Eurosport 1
-http://dooballsodhd.8img.xyz:443/free54/0x444_eurosportuk1_360p/chunklist_w1567287504.m3u8?key=g4pqv1lcvx1faghkd1k396k5
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb34e5.png" group-title="ASIAN TV",Eurosport 2
-http://dooballsodhd.8img.xyz:443/free54/0x444_eurosportuk2_360p/chunklist_w1567287504.m3u8?key=g4pqv1lcvx1faghkd1k396k5
-#EXTINF:-1, tvg-logo="http://www.insideworldfootball.com/app/uploads/2016/01/MUTV_logo.jpeg" group-title="ASIAN TV",MUTV 
-http://103.77.116.191:443//sportinter/mutv_360p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,tvg-logo="https://contentpl-a.akamaihd.net/images/playlists/image/medium/114567.jpg" group-title="ASIAN TV", MTV Asia
 http://183.88.212.205:8010/play/a01t
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df95a33.png" group-title="ASIAN TV", MTV China
@@ -205,19 +189,19 @@ http://103.77.116.191:443//documentary/discovery_hd_world_720p.stream/playlist.m
 http://163.44.207.172:9981/stream/channelid/1088956635
 http://103.77.116.191:443//documentary/national_geographic_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_54f21cb811caa5_99461820.png" group-title="ASIAN TV", Nat Geo WILD HD 
-http://163.44.207.172:9981/stream/channelid/1133872704
+http://103.77.116.191:443//documentary/national_geographic_wild_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,tvg-logo="http://www.lonnytv.com/ch/natgeo%20music.png" group-title="ASIAN TV", Nat Geo Music
 http://183.88.212.205:8010/play/a01q
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch255.gif" group-title="ASIAN TV", Nat Geo People
 http://103.77.116.191:443//documentary/national_geographic_people_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/644753216727445504/LmzG_qHM.jpg" group-title="ASIAN TV", BBC Earth
-http://183.88.212.205:8010/play/a03e
+http://103.77.116.191:443//documentary/bbc_earth_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_537a434fe62f88_23303977.png" group-title="ASIAN TV", Animal Planet 
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="ASIAN TV", NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://pmcdeadline2.files.wordpress.com/2013/04/tlc-logo__130404131002.jpg" group-title="ASIAN TV", TLC
-http://183.88.212.205:8010/play/a032
+http://103.77.116.191:443//movie/tlc_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/DM_LOGO_RGB.svg/400px-DM_LOGO_RGB.svg.png" group-title="ASIAN TV", DMAX
 http://103.77.116.250/boboapp2/DMAX_Southeast_Asia/playlist.m3u8?userid=174906&e=1506458745&st=o_NZDcNdpHj6mWPO4t8Pkw
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LIVING%20ASIA.png" group-title="ASIAN TV", LIVING ASIA CHANNEL
@@ -229,15 +213,15 @@ http://183.88.212.205:8010/play/a01v
 #EXTINF:-1, tvg-logo="http://www.fanoos.com/ia/al_jazeera_english_live_free_stream.jpg" group-title="ASIAN TV", Al Jazeera English
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 #EXTINF:-1, tvg-logo="http://www.africa2016.org/images/logos/euronews.jpg" group-title="ASIAN TV", Euronews
-http://191.96.38.44:443/seedbet54/0x222_euronews_720p/chunklist_w1835669505.m3u8?key=hqv6trdiac68mb2ucemvaqgz
+http://103.77.116.191:443//news/euronews_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1, tvg-logo="https://football-hd.com/img_channel.php?c=news-springnews-hd.png" group-title="ASIAN TV", Sky News HD
-http://183.88.212.205:8010/play/a00e
+http://103.77.116.191:443//news/sky_news_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1, tvg-logo="https://football-hd.com/img_channel.php?c=news-foxnews.png" group-title="ASIAN TV", Fox News
 http://103.77.116.191:443/news/fox_news_720p.stream/chunklist.m3u8?st=rrnyA8Dx3l-pO6Qjykn_6w&username=12587&password=3cabcdeed69524d943674b92dfac56da&e=151196666
 #EXTINF:-1, tvg-logo="http://www.logoeps.net/wp-content/uploads/2012/04/france_24-logo.jpg" group-title="ASIAN TV", France 24
-http://183.88.212.205:8010/play/a02h
+http://103.77.116.191:443//news/france_24_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/876772485215141889/k58i8c8N.jpg" group-title="ASIAN TV", Channel News Asia
-http://183.88.212.205:8010/play/a02f
+http://103.77.116.191:443//news/channel_newsasia_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348http://183.88.212.205:8010/play/a02f
 #EXTINF:-1, tvg-logo="http://www.skynetdth.com/images/channal_logo/CNN.png" group-title="ASIAN TV", CNN
 http://163.44.207.172:9981/stream/channelid/504328147
 #EXTINF:-1, tvg-logo="http://tennis-win.net/wp-content/uploads/2014/11/bs-asahi.jpg" group-title="JAPAN", BS Asahi
