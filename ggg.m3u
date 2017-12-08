@@ -44,9 +44,9 @@ http://183.88.212.205:8010/play/a028
 #EXTINF:-1,tvg-logo="http://www.singteltv.com.sg/_channels/ico_ch523.gif" group-title="ASIAN TV",, KBS WORLD 
 http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-1474711308/eol/20200101T0000/hash/256504442b73f1d929c1a36b033cfd53facda543/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_410.png" group-title="ASIAN TV", Fox Family Movies   
-http://183.88.212.205:8010/play/a01m
+http://103.77.116.250/boboapp6/FOX_FAMILY_MOVIES/playlist.m3u8?userid=174906&e=1507380556&st=yQg4wpIr1J3WfXPBUn-J_Q
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_411.png" group-title="ASIAN TV", Fox Action Movies  
-http://103.77.116.250/boboapp1/fox_action.stream/playlist.m3u8?userid=174906&e=1507380332&st=9TLg2668SFOhnT5V379eQA
+http://103.77.116.250/boboapp6/FOX_ACTION_MOVIES_HD/playlist.m3u8?userid=174906&e=1507380362&st=NvqbZVmBUu3ol5fAKQvyRg
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_409.png" group-title="ASIAN TV", Fox Movies Premium 
 http://103.77.116.191:443/movie/fox_movies_premium_hd_720p.stream/chunklist.m3u8?st=rrnyA8Dx3l-pO6Qjykn_6w&username=12587&password=3cabcdeed69524d943674b92dfac56da&e=151196666
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/hbo_hd.png" group-title="ASIAN TV", HBO 
@@ -96,7 +96,7 @@ http://103.77.116.250/boboapp1/nba2.stream/playlist.m3u8?userid=174906&e=1506094
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_421.png" group-title="ASIAN TV", Fox Sports HD
 http://103.77.116.250/boboapp1/fox1.stream/playlist.m3u8?userid=174906&e=1507362095&st=reCrWEfr2Ijd2y11mqvUvA
 #EXTINF:-1,tvg-logo="https://bangshift.com/wp-content/uploads/2015/07/fox.jpg" group-title="ASIAN TV", Fox Sports 1
-http://183.88.212.205:8010/play/a02m
+http://vps817.vpshispeed.net:8081/tv11/fox1/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/04/fs2logo.png" group-title="ASIAN TV", Fox Sports 2  
 http://vps817.vpshispeed.net:8081/tv11/fox2/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e00c5fe.png" group-title="ASIAN TV", Fox Sports 3
