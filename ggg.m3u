@@ -71,8 +71,6 @@ http://183.88.212.205:8010/play/a020
 http://103.77.116.250/boboapp6/CINEMAX/playlist.m3u8?userid=174906&e=1507380529&st=esI3x6zFU-rrgDf3rQggMA
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/warner_tv.png" group-title="ASIAN TV", Warner TV
 http://103.77.116.250/boboapp1/warner.stream/playlist.m3u8?userid=174906&e=1507380312&st=uOCzPpqDjqPWvq168gjBHA
-#EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch309.gif" group-title="ASIAN TV", KIX HD
-http://27.254.63.162/stream/tot4k.php?channel_id=e584e0adae6440eab366f5fe3a824f91
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/REDbyHBO_150x150.jpg" group-title="ASIAN TV", RED by HBO
 http://183.88.212.205:8010/play/a03c
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/BIO_FYI_150x150.jpg" group-title="ASIAN TV", FYI
@@ -80,7 +78,7 @@ http://103.77.116.250/boboapp2/FYI_HD_Thailand/playlist.m3u8?userid=174906&e=150
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/logo-ci.jpg" group-title="ASIAN TV", CRIME INVESTIGATION
 http://103.77.116.191:443//foreign/ci_hd_720p.stream/playlist.m3u8?st=Y-w728F3j826bEQJlX9twQ&username2=0986546676&username=h2jjD3rdxBAZwh2jjD3r&password=mmmmc9e7ac3bf31739016527&e=1512055906
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Images/DIVA.png" group-title="ASIAN TV", Diva Universal
-http://183.88.212.205:8010/play/a03n
+http://103.77.116.250/boboapp6/DIVA_UNIVERSAL/playlist.m3u8?userid=174906&e=1507381408&st=dfmzTY1VIKizZ-h9DA1IFg  
 #EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch328.gif" group-title="ASIAN TV", E!
 http://103.77.116.250/boboapp6/E/playlist.m3u8?userid=174906&e=1507381456&st=LEA3f7plCb0eBCIbW5FXRQ
 #EXTINF:-1, tvg-logo="https://www.gmkfreelogos.com/logos/C/img/Comedy_Central-2.gif" group-title="ASIAN TV", Comedy Central
@@ -88,7 +86,7 @@ http://103.77.116.250/boboapp6/COMEDY_CENTRAL/playlist.m3u8?userid=174906&e=1507
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/4kW0DkfCD48/hqdefault.jpg" group-title="ASIAN TV", EGG Network
 http://103.77.116.250/boboapp6/UNIVERSAL_SD/playlist.m3u8?userid=174906&e=1507380421&st=70yYJV21tWZ24PfvRBQHWw
 #EXTINF:-1, tvg-logo="http://www.lakecooptv.asia/images/evehd.png" group-title="ASIAN TV", Eve
-http://183.88.212.205:8010/play/a033
+http://103.77.116.191:443//varity/eve_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch302.gif" group-title="ASIAN TV", Lifetime
 http://183.88.212.205:8010/play/a03l
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" group-title="ASIAN TV", NBA TV
@@ -174,11 +172,11 @@ http://persik.by/stream/1417/252987/10208.m3u8
 #EXTINF:-1,tvg-logo="https://www.billboard.com/files/styles/promo_650/public/media/MTV-Live-Logo.jpg" group-title="ASIAN TV", MTV Live HD
 http://persik.by/stream/1417/252987/10289.m3u8
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=chv-inter.png" group-title="ASIAN TV", Channel V
-http://123.27.175.6:4022/rtp/232.84.1.13:8052
+http://103.77.116.250/boboapp6/CH-V/playlist.m3u8?userid=174906&e=1507381358&st=d5eR0abwJ6ls0yizOplSEg
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9864d.png" group-title="ASIAN TV", Trace Urban
-http://191.96.38.44:443/seedbet54/0x222_traceurbanhd_720p/chunklist_w584031349.m3u8?key=hqv6trdiac68mb2ucemvaqgz
+http://103.77.116.191:443//music/trace_urban_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,tvg-logo="https://www.animax-asia.com/sites/asia.animax/files/animax_logo_endorsed_0.png" group-title="ASIAN TV", ANIMAX
-http://183.88.212.205:8010/play/a00h
+http://103.77.116.250/boboapp6/ANIMAX/playlist.m3u8?userid=174906&e=1506469082&st=koNCkIyYtIhpo4Xuik9AUg
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/cbeebies_150.png" group-title="ASIAN TV", BBC CBEEBIES
 http://103.77.116.250/boboapp6/BBC_CBEEBIES/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/DC_LGO_E_CYN_RGB_150x150.jpg" group-title="ASIAN TV", Disney Channel 
@@ -200,19 +198,18 @@ http://103.77.116.191:443/cartoon/nick_jr._720p.stream/chunklist.m3u8
 #EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/History%20HD.png" group-title="ASIAN TV", History HD
 http://103.77.116.250/boboapp1/a_history.stream/playlist.m3u8?userid=174906&e=1506407724&st=CjVnoW-pAqmhUVpTRVcxPA
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5476e8bf87fa52_31319115.png" group-title="ASIAN TV", Discovery Channel 
-http://163.44.207.172:9981/stream/channelid/2052540386
+http://103.77.116.191:443//documentary/discovery_channel_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch204.gif" group-title="ASIAN TV", Discovery Asia
-http://163.44.207.172:9981/stream/channelid/1584278498
+http://103.77.116.191:443//documentary/discovery_hd_world_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="ASIAN TV", Discovery Science
 http://163.44.207.172:9981/stream/channelid/1088956635
-#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9a542.png" group-title="ASIAN TV", Nat Geo 
-http://163.44.207.172:9981/stream/channelid/537109182
+http://103.77.116.191:443//documentary/national_geographic_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_54f21cb811caa5_99461820.png" group-title="ASIAN TV", Nat Geo WILD HD 
 http://163.44.207.172:9981/stream/channelid/1133872704
 #EXTINF:-1,tvg-logo="http://www.lonnytv.com/ch/natgeo%20music.png" group-title="ASIAN TV", Nat Geo Music
 http://183.88.212.205:8010/play/a01q
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch255.gif" group-title="ASIAN TV", Nat Geo People
-http://163.44.207.172:9981/stream/channelid/1733872268
+http://103.77.116.191:443//documentary/national_geographic_people_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/644753216727445504/LmzG_qHM.jpg" group-title="ASIAN TV", BBC Earth
 http://183.88.212.205:8010/play/a03e
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_537a434fe62f88_23303977.png" group-title="ASIAN TV", Animal Planet 
