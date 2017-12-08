@@ -94,9 +94,9 @@ http://183.88.212.205:8010/play/a03l
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" group-title="ASIAN TV", NBA TV
 http://103.77.116.250/boboapp1/nba2.stream/playlist.m3u8?userid=174906&e=1506094772&st=l3Sd9MBlCZsHgvqg3a-www
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_421.png" group-title="ASIAN TV", Fox Sports HD
-http://103.77.116.250/boboapp1/fox1.stream/playlist.m3u8?userid=174906&e=1507362095&st=reCrWEfr2Ijd2y11mqvUvA
-#EXTINF:-1,tvg-logo="https://bangshift.com/wp-content/uploads/2015/07/fox.jpg" group-title="ASIAN TV", Fox Sports 1
 http://vps817.vpshispeed.net:8081/tv11/fox1/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://bangshift.com/wp-content/uploads/2015/07/fox.jpg" group-title="ASIAN TV", Fox Sports 1
+http://103.77.116.250/boboapp6/FOX_SPORTS_1/playlist.m3u8?userid=174906&e=1507362114&st=vLw3UguXjpa8ir3WLOidEQ
 #EXTINF:-1,tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/04/fs2logo.png" group-title="ASIAN TV", Fox Sports 2  
 http://vps817.vpshispeed.net:8081/tv11/fox2/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e00c5fe.png" group-title="ASIAN TV", Fox Sports 3
