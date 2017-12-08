@@ -50,13 +50,13 @@ http://103.77.116.250/boboapp6/FOX_ACTION_MOVIES_HD/playlist.m3u8?userid=174906&
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_409.png" group-title="ASIAN TV", Fox Movies Premium 
 http://103.77.116.191:443/movie/fox_movies_premium_hd_720p.stream/chunklist.m3u8?st=rrnyA8Dx3l-pO6Qjykn_6w&username=12587&password=3cabcdeed69524d943674b92dfac56da&e=151196666
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/hbo_hd.png" group-title="ASIAN TV", HBO 
-http://vaders.tv:80/live/cici/cici/7859.m3u8
+http://vaders.tv:80/live/cici/cici/7859.ts
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/hbo_hits.jpg" group-title="ASIAN TV", HBO Hits
-http://vaders.tv:80/live/cici/cici/7944.m3u8
+http://vaders.tv:80/live/cici/cici/7944.ts
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85235.jpg" group-title="ASIAN TV", HBO Signature
-http://vaders.tv:80/live/cici/cici/7857.m3u8
+http://vaders.tv:80/live/cici/cici/7857.ts
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/hbo_family.jpg" group-title="ASIAN TV", HBO Family
-http://vaders.tv:80/live/cici/cici/59092.m3u8
+http://vaders.tv:80/live/cici/cici/59092.ts
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/axn_150x150.jpg" group-title="ASIAN TV", AXN 
 http://103.77.116.250/boboapp1/a_axnhd.stream/playlist.m3u8?userid=174906&e=1507380600&st=ym2suzzRy7tJCh5GjAw_Zw
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch330.gif" group-title="ASIAN TV", FOX
