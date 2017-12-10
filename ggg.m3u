@@ -108,7 +108,7 @@ http://103.77.116.250/boboapp1/golf2.stream/playlist.m3u8?userid=174906&e=150736
 #EXTINF:-1, tvg-logo="http://www.j2-play.net//uploads/filemanager/source/live_channel/Sport/skynet_plus.png" group-title="ASIAN TV",SkyNet Sports PLUS   
 http://103.77.116.250/boboapp6/SKYNET_SPORTS_PLUS/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb0fcb.png" group-title="ASIAN TV",SkyNet Sports HD  
-http://103.77.116.250/boboapp6/SKYNET_SPORTS_HD/playlist.m3u8
+http://dooballsodhd.sai8.live:443/free41/0x777_skynetsporthd_720p/chunklist_w1026580057.m3u8?key=ae2eqcch3nlx4rqi6zrxk48m
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb1347.png" group-title="ASIAN TV",Skynet Sports-1 
 http://103.77.116.250/boboapp6/SKYNET_SPORTS-1/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb1685.png" group-title="ASIAN TV",Skynet Sports-2 
