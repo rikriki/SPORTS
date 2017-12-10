@@ -11,7 +11,7 @@ https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/chunklist_b
 http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_800_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="PINOY TV", CLTV 36
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_512_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/DZIQ.jpg" group-title="PINOY TV", INQUIRER 990
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/753895989904367616/GvgKNn1u.jpg" group-title="PINOY TV", INQUIRER 990
 http://59c3ec70cfde0.streamlock.net:443/channel_7/channel7/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/870865623047262208/1-IrAl1L_400x400.jpg" group-title="PINOY TV", PILIPINAS HD
 http://59c3ec70cfde0.streamlock.net:443/channel_4/channel4/playlist.m3u8
