@@ -1126,6 +1126,86 @@ http://vaders.tv/live/carolina/panthers/8319.ts
 http://vaders.tv/live/carolina/panthers/8259.ts
 #EXTINF:-1, group-title="SPORTS", Neo Prime
 http://vaders.tv/live/carolina/panthers/12295.ts
+#EXTINF:-1, tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NBA/NFL/NHL", NHL #1
+http://vaders.tv:80/live/carolina/panthers/56622.m3u8
+#EXTINF:-1, tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NBA/NFL/NHL", NHL #2
+http://vaders.tv:80/live/carolina/panthers/56626.m3u8
+#EXTINF:-1, tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NBA/NFL/NHL", NHL #3
+http://vaders.tv:80/live/carolina/panthers/56629.m3u8
+#EXTINF:-1, tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NBA/NFL/NHL", NHL #4
+http://vaders.tv:80/live/carolina/panthers/56645.m3u8
+#EXTINF:-1, tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NBA/NFL/NHL", NHL #5
+http://vaders.tv:80/live/carolina/panthers/56647.m3u8
+#EXTINF:-1, tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NBA/NFL/NHL", NHL #6
+http://vaders.tv:80/live/carolina/panthers/56648.m3u8
+#EXTINF:-1, tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NBA/NFL/NHL", NHL #7
+http://vaders.tv:80/live/carolina/panthers/56649.m3u8
+#EXTINF:-1, tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NBA/NFL/NHL", NHL #8
+http://vaders.tv:80/live/carolina/panthers/56650.m3u8
+#EXTINF:-1, tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NBA/NFL/NHL", NHL #9
+http://vaders.tv:80/live/carolina/panthers/56651.m3u8
+#EXTINF:-1, tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NBA/NFL/NHL", NHL #10
+http://vaders.tv:80/live/carolina/panthers/56652.m3u8
+#EXTINF:-1, tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NBA/NFL/NHL", NHL #11
+http://vaders.tv:80/live/carolina/panthers/56653.m3u8
+#EXTINF:-1, tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NBA/NFL/NHL", NHL #12
+http://vaders.tv:80/live/carolina/panthers/56654.m3u8
+#EXTINF:-1, tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NBA/NFL/NHL", NHL #13
+http://vaders.tv:80/live/carolina/panthers/56825.m3u8
+#EXTINF:-1, tvg-logo="https://mit.zenfs.com/206/2011/10/NHLCI.jpg" group-title="NBA/NFL/NHL", NHL #14
+http://vaders.tv:80/live/carolina/panthers/56826.m3u8
+#EXTINF:-1, tvg-logo="https://www.libertyshield.com/blog/wp-content/uploads/2016/09/Gamepass.jpg" group-title="NBA/NFL/NHL", NFL #1
+http://vaders.tv:80/live/carolina/panthers/56655.m3u8
+#EXTINF:-1, tvg-logo="https://www.libertyshield.com/blog/wp-content/uploads/2016/09/Gamepass.jpg" group-title="NBA/NFL/NHL", NFL #2
+http://vaders.tv:80/live/carolina/panthers/56656.m3u8
+#EXTINF:-1, tvg-logo="https://www.libertyshield.com/blog/wp-content/uploads/2016/09/Gamepass.jpg" group-title="NBA/NFL/NHL", NFL #3
+http://vaders.tv:80/live/carolina/panthers/56657.m3u8
+#EXTINF:-1, tvg-logo="https://www.libertyshield.com/blog/wp-content/uploads/2016/09/Gamepass.jpg" group-title="NBA/NFL/NHL", NFL #4
+http://vaders.tv:80/live/carolina/panthers/56658.m3u8
+#EXTINF:-1, tvg-logo="https://www.libertyshield.com/blog/wp-content/uploads/2016/09/Gamepass.jpg" group-title="NBA/NFL/NHL", NFL #5
+http://vaders.tv:80/live/carolina/panthers/56659.m3u8
+#EXTINF:-1, tvg-logo="https://www.libertyshield.com/blog/wp-content/uploads/2016/09/Gamepass.jpg" group-title="NBA/NFL/NHL", NFL #6
+http://vaders.tv:80/live/carolina/panthers/56660.m3u8
+#EXTINF:-1, tvg-logo="https://www.libertyshield.com/blog/wp-content/uploads/2016/09/Gamepass.jpg" group-title="NBA/NFL/NHL", NFL #7
+http://vaders.tv:80/live/carolina/panthers/56661.m3u8
+#EXTINF:-1, tvg-logo="https://www.libertyshield.com/blog/wp-content/uploads/2016/09/Gamepass.jpg" group-title="NBA/NFL/NHL", NFL #8
+http://vaders.tv:80/live/carolina/panthers/56662.m3u8
+#EXTINF:-1, tvg-logo="https://www.libertyshield.com/blog/wp-content/uploads/2016/09/Gamepass.jpg" group-title="NBA/NFL/NHL", NFL #9
+http://vaders.tv:80/live/carolina/panthers/56663.m3u8
+#EXTINF:-1, tvg-logo="https://www.libertyshield.com/blog/wp-content/uploads/2016/09/Gamepass.jpg" group-title="NBA/NFL/NHL", NFL #10
+http://vaders.tv:80/live/carolina/panthers/56664.m3u8
+#EXTINF:-1, tvg-logo="https://www.libertyshield.com/blog/wp-content/uploads/2016/09/Gamepass.jpg" group-title="NBA/NFL/NHL", NFL #11
+http://vaders.tv:80/live/carolina/panthers/56665.m3u8
+#EXTINF:-1, tvg-logo="https://www.libertyshield.com/blog/wp-content/uploads/2016/09/Gamepass.jpg" group-title="NBA/NFL/NHL", NFL #12
+http://vaders.tv:80/live/carolina/panthers/56666.m3u8
+#EXTINF:-1, tvg-logo="https://www.libertyshield.com/blog/wp-content/uploads/2016/09/Gamepass.jpg" group-title="NBA/NFL/NHL", NFL #13
+http://vaders.tv:80/live/carolina/panthers/56667.m3u8
+#EXTINF:-1, tvg-logo="https://www.libertyshield.com/blog/wp-content/uploads/2016/09/Gamepass.jpg" group-title="NBA/NFL/NHL", NFL #14
+http://vaders.tv:80/live/carolina/panthers/56668.m3u8
+#EXTINF:-1, tvg-logo="https://www.libertyshield.com/blog/wp-content/uploads/2016/09/Gamepass.jpg" group-title="NBA/NFL/NHL", NFL #15
+http://vaders.tv:80/live/carolina/panthers/56669.m3u8
+#EXTINF:-1, tvg-logo="https://www.libertyshield.com/blog/wp-content/uploads/2016/09/Gamepass.jpg" group-title="NBA/NFL/NHL", NFL #16
+http://vaders.tv:80/live/carolina/panthers/56670.m3u8
+#EXTINF:-1, tvg-logo="http://www.nba.com/media/global/lp-logo-130911.png" group-title="NBA/NFL/NHL", NBA #1
+http://vaders.tv:80/live/carolina/panthers/64243.m3u8
+#EXTINF:-1, tvg-logo="http://www.nba.com/media/global/lp-logo-130911.png" group-title="NBA/NFL/NHL", NBA #2
+http://vaders.tv:80/live/carolina/panthers/64244.m3u8
+#EXTINF:-1, tvg-logo="http://www.nba.com/media/global/lp-logo-130911.png"group-title="NBA/NFL/NHL", NBA #3
+http://vaders.tv:80/live/carolina/panthers/64245.m3u8
+#EXTINF:-1, tvg-logo="http://www.nba.com/media/global/lp-logo-130911.png" group-title="NBA/NFL/NHL", NBA #4
+http://vaders.tv:80/live/carolina/panthers/64246.m3u8
+#EXTINF:-1, tvg-logo="http://www.nba.com/media/global/lp-logo-130911.png" group-title="NBA/NFL/NHL", NBA #5
+http://vaders.tv:80/live/carolina/panthers/64247.m3u8
+#EXTINF:-1, tvg-logo="http://www.nba.com/media/global/lp-logo-130911.png" group-title="NBA/NFL/NHL", NBA #6
+http://vaders.tv:80/live/carolina/panthers/64248.m3u8
+#EXTINF:-1, tvg-logo="http://www.nba.com/media/global/lp-logo-130911.png" group-title="NBA/NFL/NHL", NBA #7
+http://vaders.tv:80/live/carolina/panthers/64249.m3u8
+#EXTINF:-1, tvg-logo="http://www.nba.com/media/global/lp-logo-130911.png" group-title="NBA/NFL/NHL", NBA #8
+http://vaders.tv:80/live/carolina/panthers/64250.m3u8
+#EXTINF:-1, tvg-logo="http://www.nba.com/media/global/lp-logo-130911.png" group-title="NBA/NFL/NHL", NBA #9
+http://vaders.tv:80/live/carolina/panthers/64251.m3u8
+#EXTINF:-1, tvg-logo="http://www.nba.com/media/global/lp-logo-130911.png" group-title="NBA/NFL/NHL", NBA #10
+http://vaders.tv:80/live/carolina/panthers/64252.m3u8
 
 
 
