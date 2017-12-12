@@ -48,7 +48,7 @@ http://103.77.116.250/boboapp6/FOX_FAMILY_MOVIES/playlist.m3u8?userid=174906&e=1
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_411.png" group-title="ASIAN TV", Fox Action Movies  
 http://103.77.116.191:443//movie/fox_action_movies_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_409.png" group-title="ASIAN TV", Fox Movies Premium 
-http://103.77.116.191:443/movie/fox_movies_premium_hd_720p.stream/chunklist.m3u8?st=rrnyA8Dx3l-pO6Qjykn_6w&username=12587&password=3cabcdeed69524d943674b92dfac56da&e=151196666
+http://103.77.116.191:443/movie/fox_movies_premium_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/hbo_hd.png" group-title="ASIAN TV", HBO 
 http://vaders.tv:80/live/carolina/panthers/7859.ts
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/hbo_hits.jpg" group-title="ASIAN TV", HBO Hits
