@@ -160,7 +160,7 @@ http://103.77.116.250/boboapp6/CH-V/playlist.m3u8?userid=174906&e=1507381358&st=
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9864d.png" group-title="ASIAN TV", Trace Urban
 http://103.77.116.191:443//music/trace_urban_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,tvg-logo="https://www.animax-asia.com/sites/asia.animax/files/animax_logo_endorsed_0.png" group-title="ASIAN TV", ANIMAX
-http://103.77.116.250/boboapp6/ANIMAX/playlist.m3u8?userid=174906&e=1506469082&st=koNCkIyYtIhpo4Xuik9AUg
+http://103.77.116.250/boboapp6/ANIMAX/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/cbeebies_150.png" group-title="ASIAN TV", BBC CBEEBIES
 http://103.77.116.250/boboapp6/BBC_CBEEBIES/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/DC_LGO_E_CYN_RGB_150x150.jpg" group-title="ASIAN TV", Disney Channel 
