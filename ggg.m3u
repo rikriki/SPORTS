@@ -639,6 +639,124 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklis
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://latintrends.com/wp-content/uploads/2012/09/musicchoicenews.jpg" group-title="MUSIC/RADIO", Y2K
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/sryxxx1433329600.png"  group-title="GERMANY", Das Erste HD
+http://vaders.tv:80/live/rocky/balboa/34062.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/urqsxp1433329543.png"  group-title="GERMANY", ZDF HD
+http://vaders.tv:80/live/rocky/balboa/34063.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/sppttu1433436930.png"  group-title="GERMANY", 3Sat HD
+http://vaders.tv:80/live/rocky/balboa/34064.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/tvsuqp1433329563.png"  group-title="GERMANY", RTL HD
+http://vaders.tv:80/live/rocky/balboa/34065.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/wyttqx1433350385.png"  group-title="GERMANY", RTL 2 HD
+http://vaders.tv:80/live/rocky/balboa/34066.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/tsswpy1433348790.png"  group-title="GERMANY", Super RTL HD
+http://vaders.tv:80/live/rocky/balboa/34092.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/wtypwr1433329585.png"  group-title="GERMANY", Sat.1 HD
+http://vaders.tv:80/live/rocky/balboa/34067.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/usqprq1433435228.png"  group-title="GERMANY", Kabel Eins HD
+http://vaders.tv:80/live/rocky/balboa/34068.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/ryutqy1461605065.png"  group-title="GERMANY", Pro Sieben HD
+http://vaders.tv:80/live/rocky/balboa/34069.ts
+#EXTINF:-1, tvg-logo="http://www.thelogodb.com/images/media/logo/vyyrrq1480521090.png"  group-title="GERMANY", DMAX HD
+http://vaders.tv:80/live/rocky/balboa/34070.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/stspqw1433350580.png"  group-title="GERMANY", Pro Sieben Maxx HD
+http://vaders.tv:80/live/rocky/balboa/34071.ts
+#EXTINF:-1, tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/2d/RTL_Crime_Logo_2015.png"  group-title="GERMANY", RTL Crime HD
+http://vaders.tv:80/live/rocky/balboa/34072.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/wwusxt1434885360.png"  group-title="GERMANY", RTL Nitro HD
+http://vaders.tv:80/live/rocky/balboa/34073.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/vtyxsx1434885373.png"  group-title="GERMANY", Sat1 Gold HD
+http://vaders.tv:80/live/rocky/balboa/34074.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/yqpwpx1433348439.png"  group-title="GERMANY", Vox HD
+http://vaders.tv:80/live/rocky/balboa/34075.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/wsqwyv1433348949.png"  group-title="GERMANY", Sixx HD
+http://vaders.tv:80/live/rocky/balboa/34076.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/tvtqyv1434885408.png"  group-title="GERMANY", Tele 5 HD
+http://vaders.tv:80/live/rocky/balboa/34077.ts
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/ORF1_00_bis_05.svg/709px-ORF1_00_bis_05.svg.png"  group-title="GERMANY", ORF 1 HD
+http://vaders.tv:80/live/rocky/balboa/34078.ts
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ORF_2_Cornerlogo_bis_2012.svg/2000px-ORF_2_Cornerlogo_bis_2012.svg.png"  group-title="GERMANY", ORF 2 HD
+http://vaders.tv:80/live/rocky/balboa/34079.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/uusuyx1433350824.png"  group-title="GERMANY", N-TV HD
+http://vaders.tv:80/live/rocky/balboa/34084.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/rtypxt1434885254.png"  group-title="GERMANY", N24 HD
+http://vaders.tv:80/live/rocky/balboa/34085.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/rprruu1433942038.png"  group-title="GERMANY", TLC DE HD
+http://vaders.tv:80/live/rocky/balboa/34086.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/wxuutv1436174225.png"  group-title="GERMANY", Sky 1 DE HD
+http://vaders.tv:80/live/rocky/balboa/34201.ts
+#EXTINF:-1, tvg-logo="http://www.thelogodb.com/images/media/logo/t7995j1489962188.png"  group-title="GERMANY", Sky Atlantic DE HD
+http://vaders.tv:80/live/rocky/balboa/34203.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/qtrvrv1434040216.png"  group-title="GERMANY", Sky Arts DE HD
+http://vaders.tv:80/live/rocky/balboa/34202.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/vqpxvt1461617410.png"  group-title="GERMANY", Sky Cinema DE HD
+http://vaders.tv:80/live/rocky/balboa/34204.ts
+#EXTINF:-1, tvg-logo="http://www.thelogodb.com/images/media/logo/st0gpq1489870375.png"  group-title="GERMANY", Sky Action DE HD
+http://vaders.tv:80/live/rocky/balboa/34205.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/rxpwur1434048599.png"  group-title="GERMANY", Travel Channel DE HD
+http://vaders.tv:80/live/rocky/balboa/34087.ts
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/739px-History_Logo.svg.png"  group-title="GERMANY", History DE HD
+http://vaders.tv:80/live/rocky/balboa/34091.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/usqyut1433427765.png"  group-title="GERMANY", Nat Geo DE HD
+http://vaders.tv:80/live/rocky/balboa/34089.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/qvwvwu1433437877.png"  group-title="GERMANY", Nat Geo Wild DE HD
+http://vaders.tv:80/live/rocky/balboa/34090.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/tsswyr1434268248.png"  group-title="GERMANY", Nickelodeon DE HD
+http://vaders.tv:80/live/rocky/balboa/34094.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/rxtwpw1433438028.png"  group-title="GERMANY", Discovery Channel DE HD
+http://vaders.tv:80/live/rocky/balboa/34088.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/supsrs1433943151.png"  group-title="GERMANY", Disney Channel DE HD
+http://vaders.tv:80/live/rocky/balboa/34095.ts
+#EXTINF:-1, tvg-logo="http://vignette1.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png"  group-title="GERMANY", Disney Junior DE HD
+http://vaders.tv:80/live/rocky/balboa/34097.ts
+#EXTINF:-1, tvg-logo="http://www.thelogodb.com/images/media/logo/mg12ld1489867733.png"  group-title="GERMANY", Sky Sport Austria HD
+http://vaders.tv:80/live/rocky/balboa/34200.ts
+#EXTINF:-1, tvg-logo="http://www.thelogodb.com/images/media/logo/6eo2ua1489871168.png"  group-title="GERMANY", Sky Sport News HD
+http://vaders.tv:80/live/rocky/balboa/34206.ts
+#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/uxpuvy1462013834.png"  group-title="GERMANY", Sportdigital HD
+http://vaders.tv:80/live/rocky/balboa/34210.ts
+#EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga 1 HD
+http://vaders.tv:80/live/rocky/balboa/34199.ts
+#EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga 2 DE HD
+http://vaders.tv:80/live/rocky/balboa/48067.ts
+#EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga 3 DE HD
+http://vaders.tv:80/live/rocky/balboa/48068.ts
+#EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga 4 DE HD
+http://vaders.tv:80/live/rocky/balboa/48069.ts
+#EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga DE 5
+http://vaders.tv:80/live/rocky/balboa/48070.ts
+#EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga DE 6
+http://vaders.tv:80/live/rocky/balboa/48071.ts
+#EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga DE 7
+http://vaders.tv:80/live/rocky/balboa/48072.ts
+#EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga DE 8
+http://vaders.tv:80/live/rocky/balboa/48073.ts
+#EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga DE 9
+http://vaders.tv:80/live/rocky/balboa/48074.ts
+#EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga DE 10
+http://vaders.tv:80/live/rocky/balboa/48066.ts
+#EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport 1 DE HD
+http://vaders.tv:80/live/rocky/balboa/34197.ts
+#EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport 2 DE HD
+http://vaders.tv:80/live/rocky/balboa/34198.ts
+#EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport DE 3 HD
+http://vaders.tv:80/live/rocky/balboa/48076.ts
+#EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport DE 4 HD
+http://vaders.tv:80/live/rocky/balboa/48077.ts
+#EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport DE 5 HD
+http://vaders.tv:80/live/rocky/balboa/48078.ts
+#EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport DE 6
+http://vaders.tv:80/live/rocky/balboa/48079.ts
+#EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport DE 7
+http://vaders.tv:80/live/rocky/balboa/48080.ts
+#EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport DE 8
+http://vaders.tv:80/live/rocky/balboa/48081.ts
+#EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport DE 9
+http://vaders.tv:80/live/rocky/balboa/48082.ts
+#EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport DE 10
+http://vaders.tv:80/live/rocky/balboa/48075.ts
+#EXTINF:-1, tvg-logo="http://www.thelogodb.com/images/media/logo/6eo2ua1489871168.png"  group-title="GERMANY", Sky Sports News DE HD
+http://vaders.tv:80/live/rocky/balboa/48083.ts
 #EXTINF:-1, group-title="GERMANY",  13th Street HD
 http://abczu.xyz:25461/live/100ExchangeRESTREAMING/7b0JVYMQJR/9470.ts
 #EXTINF:-1, group-title="GERMANY",  3 sat
