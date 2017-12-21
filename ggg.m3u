@@ -1499,6 +1499,66 @@ http://vaders.tv:80/live/Jamaica/JaMaIcA/72666.ts
 http://vaders.tv:80/live/Jamaica/JaMaIcA/64458.ts
 #EXTINF:-1 tvg-ID="BloombergTV.us" tvg-name="Bloomberg HD" tvg-logo="https://imgur.com/kL8PLec.png" group-title="United States",Bloomberg HD
 http://vaders.tv:80/live/Jamaica/JaMaIcA/64186.ts
+#EXTINF:-1 tvg-ID="Cinemax.us" tvg-name="Cinemax" tvg-logo="http://i64.tinypic.com/t5m9mc.png" group-title="Premium Movie Channels",Cinemax
+http://vaders.tv:80/live/Jamaica/JaMaIcA/7936.ts
+#EXTINF:-1 tvg-ID="5StarMax.us" tvg-name="Cinemax 5 Star" tvg-logo="http://i67.tinypic.com/wbfkgk.png" group-title="Premium Movie Channels",Cinemax 5 Star
+http://vaders.tv:80/live/Jamaica/JaMaIcA/7947.ts
+#EXTINF:-1 tvg-ID="ActionMax.us" tvg-name="Cinemax Actionmax" tvg-logo="http://i68.tinypic.com/rays88.png" group-title="Premium Movie Channels",Cinemax Actionmax
+http://vaders.tv:80/live/Jamaica/JaMaIcA/7946.ts
+#EXTINF:-1 tvg-ID="MoreMax.us" tvg-name="Cinemax Moremax" tvg-logo="http://i66.tinypic.com/2bbfp4.png" group-title="Premium Movie Channels",Cinemax Moremax
+http://vaders.tv:80/live/Jamaica/JaMaIcA/7945.ts
+#EXTINF:-1 tvg-ID="HBO.us" tvg-name="HBO" tvg-logo="https://imgur.com/6nQuEsl.png" group-title="Premium Movie Channels",HBO
+http://vaders.tv:80/live/Jamaica/JaMaIcA/7859.ts
+#EXTINF:-1 tvg-ID="HBO2.us" tvg-name="HBO2 HD" tvg-logo="https://imgur.com/vBUMYhR.png" group-title="Premium Movie Channels",HBO2 HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/64791.ts
+#EXTINF:-1 tvg-ID="HBOFamily.us" tvg-name="HBO Family HD" tvg-logo="https://s1.postimg.org/7d4c9wexe7/HBO_Family.png" group-title="Premium Movie Channels",HBO Family HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/59092.ts
+#EXTINF:-1 tvg-ID="HBOComedy.us" tvg-name="HBO Comedy HD" tvg-logo="http://i65.tinypic.com/25ho17l.png" group-title="Premium Movie Channels",HBO Comedy HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/7860.ts
+#EXTINF:-1 tvg-ID="HBOSignature.us" tvg-name="HBO Signature HD" tvg-logo="http://i64.tinypic.com/o949oz.png" group-title="Premium Movie Channels",HBO Signature HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/7857.ts
+#EXTINF:-1 tvg-ID="HBOZone.us" tvg-name="HBO Zone HD" tvg-logo="http://i63.tinypic.com/245y5xv.png" group-title="Premium Movie Channels",HBO Zone HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/7944.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO East CA HD" tvg-logo="https://imgur.com/KrI84MZ.png" group-title="Premium Movie Channels",HBO East CA HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/73291.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO West CA HD" tvg-logo="https://imgur.com/embMsQk.png" group-title="Premium Movie Channels",HBO West CA HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/73288.ts
+#EXTINF:-1 tvg-ID="Starz.us" tvg-name="Starz HD" tvg-logo="https://s11.postimg.org/gwmbelccz/Starz.png" group-title="Premium Movie Channels",Starz HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/39873.ts
+#EXTINF:-1 tvg-ID="StarzEncoreFamily.us" tvg-name="Starz Kids & Family" tvg-logo="http://i67.tinypic.com/1zcjss9.png" group-title="Premium Movie Channels",Starz Kids & Family
+http://vaders.tv:80/live/Jamaica/JaMaIcA/3122.ts
+#EXTINF:-1 tvg-ID="StarzEncore.us" tvg-name="Starz Encore" tvg-logo="https://imgur.com/kTpF98a.png" group-title="Premium Movie Channels",Starz Encore
+http://vaders.tv:80/live/Jamaica/JaMaIcA/3123.ts
+#EXTINF:-1 tvg-ID="StarzEdge.us" tvg-name="Starz Edge" tvg-logo="http://i67.tinypic.com/2im04qq.png" group-title="Premium Movie Channels",Starz Edge
+http://vaders.tv:80/live/Jamaica/JaMaIcA/3119.ts
+#EXTINF:-1 tvg-ID="StarzComedy.us" tvg-name="Starz Comedy" tvg-logo="http://i63.tinypic.com/73njte.png" group-title="Premium Movie Channels",Starz Comedy
+http://vaders.tv:80/live/Jamaica/JaMaIcA/3121.ts
+#EXTINF:-1 tvg-ID="Showtime.us" tvg-name="Showtime HD" tvg-logo="https://s12.postimg.org/arnlk49q5/Showtime.png" group-title="Premium Movie Channels",Showtime HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/39637.ts
+#EXTINF:-1 tvg-ID="Showtime2.us" tvg-name="Showtime 2 HD" tvg-logo="https://s7.postimg.org/szvjtkk7v/Showtime_2.png" group-title="Premium Movie Channels",Showtime 2 HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/39638.ts
+#EXTINF:-1 tvg-ID="ShowtimeExtreme.us" tvg-name="Showtime Extreme HD" tvg-logo="https://imgur.com/vUwnzdc.png" group-title="Premium Movie Channels",Showtime Extreme HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/64457.ts
+#EXTINF:-1 tvg-ID="EPIX.us" tvg-name="Epix HD" tvg-logo="https://s13.postimg.org/4y1xaz4gn/Epix.png" group-title="Premium Movie Channels",Epix HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/39636.ts
+#EXTINF:-1 tvg-ID="EPIX2.us" tvg-name="Epix 2 HD" tvg-logo="https://s9.postimg.org/kw5mx8933/Epix2.png" group-title="Premium Movie Channels",Epix 2 HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/39635.ts
+#EXTINF:-1 tvg-ID="EPIXHits.us" tvg-name="Epix Hits HD" tvg-logo="https://s3.postimg.org/xylf245j7/Epix_Hits.png" group-title="Premium Movie Channels",Epix Hits HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/39634.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Channel 1 HD" tvg-logo="https://imgur.com/rUcfwiv.png" group-title="Premium Movie Channels",Super Channel 1 HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/73297.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Channel 3 HD" tvg-logo="https://imgur.com/u4gdqA2.png" group-title="Premium Movie Channels",Super Channel 3 HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/73298.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Super Channel 4 HD" tvg-logo="https://imgur.com/Jdpd1Lk.png" group-title="Premium Movie Channels",Super Channel 4 HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/73299.ts
+#EXTINF:-1 tvg-ID="SkySelect.uk" tvg-name="Sky Cinema Select HD" tvg-logo="https://imgur.com/VwrDPAB.png" group-title="Premium Movie Channels",Sky Cinema Select HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/2736.ts
+#EXTINF:-1 tvg-ID="SkyFamily.uk" tvg-name="Sky Cinema Family HD" tvg-logo="https://imgur.com/BdsSdHA.png" group-title="Premium Movie Channels",Sky Cinema Family HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/2741.ts
+#EXTINF:-1 tvg-ID="SkyDisney.uk" tvg-name="Sky Cinema Disney HD" tvg-logo="https://imgur.com/oLkuMyC.png" group-title="Premium Movie Channels",Sky Cinema Disney HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/2742.ts
+#EXTINF:-1 tvg-ID="SkyHits.uk" tvg-name="Sky Cinema Hits HD" tvg-logo="https://imgur.com/68Y2fDa.png" group-title="Premium Movie Channels",Sky Cinema Hits HD
+http://vaders.tv:80/live/Jamaica/JaMaIcA/2735.ts
 #EXTINF:-1, group-title="THAILAND", TV5 HD1
 http://122.155.204.86:9007/bysid/601
 #EXTINF:-1, group-title="THAILAND", NBT
