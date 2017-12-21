@@ -68,7 +68,7 @@ http://vaders.tv:80/live/jamaica/jamaica/59092.ts
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/axn_150x150.jpg" group-title="ASIAN TV", AXN 
 http://183.88.212.205:8010/play/a00i
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch330.gif" group-title="ASIAN TV", FOX
-http://123.27.206.15:4022/rtp/232.84.1.66:8370
+http://sekoiptv.ddns.net:8080/live/Magin/Magin/8653.ts
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch301.gif" group-title="ASIAN TV", Fox Life 
 http://183.88.212.205:8010/play/a021
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch310.gif" group-title="ASIAN TV", FX
@@ -116,7 +116,7 @@ http://183.88.212.205:8010/play/a02q
 #EXTINF:-1, tvg-logo="http://www.j2-play.net//uploads/filemanager/source/live_channel/Sport/skynet_plus.png" group-title="ASIAN TV",SkyNet Sports PLUS   
 http://103.77.116.250/boboapp6/SKYNET_SPORTS_PLUS/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb0fcb.png" group-title="ASIAN TV",SkyNet Sports HD  
-http://dooballsodhd.sai8.live:443/free41/0x777_skynetsporthd_720p/chunklist_w1026580057.m3u8?key=ae2eqcch3nlx4rqi6zrxk48m
+http://sekoiptv.ddns.net:8080/live/Magin/Magin/8518.ts
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb1347.png" group-title="ASIAN TV",Skynet Sports-1 
 http://103.77.116.250/boboapp6/SKYNET_SPORTS-1/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb1685.png" group-title="ASIAN TV",Skynet Sports-2 
@@ -222,7 +222,7 @@ http://183.88.212.205:8010/play/a01v
 #EXTINF:-1, tvg-logo="http://www.fanoos.com/ia/al_jazeera_english_live_free_stream.jpg" group-title="ASIAN TV", Al Jazeera English
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 #EXTINF:-1, tvg-logo="http://www.africa2016.org/images/logos/euronews.jpg" group-title="ASIAN TV", Euronews
-http://103.77.116.191:443//news/euronews_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+http://euronews-en-b9-cdn.hexaglobe.net/bfef5ffbd6aa73eedbcb3cb3fbba8170/5a3bdca8/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenbkp_eng.smil/ewnsabrenbkp_eng_540p.m3u8
 #EXTINF:-1, tvg-logo="https://football-hd.com/img_channel.php?c=news-springnews-hd.png" group-title="ASIAN TV", Sky News HD
 http://183.88.212.205:8010/play/a00e
 #EXTINF:-1, tvg-logo="https://football-hd.com/img_channel.php?c=news-foxnews.png" group-title="ASIAN TV", Fox News
