@@ -76,7 +76,7 @@ http://183.88.212.205:8010/play/a03c
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/BIO_FYI_150x150.jpg" group-title="ASIAN TV", FYI
 http://183.88.212.205:8010/play/a00k
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/logo-ci.jpg" group-title="ASIAN TV", CRIME INVESTIGATION
-http://103.77.116.191:443//foreign/ci_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+http://www.zeebra.tv:8000/live/chack/chack/3317.ts
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Images/DIVA.png" group-title="ASIAN TV", Diva Universal
 http://183.88.212.205:8010/play/a03n 
 #EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch328.gif" group-title="ASIAN TV", E!
