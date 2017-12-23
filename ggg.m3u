@@ -1567,374 +1567,56 @@ http://vaders.tv:80/live/Jamaica/JaMaIcA/2741.ts
 http://vaders.tv:80/live/Jamaica/JaMaIcA/2742.ts
 #EXTINF:-1 tvg-ID="SkyHits.uk" tvg-name="Sky Cinema Hits HD" tvg-logo="https://imgur.com/68Y2fDa.png" group-title="Premium Movie Channels",Sky Cinema Hits HD
 http://vaders.tv:80/live/Jamaica/JaMaIcA/2735.ts
-#EXTINF:-1, group-title="THAILAND", 24TV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5463.ts
-#EXTINF:-1, group-title="THAILAND", 3 HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5462.ts
-#EXTINF:-1, group-title="THAILAND", 5 HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5461.ts
-#EXTINF:-1, group-title="THAILAND", 7 HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5460.ts
-#EXTINF:-1, group-title="THAILAND", 8 HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5459.ts
-#EXTINF:-1, group-title="THAILAND", 9 HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8600.ts
-#EXTINF:-1, group-title="THAILAND", AMC NETWORK TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8624.ts
-#EXTINF:-1, group-title="THAILAND", ASIAN Series HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8637.ts
-#EXTINF:-1, group-title="THAILAND", AXN HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8661.ts
-#EXTINF:-1, group-title="THAILAND", Al Jazeera News TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9417.ts
-#EXTINF:-1, group-title="THAILAND", BLOOMBERG TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8618.ts
-#EXTINF:-1, group-title="THAILAND", Baby TV HD/Money Channel TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9415.ts
-#EXTINF:-1, group-title="THAILAND", Bright News TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9354.ts
-#EXTINF:-1, group-title="THAILAND", Bright TV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9358.ts
-#EXTINF:-1, group-title="THAILAND", CARTOON NETWORK TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8617.ts
-#EXTINF:-1, group-title="THAILAND", CAT Channel TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9408.ts
-#EXTINF:-1, group-title="THAILAND", CCTV 4 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9412.ts
-#EXTINF:-1, group-title="THAILAND", CCTV 9 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9411.ts
-#EXTINF:-1, group-title="THAILAND", CCTV News TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9410.ts
-#EXTINF:-1, group-title="THAILAND", CH 8 TCC TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9405.ts
-#EXTINF:-1, group-title="THAILAND", CH3 Family TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8364.ts
-#EXTINF:-1, group-title="THAILAND", CH3/M20TV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9407.ts
-#EXTINF:-1, group-title="THAILAND", CI HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8638.ts
-#EXTINF:-1, group-title="THAILAND", CI Thai TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8629.ts
-#EXTINF:-1, group-title="THAILAND", CINEMAX (AIS) TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8652.ts
-#EXTINF:-1, group-title="THAILAND", CINEMAX HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8650.ts
-#EXTINF:-1, group-title="THAILAND", CINEMAX TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8651.ts
-#EXTINF:-1, group-title="THAILAND", CNBC TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8616.ts
-#EXTINF:-1, group-title="THAILAND", CNN Philippines TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8581.ts
-#EXTINF:-1, group-title="THAILAND", CTB HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9368.ts
-#EXTINF:-1, group-title="THAILAND", Cable TV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8588.ts
-#EXTINF:-1, group-title="THAILAND", Ch2 Starmax TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9357.ts
-#EXTINF:-1, group-title="THAILAND", Chaiyo TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5456.ts
-#EXTINF:-1, group-title="THAILAND", Channel 13 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8586.ts
-#EXTINF:-1, group-title="THAILAND", Channel 138/MV LAO TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9409.ts
-#EXTINF:-1, group-title="THAILAND", Channel 2 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8677.ts
-#EXTINF:-1, group-title="THAILAND", Channel 3 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9375.ts
-#EXTINF:-1, group-title="THAILAND", Channel 5 HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8676.ts
-#EXTINF:-1, group-title="THAILAND", Channel 5 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8403.ts
-#EXTINF:-1, group-title="THAILAND", Channel 5/Travel TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9406.ts
-#EXTINF:-1, group-title="THAILAND", Channel 7 HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8675.ts
-#EXTINF:-1, group-title="THAILAND", Channel 7 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9404.ts
-#EXTINF:-1, group-title="THAILAND", Channel 8 HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8673.ts
-#EXTINF:-1, group-title="THAILAND", Channel 8 TCC TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8672.ts
-#EXTINF:-1, group-title="THAILAND", Channel 8 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8674.ts
-#EXTINF:-1, group-title="THAILAND", Chic Station/Now26 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9378.ts
-#EXTINF:-1, group-title="THAILAND", DISCOVERY ASIA HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8631.ts
-#EXTINF:-1, group-title="THAILAND", DIVA TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8634.ts
-#EXTINF:-1, group-title="THAILAND", DMAX TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8621.ts
-#EXTINF:-1, group-title="THAILAND", Disney TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9391.ts
-#EXTINF:-1, group-title="THAILAND", EDGE HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8639.ts
-#EXTINF:-1, group-title="THAILAND", ENTERTAINMENT TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8633.ts
-#EXTINF:-1, group-title="THAILAND", EXP LIFE TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8607.ts
-#EXTINF:-1, group-title="THAILAND", EXPLORE SCIENCE TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8606.ts
-#EXTINF:-1, group-title="THAILAND", Eleven Sports HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8240.ts
-#EXTINF:-1, group-title="THAILAND", Euronews TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9396.ts
-#EXTINF:-1, group-title="THAILAND", FOOD Network TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8579.ts
-#EXTINF:-1, group-title="THAILAND", FOX LIFE TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9386.ts
-#EXTINF:-1, group-title="THAILAND", FOX Premium HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8645.ts
-#EXTINF:-1, group-title="THAILAND", FX HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9389.ts
-#EXTINF:-1, group-title="THAILAND", FYI HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8622.ts
-#EXTINF:-1, group-title="THAILAND", Fashion TV/SpringNews TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9394.ts
-#EXTINF:-1, group-title="THAILAND", Fox Action Movies HD (MY) TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8649.ts
-#EXTINF:-1, group-title="THAILAND", Fox Family Movies HD (MY) TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8648.ts
-#EXTINF:-1, group-title="THAILAND", Fox Movies Action (MY) TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8647.ts
-#EXTINF:-1, group-title="THAILAND", Fox Movies Premium (MY) TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8646.ts
-#EXTINF:-1, group-title="THAILAND", Fox News TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8311.ts
-#EXTINF:-1, group-title="THAILAND", Fox TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5454.ts
-#EXTINF:-1, group-title="THAILAND", Fox Thai (Eng) TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8653.ts
-#EXTINF:-1, group-title="THAILAND", France 24 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9390.ts
-#EXTINF:-1, group-title="THAILAND", GMM ONE HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8668.ts
-#EXTINF:-1, group-title="THAILAND", GREEN TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9359.ts
-#EXTINF:-1, group-title="THAILAND", Gaora Sports TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9361.ts
-#EXTINF:-1, group-title="THAILAND", Ginx TV/CH3 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9387.ts
-#EXTINF:-1, group-title="THAILAND", Golf/NBT TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9382.ts
-#EXTINF:-1, group-title="THAILAND", HBO HITS (AIS) TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8656.ts
-#EXTINF:-1, group-title="THAILAND", HBO TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8659.ts
-#EXTINF:-1, group-title="THAILAND", HLN TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8614.ts
-#EXTINF:-1, group-title="THAILAND", History TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9393.ts
-#EXTINF:-1, group-title="THAILAND", INSIDE TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8613.ts
-#EXTINF:-1, group-title="THAILAND", ISAN TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9392.ts
-#EXTINF:-1, group-title="THAILAND", J-Music TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9379.ts
-#EXTINF:-1, group-title="THAILAND", J-Sports 1 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9402.ts
-#EXTINF:-1, group-title="THAILAND", J-Sports 2 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9401.ts
-#EXTINF:-1, group-title="THAILAND", J-Sports 3 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9400.ts
-#EXTINF:-1, group-title="THAILAND", J-Sports 4 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9399.ts
-#EXTINF:-1, group-title="THAILAND", Ja Ting Ja TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5453.ts
-#EXTINF:-1, group-title="THAILAND", KBS WORLD 1 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8628.ts
-#EXTINF:-1, group-title="THAILAND", KBS World 2 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8627.ts
-#EXTINF:-1, group-title="THAILAND", KDN Thai TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8615.ts
-#EXTINF:-1, group-title="THAILAND", Kix/True Music TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9385.ts
-#EXTINF:-1, group-title="THAILAND", LIFE INSPIRED TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8626.ts
-#EXTINF:-1, group-title="THAILAND", MCOT Family TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8357.ts
-#EXTINF:-1, group-title="THAILAND", MCOT HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8666.ts
-#EXTINF:-1, group-title="THAILAND", MCOT Kids & Family TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5452.ts
-#EXTINF:-1, group-title="THAILAND", MGTV/CH2 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9383.ts
-#EXTINF:-1, group-title="THAILAND", MONO TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8664.ts
-#EXTINF:-1, group-title="THAILAND", MTV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8297.ts
-#EXTINF:-1, group-title="THAILAND", MV LAO TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9376.ts
-#EXTINF:-1, group-title="THAILAND", MV Loa TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9380.ts
-#EXTINF:-1, group-title="THAILAND", Major MIX/TV24 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9384.ts
-#EXTINF:-1, group-title="THAILAND", Mcot TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9365.ts
-#EXTINF:-1, group-title="THAILAND", Mix Major Channel TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9355.ts
-#EXTINF:-1, group-title="THAILAND", Modern 9/Police TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9381.ts
-#EXTINF:-1, group-title="THAILAND", Mono Plus TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5451.ts
-#EXTINF:-1, group-title="THAILAND", Mono29 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9416.ts
-#EXTINF:-1, group-title="THAILAND", Movie Plus TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9397.ts
-#EXTINF:-1, group-title="THAILAND", Muslim TV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5450.ts
-#EXTINF:-1, group-title="THAILAND", NAT GEO HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8611.ts
-#EXTINF:-1, group-title="THAILAND", NAT GEO PEOPLE HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8609.ts
-#EXTINF:-1, group-title="THAILAND", NAT GEO TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8612.ts
-#EXTINF:-1, group-title="THAILAND", NATION TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8663.ts
-#EXTINF:-1, group-title="THAILAND", NEW 18 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8584.ts
-#EXTINF:-1, group-title="THAILAND", NEW TV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9360.ts
-#EXTINF:-1, group-title="THAILAND", Nat Geo Adventure/Asian SatTV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9395.ts
-#EXTINF:-1, group-title="THAILAND", Nat Geo Wild TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8408.ts
-#EXTINF:-1, group-title="THAILAND", Nation Channel TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8291.ts
-#EXTINF:-1, group-title="THAILAND", Nation HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5449.ts
-#EXTINF:-1, group-title="THAILAND", NewTV HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5448.ts
-#EXTINF:-1, group-title="THAILAND", News 1 HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5447.ts
-#EXTINF:-1, group-title="THAILAND", News1 Channel/Very TV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9367.ts
-#EXTINF:-1, group-title="THAILAND", Now26 HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5446.ts
-#EXTINF:-1, group-title="THAILAND", One HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5445.ts
-#EXTINF:-1, group-title="THAILAND", PARAMOUNT TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8642.ts
-#EXTINF:-1, group-title="THAILAND", PBS HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5442.ts
-#EXTINF:-1, group-title="THAILAND", POLICE TV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8671.ts
-#EXTINF:-1, group-title="THAILAND", PPTV 1 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8669.ts
-#EXTINF:-1, group-title="THAILAND", PPTV HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5441.ts
-#EXTINF:-1, group-title="THAILAND", Parliament TV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5443.ts
-#EXTINF:-1, group-title="THAILAND", Police Live TV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8587.ts
-#EXTINF:-1, group-title="THAILAND", RTL CBS Entertainment TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8625.ts
-#EXTINF:-1, group-title="THAILAND", SERIES TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8636.ts
-#EXTINF:-1, group-title="THAILAND", SETANA HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8601.ts
-#EXTINF:-1, group-title="THAILAND", SMM TV Sport TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9352.ts
-#EXTINF:-1, group-title="THAILAND", SMM TV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5440.ts
-#EXTINF:-1, group-title="THAILAND", SONY ASIA HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8623.ts
-#EXTINF:-1, group-title="THAILAND", STAR MAX Channel TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9371.ts
-#EXTINF:-1, group-title="THAILAND", STAR WORLD HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8641.ts
-#EXTINF:-1, group-title="THAILAND", Sabaidee TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9370.ts
-#EXTINF:-1, group-title="THAILAND", Sabaidee TV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9353.ts
-#EXTINF:-1, group-title="THAILAND", Sabaidee TV/Ch13 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9373.ts
-#EXTINF:-1, group-title="THAILAND", Samurai Fighting TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9398.ts
-#EXTINF:-1, group-title="THAILAND", Sawadee Thailand TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8592.ts
-#EXTINF:-1, group-title="THAILAND", Speed Ch. TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9414.ts
-#EXTINF:-1, group-title="THAILAND", Speed Channel TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5439.ts
-#EXTINF:-1, group-title="THAILAND", Spring News TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9372.ts
-#EXTINF:-1, group-title="THAILAND", Star Chinese Channel TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8286.ts
-#EXTINF:-1, group-title="THAILAND", T Sports Channel TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9369.ts
-#EXTINF:-1, group-title="THAILAND", THAI THAI TV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8670.ts
-#EXTINF:-1, group-title="THAILAND", TLC TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8599.ts
-#EXTINF:-1, group-title="THAILAND", TNN24 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8349.ts
-#EXTINF:-1, group-title="THAILAND", TPBS HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8662.ts
-#EXTINF:-1, group-title="THAILAND", TRUE MOVIE HITS TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8644.ts
-#EXTINF:-1, group-title="THAILAND", TRUE4YOU TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8665.ts
-#EXTINF:-1, group-title="THAILAND", TV CHIN 1/Platong TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9420.ts
-#EXTINF:-1, group-title="THAILAND", TV CHIN 2/FoxLife TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9419.ts
-#EXTINF:-1, group-title="THAILAND", TV CHIN 3/YOU Ch TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9418.ts
-#EXTINF:-1, group-title="THAILAND", TV5 Pacific HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8597.ts
-#EXTINF:-1, group-title="THAILAND", TVN HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8598.ts
-#EXTINF:-1, group-title="THAILAND", Thai CH8 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8282.ts
-#EXTINF:-1, group-title="THAILAND", Thai PBS HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5437.ts
-#EXTINF:-1, group-title="THAILAND", Thai PBS TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8350.ts
-#EXTINF:-1, group-title="THAILAND", Thai Rath TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9388.ts
-#EXTINF:-1, group-title="THAILAND", Thai TV5 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8585.ts
-#EXTINF:-1, group-title="THAILAND", ThaiThai TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9413.ts
-#EXTINF:-1, group-title="THAILAND", Thairath TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9356.ts
-#EXTINF:-1, group-title="THAILAND", Thairath TV HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5436.ts
-#EXTINF:-1, group-title="THAILAND", Trace Urban TV HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9366.ts
-#EXTINF:-1, group-title="THAILAND", True FX TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8640.ts
-#EXTINF:-1, group-title="THAILAND", True Inside TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9374.ts
-#EXTINF:-1, group-title="THAILAND", True Music TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9377.ts
-#EXTINF:-1, group-title="THAILAND", True Select TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8583.ts
-#EXTINF:-1, group-title="THAILAND", True Thai Film TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8594.ts
-#EXTINF:-1, group-title="THAILAND", UPMOVIE/ZAPP TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8578.ts
-#EXTINF:-1, group-title="THAILAND", Universal TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8596.ts
-#EXTINF:-1, group-title="THAILAND", Voice TV HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8411.ts
-#EXTINF:-1, group-title="THAILAND", Voice TV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9403.ts
-#EXTINF:-1, group-title="THAILAND", WARNER TV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8643.ts
-#EXTINF:-1, group-title="THAILAND", WorkPoint TV HD TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/5435.ts
-#EXTINF:-1, group-title="THAILAND", Workpoint TV/Ch2 TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9364.ts
-#EXTINF:-1, group-title="THAILAND", YATEEM TV TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9363.ts
-#EXTINF:-1, group-title="THAILAND", You Channel/Comedy/Movies TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/9362.ts
-#EXTINF:-1, group-title="THAILAND", Z-Movies TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8595.ts
-#EXTINF:-1, group-title="THAILAND", Zaa TH
-http://sekoiptv.ddns.net:8080/live/Magin/Magin/8371.ts
+#EXTINF:-1 tvg-id="" tvg-name="24TV" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",24TV
+http://www.zeebra.tv:8000/live/chack/chack/3448.ts
+#EXTINF:-1 tvg-id="" tvg-name="3 HD" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",3 HD
+http://www.zeebra.tv:8000/live/chack/chack/3449.ts
+#EXTINF:-1 tvg-id="" tvg-name="5 HD" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",5 HD
+http://www.zeebra.tv:8000/live/chack/chack/3450.ts
+#EXTINF:-1 tvg-id="" tvg-name="7 HD" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",7 HD
+http://www.zeebra.tv:8000/live/chack/chack/3451.ts
+#EXTINF:-1 tvg-id="" tvg-name="8 HD" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",8 HD
+http://www.zeebra.tv:8000/live/chack/chack/3452.ts
+#EXTINF:-1 tvg-id="" tvg-name="9 HD" tvg-logo="" group-title="THAILAND",9 HD
+http://www.zeebra.tv:8000/live/chack/chack/3453.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bright TV" tvg-logo="" group-title="THAILAND",Bright TV
+http://www.zeebra.tv:8000/live/chack/chack/3454.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chaiyo" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",Chaiyo
+http://www.zeebra.tv:8000/live/chack/chack/3455.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Thai" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",Fox Thai
+http://www.zeebra.tv:8000/live/chack/chack/3456.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ja Ting Ja" tvg-logo="" group-title="THAILAND",Ja Ting Ja
+http://www.zeebra.tv:8000/live/chack/chack/3457.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCOT Kids & Family" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",MCOT Kids & Family
+http://www.zeebra.tv:8000/live/chack/chack/3458.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mono Plus" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",Mono Plus
+http://www.zeebra.tv:8000/live/chack/chack/3459.ts
+#EXTINF:-1 tvg-id="" tvg-name="Muslim TV" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",Muslim TV
+http://www.zeebra.tv:8000/live/chack/chack/3460.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nation HD" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",Nation HD
+http://www.zeebra.tv:8000/live/chack/chack/3461.ts
+#EXTINF:-1 tvg-id="" tvg-name="New TV" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",New TV
+http://www.zeebra.tv:8000/live/chack/chack/3462.ts
+#EXTINF:-1 tvg-id="" tvg-name="News1 HD" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",News1 HD
+http://www.zeebra.tv:8000/live/chack/chack/3463.ts
+#EXTINF:-1 tvg-id="" tvg-name="Now26 HD" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",Now26 HD
+http://www.zeebra.tv:8000/live/chack/chack/3464.ts
+#EXTINF:-1 tvg-id="" tvg-name="One-HD" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",One-HD
+http://www.zeebra.tv:8000/live/chack/chack/3465.ts
+#EXTINF:-1 tvg-id="" tvg-name="Parliament" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",Parliament
+http://www.zeebra.tv:8000/live/chack/chack/3466.ts
+#EXTINF:-1 tvg-id="" tvg-name="PBS HD" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",PBS HD
+http://www.zeebra.tv:8000/live/chack/chack/3467.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPTV HD" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",PPTV HD
+http://www.zeebra.tv:8000/live/chack/chack/3468.ts
+#EXTINF:-1 tvg-id="" tvg-name="SMM TV" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",SMM TV
+http://www.zeebra.tv:8000/live/chack/chack/3469.ts
+#EXTINF:-1 tvg-id="" tvg-name="Speed Channel" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",Speed Channel
+http://www.zeebra.tv:8000/live/chack/chack/3470.ts
+#EXTINF:-1 tvg-id="" tvg-name="ThaiPBS HD" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",ThaiPBS HD
+http://www.zeebra.tv:8000/live/chack/chack/3471.ts
+#EXTINF:-1 tvg-id="" tvg-name="Thairath TV HD" tvg-logo="http://www.mapsofworld.com/images/world-countries-flags/thailand-flag.gif" group-title="THAILAND",Thairath TV HD
+http://www.zeebra.tv:8000/live/chack/chack/3472.ts
 
 
 
