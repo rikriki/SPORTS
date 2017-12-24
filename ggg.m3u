@@ -58,7 +58,7 @@ http://183.88.212.205:8010/play/a010
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_409.png" group-title="ASIAN TV", Fox Movies Premium 
 http://183.88.212.205:8010/play/a01l
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/hbo_hd.png" group-title="ASIAN TV", HBO 
-http://183.88.212.205:8010/play/a00u
+http://14.165.47.83:4022/rtp/232.84.1.19:8088
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/hbo_hits.jpg" group-title="ASIAN TV", HBO Hits
 http://vaders.tv:80/live/jamaica/jamaica/7944.ts
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85235.jpg" group-title="ASIAN TV", HBO Signature
@@ -66,27 +66,27 @@ http://vaders.tv:80/live/jamaica/jamaica/7857.ts
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/hbo_family.jpg" group-title="ASIAN TV", HBO Family
 http://vaders.tv:80/live/jamaica/jamaica/59092.ts
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/axn_150x150.jpg" group-title="ASIAN TV", AXN 
-http://183.88.212.205:8010/play/a00i
+http://14.165.47.83:4022/rtp/232.84.1.14:8058
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch330.gif" group-title="ASIAN TV", FOX
-http://sekoiptv.ddns.net:8080/live/Jammie/Jammie/8653.ts
+http://14.165.47.83:4022/rtp/232.84.1.66:8370
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch301.gif" group-title="ASIAN TV", Fox Life 
-http://183.88.212.205:8010/play/a021
+http://14.165.47.83:4022/rtp/232.84.2.119:8382
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch310.gif" group-title="ASIAN TV", FX
 http://183.88.212.205:8010/play/a023
 #EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch313.gif" group-title="ASIAN TV", FOX CRIME
 http://183.88.212.205:8010/play/a020
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/max_hd.jpg" group-title="ASIAN TV", CINEMAX
-http://183.88.212.205:8010/play/a00n
+http://14.165.47.83:4022/rtp/232.84.1.20:8094
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/warner_tv.png" group-title="ASIAN TV", Warner TV
 http://103.77.116.250/boboapp1/warner.stream/playlist.m3u8?userid=174906&e=1507380312&st=uOCzPpqDjqPWvq168gjBHA
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/REDbyHBO_150x150.jpg" group-title="ASIAN TV", RED by HBO
-http://183.88.212.205:8010/play/a03c
+http://14.165.47.83:4022/rtp/232.84.1.44:8244
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/BIO_FYI_150x150.jpg" group-title="ASIAN TV", FYI
 http://183.88.212.205:8010/play/a00k
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/logo-ci.jpg" group-title="ASIAN TV", CRIME INVESTIGATION
 http://www.zeebra.tv:8000/live/chack/chack/3317.ts
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Images/DIVA.png" group-title="ASIAN TV", Diva Universal
-http://183.88.212.205:8010/play/a03n 
+http://14.165.47.83:4022/rtp/232.84.1.109:10230
 #EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch328.gif" group-title="ASIAN TV", E!
 http://183.88.212.205:8010/play/a03o
 #EXTINF:-1, tvg-logo="https://www.gmkfreelogos.com/logos/C/img/Comedy_Central-2.gif" group-title="ASIAN TV", Comedy Central
@@ -164,7 +164,7 @@ http://persik.by/stream/1417/252987/10208.m3u8
 #EXTINF:-1,tvg-logo="https://www.billboard.com/files/styles/promo_650/public/media/MTV-Live-Logo.jpg" group-title="ASIAN TV", MTV Live HD
 http://persik.by/stream/1417/252987/10289.m3u8
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=chv-inter.png" group-title="ASIAN TV", Channel V
-http://183.88.212.205:8010/play/a01p
+http://14.165.47.83:4022/rtp/232.84.1.13:8052
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9864d.png" group-title="ASIAN TV", Trace Urban
 http://103.77.116.191:443//music/trace_urban_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:-1,tvg-logo="https://www.animax-asia.com/sites/asia.animax/files/animax_logo_endorsed_0.png" group-title="ASIAN TV", ANIMAX
@@ -172,17 +172,17 @@ http://183.88.212.205:8010/play/a00h
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/cbeebies_150.png" group-title="ASIAN TV", BBC CBEEBIES
 http://183.88.212.205:8010/play/a03f
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/DC_LGO_E_CYN_RGB_150x150.jpg" group-title="ASIAN TV", Disney Channel 
-http://183.88.212.205:8010/play/a02t
+http://14.165.47.83:4022/rtp/232.84.1.18:8082
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch232.gif" group-title="ASIAN TV", Disney XD
 http://183.88.212.205:8010/play/a00x
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch236.gif" group-title="ASIAN TV", Disney Junior 
-http://183.88.212.205:8010/play/a02u
+http://14.165.47.83:4022/rtp/232.84.1.90:10398
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/baby_tv.png" group-title="ASIAN TV", Baby TV
 http://183.88.212.205:8010/play/a01e
 #EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/hanna-barbera/images/6/61/BOOMCN.png" group-title="ASIAN TV", Boomerang
 http://103.77.116.191:443/cartoon/boomerang_480p.stream/chunklist.m3u8
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch226.gif" group-title="ASIAN TV", Cartoon Network
-http://183.88.212.205:8010/play/a01b
+http://14.165.47.83:4022/rtp/232.84.1.16:8070
 #EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch240.gif" group-title="ASIAN TV", Nickelodeon
 http://183.88.212.205:8010/play/a01f
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/nickjr.jpg" group-title="ASIAN TV", Nick Jr. 
@@ -190,19 +190,19 @@ http://183.88.212.205:8010/play/a01c
 #EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/History%20HD.png" group-title="ASIAN TV", History HD
 http://183.88.212.205:8010/play/a00y
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5476e8bf87fa52_31319115.png" group-title="ASIAN TV", Discovery Channel 
-http://183.88.212.205:8010/play/a031
+http://14.165.47.83:4022/rtp/232.84.1.47:82621
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch204.gif" group-title="ASIAN TV", Discovery Asia
 http://183.88.212.205:8010/play/a00t
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="ASIAN TV", Discovery Science
 http://183.88.212.205:8010/play/a034
 #EXTINF:-1,tvg-logo="https://images.nationalgeographic.com/wpf/sites/common/i/presentation/NGLogo560x430-cb1343821768.png" group-title="ASIAN TV", Nat Geo 
-http://183.88.212.205:8010/play/a02x
+http://14.165.47.83:4022/rtp/232.84.2.122:8364
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_54f21cb811caa5_99461820.png" group-title="ASIAN TV", Nat Geo WILD HD 
-http://183.88.212.205:8010/play/a02y
+http://14.165.47.83:4022/rtp/232.84.2.123:8454
 #EXTINF:-1,tvg-logo="http://www.lonnytv.com/ch/natgeo%20music.png" group-title="ASIAN TV", Nat Geo Music
 http://183.88.212.205:8010/play/a01q
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch255.gif" group-title="ASIAN TV", Nat Geo People
-http://183.88.212.205:8010/play/a02z
+http://14.165.47.83:4022/rtp/232.84.2.121:8376
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/644753216727445504/LmzG_qHM.jpg" group-title="ASIAN TV", BBC Earth
 http://183.88.212.205:8010/play/a03e
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_537a434fe62f88_23303977.png" group-title="ASIAN TV", Animal Planet 
@@ -210,13 +210,13 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 #EXTINF:-1,tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="ASIAN TV", NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://pmcdeadline2.files.wordpress.com/2013/04/tlc-logo__130404131002.jpg" group-title="ASIAN TV", TLC
-http://183.88.212.205:8010/play/a032
+http://14.165.47.83:4022/rtp/232.84.1.49:8274
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/DM_LOGO_RGB.svg/400px-DM_LOGO_RGB.svg.png" group-title="ASIAN TV", DMAX
 http://183.88.212.205:8010/play/a035
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LIVING%20ASIA.png" group-title="ASIAN TV", LIVING ASIA CHANNEL
 https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-VuLNDkX-3yM/AAAAAAAAAAI/AAAAAAAAAAA/LB8nlxqMtdQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ASIAN TV", ASIA FOOD CHANNEL
-http://103.77.116.250/boboapp3/ASIAN_F/playlist.m3u8?userid=174906&e=1506100671&st=deMFeNtZqD50O237US9rNA
+http://14.165.47.83:4022/rtp/232.84.1.115:10236
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfaa444.png" group-title="ASIAN TV", FashionTV
 http://183.88.212.205:8010/play/a01v
 #EXTINF:-1, tvg-logo="http://www.fanoos.com/ia/al_jazeera_english_live_free_stream.jpg" group-title="ASIAN TV", Al Jazeera English
@@ -232,7 +232,7 @@ http://183.88.212.205:8010/play/a02h
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/876772485215141889/k58i8c8N.jpg" group-title="ASIAN TV", Channel News Asia
 http://103.77.116.191:443//news/channel_newsasia_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348http://183.88.212.205:8010/play/a02f
 #EXTINF:-1, tvg-logo="http://www.skynetdth.com/images/channal_logo/CNN.png" group-title="ASIAN TV", CNN
-http://183.88.212.205:8010/play/a00l
+http://14.165.47.83:4022/rtp/232.84.2.126:8076
 #EXTINF:-1, tvg-logo="http://tennis-win.net/wp-content/uploads/2014/11/bs-asahi.jpg" group-title="JAPAN", BS Asahi
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-3WgJDDR0Nb8/AAAAAAAAAAI/AAAAAAAAAAA/GZQsfVI-QnU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="JAPAN", BS Fuji
