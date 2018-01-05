@@ -3,7 +3,7 @@
 http://stream3.news5.ph:1935/n5e/tv53.stream/chunklist_w1083168964.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
 http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_708_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1515142854~acl=%2f*~data=hdntl~hmac=0c3c9bf3012e4f35a486f6680bbe874f953260b24aec7f30d327b784b1a71ee3
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/897002013191397376/g8lh8ADZ_400x400.jpg" group-title="PINOY TV", CNN PHILIPPINES
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/947598867985457152/lOzb5ud9.jpg" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV
 https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/chunklist_b2592000.m3u8?720
