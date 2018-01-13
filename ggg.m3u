@@ -70,7 +70,7 @@ http://113.177.63.140:4022/rtp/232.84.1.14:8058
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch330.gif" group-title="ASIAN TV", FOX
 http://113.177.63.140:4022/rtp/232.84.1.66:8370
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch301.gif" group-title="ASIAN TV", Fox Life 
-http://113.177.63.140:4022/rtp/232.84.2.119:8382
+http://portal.geniptv.com:8080/live/box007/box007/8641.ts
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch310.gif" group-title="ASIAN TV", FX
 http://dooballsodhd.sai8.live:443/free54/0x222_fxthailand_360p/playlist.m3u8?key=ng33cbq97hg718bftzt1ejbu
 #EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch313.gif" group-title="ASIAN TV", FOX CRIME
@@ -78,7 +78,7 @@ http://dooballsodhd.sai8.live:443/free54/0x222_foxcrimehdthai_360p/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/max_hd.jpg" group-title="ASIAN TV", CINEMAX
 http://113.177.63.140:4022/rtp/232.84.1.20:8094
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/warner_tv.png" group-title="ASIAN TV", Warner TV
-http://dooballsodhd.sai8.live:443/free54/0x777_warnertv_360p/playlist.m3u8?key=8inwyk98el8asywq5ntyjwr7
+http://portal.geniptv.com:8080/live/box007/box007/8643.ts
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/REDbyHBO_150x150.jpg" group-title="ASIAN TV", RED by HBO
 http://113.177.63.140:4022/rtp/232.84.1.44:8244
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/BIO_FYI_150x150.jpg" group-title="ASIAN TV", FYI
@@ -92,7 +92,7 @@ http://183.88.212.205:8010/play/a03o
 #EXTINF:-1, tvg-logo="https://www.gmkfreelogos.com/logos/C/img/Comedy_Central-2.gif" group-title="ASIAN TV", Comedy Central
 http://183.88.212.205:8010/play/a03
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/4kW0DkfCD48/hqdefault.jpg" group-title="ASIAN TV", EGG Network
-http://103.77.116.250/boboapp6/UNIVERSAL_SD/playlist.m3u8?userid=174906&e=1507380421&st=70yYJV21tWZ24PfvRBQHWw
+http://portal.geniptv.com:8080/live/box007/box007/8596.ts
 #EXTINF:-1, tvg-logo="http://www.lakecooptv.asia/images/evehd.png" group-title="ASIAN TV", Eve
 http://dooballsodhd.sai8.live:443/free41/0x222_evehd_360p/playlist.m3u8?key=je938sxd28v87a7kltpau7z5
 #EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch302.gif" group-title="ASIAN TV", Lifetime
@@ -138,7 +138,7 @@ http://103.77.116.250/boboapp1/thd22.stream/playlist.m3u8?userid=174906&e=150736
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dffa6a1.png" group-title="ASIAN TV",True Sport HD 3  
 http://103.77.116.250/boboapp1/thd333.stream/playlist.m3u8?userid=174906&e=1507361971&st=AZ83OTkQDdltF8FDkLGe6w
 #EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/839_300.png" group-title="ASIAN TV",Setanta Asia 
-http://dooballsodhd.sai8.live:443/free54/0x777_2sporthd4_360p/playlist.m3u8?key=bgnawf7rmecyqjpfhb5lb3qd
+http://portal.geniptv.com:8080/live/box007/box007/8601.ts
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e01dcd2.jpg" group-title="ASIAN TV",True Sport 1  
 http://103.77.116.250/boboapp1/a_truesp1.stream/playlist.m3u8?userid=174906&e=1507362353&st=iGcQdky1xy9Fe8_nQ4YgHg
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e0000e3.png" group-title="ASIAN TV",True Sport 2  
@@ -166,7 +166,7 @@ http://persik.by/stream/1417/252987/10289.m3u8
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=chv-inter.png" group-title="ASIAN TV", Channel V
 http://113.177.63.140:4022/rtp/232.84.1.13:8052
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9864d.png" group-title="ASIAN TV", Trace Urban
-http://103.77.116.191:443//music/trace_urban_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+http://portal.geniptv.com:8080/live/box007/box007/9366.ts
 #EXTINF:-1,tvg-logo="https://www.animax-asia.com/sites/asia.animax/files/animax_logo_endorsed_0.png" group-title="ASIAN TV", ANIMAX
 http://183.88.212.205:8010/play/a00h
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/cbeebies_150.png" group-title="ASIAN TV", BBC CBEEBIES
@@ -210,7 +210,7 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 #EXTINF:-1,tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="ASIAN TV", NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://pmcdeadline2.files.wordpress.com/2013/04/tlc-logo__130404131002.jpg" group-title="ASIAN TV", TLC
-http://113.177.63.140:4022/rtp/232.84.1.49:8274
+http://portal.geniptv.com:8080/live/box007/box007/8599.ts
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/DM_LOGO_RGB.svg/400px-DM_LOGO_RGB.svg.png" group-title="ASIAN TV", DMAX
 http://dooballsodhd.sai8.live:443/free41/0x777_dmaxhd_360p/playlist.m3u8?key=cdp8tyns57hu1iz49sk874vw
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LIVING%20ASIA.png" group-title="ASIAN TV", LIVING ASIA CHANNEL
@@ -1833,7 +1833,7 @@ http://portal.geniptv.com:8080/live/box007/box007/8587.ts
 http://portal.geniptv.com:8080/live/box007/box007/8625.ts
 #EXTINF:-1, group-title="THAILAND", SERIES TH
 http://portal.geniptv.com:8080/live/box007/box007/8636.ts
-#EXTINF:-1, group-title="THAILAND", SETANA HD TH
+#EXTINF:-1, group-title="THAILAND", SETANTA HD TH
 http://portal.geniptv.com:8080/live/box007/box007/8601.ts
 #EXTINF:-1, group-title="THAILAND", SMM TV Sport TH
 http://portal.geniptv.com:8080/live/box007/box007/9352.ts
