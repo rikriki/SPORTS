@@ -52,7 +52,7 @@ http://183.88.212.205:8010/play/a028
 #EXTINF:-1,tvg-logo="http://www.singteltv.com.sg/_channels/ico_ch523.gif" group-title="ASIAN TV",, KBS WORLD 
 http://cdn-03.bonus-tv.ru/btv/kbsworld/type/user/devname/LG-SmartTV/devid/LG-1474711308/eol/20200101T0000/hash/256504442b73f1d929c1a36b033cfd53facda543/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_410.png" group-title="ASIAN TV", Fox Family Movies   
-http://portal.geniptv.com:8080/live/box007/box007/8647.ts
+http://portal.geniptv.com:8080/live/box007/box007/6938.ts
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_411.png" group-title="ASIAN TV", Fox Action Movies  
 http://portal.geniptv.com:8080/live/box007/box007/8647.ts
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/channel_409.png" group-title="ASIAN TV", Fox Movies Premium 
@@ -90,7 +90,7 @@ http://portal.geniptv.com:8080/live/box007/box007/8634.ts
 #EXTINF:-1, tvg-logo="http://singteltv.com.sg/_channels/ico_ch328.gif" group-title="ASIAN TV", E!
 http://portal.geniptv.com:8080/live/box007/box007/8633.ts
 #EXTINF:-1, tvg-logo="https://www.gmkfreelogos.com/logos/C/img/Comedy_Central-2.gif" group-title="ASIAN TV", Comedy Central
-http://183.88.212.205:8010/play/a03
+http://portal.geniptv.com:8080/live/box007/box007/7788.ts
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/4kW0DkfCD48/hqdefault.jpg" group-title="ASIAN TV", EGG Network
 http://portal.geniptv.com:8080/live/box007/box007/8596.ts
 #EXTINF:-1, tvg-logo="http://www.lakecooptv.asia/images/evehd.png" group-title="ASIAN TV", Eve
