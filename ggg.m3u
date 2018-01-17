@@ -42,7 +42,7 @@ http://portal.geniptv.com:8080/live/box007/box007/9176.ts
 #EXTINF:-1, tvg-logo="https://0.soompi.io/wp-content/uploads/4/p/8c/389704/389704.png" group-title="ASIAN TV", Arirang 
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.singteltv.com.sg/_channels/ico_ch619.gif" group-title="ASIAN TV", TVN Asia 
-http://183.88.212.205:8010/play/a024
+http://portal.geniptv.com:8080/live/box007/box007/8598.ts
 #EXTINF:-1, tvg-logo="http://www.singteltv.com.sg/_channels/ico_ch682.gif" group-title="ASIAN TV", NHK World Premium
 http://183.88.212.205:8010/play/a027
 #EXTINF:-1, tvg-logo="http://www.singteltv.com.sg/_channels/ico_ch157.gif" group-title="ASIAN TV", NHK World TV
@@ -66,7 +66,7 @@ http://dooballsodhd.sai8.live:443/free53/0x222_ais_hbofam_720p/playlist.m3u8?key
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/axn_150x150.jpg" group-title="ASIAN TV", AXN 
 http://portal.geniptv.com:8080/live/box007/box007/8661.ts
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch330.gif" group-title="ASIAN TV", FOX
-http://portal.geniptv.com:8080/live/box007/box007/8653.ts
+http://portal.geniptv.com:8080/live/box007/box007/5454.ts
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch301.gif" group-title="ASIAN TV", Fox Life 
 http://portal.geniptv.com:8080/live/box007/box007/8641.ts
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch310.gif" group-title="ASIAN TV", FX
@@ -218,15 +218,15 @@ http://113.177.63.140:4022/rtp/232.84.1.115:10236
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfaa444.png" group-title="ASIAN TV", FashionTV
 http://183.88.212.205:8010/play/a01v
 #EXTINF:-1, tvg-logo="http://www.fanoos.com/ia/al_jazeera_english_live_free_stream.jpg" group-title="ASIAN TV", Al Jazeera English
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+http://portal.geniptv.com:8080/live/box007/box007/9417.ts
 #EXTINF:-1, tvg-logo="http://www.africa2016.org/images/logos/euronews.jpg" group-title="ASIAN TV", Euronews
-http://euronews-en-b9-cdn.hexaglobe.net/bfef5ffbd6aa73eedbcb3cb3fbba8170/5a3bdca8/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenbkp_eng.smil/ewnsabrenbkp_eng_540p.m3u8
+http://portal.geniptv.com:8080/live/box007/box007/9396.ts
 #EXTINF:-1, tvg-logo="https://football-hd.com/img_channel.php?c=news-springnews-hd.png" group-title="ASIAN TV", Sky News HD
 http://dooballsodhd.sai8.live:443/free54/0x222_skynewshd_360p/playlist.m3u8?key=m2v71msxecz3tdlpq1erkqhc
 #EXTINF:-1, tvg-logo="https://football-hd.com/img_channel.php?c=news-foxnews.png" group-title="ASIAN TV", Fox News
 http://dooballsodhd.sai8.live:443/free54/0x222_foxnewsthai_360p/playlist.m3u8?key=b5m844h8d96cghtlcmx8mgwv
 #EXTINF:-1, tvg-logo="http://www.logoeps.net/wp-content/uploads/2012/04/france_24-logo.jpg" group-title="ASIAN TV", France 24
-http://113.177.63.140:4022/rtp/232.84.2.135:9606
+http://portal.geniptv.com:8080/live/box007/box007/9390.ts
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/876772485215141889/k58i8c8N.jpg" group-title="ASIAN TV", Channel News Asia
 http://dooballsodhd.sai8.live:443/free54/0x222_newsasia_360p/playlist.m3u8?key=vj85kem8gyt1dlgbdsq5pfty
 #EXTINF:-1, tvg-logo="http://www.skynetdth.com/images/channal_logo/CNN.png" group-title="ASIAN TV", CNN
