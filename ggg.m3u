@@ -70,7 +70,7 @@ http://portal.geniptv.com:8080/live/box007/box007/8650.ts
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/warner_tv.png" group-title="ASIAN TV", Warner TV
 http://portal.geniptv.com:8080/live/box007/box007/8643.ts
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/REDbyHBO_150x150.jpg" group-title="ASIAN TV", RED by HBO
-http://42.117.53.61:65455/udp/225.1.1.89:30120
+http://1.54.242.118:4022/udp/225.1.1.89:30120
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/BIO_FYI_150x150.jpg" group-title="ASIAN TV", FYI
 http://portal.geniptv.com:8080/live/box007/box007/8622.ts
 #EXTINF:-1, tvg-logo="http://www.indovision.tv/userfiles/image/channel/logo-ci.jpg" group-title="ASIAN TV", CRIME INVESTIGATION
@@ -154,7 +154,7 @@ http://persik.by/stream/1417/252987/10208.m3u8
 #EXTINF:-1,tvg-logo="https://www.billboard.com/files/styles/promo_650/public/media/MTV-Live-Logo.jpg" group-title="ASIAN TV", MTV Live HD
 http://persik.by/stream/1417/252987/10289.m3u8
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=chv-inter.png" group-title="ASIAN TV", Channel V
-http://42.117.53.61:65455/udp/225.1.1.243:30120
+http://1.54.242.118:4022/udp/225.1.1.243:30120
 #EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9864d.png" group-title="ASIAN TV", Trace Urban
 http://portal.geniptv.com:8080/live/box007/box007/9366.ts
 #EXTINF:-1,tvg-logo="https://www.animax-asia.com/sites/asia.animax/files/animax_logo_endorsed_0.png" group-title="ASIAN TV", ANIMAX
@@ -166,7 +166,7 @@ http://portal.geniptv.com:8080/live/box007/box007/9391.ts
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch232.gif" group-title="ASIAN TV", Disney XD
 http://183.88.212.205:8010/play/a00x
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch236.gif" group-title="ASIAN TV", Disney Junior 
-http://42.117.53.61:65455/udp/225.1.1.233:30120
+http://1.54.242.118:4022/udp/225.1.1.233:30120
 #EXTINF:-1,tvg-logo="http://www.indovision.tv/userfiles/image/channel/baby_tv.png" group-title="ASIAN TV", Baby TV
 http://portal.geniptv.com:8080/live/box007/box007/9131.ts
 #EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/hanna-barbera/images/6/61/BOOMCN.png" group-title="ASIAN TV", Boomerang
@@ -180,7 +180,7 @@ http://183.88.212.205:8010/play/a01c
 #EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/History%20HD.png" group-title="ASIAN TV", History HD
 http://portal.geniptv.com:8080/live/box007/box007/9393.ts
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_5476e8bf87fa52_31319115.png" group-title="ASIAN TV", Discovery Channel 
-http://42.117.53.61:65455/udp/225.1.1.238:30120
+http://1.54.242.118:4022/udp/225.1.1.238:30120
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch204.gif" group-title="ASIAN TV", Discovery Asia
 http://portal.geniptv.com:8080/live/box007/box007/8631.ts
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="ASIAN TV", Discovery Science
@@ -194,7 +194,7 @@ http://183.88.212.205:8010/play/a01q
 #EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/ico_ch255.gif" group-title="ASIAN TV", Nat Geo People
 http://portal.geniptv.com:8080/live/box007/box007/8609.ts
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/644753216727445504/LmzG_qHM.jpg" group-title="ASIAN TV", BBC Earth
-http://42.117.53.61:65455/udp/225.1.2.24:30120
+http://1.54.242.118:4022/udp/225.1.2.24:30120
 #EXTINF:-1,tvg-logo="https://football-hd.com/img_channel.php?c=ch_537a434fe62f88_23303977.png" group-title="ASIAN TV", Animal Planet 
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="ASIAN TV", NASA TV
@@ -206,9 +206,9 @@ http://portal.geniptv.com:8080/live/box007/box007/8621.ts
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LIVING%20ASIA.png" group-title="ASIAN TV", LIVING ASIA CHANNEL
 https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-VuLNDkX-3yM/AAAAAAAAAAI/AAAAAAAAAAA/LB8nlxqMtdQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ASIAN TV", ASIA FOOD CHANNEL
-http://42.117.53.61:65455/udp/225.1.1.198:30120
+http://1.54.242.118:4022/udp/225.1.1.198:30120
 #EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfaa444.png" group-title="ASIAN TV", FashionTV
-http://42.117.53.61:65455/udp/225.1.1.234:30120
+http://1.54.242.118:4022/udp/225.1.1.234:30120
 #EXTINF:-1, tvg-logo="http://www.fanoos.com/ia/al_jazeera_english_live_free_stream.jpg" group-title="ASIAN TV", Al Jazeera English
 http://portal.geniptv.com:8080/live/box007/box007/9417.ts
 #EXTINF:-1, tvg-logo="http://www.africa2016.org/images/logos/euronews.jpg" group-title="ASIAN TV", Euronews
@@ -220,9 +220,9 @@ http://dooballsodhd.sai8.live:443/free54/0x222_foxnewsthai_360p/playlist.m3u8?ke
 #EXTINF:-1, tvg-logo="http://www.logoeps.net/wp-content/uploads/2012/04/france_24-logo.jpg" group-title="ASIAN TV", France 24
 http://portal.geniptv.com:8080/live/box007/box007/9390.ts
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/876772485215141889/k58i8c8N.jpg" group-title="ASIAN TV", Channel News Asia
-http://42.117.53.61:65455/udp/225.1.1.202:30120
+http://1.54.242.118:4022/udp/225.1.1.202:30120
 #EXTINF:-1, tvg-logo="http://www.skynetdth.com/images/channal_logo/CNN.png" group-title="ASIAN TV", CNN
-http://42.117.53.61:65455/udp/225.1.1.242:30120
+http://1.54.242.118:4022/udp/225.1.1.242:30120
 #EXTINF:-1, tvg-logo="http://tennis-win.net/wp-content/uploads/2014/11/bs-asahi.jpg" group-title="JAPAN", BS Asahi
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-3WgJDDR0Nb8/AAAAAAAAAAI/AAAAAAAAAAA/GZQsfVI-QnU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="JAPAN", BS Fuji
