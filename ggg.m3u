@@ -6,8 +6,8 @@ http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/947598867985457152/lOzb5ud9.jpg" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/MOR1019logo2014.png" group-title="PINOY TV", MOR 101.9
-http://iwantvsphls-lh.akamaihd.net/i/iwantspmormanila_1@344274/index_500_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1517861681~acl=%2f*~data=hdntl~hmac=4335bbdc678f57af7cb79500b4e678d7848c3f7ebb77981ef7188c96629b61c6
-#EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV
+http://iwantvsphls-lh.akamaihd.net/i/iwantspmormanila_1@344274/index_300_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1517907315~acl=%2f*~data=hdntl~hmac=acab2794cfa8743fea671c48af8b3ca386de6468fc666741db7d9b605f9f4ad3
+EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV
 https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/chunklist_b2592000.m3u8?720
 #EXTINF:-1, tvg-logo="http://www.iglesianicristo.ws/images/inctv.jpg" group-title="PINOY TV", INC TV
 http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_800_av-b.m3u8?sd=10&rebase=on
