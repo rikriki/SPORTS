@@ -1597,4 +1597,6 @@ http://premium-iptv.link:6969/live/tester/123456/9428.ts
 http://premium-iptv.link:6969/live/tester/123456/9413.ts
 #EXTINF:-1,tvg-logo="https://pmcvariety.files.wordpress.com/2014/04/warnertv-logo.jpg" group-title="Asian TV",Warner TV
 http://dooballsodhd.sai8.live:443/free54/0x777_warnertv_360p/chunklist_w525341083.m3u8?key=rthlejyfjz41g4as4fjhfyte
+#EXTINF:-1,tvg-logo="http://2.bp.blogspot.com/-tE0IdJbqL7k/VcA5Ar3bBfI/AAAAAAAABIQ/4IDtCrOTa9w/s640/Untitled-11.jpg" group-title="Asian TV",Fox Thai
+http://dooballsodhd.sai8.live:443/free/00_foxthai_360p/chunklist_w1072449084.m3u8?key=31sc69fa6hgvni96a6u6glxz
 
