@@ -1595,4 +1595,6 @@ http://premium-iptv.link:6969/live/tester/123456/8462.ts
 http://premium-iptv.link:6969/live/tester/123456/9428.ts
 #EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/Sony-Channel.png" group-title="Asian TV",Sony Channel Asia
 http://premium-iptv.link:6969/live/tester/123456/9413.ts
+#EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/WARNER-TV.png" group-title="Asian TV",Warner TV
+http://dooballsodhd.sai8.live:443/free54/0x777_warnertv_360p/playlist.m3u8?key=w3yl8iiilnzgxsyfepcnl21a
 
