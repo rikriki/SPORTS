@@ -1581,3 +1581,11 @@ http://vaders.tv:80/live/bilbo/baggins/74520.ts
 http://vaders.tv:80/live/bilbo/baggins/74522.ts
 #EXTINF:-1,tvg-logo="http://vaders.tv/logos/thai%208%20channel.png" group-title="Thailand",Thai 8 Channel
 http://vaders.tv:80/live/bilbo/baggins/74523.ts
+#EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/Fox%20Sports.png" group-title="Asian TV",Fox Sports HD
+http://premium-iptv.link:6969/live/tester/123456/9381.ts
+#EXTINF:-1,tvg-logo="http://www.itv.so/uploads/images/channel_59_1500162207_thumb.jpg" group-title="Asian TV",Fox Sports 1 HD 
+http://premium-iptv.link:6969/live/tester/123456/9379.ts
+#EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/FOXSPORTS2.png" group-title="Asian TV",Fox Sports 2 HD 
+http://premium-iptv.link:6969/live/tester/123456/9378.ts
+#EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_3_logo.png" group-title="Asian TV",Fox Sports 3 HD 
+http://premium-iptv.link:6969/live/tester/123456/9377.ts
