@@ -1569,3 +1569,17 @@ http://premium-iptv.link:6969/live/tester/123456/5816.ts
 http://premium-iptv.link:6969/live/tester/123456/5815.ts
 #EXTINF:-1, group-title="DENMARK/SWEDEN", TV 2 NEWS
 http://premium-iptv.link:6969/live/tester/123456/3100.ts
+#EXTINF:-1,tvg-logo="http://vaders.tv/logos/3%20hd.png" group-title="Thailand",3 HD
+http://vaders.tv:80/live/bilbo/baggins/74478.ts
+#EXTINF:-1,tvg-logo="http://vaders.tv/logos/5%20hd.png" group-title="Thailand",5 HD
+http://vaders.tv:80/live/bilbo/baggins/74479.ts
+#EXTINF:-1,tvg-logo="http://vaders.tv/logos/7%20hd.png" group-title="Thailand",7 HD
+http://vaders.tv:80/live/bilbo/baggins/74521.ts
+#EXTINF:-1,tvg-logo="http://vaders.tv/logos/thai%20pbs.png" group-title="Thailand",Thai PBS HD
+http://vaders.tv:80/live/bilbo/baggins/74480.ts
+#EXTINF:-1,tvg-logo="http://vaders.tv/logos/thairath%20tv%20hd.png" group-title="Thailand",Thairath TV HD
+http://vaders.tv:80/live/bilbo/baggins/74520.ts
+#EXTINF:-1,tvg-logo="http://vaders.tv/logos/true%20asain%20series%20hd.png" group-title="Thailand",True Asian Series HD
+http://vaders.tv:80/live/bilbo/baggins/74522.ts
+#EXTINF:-1,tvg-logo="http://vaders.tv/logos/thai%208%20channel.png" group-title="Thailand",Thai 8 Channel
+http://vaders.tv:80/live/bilbo/baggins/74523.ts
