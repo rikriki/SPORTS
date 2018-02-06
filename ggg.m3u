@@ -1581,22 +1581,4 @@ http://vaders.tv:80/live/bilbo/baggins/74520.ts
 http://vaders.tv:80/live/bilbo/baggins/74522.ts
 #EXTINF:-1,tvg-logo="http://vaders.tv/logos/thai%208%20channel.png" group-title="Thailand",Thai 8 Channel
 http://vaders.tv:80/live/bilbo/baggins/74523.ts
-#EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" group-title="Asian TV",Fox Sports HD
-http://premium-iptv.link:6969/live/tester/123456/9381.ts
-#EXTINF:-1,tvg-logo="http://blogs.butler.edu/butler-blue/files/2013/12/foxsports1.png" group-title="Asian TV",Fox Sports 1 HD 
-http://premium-iptv.link:6969/live/tester/123456/9379.ts
-#EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/FOXSPORTS2.png" group-title="Asian TV",Fox Sports 2 HD 
-http://premium-iptv.link:6969/live/tester/123456/9378.ts
-#EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_3_logo.png" group-title="Asian TV",Fox Sports 3 HD 
-http://premium-iptv.link:6969/live/tester/123456/9377.ts
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/2219738239/New_Picture__6__400x400.png" group-title="Asian TV",Fox Movies Premium
-http://premium-iptv.link:6969/live/tester/123456/8462.ts
-#EXTINF:-1,tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Fox-Action-HD.png" group-title="Asian TV",Fox Action Movies
-http://premium-iptv.link:6969/live/tester/123456/9428.ts
-#EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/Sony-Channel.png" group-title="Asian TV",Sony Channel Asia
-http://premium-iptv.link:6969/live/tester/123456/9413.ts
-#EXTINF:-1,tvg-logo="https://pmcvariety.files.wordpress.com/2014/04/warnertv-logo.jpg" group-title="Asian TV",Warner TV
-http://dooballsodhd.sai8.live:443/free54/0x777_warnertv_360p/chunklist_w525341083.m3u8?key=rthlejyfjz41g4as4fjhfyte
-#EXTINF:-1,tvg-logo="http://2.bp.blogspot.com/-tE0IdJbqL7k/VcA5Ar3bBfI/AAAAAAAABIQ/4IDtCrOTa9w/s640/Untitled-11.jpg" group-title="Asian TV",Fox Thai
-http://dooballsodhd.sai8.live:443/free/00_foxthai_360p/chunklist_w1072449084.m3u8?key=31sc69fa6hgvni96a6u6glxz
 
