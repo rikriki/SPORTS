@@ -1593,4 +1593,6 @@ http://premium-iptv.link:6969/live/tester/123456/9377.ts
 http://premium-iptv.link:6969/live/tester/123456/8462.ts
 #EXTINF:-1,tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Fox-Action-HD.png" group-title="Asian TV",Fox Action Movies
 http://premium-iptv.link:6969/live/tester/123456/9428.ts
+#EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Images/Sony-Channel.png" group-title="Asian TV",Sony Channel Asia
+http://premium-iptv.link:6969/live/tester/123456/9413.ts
 
