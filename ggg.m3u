@@ -1637,3 +1637,5 @@ http://premium-iptv.link:6969/live/tester/123456/5983.ts
 http://premium-iptv.link:6969/live/tester/123456/5984.ts
 #EXTINF:-1,tvg-logo="http://vertelevisionenvivo.com/wp-content/uploads/2017/06/fox-sports-3-vivo.jpg" group-title="ASIAN TV",Fox Sports 3
 http://premium-iptv.link:6969/live/tester/123456/5985.ts
+#EXTINF:-1,tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/12378156/p12378156_p_v8_aa.jpg" group-title="Tagalog Movies",Fox Sports 2
+https://archive.org/download/ASCWeb/ASCWeb.mp4
