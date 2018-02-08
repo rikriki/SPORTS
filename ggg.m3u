@@ -15,9 +15,9 @@ http://59c3ec70cfde0.streamlock.net:443/channel_7/channel7/playlist.m3u8
 http://59c3ec70cfde0.streamlock.net:443/channel_4/channel4/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/d/df/Cropped-island_living_logo.png" group-title="PINOY TV", ISLAND LIVING CHANNEL
 http://59c3ec70cfde0.streamlock.net:443/channel_5/channel5/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/BEAM31PH_Logo.jpg/250px-BEAM31PH_Logo.jpg" group-title="PINOY TV", BEAM CHANNEL 6
+#EXTINF:-1, tvg-logo="https://l3.tikilive.com/public/files/shows/157/157639/45392-800x450-FFFFFF.jpgg" group-title="PINOY TV", LIFE TV
 http://59c3ec70cfde0.streamlock.net:443/channel_6/channel6/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-yqHMWSJvNG8/AAAAAAAAAAI/AAAAAAAAAAA/3e836jSrhFg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="PINOY TV", BEAM TV SHOP
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/889363645942988800/ZYNI7o0U_400x400.jpg" group-title="PINOY TV", TBN ASIA
 http://59c3ec70cfde0.streamlock.net:443/channel_3/channel3/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/OShopping_2015.png" group-title="PINOY TV", BEAM O SHOPPING
 http://59c3ec70cfde0.streamlock.net:443/channel_2/channel2/playlist.m3u8
@@ -104,7 +104,7 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www2.myjcom.jp/special/common/channel_logo/wowow_prime.jpg" group-title="JAPAN", WOWOW Prime
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="VOD MOVIES", JOHN WICK  
-http://dl.dlfile.pro/1/John.Wick.2014.1080p.WEB-DL.mkv
+http://mc1.dl3enter.in/files/d4/serial1/Movie/2014/John%20Wick/John.Wick.2014.720p.BluRay.DL.mkv
 #EXTINF:-1, tvg-logo="http://budomate.com/wp-content/uploads/2016/09/john-wick-2-poster-2.png" group-title="VOD MOVIES", JOHN WICK 2 
 http://dl.tehmovies.org/94/96/3/John.Wick.Chapter.2.2017.720p.WEB-DL.NBY.Tehmovies_me.mkv
 #EXTINF:-1, tvg-logo="https://yts.ag/assets/images/movies/Twilight_2008/medium-cover.jpg" group-title="VOD MOVIES", TWILIGHT (2008)
@@ -168,7 +168,7 @@ http://dl.par30dl.com/Collections/Harry.Potter/Harry.Potter.And.The.Chamber.of.S
 #EXTINF:1, tvg-logo="http://vignette1.wikia.nocookie.net/harrypotter/images/c/c4/7VTALkqjG40vby3uVIsp03d7yXy.jpg/revision/latest?cb=20130803163319" group-title="VOD MOVIES", Prisoner of Azkaban 
 http://dl.par30dl.com/Collections/Harry.Potter/Harry.Potter.and.the.Prisoner.of.Azkaban.2004.720p.Dubbed_www.par30dl.com.mkv
 #EXTINF:1, tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/harry-potter-and-the-goblet-of-fire-2005/large_6sASqcdrEHXxUhA3nFpjrRecPD2.jpg" group-title="VOD MOVIES", Goblet of Fire 
-http://dl3.vaiomusic.org/Movie/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%202005%20-%20720p%20%28media.vaiomusic%29.mkv
+http://dreamsupport.us/justin/Movies/Harry%20Potter%20and%20The%20Goblet%20Of%20Fire%20(2005)/Harry%20Potter%20and%20The%20Goblet%20Of%20Fire%20(2005).mp4
 #EXTINF:1, tvg-logo="https://i.ytimg.com/vi/Ak6vjFiZUqM/movieposter.jpg" group-title="VOD MOVIES", Order of The Phoenix 
 http://dl.par30dl.com/Collections/Harry.Potter/Harry.Potter.and.the.Order.of.the.Phoenix.2007.720p.Dubbed_www.par30dl.com.mkv
 #EXTINF:1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD MOVIES", Half Blood Prince 
