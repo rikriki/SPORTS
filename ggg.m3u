@@ -1641,7 +1641,7 @@ http://premium-iptv.link:6969/live/tester/123456/5985.ts
 https://archive.org/download/ASCWeb/ASCWeb.mp4
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/OneMoreChance.jpg" group-title="Tagalog Movies",One More Chance (2007)
 https://archive.org/download/ONEMORECHANCE2007PINOYDVDRiPDivXSoftEngSubsTagalogWingTip/ONE%20MORE%20CHANCE%20%282007%29%20%5BPINOY%5D%20DVDRiP%20DivX%20SoftEngSubs%20%5BTagalog%5D%20WingTip.mp4
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/Starting_Over_Again_movie_poster.jpg group-title="Tagalog Movies",Starting Over Again (2014)
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/Starting_Over_Again_movie_poster.jpg" group-title="Tagalog Movies",Starting Over Again (2014)
 https://archive.org/download/StartingOverAgain2014/Starting%20Over%20Again%202014.mp4
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/My_Lady_Boss_Official_Poster.jpg" group-title="Tagalog Movies",My Lady Boss (2013)
 https://archive.org/download/PinoyLoveStoryMovieFullAngelLocsinRichardGuttierez/My%20Lady%20Boss%202013.mp4
@@ -1657,5 +1657,4 @@ https://archive.org/download/YOUGOTME2007PINOYXviDTagalogWingTip/YOU%20GOT%20ME%
 https://archive.org/download/TheMistress2012Tagalog720pEngSubDVDRipElitePirates.com/The%20Mistress%202012%20%5BTagalog%20720p%5D%20EngSub%20DVDRip%20elite-pirates.com.mkv
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/MAGPromotionalPoster.png" group-title="Tagalog Movies",My Amnesia Girl (2010)
 https://om190.cdn.oose.io/play/a20180208VM5lh1Q2C07/video.mp4?rate=512k&attach=My%20Amnesia%20Girl%202010.mp4&start=0
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/A_Very_Special_Love.jpg" group-title="Tagalog Movies",A Very Special Love (2008)
-http://185.176.192.40/vids/a_very_special_love_episode_01___5714d5a13e2b1.mp4
+
