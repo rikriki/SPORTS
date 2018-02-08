@@ -1599,4 +1599,6 @@ http://vaders.tv:80/live/bilbo/baggins/74520.ts
 http://vaders.tv:80/live/bilbo/baggins/74522.ts
 #EXTINF:-1,tvg-logo="http://vaders.tv/logos/thai%208%20channel.png" group-title="Thailand",Thai 8 Channel
 http://vaders.tv:80/live/bilbo/baggins/74523.ts
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="ASIAN TV",Warner TV
+http://dooballsodhd.sai8.live:443/free54/0x777_warnertv_360p/chunklist_w1422748936.m3u8?key=pdhistpv328i9yienzaqm6lm
 
