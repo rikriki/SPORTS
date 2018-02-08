@@ -1621,7 +1621,7 @@ http://premium-iptv.link:6969/live/tester/123456/9428.ts
 http://premium-iptv.link:6969/live/tester/123456/9420.ts
 #EXTINF:-1,tvg-logo="http://4.bp.blogspot.com/-ctXsnUUqDuc/VIVbNtKAWsI/AAAAAAAAOJE/9XRlKi3aMg4/s1600/fyi_banner2_2.jpg" group-title="ASIAN TV",FYI
 http://premium-iptv.link:6969/live/tester/123456/9411.ts
-#EXTINF:-1,tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="ASIAN TV",Cinemax
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="ASIAN TV",Cinemax
 http://premium-iptv.link:6969/live/tester/123456/9433.ts
 #EXTINF:-1,tvg-logo="https://storage.googleapis.com/live_project_images_0001/3/42180-l-1459983055.jpg" group-title="ASIAN TV",Animal Planet
 http://premium-iptv.link:6969/live/tester/123456/9419.ts
