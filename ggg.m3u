@@ -1601,4 +1601,16 @@ http://vaders.tv:80/live/bilbo/baggins/74522.ts
 http://vaders.tv:80/live/bilbo/baggins/74523.ts
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="ASIAN TV",Warner TV
 http://premium-iptv.link:6969/live/tester/123456/9412.ts
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Fox_life_hd.png" group-title="ASIAN TV",Fox Life
+http://premium-iptv.link:6969/live/tester/123456/9422.ts
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png" group-title="ASIAN TV",Sony Channel Asia
+http://premium-iptv.link:6969/live/tester/123456/9413.ts
+#EXTINF:-1,tvg-logo="http://2.bp.blogspot.com/-tE0IdJbqL7k/VcA5Ar3bBfI/AAAAAAAABIQ/4IDtCrOTa9w/s640/Untitled-11.jpg" group-title="ASIAN TV",Fox Channel
+http://premium-iptv.link:6969/live/tester/123456/9427.ts
+#EXTINF:-1,tvg-logo="https://www.axn-asia.com/sites/asia.axn/files/ct_custom_page_f_primary_image/AXN_LOGO-620x348.jpg" group-title="ASIAN TV",AXN HD
+http://premium-iptv.link:6969/live/tester/123456/9435.ts
+#EXTINF:-1,tvg-logo="http://wickedhorror.thunderroadinc.netdna-cdn.com/wp-content/uploads/2015/06/amc_logo.png" group-title="ASIAN TV",AMC Network
+http://premium-iptv.link:6969/live/tester/123456/9414.ts
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/CI_Crime_Investigation_Network_Logo.png/500px-CI_Crime_Investigation_Network_Logo.png" group-title="ASIAN TV",Crime Investigation
+http://premium-iptv.link:6969/live/tester/123456/9432.ts
 
