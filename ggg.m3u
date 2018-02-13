@@ -23,6 +23,8 @@ http://59c3ec70cfde0.streamlock.net:443/channel_3/channel3/playlist.m3u8
 http://59c3ec70cfde0.streamlock.net:443/channel_2/channel2/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.shoptv.com.ph/skin/frontend/cudsly/default/images/shoptv-logo.png" group-title="PINOY TV", BEAM SHOP TV
 http://59c3ec70cfde0.streamlock.net:443/channel_1/channel1/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LIVING%20ASIA.png" group-title="PINOY TV", Living Asia Channel
+https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.filipinotelevision.com/wp-content/uploads/2014/05/slider-tfc-unit.png"  group-title="PINOY TV", TFC
 http://vaders.tv/live/willr1276@yahoo.com/Dd9621162/38782.ts
 #EXTINF:-1, tvg-logo="https://mark.trademarkia.com/logo-images/gma-network/gma-life-tv-77287763.jpg" group-title="PINOY TV", GMA Life TV
