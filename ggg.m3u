@@ -529,6 +529,16 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklis
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://latintrends.com/wp-content/uploads/2012/09/musicchoicenews.jpg" group-title="MUSIC/RADIO", Y2K
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
+#EXTINF:-1, tvg-logo="http://www.chillglobal.com/images/channels/orf-2-1432661230.jpg"  group-title="AUSTRIA", ORF 2
+http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.stream2watch.org/images/streams/517/600x400/14641033785186.jpg"  group-title="AUSTRIA", OKTO TV
+http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://static-media.streema.com/media/cache/1d/66/1d664d5364d8f815bb65f1ec1c04f30a.jpg"  group-title="AUSTRIA", Krone Hit
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
+#EXTINF:-1, tvg-logo="http://www.manutv.net/wp-content/uploads/tirol-tv.jpg"  group-title="AUSTRIA", TIROL TV
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://www.itver.cc/wp-content/uploads/2015/04/W24-Logo-670x300.jpg"  group-title="AUSTRIA", W24
+http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent.m3u8
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/sryxxx1433329600.png"  group-title="GERMANY", Das Erste HD
 http://vaders.tv:80/live/willr1276@yahoo.com/Dd9621162/34062.ts
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/urqsxp1433329543.png"  group-title="GERMANY", ZDF HD
