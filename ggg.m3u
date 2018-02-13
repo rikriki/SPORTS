@@ -539,6 +539,8 @@ http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
 http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.itver.cc/wp-content/uploads/2015/04/W24-Logo-670x300.jpg"  group-title="AUSTRIA", W24
 http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:-1, tvg-logo="https://webtvonlive.com/wp-content/uploads/viyana-webtvonlive-com.jpg"  group-title="AUSTRIA", VIYANA TV
+http://46.105.37.166:1935/viyanatv/viyanatv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/sryxxx1433329600.png"  group-title="GERMANY", Das Erste HD
 http://vaders.tv:80/live/willr1276@yahoo.com/Dd9621162/34062.ts
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/urqsxp1433329543.png"  group-title="GERMANY", ZDF HD
