@@ -354,7 +354,7 @@ http://dl.sitemovie.ir/movie/Despicable_Me_3_2017_720p_Farsi_Dubbed_SiteMovie_ir
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg" group-title="VOD MOVIES", It (2017)
 http://dl.tehmovies.org/94/96/9/IT.2017.720p.Ganool.Tehmovies.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Dunkirk_Film_poster.jpg" group-title="VOD MOVIES", DUNKIRK
-http://dl.filmbaroon.com/Dunkirk.2017.720p.mkv
+http://sv4avadl.uploadt.com/Movie/2017/07/Dunkirk.2017.Eng.720p.HD-TS.x264.AVADL.BiZ.mp4
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Kingsman_The_Golden_Circle.png" group-title="VOD MOVIES", Kingsman The Golden Circle
 http://dl.tehmovies.org/94/96/9/Kingsman.The.Golden.Circle.2017.720p.x265.Pahe.Tehmovies.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Moana_Teaser_Poster.jpg" group-title="VOD MOVIES", Moana
@@ -417,6 +417,20 @@ http://dl.tehmovies.org/94/96/11/Pitch.Perfect.3.2017.720p.HC.WEBRip.MkvCage.Teh
 http://dl.tehmovies.org/94/96/11/Three.Billboards.Outside.Ebbing.Missouri.2017.720p.Ganool.Tehmovies.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Patriot_promo_poster.jpg" group-title="VOD MOVIES", The Patriot
 http://mc1.dl3enter.in/files/d1/film/2000/The%20Patriot/The.Patriot.2000.720p.BluRay.DL.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/CallMeByYourName2017.png" group-title="VOD MOVIES", Call Me By Your Name
+http://dl20.mihanpix.com/94/96/11/Call.Me.By.Your.Name.2017.720p.WEB-DL.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Darkest_Hour_poster.png" group-title="VOD MOVIES", Darkest Hour
+http://dl20.mihanpix.com/94/96/11/Darkest.Hour.2017.720p.BluRay.YIFY.Tehmovies.mp4
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Lady_Bird_poster.jpeg" group-title="VOD MOVIES", Lady Bird
+http://dl20.mihanpix.com/94/96/11/Lady.Bird.2017.720p.WEB-DL.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/Phantom_Thread.png" group-title="VOD MOVIES", Phantom Thread
+http://dl20.mihanpix.com/94/96/11/Phantom.Thread.2017.HDRip.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/The_Post_%28film%29.png" group-title="VOD MOVIES", The Post
+http://dl20.mihanpix.com/94/96/10/The.Post.2017.DVDScr.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/The_Shape_of_Water_%28film%29.png" group-title="VOD MOVIES", The Shape of Water
+http://dl20.mihanpix.com/94/96/10/The.Shape.of.Water.2017.DVDScr.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Teaser_poster_for_2017_film_Get_Out.png" group-title="VOD MOVIES", Get Out
+http://dl20.mihanpix.com/94/96/2/Get.Out.2017.720p.MkvCage.Tehmovies_me.mkv
 #EXTINF:-1,tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/12378156/p12378156_p_v8_aa.jpg" group-title="Tagalog Movies",A Second Chance (2015)
 https://archive.org/download/ASCWeb/ASCWeb.mp4
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/OneMoreChance.jpg" group-title="Tagalog Movies",One More Chance (2007)
