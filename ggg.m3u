@@ -28,19 +28,19 @@ https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/chunklist_b
 #EXTINF:-1, tvg-logo="http://www.iglesianicristo.ws/images/inctv.jpg" group-title="PINOY TV", INC TV
 http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_800_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/753895989904367616/GvgKNn1u.jpg" group-title="PINOY TV", INQUIRER 990
-http://59c3ec70cfde0.streamlock.net:443/channel_7/channel7/playlist.m3u8
+https://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist_w980265345.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/870865623047262208/1-IrAl1L_400x400.jpg" group-title="PINOY TV", PILIPINAS HD
-http://59c3ec70cfde0.streamlock.net:443/channel_4/channel4/playlist.m3u8
+https://59c3ec70cfde0.streamlock.net/channel_4/channel4/chunklist_w663856267.m3u8
 #EXTINF:-1, tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/d/df/Cropped-island_living_logo.png" group-title="PINOY TV", ISLAND LIVING CHANNEL
-http://59c3ec70cfde0.streamlock.net:443/channel_5/channel5/playlist.m3u8
+https://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist_w836722160.m3u8
 #EXTINF:-1, tvg-logo="https://l3.tikilive.com/public/files/shows/157/157639/45392-800x450-FFFFFF.jpgg" group-title="PINOY TV", LIFE TV
-http://59c3ec70cfde0.streamlock.net:443/channel_6/channel6/playlist.m3u8
+https://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist_w901462722.m3u8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/889363645942988800/ZYNI7o0U_400x400.jpg" group-title="PINOY TV", TBN ASIA
-http://59c3ec70cfde0.streamlock.net:443/channel_3/channel3/playlist.m3u8
+https://59c3ec70cfde0.streamlock.net/channel_3/channel3/chunklist_w892560450.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/OShopping_2015.png" group-title="PINOY TV", BEAM O SHOPPING
-http://59c3ec70cfde0.streamlock.net:443/channel_2/channel2/playlist.m3u8
+https://59c3ec70cfde0.streamlock.net/channel_2/channel2/chunklist_w838248083.m3u8
 #EXTINF:-1, tvg-logo="https://www.shoptv.com.ph/skin/frontend/cudsly/default/images/shoptv-logo.png" group-title="PINOY TV", BEAM SHOP TV
-http://59c3ec70cfde0.streamlock.net:443/channel_1/channel1/playlist.m3u8
+https://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist_w174661881.m3u8
 #EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LIVING%20ASIA.png" group-title="PINOY TV", Living Asia Channel
 https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://www.filipinotelevision.com/wp-content/uploads/2014/05/slider-tfc-unit.png"  group-title="PINOY TV", TFC
