@@ -86,7 +86,7 @@ http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_stv.m3u
 #EXTINF:-1, group-title="JAPAN",Japan Channel DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="VOD MOVIES", JOHN WICK  
-http://mc1.dl3enter.in/files/d4/serial1/Movie/2014/John%20Wick/John.Wick.2014.720p.BluRay.DL.mkv
+http://avadl.uploadt.com/New2/Film/John%20Wick%20%282014%29%20720p%20BrRip_AvaDL.com.mkv
 #EXTINF:-1, tvg-logo="http://budomate.com/wp-content/uploads/2016/09/john-wick-2-poster-2.png" group-title="VOD MOVIES", JOHN WICK 2 
 http://dl.tehmovies.org/94/96/3/John.Wick.Chapter.2.2017.720p.WEB-DL.NBY.Tehmovies_me.mkv
 #EXTINF:-1, tvg-logo="https://yts.ag/assets/images/movies/Twilight_2008/medium-cover.jpg" group-title="VOD MOVIES", TWILIGHT (2008)
@@ -370,7 +370,7 @@ http://sv4avadl.uploadt.com/Movie/2017/07/Dunkirk.2017.Eng.720p.HD-TS.x264.AVADL
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Kingsman_The_Golden_Circle.png" group-title="VOD MOVIES", Kingsman The Golden Circle
 http://dl.tehmovies.org/94/96/9/Kingsman.The.Golden.Circle.2017.720p.x265.Pahe.Tehmovies.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Moana_Teaser_Poster.jpg" group-title="VOD MOVIES", Moana
-http://dl.melimedia.net/mersad/movie/95/12/Moana%20Farsi/Moana.2016.720p.x264_MeliMedia.INFO.mkv
+http://dl.funsaber.net/animation/95/12/Moana.2016.720p.x265_Funsaber.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png" group-title="VOD MOVIES", Blade Runner 2049
 http://dl.tehmovies.org/94/96/9/Blade.Runner.2049.2017.720p.WEB-DL.MkvCage.Tehmovies.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Thor_Ragnarok_poster.jpg" group-title="VOD MOVIES", THOR: RAGNAROK
@@ -400,7 +400,7 @@ http://dl.tehmovies.org/94/96/11/Murder.on.the.Orient.Express.2017.720p.MkvCage.
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Jumanji_poster.jpg" group-title="VOD MOVIES", Jumanji
 http://dl.sitemovie.ir/movie/Jumanji_1995_720p_BrRip_Ganool_SiteMovie_ir.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Jumanji_Welcome_to_the_Jungle.png" group-title="VOD MOVIES", Jumanji: Welcome to the Jungle
-http://dl20.mihanpix.com/94/96/12/Jumanji.Welcome.to.the.Jungle.2017.720p.WEB-DL.MkvCage.Tehmovies.mkv
+http://dl.tehmovies.org/94/96/12/Jumanji.Welcome.to.the.Jungle.2017.720p.WEB-DL.MkvCage.Tehmovies.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg" group-title="VOD MOVIES", Coco
 http://dl.tehmovies.org/94/96/11/Coco.2017.720p.MkvCage.Tehmovies.mkv
 #EXTINF:1, tvg-logo="http://monglieutrai.com/wp-content/uploads/2018/02/Headgame-2018-English-Movie-BRRip-720p-860MB-Download.jpg" group-title="VOD MOVIES", Headgame
