@@ -1765,66 +1765,6 @@ http://vaders.tv/live/sctv_jay805/liverpool1/2735.ts
 http://vaders.tv/live/sctv_jay805/liverpool1/74789.ts
 #EXTINF:-1 tvg-name="HDNet Movies HD" tvg-id="HDNetMovies.us" tvg-logo="http://vaders.tv/logos/hdnet%20movies.png" group-title="Premium Movies",HDNet Movies HD
 http://vaders.tv/live/sctv_jay805/liverpool1/74791.ts
-#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/92Fjz2w1.png" group-title="DENMARK", DR2 DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/67463.ts
-#EXTINF:-1, tvg-logo="http://www.onlinecasting.dk/grafik/casting/1179.png" group-title="DENMARK", DR3 HD DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/67465.ts
-#EXTINF:-1, tvg-logo="http://digitalt.tv/pics/kanalloger/drklogo.png" group-title="DENMARK", DR K DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/67466.ts
-#EXTINF:-1, tvg-logo="http://www.goalzz.com/images/logo_sport/tv2hd_denmark.jpg" group-title="DENMARK", TV 2 DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/67472.ts
-#EXTINF:-1, tvg-logo="http://digitalt.tv/pics/kanalloger/tv2zulu.png" group-title="DENMARK", TV 2 Zulu DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/67473.ts
-#EXTINF:-1, tvg-logo="http://images.viaway.com/15241850_180.png" group-title="DENMARK", TV 2 Charlie DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/67474.ts
-#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c5/TV2_News_Logo_%282008-2013%29.png" group-title="DENMARK", TV 2 News DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/67475.ts
-#EXTINF:-1, tvg-logo="http://digitalt.tv/wp-content/uploads/t/tv2_fri_logo.png" group-title="DENMARK", TV 2 Fri HD DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/67476.ts
-#EXTINF:-1, tvg-logo="http://oklivetv.com/wp-content/uploads/media/15dde0981662cb04b81e739fc77fe5fe-320x180.jpeg" group-title="DENMARK", TV 2 Bornholm DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/67477.ts
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/oZjDPVNGaiTSE5UxaEmTRTxEUP5zMg5fDekjJxhxixr02uwOj4zhBWSv-rG1iL1fSm4=w300" group-title="DENMARK", TV 2 Lorry DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/67479.ts
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/894481178765479936/yObqEQ6D_400x400.jpg" group-title="DENMARK", TV 2 Nord DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/67481.ts
-#EXTINF:-1, tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/liluka-profile_image-597f701797977bc4-300x300.png" group-title="DENMARK", TV3 DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/72809.ts
-#EXTINF:-1, tvg-logo="https://www.osterbroantenneforening.dk/images/tvlogo/3puls.png" group-title="DENMARK", TV3 Puls DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/72810.ts
-#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/Viasat_Film_premiere_2.jpeg" group-title="DENMARK", Viasat Film Premiere DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/74725.ts
-#EXTINF:-1, tvg-logo="http://picon.space/viasatfilmcomedy.png" group-title="DENMARK", Viasat Film Comedy DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/74726.ts
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Viasat_film_action.jpg" group-title="DENMARK", Viasat Film Action DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/74727.ts
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Viasat_film_family.jpg" group-title="DENMARK", Viasat Film Family DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/74728.ts
-#EXTINF:-1, tvg-logo="https://farm6.staticflickr.com/5822/21903541978_d2f6ff8dd2.jpg" group-title="DENMARK", Viasat Film Hits DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/74729.ts
-#EXTINF:-1, tvg-logo="https://i2.wp.com/opentro.com/wp-content/uploads/2017/02/viasat-series-1.jpg" group-title="DENMARK", Viasat Series DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/74730.ts
-#EXTINF:-1, tvg-logo="https://zapafri.s3.amazonaws.com/channels/original/c-26d8a189c62e98617c90ea8431050c91.png" group-title="DENMARK", Viasat Nature DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/74732.ts
-#EXTINF:-1, tvg-logo="http://www.chillglobal.com/images/channels/viasat-history-1432653724.jpg" group-title="DENMARK", Viasat History DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/74733.ts
-#EXTINF:-1, tvg-logo="https://newsbreak.dk/wp-content/uploads/2014/07/Kanal-4-HD.png" group-title="DENMARK", Kanal 4 DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/74734.ts
-#EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/11507/logo_kanal%205.png" group-title="DENMARK", Kanal 5 HD DK
-http://vaders.tv:80/live/tiger12/t75ge8r90/74735.ts
-#EXTINF:-1,tvg-logo="http://vaders.tv/logos/3%20hd.png" group-title="Thailand",3 HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/74478.ts
-#EXTINF:-1,tvg-logo="http://vaders.tv/logos/5%20hd.png" group-title="Thailand",5 HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/74479.ts
-#EXTINF:-1,tvg-logo="http://vaders.tv/logos/7%20hd.png" group-title="Thailand",7 HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/74521.ts
-#EXTINF:-1,tvg-logo="http://vaders.tv/logos/thai%20pbs.png" group-title="Thailand",Thai PBS HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/74480.ts
-#EXTINF:-1,tvg-logo="http://vaders.tv/logos/thairath%20tv%20hd.png" group-title="Thailand",Thairath TV HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/74520.ts
-#EXTINF:-1,tvg-logo="http://vaders.tv/logos/true%20asain%20series%20hd.png" group-title="Thailand",True Asian Series HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/74522.ts
-#EXTINF:-1,tvg-logo="http://vaders.tv/logos/thai%208%20channel.png" group-title="Thailand",Thai 8 Channel
-http://vaders.tv:80/live/tiger12/t75ge8r90/74523.ts
 #EXTINF:-1, group-title="ASIAN TV", Astro SuperSport 1 
 http://portal2.geniptv.com:8080/live/6jwSGn9CLN/atn7NBgslf/1366.ts
 #EXTINF:-1, group-title="ASIAN TV", Astro SuperSport 2 
