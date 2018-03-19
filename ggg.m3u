@@ -18,7 +18,7 @@ http://dl.my-film.me/s1/Movie/Hitman.Agent.47.2015/Hitman.Agent.47.2015.2160p.4K
 #EXTINF:-1, tvg-logo="https://insidemanila.ph/images/content/17-2017-10-12-03-53-25pm.jpg" group-title="PINOY TV", ESPN 5
 http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
-http://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1521502873~acl=%2f*~data=hdntl~hmac=2bee36735153a2dceaec5b29a84474d55b1e4e928a3df6a4e28a045550413c9e
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-b.m3u8?sd=10&rebase=on&id=AgBuNuZkuDMBRotFsFqA7VqKaP22nE4Si7MB3T+sbdN1PVzG7LQo9TwJLoC5Ybi%2fqfaLIrXoBqul1g%3d%3d&hdntl=exp=1521587979~acl=%2f*~data=hdntl~hmac=bb8af16075b8d2aad58f100f60d858487f5f06cf06359e260614d95baab87db1
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/947598867985457152/lOzb5ud9.jpg" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV PHILS
