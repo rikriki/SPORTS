@@ -1771,6 +1771,8 @@ http://vaders.tv/live/sctv_jay805/liverpool1/74791.ts
 https://tglcnash-i.akamaihd.net/hls/live/566559/pcweb/02.m3u8
 #EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/hi5tv/images/8/87/Okto.png" group-title="ASIAN TV",Okto TV
 https://tgloktoh-i.akamaihd.net/hls/live/566486/pcweb/02.m3u8
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/778129630284902401/gXjFkqGM_400x400.jpg" group-title="ASIAN TV",Bloomberg TV Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-240-1_live.m3u8
 #EXTINF:-1 tvg-name="&Pictures HD" tvg-id="&picturesHD.in" tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg" group-title="India",&Pictures HD
 http://vaders.tv/live/clearstreams_melissa437/karlos437/12306.ts
 #EXTINF:-1 tvg-name="Aajtak" tvg-id="AajTak.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Aaj_Tak_logo.png" group-title="India",Aajtak
