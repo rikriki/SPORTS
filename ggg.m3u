@@ -1773,6 +1773,8 @@ https://tglcnash-i.akamaihd.net/hls/live/566559/pcweb/02.m3u8
 https://tgloktoh-i.akamaihd.net/hls/live/566486/pcweb/02.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/778129630284902401/gXjFkqGM_400x400.jpg" group-title="ASIAN TV",Bloomberg TV Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-240-1_live.m3u8
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/875639380781563906/b1J1YbIE_400x400.jpg" group-title="ASIAN TV",Al Jazeera
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1 tvg-name="&Pictures HD" tvg-id="&picturesHD.in" tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg" group-title="India",&Pictures HD
 http://vaders.tv/live/clearstreams_melissa437/karlos437/12306.ts
 #EXTINF:-1 tvg-name="Aajtak" tvg-id="AajTak.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Aaj_Tak_logo.png" group-title="India",Aajtak
