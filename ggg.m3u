@@ -1775,6 +1775,16 @@ https://tgloktoh-i.akamaihd.net/hls/live/566486/pcweb/02.m3u8
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-240-1_live.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/875639380781563906/b1J1YbIE_400x400.jpg" group-title="ASIAN TV",Al Jazeera
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/875646402247901184/N4GGER3R_400x400.jpg" group-title="ASIAN TV",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="ASIAN TV",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_400x400.jpg" group-title="ASIAN TV",Arirang World
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/781790577390039040/5-Umq3Kb_400x400.jpg" group-title="ASIAN TV",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_ma_s.m3u8
+#EXTINF:-1,tvg-logo="http://kbsworldimage.kbs.co.kr/images/data_community/1508999253_Vdgljizv_400x400.jpg" group-title="ASIAN TV",KBS World
+http://218.60.94.32:1935/live/cs16.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="&Pictures HD" tvg-id="&picturesHD.in" tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg" group-title="India",&Pictures HD
 http://vaders.tv/live/clearstreams_melissa437/karlos437/12306.ts
 #EXTINF:-1 tvg-name="Aajtak" tvg-id="AajTak.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Aaj_Tak_logo.png" group-title="India",Aajtak
