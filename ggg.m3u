@@ -1688,71 +1688,71 @@ http://vaders.tv:80/live/joshuawebber15/yakima/64458.ts
 #EXTINF:-1 tvg-ID="BloombergTV.us" tvg-name="Bloomberg HD" tvg-logo="https://imgur.com/kL8PLec.png" group-title="United States",Bloomberg HD
 http://vaders.tv:80/live/joshuawebber15/yakima/64186.ts
 #EXTINF:-1 tvg-name="Cinemax" tvg-id="Cinemax.us" tvg-logo="http://vaders.tv/logos/cinemax.png" group-title="Premium Movies",Cinemax
-http://vaders.tv/live/sctv_jay805/liverpool1/7936.ts
+http://vapi.vaders.tv/play/7936.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Cinemax 5 Star" tvg-id="5StarMax.us" tvg-logo="http://vaders.tv/logos/cinemax%205%20star.png" group-title="Premium Movies",Cinemax 5 Star
-http://vaders.tv/live/sctv_jay805/liverpool1/7947.ts
+http://vapi.vaders.tv/play/7947.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Cinemax Actionmax" tvg-id="ActionMax.us" tvg-logo="http://vaders.tv/logos/cinemax%20actionmax.png" group-title="Premium Movies",Cinemax Actionmax
-http://vaders.tv/live/sctv_jay805/liverpool1/7946.ts
+http://vapi.vaders.tv/play/7946.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Cinemax Moremax" tvg-id="MoreMax.us" tvg-logo="http://vaders.tv/logos/cinemax%20moremax.png" group-title="Premium Movies",Cinemax Moremax
-http://vaders.tv/live/sctv_jay805/liverpool1/7945.ts
+http://vapi.vaders.tv/play/7945.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="HBO" tvg-id="HBO.us" tvg-logo="http://vaders.tv/logos/hbo.png" group-title="Premium Movies",HBO HD
-http://vaders.tv/live/sctv_jay805/liverpool1/7859.ts
+http://vapi.vaders.tv/play/7859.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="HBO2 HD" tvg-id="HBO2.us" tvg-logo="http://vaders.tv/logos/hbo2%20hd.png" group-title="Premium Movies",HBO2 HD
-http://vaders.tv/live/sctv_jay805/liverpool1/64791.ts
+http://vapi.vaders.tv/play/64791.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="HBO Family HD" tvg-id="HBOFamily.us" tvg-logo="http://vaders.tv/logos/hbo%20family%20hd.png" group-title="Premium Movies",HBO Family HD
-http://vaders.tv/live/sctv_jay805/liverpool1/59092.ts
+http://vapi.vaders.tv/play/59092.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="HBO Comedy HD" tvg-id="HBOComedy.us" tvg-logo="http://vaders.tv/logos/hbo%20comedy.png" group-title="Premium Movies",HBO Comedy HD
-http://vaders.tv/live/sctv_jay805/liverpool1/7860.ts
+http://vapi.vaders.tv/play/7860.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="HBO Signature HD" tvg-id="HBOSignature.us" tvg-logo="http://vaders.tv/logos/hbo%20signature.png" group-title="Premium Movies",HBO Signature HD
-http://vaders.tv/live/sctv_jay805/liverpool1/7857.ts
+http://vapi.vaders.tv/play/7857.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="HBO Zone HD" tvg-id="HBOZone.us" tvg-logo="http://vaders.tv/logos/hbo%20zone%20hd.png" group-title="Premium Movies",HBO Zone HD
-http://vaders.tv/live/sctv_jay805/liverpool1/7944.ts
+http://vapi.vaders.tv/play/7944.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="HBO East CA HD" tvg-id="None" tvg-logo="http://vaders.tv/logos/hbo%20east%20ca%20hd.png" group-title="Premium Movies",HBO East CA HD
-http://vaders.tv/live/sctv_jay805/liverpool1/73291.ts
+http://vapi.vaders.tv/play/73291.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="HBO West CA HD" tvg-id="None" tvg-logo="http://vaders.tv/logos/hbo%20west%20ca%20hd.png" group-title="Premium Movies",HBO West CA HD
-http://vaders.tv/live/sctv_jay805/liverpool1/73288.ts
+http://vapi.vaders.tv/play/73288.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Starz HD" tvg-id="Starz.us" tvg-logo="http://vaders.tv/logos/starz%20hd.png" group-title="Premium Movies",Starz HD
-http://vaders.tv/live/sctv_jay805/liverpool1/39873.ts
+http://vapi.vaders.tv/play/39873.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Starz Kids & Family" tvg-id="StarzEncoreFamily.us" tvg-logo="http://vaders.tv/logos/starz%20kids%20%26%20family.png" group-title="Premium Movies",Starz Kids & Family
-http://vaders.tv/live/sctv_jay805/liverpool1/3122.ts
+http://vapi.vaders.tv/play/3122.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Starz Encore" tvg-id="StarzEncore.us" tvg-logo="http://vaders.tv/logos/starz%20encore.png" group-title="Premium Movies",Starz Encore
-http://vaders.tv/live/sctv_jay805/liverpool1/3123.ts
+http://vapi.vaders.tv/play/3123.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Starz Edge" tvg-id="StarzEdge.us" tvg-logo="http://vaders.tv/logos/starz%20edge.png" group-title="Premium Movies",Starz Edge
-http://vaders.tv/live/sctv_jay805/liverpool1/3119.ts
+http://vapi.vaders.tv/play/3119.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Starz Comedy" tvg-id="StarzComedy.us" tvg-logo="http://vaders.tv/logos/starz%20comedy.png" group-title="Premium Movies",Starz Comedy
-http://vaders.tv/live/sctv_jay805/liverpool1/3121.ts
+http://vapi.vaders.tv/play/3121.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Showtime HD" tvg-id="Showtime.us" tvg-logo="http://vaders.tv/logos/showtime.png" group-title="Premium Movies",Showtime HD
-http://vaders.tv/live/sctv_jay805/liverpool1/39637.ts
+http://vapi.vaders.tv/play/39637.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Showtime 2 HD" tvg-id="Showtime2.us" tvg-logo="http://vaders.tv/logos/showtime%202.png" group-title="Premium Movies",Showtime 2 HD
-http://vaders.tv/live/sctv_jay805/liverpool1/39638.ts
+http://vapi.vaders.tv/play/39638.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Showtime Extreme HD" tvg-id="ShowtimeExtreme.us" tvg-logo="http://vaders.tv/logos/showtime%20extreme.png" group-title="Premium Movies",Showtime Extreme HD
-http://vaders.tv/live/sctv_jay805/liverpool1/64457.ts
+http://vapi.vaders.tv/play/64457.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Epix HD" tvg-id="EPIX.us" tvg-logo="http://vaders.tv/logos/epix.png" group-title="Premium Movies",Epix HD
-http://vaders.tv/live/sctv_jay805/liverpool1/39636.ts
+http://vapi.vaders.tv/play/39636.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Epix 2 HD" tvg-id="EPIX2.us" tvg-logo="http://vaders.tv/logos/epix%202.png" group-title="Premium Movies",Epix 2 HD
-http://vaders.tv/live/sctv_jay805/liverpool1/39635.ts
+http://vapi.vaders.tv/play/39635.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Epix Hits HD" tvg-id="EPIXHits.us" tvg-logo="http://vaders.tv/logos/epix%20hits.png" group-title="Premium Movies",Epix Hits HD
-http://vaders.tv/live/sctv_jay805/liverpool1/39634.ts
+http://vapi.vaders.tv/play/39634.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Super Channel 1 HD" tvg-id="SuperChannel1.ca" tvg-logo="http://vaders.tv/logos/super%20channel%201.png" group-title="Premium Movies",Super Channel 1 HD
-http://vaders.tv/live/sctv_jay805/liverpool1/73297.ts
+http://vapi.vaders.tv/play/73297.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Super Channel 3 HD" tvg-id="SuperChannel3.ca" tvg-logo="http://vaders.tv/logos/super%20channel%203.png" group-title="Premium Movies",Super Channel 3 HD
-http://vaders.tv/live/sctv_jay805/liverpool1/73298.ts
+http://vapi.vaders.tv/play/73298.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Super Channel 4 HD" tvg-id="None" tvg-logo="http://vaders.tv/logos/super%20channel%203.png" group-title="Premium Movies",Super Channel 4 HD
-http://vaders.tv/live/sctv_jay805/liverpool1/73299.ts
+http://vapi.vaders.tv/play/73299.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Sky Cinema Select HD" tvg-id="SkySelect.uk" tvg-logo="http://vaders.tv/logos/sky%20cinema%20select.png" group-title="Premium Movies",Sky Cinema Select HD
-http://vaders.tv/live/sctv_jay805/liverpool1/2736.ts
+http://vapi.vaders.tv/play/2736.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Sky Cinema Family HD" tvg-id="SkyFamily.uk" tvg-logo="http://vaders.tv/logos/sky%20cinema%20family.png" group-title="Premium Movies",Sky Cinema Family HD
-http://vaders.tv/live/sctv_jay805/liverpool1/2741.ts
+http://vapi.vaders.tv/play/2741.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Sky Cinema Disney HD" tvg-id="SkyDisney.uk" tvg-logo="http://vaders.tv/logos/sky%20cinema%20disney.png" group-title="Premium Movies",Sky Cinema Disney HD
-http://vaders.tv/live/sctv_jay805/liverpool1/2742.ts
+http://vapi.vaders.tv/play/2742.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Sky Cinema Heroes HD" tvg-id="SkyHeroes.uk" tvg-logo="http://vaders.tv/logos/sky%20cinema%20heroes.png" group-title="Premium Movies",Sky Cinema Heroes HD
-http://vaders.tv/live/sctv_jay805/liverpool1/74519.ts
+http://vapi.vaders.tv/play/74519.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Sky Cinema Hits HD" tvg-id="SkyHits.uk" tvg-logo="http://vaders.tv/logos/sky%20cinema%20hits.png" group-title="Premium Movies",Sky Cinema Hits HD
-http://vaders.tv/live/sctv_jay805/liverpool1/2735.ts
+http://vapi.vaders.tv/play/2735.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="The Movie Channel HD" tvg-id="None" tvg-logo="http://vaders.tv/logos/the%20movie%20channel.png" group-title="Premium Movies",The Movie Channel HD
-http://vaders.tv/live/sctv_jay805/liverpool1/74789.ts
+http://vapi.vaders.tv/play/74789.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="HDNet Movies HD" tvg-id="HDNetMovies.us" tvg-logo="http://vaders.tv/logos/hdnet%20movies.png" group-title="Premium Movies",HDNet Movies HD
-http://vaders.tv/live/sctv_jay805/liverpool1/74791.ts
+http://vapi.vaders.tv/play/74791.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1,tvg-logo="https://aureusacademy.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-31-at-16.01.48.png" group-title="ASIAN TV",Channel News Asia
 https://tglcnash-i.akamaihd.net/hls/live/566559/pcweb/02.m3u8
 #EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/hi5tv/images/8/87/Okto.png" group-title="ASIAN TV",Okto TV
