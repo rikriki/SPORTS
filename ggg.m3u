@@ -718,123 +718,123 @@ http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent.m3u8
 #EXTINF:-1, tvg-logo="https://thumbs01.cdn.web.tv/6u/7h/6u7hszymseq_140x79.jpg"  group-title="AUSTRIA", VIYANA TV
 http://46.105.37.166:1935/viyanatv/viyanatv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/sryxxx1433329600.png"  group-title="GERMANY", Das Erste HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34062.ts
+http://vapi.vaders.tv/play/34062.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/urqsxp1433329543.png"  group-title="GERMANY", ZDF HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34063.ts
+http://vapi.vaders.tv/play/34063.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/sppttu1433436930.png"  group-title="GERMANY", 3Sat HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34064.ts
+http://vapi.vaders.tv/play/34064.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/tvsuqp1433329563.png"  group-title="GERMANY", RTL HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34065.ts
+http://vapi.vaders.tv/play/34065.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/wyttqx1433350385.png"  group-title="GERMANY", RTL 2 HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34066.ts
+http://vapi.vaders.tv/play/34066.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/tsswpy1433348790.png"  group-title="GERMANY", Super RTL HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34092.ts
+http://vapi.vaders.tv/play/34092.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/wtypwr1433329585.png"  group-title="GERMANY", Sat.1 HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34067.ts
+http://vapi.vaders.tv/play/34067.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/usqprq1433435228.png"  group-title="GERMANY", Kabel Eins HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34068.ts
+http://vapi.vaders.tv/play/34068.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/ryutqy1461605065.png"  group-title="GERMANY", Pro Sieben HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34069.ts
+http://vapi.vaders.tv/play/34069.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://www.thelogodb.com/images/media/logo/vyyrrq1480521090.png"  group-title="GERMANY", DMAX HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34070.ts
+http://vapi.vaders.tv/play/34070.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/stspqw1433350580.png"  group-title="GERMANY", Pro Sieben Maxx HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34071.ts
+http://vapi.vaders.tv/play/34071.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/2d/RTL_Crime_Logo_2015.png"  group-title="GERMANY", RTL Crime HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34072.ts
+http://vapi.vaders.tv/play/34072.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/wwusxt1434885360.png"  group-title="GERMANY", RTL Nitro HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34073.ts
+http://vapi.vaders.tv/play/34073.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/vtyxsx1434885373.png"  group-title="GERMANY", Sat1 Gold HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34074.ts
+http://vapi.vaders.tv/play/34074.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/yqpwpx1433348439.png"  group-title="GERMANY", Vox HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34075.ts
+http://vapi.vaders.tv/play/34075.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/wsqwyv1433348949.png"  group-title="GERMANY", Sixx HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34076.ts
+http://vapi.vaders.tv/play/34076.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/tvtqyv1434885408.png"  group-title="GERMANY", Tele 5 HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34077.ts
+http://vapi.vaders.tv/play/34077.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/ORF1_00_bis_05.svg/709px-ORF1_00_bis_05.svg.png"  group-title="GERMANY", ORF 1 HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34078.ts
+http://vapi.vaders.tv/play/34078.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ORF_2_Cornerlogo_bis_2012.svg/2000px-ORF_2_Cornerlogo_bis_2012.svg.png"  group-title="GERMANY", ORF 2 HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34079.ts
+http://vapi.vaders.tv/play/34079.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/uusuyx1433350824.png"  group-title="GERMANY", N-TV HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34084.ts
+http://vapi.vaders.tv/play/34084.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/rtypxt1434885254.png"  group-title="GERMANY", N24 HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34085.ts
+http://vapi.vaders.tv/play/34085.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/rprruu1433942038.png"  group-title="GERMANY", TLC DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34086.ts
+http://vapi.vaders.tv/play/34086.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/wxuutv1436174225.png"  group-title="GERMANY", Sky 1 DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34201.ts
+http://vapi.vaders.tv/play/34201.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://www.thelogodb.com/images/media/logo/t7995j1489962188.png"  group-title="GERMANY", Sky Atlantic DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34203.ts
+http://vapi.vaders.tv/play/34203.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/qtrvrv1434040216.png"  group-title="GERMANY", Sky Arts DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34202.ts
+http://vapi.vaders.tv/play/34202.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/vqpxvt1461617410.png"  group-title="GERMANY", Sky Cinema DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34204.ts
+http://vapi.vaders.tv/play/34204.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://www.thelogodb.com/images/media/logo/st0gpq1489870375.png"  group-title="GERMANY", Sky Action DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34205.ts
+http://vapi.vaders.tv/play/34205.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/rxpwur1434048599.png"  group-title="GERMANY", Travel Channel DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34087.ts
+http://vapi.vaders.tv/play/34087.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/739px-History_Logo.svg.png"  group-title="GERMANY", History DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34091.ts
+http://vapi.vaders.tv/play/34091.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/usqyut1433427765.png"  group-title="GERMANY", Nat Geo DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34089.ts
+http://vapi.vaders.tv/play/34089.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/qvwvwu1433437877.png"  group-title="GERMANY", Nat Geo Wild DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34090.ts
+http://vapi.vaders.tv/play/34090.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/tsswyr1434268248.png"  group-title="GERMANY", Nickelodeon DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34094.ts
+http://vapi.vaders.tv/play/34094.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/rxtwpw1433438028.png"  group-title="GERMANY", Discovery Channel DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34088.ts
+http://vapi.vaders.tv/play/34088.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/supsrs1433943151.png"  group-title="GERMANY", Disney Channel DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34095.ts
+http://vapi.vaders.tv/play/34095.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://vignette1.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png"  group-title="GERMANY", Disney Junior DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34097.ts
+http://vapi.vaders.tv/play/34097.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://www.thelogodb.com/images/media/logo/mg12ld1489867733.png"  group-title="GERMANY", Sky Sport Austria HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34200.ts
+http://vapi.vaders.tv/play/34200.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://www.thelogodb.com/images/media/logo/6eo2ua1489871168.png"  group-title="GERMANY", Sky Sport News HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34206.ts
+http://vapi.vaders.tv/play/34206.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/uxpuvy1462013834.png"  group-title="GERMANY", Sportdigital HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34210.ts
+http://vapi.vaders.tv/play/34210.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga 1 HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34199.ts
+http://vapi.vaders.tv/play/34199.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga 2 DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/48067.ts
+http://vapi.vaders.tv/play/48067.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga 3 DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/48068.ts
+http://vapi.vaders.tv/play/48068.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga 4 DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/48069.ts
+http://vapi.vaders.tv/play/48069.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga DE 5
-http://vaders.tv:80/live/tiger12/t75ge8r90/48070.ts
+http://vapi.vaders.tv/play/48070.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga DE 6
-http://vaders.tv:80/live/tiger12/t75ge8r90/48071.ts
+http://vapi.vaders.tv/play/48071.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga DE 7
-http://vaders.tv:80/live/tiger12/t75ge8r90/48072.ts
+http://vapi.vaders.tv/play/48072.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga DE 8
-http://vaders.tv:80/live/tiger12/t75ge8r90/48073.ts
+http://vapi.vaders.tv/play/48073.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga DE 9
-http://vaders.tv:80/live/tiger12/t75ge8r90/48074.ts
+http://vapi.vaders.tv/play/48074.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://static.ontvtonight.co.uk/static/2/Open/1SPS/VT/SourceLogos/400x300/sky_de_bundesliga_400x300.png"  group-title="GERMANY", Sky Bundesliga DE 10
-http://vaders.tv:80/live/tiger12/t75ge8r90/48066.ts
+http://vapi.vaders.tv/play/48066.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport 1 DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34197.ts
+http://vapi.vaders.tv/play/34197.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport 2 DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/34198.ts
+http://vapi.vaders.tv/play/34198.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport DE 3 HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/48076.ts
+http://vapi.vaders.tv/play/48076.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport DE 4 HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/48077.ts
+http://vapi.vaders.tv/play/48077.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport DE 5 HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/48078.ts
+http://vapi.vaders.tv/play/48078.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport DE 6
-http://vaders.tv:80/live/tiger12/t75ge8r90/48079.ts
+http://vapi.vaders.tv/play/48079.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport DE 7
-http://vaders.tv:80/live/tiger12/t75ge8r90/48080.ts
+http://vapi.vaders.tv/play/48080.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport DE 8
-http://vaders.tv:80/live/tiger12/t75ge8r90/48081.ts
+http://vapi.vaders.tv/play/48081.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport DE 9
-http://vaders.tv:80/live/tiger12/t75ge8r90/48082.ts
+http://vapi.vaders.tv/play/48082.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="https://farm3.static.flickr.com/2872/33663081742_6ed07c9680_b.jpg"  group-title="GERMANY", Sky Sport DE 10
-http://vaders.tv:80/live/tiger12/t75ge8r90/48075.ts
+http://vapi.vaders.tv/play/48075.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1, tvg-logo="http://www.thelogodb.com/images/media/logo/6eo2ua1489871168.png"  group-title="GERMANY", Sky Sports News DE HD
-http://vaders.tv:80/live/tiger12/t75ge8r90/48083.ts
+http://vapi.vaders.tv/play/48083.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
 #EXTINF:-1 tvg-name="Global BC" tvg-id="I1152.60121.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/global%20bc.png" group-title="Canada",Global BC
 http://vapi.vaders.tv/play/2749.ts?token=eyJ1c2VybmFtZSI6IlBkYXZpZXMiLCJwYXNzd29yZCI6ImhIQ3lZR0tZd3kifQ==
 #EXTINF:-1 tvg-name="CBC Vancover" tvg-id="I1150.51981.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/cbc%20vancover.png" group-title="Canada",CBC Vancover
