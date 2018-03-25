@@ -18,7 +18,7 @@ http://dl.my-film.me/s1/Movie/Hitman.Agent.47.2015/Hitman.Agent.47.2015.2160p.4K
 #EXTINF:-1, tvg-logo="https://insidemanila.ph/images/content/17-2017-10-12-03-53-25pm.jpg" group-title="PINOY TV", ESPN 5
 http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
-https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-b.m3u8?sd=10&rebase=on&id=AgBuNu%2ffQcgWnPvLtlq7Wey5cLLZHPqx9CH1KVnWVZ727Q2IySQn0UxOSWmRhnelHL9WdUpzG7B1fw%3d%3d&hdntl=exp=1522015611~acl=%2f*~data=hdntl~hmac=b2ef7d4622fc27c54d9992365e04375646487363f038a95530a62c0ca25bc92e
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-b.m3u8?sd=10&rebase=on&id=AgBwxkgGQcgWnGcfuFp8QDJFrHfTPf1aPv9zfPDUN0zUcn0ayeXe93cyp%2finIq+OxMiLwc2YFlEVqQ%3d%3d&hdntl=exp=1522102503~acl=%2f*~data=hdntl~hmac=373bcf53de1bc759df03013a6a64bd75b380516b73e116e2f064a3e9970e59af
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/947598867985457152/lOzb5ud9.jpg" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV PHILS
@@ -1444,19 +1444,19 @@ http://vaders.tv:80/live/greeng4ng1/green908/8259.ts
 #EXTINF:-1 tvg-ID="NeoSports.in" tvg-name="Neo Prime" tvg-logo="https://imgur.com/Rqv0Ds2.png" group-title="Sports",Neo Prime
 http://vaders.tv:80/live/greeng4ng1/green908/12295.ts
 #EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",NBA 1
-http://vaders.tv:80/live/chitwn49er/BH5wcOHYPj/52196.ts
+http://vaders.tv:80/live/chitwn49er/BH5wcOHYPj/52195.ts
 #EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",NBA 2
-http://vaders.tv:80/live/greeng4ng1/green908/41145.ts
+http://vaders.tv:80/live/greeng4ng1/green908/2845.ts
 #EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",NBA 3
-http://vaders.tv:80/live/joshuawebber15/yakima/52194.ts
+http://vaders.tv:80/live/joshuawebber15/yakima/2788.ts
 #EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",NBA 4
-http://vaders.tv:80/live/T1g3r/Sk1ppy/2788.ts
+http://vaders.tv:80/live/T1g3r/Sk1ppy/41143.ts
 #EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",NBA 5
 http://vaders.tv:80/live/drbird47/Cobra597/33511.ts
 #EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",NBA 6
-http://vaders.tv:80/live/mark23cook/5DtVYnw9XA/52201.ts
+http://vaders.tv:80/live/mark23cook/5DtVYnw9XA/52199.ts
 #EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",NBA 7
-http://vaders.tv:80/live/Pdavies/hHCyYGKYwy/52202.ts
+http://vaders.tv:80/live/Pdavies/hHCyYGKYwy/52120.ts
 #EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",NBA 8
 http://vaders.tv:80/live/tiger12/t75ge8r90/39433.ts
 #EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",NBA 9
