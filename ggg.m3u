@@ -1362,243 +1362,243 @@ http://vaders.tv:80/live/greeng4ng1/green908/2788.ts
 #EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",NBA 10
 http://vaders.tv:80/live/greeng4ng1/green908A/52120.ts
 #EXTINF:-1 tvg-ID="ABC.us" tvg-name="ABC HD" tvg-logo="https://imgur.com/zKY0Cc4.png" group-title="United States",ABC HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2435.ts
+http://vapi.vaders.tv/play/2435.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="ABC Atlanta HD" tvg-logo="https://imgur.com/jvn02IA.png" group-title="United States - Regionals",ABC Atlanta HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52211.ts
+http://vapi.vaders.tv/play/52211.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="ABCBoston.us" tvg-name="ABC Boston HD" tvg-logo="https://imgur.com/WMeOG8D.png" group-title="United States - Regionals",ABC Boston HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52212.ts
+http://vapi.vaders.tv/play/52212.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="ABC Chicago HD" tvg-logo="https://imgur.com/UbhitOK.png" group-title="United States - Regionals",ABC Chicago HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52213.ts
+http://vapi.vaders.tv/play/52213.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="ABC Dallas HD" tvg-logo="https://imgur.com/BrjtIr2.png" group-title="United States - Regionals",ABC Dallas HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52214.ts
+http://vapi.vaders.tv/play/52214.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="ABC Houston HD" tvg-logo="https://imgur.com/xOpwYeL.png" group-title="United States - Regionals",ABC Houston HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52215.ts
+http://vapi.vaders.tv/play/52215.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="ABC7KABCTV.us" tvg-name="ABC Los Angeles HD" tvg-logo="https://imgur.com/2YHMOge.png" group-title="United States",ABC Los Angeles HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52216.ts
+http://vapi.vaders.tv/play/52216.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="I397.10309.schedulesdirect.org" tvg-name="ABC San Diego HD" tvg-logo="https://imgur.com/lz7Qler.png" group-title="United States",ABC San Diego HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2767.ts
+http://vapi.vaders.tv/play/2767.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="ABC10WPLG.us" tvg-name="ABC Miami HD" tvg-logo="https://imgur.com/tRQv7Br.png" group-title="United States - Regionals",ABC Miami HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52217.ts
+http://vapi.vaders.tv/play/52217.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="ABC.us" tvg-name="ABC New York HD" tvg-logo="https://imgur.com/evuWJT6.png" group-title="United States",ABC New York HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52218.ts
+http://vapi.vaders.tv/play/52218.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="CBS.us" tvg-name="CBS HD" tvg-logo="https://s17.postimg.org/qt09bcs0f/CBS.png" group-title="United States",CBS HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2440.ts
+http://vapi.vaders.tv/play/2440.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="CBS Atlanta HD" tvg-logo="https://imgur.com/xaUf5of.png" group-title="United States - Regionals",CBS Atlanta HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52227.ts
+http://vapi.vaders.tv/play/52227.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="CBSBoston.us" tvg-name="CBS Boston HD" tvg-logo="https://imgur.com/B0vDO9V.png" group-title="United States - Regionals",CBS Boston HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52228.ts
+http://vapi.vaders.tv/play/52228.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="CBS Chicago HD" tvg-logo="https://imgur.com/y9cqSfq.png" group-title="United States - Regionals",CBS Chicago HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52229.ts
+http://vapi.vaders.tv/play/52229.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="CBS Detriot HD" tvg-logo="https://imgur.com/XiroYSZ.png" group-title="United States - Regionals",CBS Detriot HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52233.ts
+http://vapi.vaders.tv/play/52233.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="CBS Houston HD" tvg-logo="https://imgur.com/mL1IcOk.png" group-title="United States - Regionals",CBS Houston HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52234.ts
+http://vapi.vaders.tv/play/52234.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="CBS Los Angeles HD" tvg-logo="https://imgur.com/mpHIOWn.png" group-title="United States",CBS Los Angeles HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52235.ts
+http://vapi.vaders.tv/play/52235.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="CBS Miami HD" tvg-logo="https://imgur.com/WDhAcDw.png" group-title="United States - Regionals",CBS Miami HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52236.ts
+http://vapi.vaders.tv/play/52236.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="CBS New York HD" tvg-logo="https://imgur.com/1ftiTS5.png" group-title="United States",CBS New York HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52237.ts
+http://vapi.vaders.tv/play/52237.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="I391.19567.schedulesdirect.org" tvg-name="CBS San Diego HD" tvg-logo="https://imgur.com/yWliwCG.png" group-title="United States",CBS San Diego HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2768.ts
+http://vapi.vaders.tv/play/2768.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="NBC.us" tvg-name="NBC HD" tvg-logo="https://s17.postimg.org/q2ef7v71r/NBC.png" group-title="United States",NBC HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2455.ts
+http://vapi.vaders.tv/play/2455.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="NBCBoston.us" tvg-name="NBC Boston HD" tvg-logo="https://imgur.com/6hrV1VT.png" group-title="United States - Regionals",NBC Boston HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52238.ts
+http://vapi.vaders.tv/play/52238.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="NBC Chicago HD" tvg-logo="https://imgur.com/2CC7TF4.png" group-title="United States - Regionals",NBC Chicago HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52239.ts
+http://vapi.vaders.tv/play/52239.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="NBC Dallas HD" tvg-logo="https://imgur.com/TXxljG5.png" group-title="United States - Regionals",NBC Dallas HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52240.ts
+http://vapi.vaders.tv/play/52240.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="NBC Houston HD" tvg-logo="https://imgur.com/xP79ZVz.png" group-title="United States - Regionals",NBC Houston HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52241.ts
+http://vapi.vaders.tv/play/52241.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="NBC Los Angeles HD" tvg-logo="https://imgur.com/7LrkAjp.png" group-title="United States",NBC Los Angeles HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52242.ts
+http://vapi.vaders.tv/play/52242.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="NBC6WTVJ.us" tvg-name="NBC Miami HD" tvg-logo="https://imgur.com/74ozjIH.png" group-title="United States - Regionals",NBC Miami HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52243.ts
+http://vapi.vaders.tv/play/52243.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="NBC.us" tvg-name="NBC New York HD" tvg-logo="https://imgur.com/FJQC4An.png" group-title="United States",NBC New York HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52244.ts
+http://vapi.vaders.tv/play/52244.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="NBC Philadelphia HD" tvg-logo="https://imgur.com/5EtT5nW.png" group-title="United States - Regionals",NBC Philadelphia HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52245.ts
+http://vapi.vaders.tv/play/52245.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="I393.10590.schedulesdirect.org" tvg-name="NBC San Diego HD" tvg-logo="https://imgur.com/chVeOTk.png" group-title="United States",NBC San Diego HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2769.ts
+http://vapi.vaders.tv/play/2769.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="FOX.us" tvg-name="FOX HD" tvg-logo="https://s17.postimg.org/mwmxfic7j/FOX_UK.png" group-title="United States",FOX HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2448.ts
+http://vapi.vaders.tv/play/2448.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="FOX Atlanta HD" tvg-logo="https://imgur.com/mCxHb4v.png" group-title="United States - Regionals",FOX Atlanta HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52219.ts
+http://vapi.vaders.tv/play/52219.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="FOX Chicago HD" tvg-logo="https://imgur.com/clOCUpC.png" group-title="United States - Regionals",FOX Chicago HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52221.ts
+http://vapi.vaders.tv/play/52221.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="FOX Dallas HD" tvg-logo="https://imgur.com/7qguVzV.png" group-title="United States - Regionals",FOX Dallas HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52222.ts
+http://vapi.vaders.tv/play/52222.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="FOX Houston HD" tvg-logo="https://imgur.com/SrepAn6.png" group-title="United States - Regionals",FOX Houston HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52223.ts
+http://vapi.vaders.tv/play/52223.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="FOX Miami HD" tvg-logo="https://imgur.com/2KpNuOQ.png" group-title="United States - Regionals",FOX Miami HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52225.ts
+http://vapi.vaders.tv/play/52225.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="FOX New York HD" tvg-logo="https://imgur.com/hlVpZnH.png" group-title="United States",FOX New York HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52226.ts
+http://vapi.vaders.tv/play/52226.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="I399.10741.schedulesdirect.org" tvg-name="FOX San Diego HD" tvg-logo="https://imgur.com/LUVd2JI.png" group-title="United States",FOX San Diego HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2770.ts
+http://vapi.vaders.tv/play/2770.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="CW.us" tvg-name="CW HD" tvg-logo="http://i66.tinypic.com/2e6eypz.png" group-title="United States",CW HD
-http://vaders.tv:80/live/joshuawebber15/yakima/8198.ts
+http://vapi.vaders.tv/play/8198.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="AandE.us" tvg-name="A&E HD" tvg-logo="https://s12.postimg.org/f170o65hp/image.png" group-title="United States",A&E HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2463.ts
+http://vapi.vaders.tv/play/2463.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="AMC.us" tvg-name="AMC HD" tvg-logo="https://s17.postimg.org/3rjo5rsen/AMC_HD.png" group-title="United States",AMC HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2436.ts
+http://vapi.vaders.tv/play/2436.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="FoodNetwork.us" tvg-name="Food Network HD" tvg-logo="http://i68.tinypic.com/bea8ow.png" group-title="United States",Food Network HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2913.ts
+http://vapi.vaders.tv/play/2913.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="CookingChannel.us" tvg-name="Cooking Channel HD" tvg-logo="https://imgur.com/n0guwwp.png" group-title="United States",Cooking Channel HD
-http://vaders.tv:80/live/joshuawebber15/yakima/52259.ts
+http://vapi.vaders.tv/play/52259.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="AnimalPlanet.us" tvg-name="Animal Planet HD" tvg-logo="https://s15.postimg.org/lguutlijv/Animal_Planet.png" group-title="United States",Animal Planet HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2437.ts
+http://vapi.vaders.tv/play/2437.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="Bravo.us" tvg-name="Bravo HD" tvg-logo="https://s17.postimg.org/vhar23fi7/BRAVO_HD.png" group-title="United States",Bravo HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2438.ts
+http://vapi.vaders.tv/play/2438.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="I296.12131.schedulesdirect.org" tvg-name="Cartoon Network HD" tvg-logo="https://s3.postimg.org/8snju3k77/Cartoon_Network_UK.png" group-title="United States",Cartoon Network HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2439.ts
+http://vapi.vaders.tv/play/2439.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="FoxBusiness.us" tvg-name="Fox Business HD" tvg-logo="https://s30.postimg.org/5oa5125tt/Fox_Business.png" group-title="United States",Fox Business HD
-http://vaders.tv:80/live/joshuawebber15/yakima/34023.ts
+http://vapi.vaders.tv/play/34023.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="CNBC.us" tvg-name="CNBC HD" tvg-logo="https://imgur.com/HzHwjQy.png" group-title="United States",CNBC HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2441.ts
+http://vapi.vaders.tv/play/2441.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="MSNBC.us" tvg-name="MSNBC HD" tvg-logo="http://i63.tinypic.com/mlm6bk.png" group-title="United States",MSNBC HD
-http://vaders.tv:80/live/joshuawebber15/yakima/3082.ts
+http://vapi.vaders.tv/play/3082.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="I202.58646.schedulesdirect.org" tvg-name="CNN News HD" tvg-logo="https://imgur.com/4UKB4iD.png" group-title="United States",CNN News HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2442.ts
+http://vapi.vaders.tv/play/2442.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="ComedyCentral.us" tvg-name="Comedy Central HD" tvg-logo="https://imgur.com/I9zA9wH.png" group-title="United States",Comedy Central HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2443.ts
+http://vapi.vaders.tv/play/2443.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="DestinationAmerica.us" tvg-name="Destination America HD" tvg-logo="https://imgur.com/YpYKxfP.png" group-title="United States",Destination America HD
-http://vaders.tv:80/live/joshuawebber15/yakima/39437.ts
+http://vapi.vaders.tv/play/39437.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="DiscoveryChannel.us" tvg-name="Discovery Channel HD" tvg-logo="https://s16.postimg.org/slnqgavdh/Discovery_Channel.png" group-title="United States",Discovery Channel HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2445.ts
+http://vapi.vaders.tv/play/2445.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="DiscoveryFamily.us" tvg-name="Discovery Family HD" tvg-logo="https://s27.postimg.org/ha6dqaw5v/Discovery_Family.png" group-title="United States",Discovery Family HD
-http://vaders.tv:80/live/joshuawebber15/yakima/47566.ts
+http://vapi.vaders.tv/play/47566.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="DiscoveryScience.us" tvg-name="Discovery Science HD" tvg-logo="http://vaders.tv/logos/Discovery%20Science%20UK.png" group-title="United States",Discovery Science HD
-http://vaders.tv:80/live/joshuawebber15/yakima/54628.ts
+http://vapi.vaders.tv/play/54628.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="DiscoveryLife.us" tvg-name="Discovery Life HD" tvg-logo="https://imgur.com/ovzLC2E.png" group-title="United States",Discovery Life HD
-http://vaders.tv:80/live/joshuawebber15/yakima/54868.ts
+http://vapi.vaders.tv/play/54868.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="NatGeo.us" tvg-name="Nat Geo HD" tvg-logo="http://i67.tinypic.com/auxly0.png" group-title="United States",Nat Geo HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2754.ts
+http://vapi.vaders.tv/play/2754.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="NatGeoWild.us" tvg-name="Nat Geo Wild HD" tvg-logo="https://imgur.com/e9o54iv.png" group-title="United States",Nat Geo Wild HD
-http://vaders.tv:80/live/joshuawebber15/yakima/50910.ts
+http://vapi.vaders.tv/play/50910.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="HistoryChannel.us" tvg-name="History HD" tvg-logo="http://i66.tinypic.com/xf2o0h.png" group-title="United States",History HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2915.ts
+http://vapi.vaders.tv/play/2915.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="FoxNews.us" tvg-name="Fox News HD" tvg-logo="https://s4.postimg.org/4frhgud99/FOX_News.png" group-title="United States",Fox News HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2449.ts
+http://vapi.vaders.tv/play/2449.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="WeatherChannel.us" tvg-name="Weather Network HD" tvg-logo="http://hostmybuild.com//logos//1//The%20Weather%20Channel.png" group-title="United States",Weather Network HD
-http://vaders.tv:80/live/joshuawebber15/yakima/40877.ts
+http://vapi.vaders.tv/play/40877.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="FX.us" tvg-name="FX HD" tvg-logo="https://s11.postimg.org/rovd9u17n/image.png" group-title="United States",FX HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2451.ts
+http://vapi.vaders.tv/play/2451.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="FXX.us" tvg-name="FXX HD" tvg-logo="https://s12.postimg.org/3qc30je2l/FXX_HD.png" group-title="United States",FXX HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2452.ts
+http://vapi.vaders.tv/play/2452.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="FXMRetro.us" tvg-name="FXM HD" tvg-logo="https://s17.postimg.org/ai71hthn3/FX_Movie_Channel.png" group-title="United States",FXM HD
-http://vaders.tv:80/live/joshuawebber15/yakima/56409.ts
+http://vapi.vaders.tv/play/56409.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="ElRey.us" tvg-name="El Rey Network HD" tvg-logo="http://hostmybuild.com//logos//1//elrayhd.png" group-title="United States",El Rey Network HD
-http://vaders.tv:80/live/joshuawebber15/yakima/38912.ts
+http://vapi.vaders.tv/play/38912.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="I299.59432.schedulesdirect.org" tvg-name="Nick HD" tvg-logo="https://imgur.com/ZykJaWo.png" group-title="United States",Nick HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2460.ts
+http://vapi.vaders.tv/play/2460.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="NickJr.us" tvg-name="Nick Jr HD" tvg-logo="http://vaders.tv/logos/Nick%20Jr%20UK.png" group-title="United States",Nick Jr HD
-http://vaders.tv:80/live/joshuawebber15/yakima/38910.ts
+http://vapi.vaders.tv/play/38910.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="DisneyChannel.us" tvg-name="Disney Channel HD" tvg-logo="http://i66.tinypic.com/2uqdt2g.png" group-title="United States",Disney Channel HD
-http://vaders.tv:80/live/joshuawebber15/yakima/8197.ts
+http://vapi.vaders.tv/play/8197.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="DisneyJunior.us" tvg-name="Disney Jr HD" tvg-logo="https://s10.postimg.org/l24upz5o9/Disney_Junior.png" group-title="United States",Disney Jr HD
-http://vaders.tv:80/live/joshuawebber15/yakima/39421.ts
+http://vapi.vaders.tv/play/39421.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="DisneyXD.us" tvg-name="Disney XD HD" tvg-logo="https://s11.postimg.org/6yr4kn9z7/Disney_XD.png" group-title="United States",Disney XD HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2762.ts
+http://vapi.vaders.tv/play/2762.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="Freeform.us" tvg-name="FreeForm HD" tvg-logo="https://s11.postimg.org/xsty8x3wz/Freeform_TV.png" group-title="United States",FreeForm HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2450.ts
+http://vapi.vaders.tv/play/2450.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="Universal Kids HD" tvg-logo="https://imgur.com/wRmSn90.png" group-title="United States",Universal Kids HD
-http://vaders.tv:80/live/joshuawebber15/yakima/56461.ts
+http://vapi.vaders.tv/play/56461.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="LifetimeNetwork.us" tvg-name="Lifetime HD" tvg-logo="https://s12.postimg.org/rwlupqfe5/UK_Lifetime.png" group-title="United States",Lifetime HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2465.ts
+http://vapi.vaders.tv/play/2465.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="Spike.us" tvg-name="Spike HD" tvg-logo="http://i68.tinypic.com/23utpjs.png" group-title="United States",Spike HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2457.ts
+http://vapi.vaders.tv/play/2457.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="TBS.us" tvg-name="TBS HD" tvg-logo="http://i63.tinypic.com/m9lj4x.png" group-title="United States",TBS HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2461.ts
+http://vapi.vaders.tv/play/2461.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="TNT.us" tvg-name="TNT HD" tvg-logo="http://i66.tinypic.com/rmtsg2.png" group-title="United States",TNT HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2459.ts
+http://vapi.vaders.tv/play/2459.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="USANetwork.us" tvg-name="USA Network HD" tvg-logo="https://imgur.com/YEXrzHp.png" group-title="United States",USA Network HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2462.ts
+http://vapi.vaders.tv/play/2462.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="I9421.31046.schedulesdirect.org" tvg-name="Velocity HD" tvg-logo="http://i65.tinypic.com/inu2x1.png" group-title="United States",Velocity HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2776.ts
+http://vapi.vaders.tv/play/2776.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="I196.11180.schedulesdirect.org" tvg-name="Travel Channel HD" tvg-logo="https://imgur.com/O4qdtCb.png" group-title="United States",Travel Channel HD
-http://vaders.tv:80/live/joshuawebber15/yakima/39874.ts
+http://vapi.vaders.tv/play/39874.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="OutdoorChannel.us" tvg-name="Outdoor Channel HD" tvg-logo="https://s9.postimg.org/4evwyi4q7/Outdoor_Channel.png" group-title="United States",Outdoor Channel HD
-http://vaders.tv:80/live/joshuawebber15/yakima/40878.ts
+http://vapi.vaders.tv/play/40878.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="Oxygen.us" tvg-name="Oxygen HD" tvg-logo="https://s23.postimg.org/aptmox74b/Oxygen.png" group-title="United States",Oxygen HD
-http://vaders.tv:80/live/joshuawebber15/yakima/40685.ts
+http://vapi.vaders.tv/play/40685.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="Syfy.us" tvg-name="SYFY HD" tvg-logo="http://i67.tinypic.com/vcxf0m.png" group-title="United States",SYFY HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2458.ts
+http://vapi.vaders.tv/play/2458.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="SundanceTV.us" tvg-name="Sundance HD" tvg-logo="https://s27.postimg.org/pq47q7e1f/Sundance_TV.png" group-title="United States",Sundance HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2780.ts
+http://vapi.vaders.tv/play/2780.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="OprahWinfreyNetwork.us" tvg-name="OWN HD" tvg-logo="http://i68.tinypic.com/2uhwirn.png" group-title="United States",OWN HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2779.ts
+http://vapi.vaders.tv/play/2779.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="I264.64492.schedulesdirect.org" tvg-name="BBC America HD" tvg-logo="http://i67.tinypic.com/qxqkiu.png" group-title="United States",BBC America HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2456.ts
+http://vapi.vaders.tv/play/2456.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="HGTV.us" tvg-name="HGTV HD" tvg-logo="https://s15.postimg.org/o3ximf75n/HGTV.png" group-title="United States",HGTV HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2454.ts
+http://vapi.vaders.tv/play/2454.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="DoItYourselfNetwork.us" tvg-name="DIY Network HD" tvg-logo="https://s4.postimg.org/u3fhk6w8t/DIY_Network.png" group-title="United States",DIY Network HD
-http://vaders.tv:80/live/joshuawebber15/yakima/40663.ts
+http://vapi.vaders.tv/play/40663.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="Hallmark.us" tvg-name="Hallmark Channel HD" tvg-logo="https://s11.postimg.org/yqxhkfjyr/Hallmark_Channel.png" group-title="United States",Hallmark Channel HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2453.ts
+http://vapi.vaders.tv/play/2453.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="I187.61522.schedulesdirect.org" tvg-name="Hallmark Movies & Mysteries HD" tvg-logo="http://hostmybuild.com//logos//1//Hallmark%20Movies.png" group-title="United States",Hallmark Movies & Mysteries HD
-http://vaders.tv:80/live/joshuawebber15/yakima/39629.ts
+http://vapi.vaders.tv/play/39629.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="Chiller.us" tvg-name="Chiller HD" tvg-logo="https://s14.postimg.org/cqqwdlg81/Chiller_TV.png" group-title="United States",Chiller HD
-http://vaders.tv:80/live/joshuawebber15/yakima/40875.ts
+http://vapi.vaders.tv/play/40875.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="ReelzChannel.us" tvg-name="Reelz HD" tvg-logo="https://s27.postimg.org/lut8ye2qb/REELZ_CHANNEL.png" group-title="United States",Reelz HD
-http://vaders.tv:80/live/joshuawebber15/yakima/47564.ts
+http://vapi.vaders.tv/play/47564.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="truTV.us" tvg-name="Tru TV HD" tvg-logo="https://s16.postimg.org/7i4y20c3p/Tru_TV_USA.png" group-title="United States",Tru TV HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2466.ts
+http://vapi.vaders.tv/play/2466.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="Revolt.us" tvg-name="Revolt HD" tvg-logo="https://s17.postimg.org/n2265kdjz/Revolt.png" group-title="United States",Revolt HD
-http://vaders.tv:80/live/joshuawebber15/yakima/56459.ts
+http://vapi.vaders.tv/play/56459.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="Fusion.us" tvg-name="Fusion HD" tvg-logo="https://imgur.com/auxapKt.png" group-title="United States",Fusion HD
-http://vaders.tv:80/live/joshuawebber15/yakima/56457.ts
+http://vapi.vaders.tv/play/56457.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="FuseTV.us" tvg-name="Fuse HD" tvg-logo="https://imgur.com/0Y9iAbW.png" group-title="United States",Fuse HD
-http://vaders.tv:80/live/joshuawebber15/yakima/56452.ts
+http://vapi.vaders.tv/play/56452.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="I233.68827.schedulesdirect.org" tvg-name="GSN HD" tvg-logo="https://s28.postimg.org/as0fbeufh/GSN_HD.png" group-title="United States",GSN HD
-http://vaders.tv:80/live/joshuawebber15/yakima/39847.ts
+http://vapi.vaders.tv/play/39847.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="PopTV.us" tvg-name="POP HD" tvg-logo="https://imgur.com/5nSmyCk.png" group-title="United States",POP HD
-http://vaders.tv:80/live/joshuawebber15/yakima/56460.ts
+http://vapi.vaders.tv/play/56460.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="CMT.us" tvg-name="CMT HD" tvg-logo="https://s28.postimg.org/kk2fz947x/CMT.png" group-title="United States",CMT HD
-http://vaders.tv:80/live/joshuawebber15/yakima/47565.ts
+http://vapi.vaders.tv/play/47565.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="FYI.us" tvg-name="FYI HD" tvg-logo="https://imgur.com/Yfal0fE.png" group-title="United States",FYI HD
-http://vaders.tv:80/live/joshuawebber15/yakima/56458.ts
+http://vapi.vaders.tv/play/56458.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="TLC.us" tvg-name="TLC HD" tvg-logo="http://i63.tinypic.com/qs8fwo.png" group-title="United States",TLC HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2777.ts
+http://vapi.vaders.tv/play/2777.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="I1204.28055.schedulesdirect.org" tvg-name="PBS HD" tvg-logo="https://imgur.com/OOUKgme.png" group-title="United States",PBS HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2774.ts
+http://vapi.vaders.tv/play/2774.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="BET.us" tvg-name="BET HD" tvg-logo="https://s29.postimg.org/ji92kums7/BET.png" group-title="United States",BET HD
-http://vaders.tv:80/live/joshuawebber15/yakima/8246.ts
+http://vapi.vaders.tv/play/8246.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="I333.14873.schedulesdirect.org" tvg-name="IFC HD" tvg-logo="https://imgur.com/2oRJJ9X.png" group-title="United States",IFC HD
-http://vaders.tv:80/live/joshuawebber15/yakima/2773.ts
+http://vapi.vaders.tv/play/2773.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="LMN.us" tvg-name="LMN HD" tvg-logo="https://imgur.com/miChTfS.png" group-title="United States",LMN HD
-http://vaders.tv:80/live/joshuawebber15/yakima/16705.ts
+http://vapi.vaders.tv/play/16705.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="MTV.us" tvg-name="MTV HD" tvg-logo="https://s9.postimg.org/lg9l3lttb/MTV_US.png" group-title="United States",MTV HD
-http://vaders.tv:80/live/joshuawebber15/yakima/12901.ts
+http://vapi.vaders.tv/play/12901.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="MTV2.us" tvg-name="MTV2 HD" tvg-logo="https://imgur.com/WLgXXCq.png" group-title="United States",MTV2 HD
-http://vaders.tv:80/live/joshuawebber15/yakima/57842.ts
+http://vapi.vaders.tv/play/57842.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="VH1.us" tvg-name="VH1 HD" tvg-logo="https://imgur.com/Qsap1kk.png" group-title="United States",VH1 HD
-http://vaders.tv:80/live/joshuawebber15/yakima/39363.ts
+http://vapi.vaders.tv/play/39363.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="WE TV HD" tvg-logo="https://s17.postimg.org/532wuh55b/We_TV.png" group-title="United States",WE TV HD
-http://vaders.tv:80/live/joshuawebber15/yakima/55523.ts
+http://vapi.vaders.tv/play/55523.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="Viceland.us" tvg-name="Viceland HD" tvg-logo="http://hostmybuild.com//logos//1//viceland.png" group-title="United States",Viceland HD
-http://vaders.tv:80/live/joshuawebber15/yakima/16318.ts
+http://vapi.vaders.tv/play/16318.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="TVLand.us" tvg-name="TVLand HD" tvg-logo="https://s24.postimg.org/5cr3a2245/TV_Land.png" group-title="United States",TVLand HD
-http://vaders.tv:80/live/joshuawebber15/yakima/40662.ts
+http://vapi.vaders.tv/play/40662.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="I328.35513.schedulesdirect.org" tvg-name="TVOne HD" tvg-logo="http://hostmybuild.com//logos//1//tv%20one.png" group-title="United States",TVOne HD
-http://vaders.tv:80/live/joshuawebber15/yakima/40695.ts
+http://vapi.vaders.tv/play/40695.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="Daystar.us" tvg-name="Daystar HD" tvg-logo="https://imgur.com/tYSL3cp.png" group-title="United States",Daystar HD
-http://vaders.tv:80/live/joshuawebber15/yakima/53874.ts
+http://vapi.vaders.tv/play/53874.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="CBN HD" tvg-logo="https://imgur.com/kk6vZCz.png" group-title="United States",CBN HD
-http://vaders.tv:80/live/joshuawebber15/yakima/54866.ts
+http://vapi.vaders.tv/play/54866.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="SBN HD" tvg-logo="https://imgur.com/rF7bBr3.png" group-title="United States",SBN HD
-http://vaders.tv:80/live/joshuawebber15/yakima/54867.ts
+http://vapi.vaders.tv/play/54867.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="TBN HD" tvg-logo="https://imgur.com/Odfto5o.png" group-title="United States",TBN HD
-http://vaders.tv:80/live/joshuawebber15/yakima/54865.ts
+http://vapi.vaders.tv/play/54865.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="Fight Tyme" tvg-logo="https://imgur.com/ZbMMkpN.png" group-title="United States",Fight Tyme
-http://vaders.tv:80/live/joshuawebber15/yakima/58781.ts
+http://vapi.vaders.tv/play/58781.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="QVC.us" tvg-name="QVC HD" tvg-logo="https://imgur.com/w1qIlsF.png" group-title="United States",QVC HD
-http://vaders.tv:80/live/joshuawebber15/yakima/72666.ts
+http://vapi.vaders.tv/play/72666.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="Impact.us" tvg-name="Impact Network" tvg-logo="https://imgur.com/rkjPbwm.png" group-title="United States",Impact Network
-http://vaders.tv:80/live/joshuawebber15/yakima/64458.ts
+http://vapi.vaders.tv/play/64458.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="BloombergTV.us" tvg-name="Bloomberg HD" tvg-logo="https://imgur.com/kL8PLec.png" group-title="United States",Bloomberg HD
-http://vaders.tv:80/live/joshuawebber15/yakima/64186.ts
+http://vapi.vaders.tv/play/64186.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-name="Cinemax" tvg-id="Cinemax.us" tvg-logo="http://vaders.tv/logos/cinemax.png" group-title="Premium Movies",Cinemax
 http://vaders.tv:80/live/sctv_jay805/liverpool1/7936.ts
 #EXTINF:-1 tvg-name="Cinemax 5 Star" tvg-id="5StarMax.us" tvg-logo="http://vaders.tv/logos/cinemax%205%20star.png" group-title="Premium Movies",Cinemax 5 Star
