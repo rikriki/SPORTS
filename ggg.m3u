@@ -485,6 +485,8 @@ http://dl.mihanpix.com/6/Movie%20HD/The.Greatest.Showman%202017.720p.HC.HDRip.Mk
 https://archive.org/download/Sid.and.Nancy/Sid.and.Nancy.mp4
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/Memento_poster.jpg" group-title="VOD MOVIES", Memento
 http://dl.funsaber.net/movie/95%20/11/Memento.2000.720p.Funsaber.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Seven_%28movie%29_poster.jpg" group-title="VOD MOVIES", Se7en
+http://dl.my-film.in/s1/Movie/Se7en.1995/Se7en.1995.REMASTERED.720p.ShAaNiG.95363031.mkv
 #EXTINF:-1,tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/12378156/p12378156_p_v8_aa.jpg" group-title="Tagalog Movies",A Second Chance (2015)
 https://archive.org/download/ASCWeb/ASCWeb.mp4
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/OneMoreChance.jpg" group-title="Tagalog Movies",One More Chance (2007)
