@@ -1341,20 +1341,20 @@ http://vapi.vaders.tv/play/8319.m3u8?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwY
 http://vapi.vaders.tv/play/8259.m3u8?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
 #EXTINF:-1 tvg-ID="NeoSports.in" tvg-name="Neo Prime" tvg-logo="https://imgur.com/Rqv0Ds2.png" group-title="Sports",Neo Prime
 http://vapi.vaders.tv/play/12295.m3u8?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",LAKERS VS PISTONS
-http://vapi.vaders.tv/play/52193.m3u8?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",KNICKS VS HORNETS
-http://vapi.vaders.tv/play/52201.m3u8?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",SIXERS VS NUGGETS
-http://vapi.vaders.tv/play/2788.m3u8?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",GRIZZLIES VS TWOLVES
-http://vapi.vaders.tv/play/52196.m3u8?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",CELTICS VS SUNS
-http://vapi.vaders.tv/play/2788.m3u8?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",NBA 6
-http://vaders.tv:80/live/greeng4ng1/green908/52199.ts
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",NBA 7
-http://vaders.tv:80/live/greeng4ng1/green908/52120.ts
+#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",SPURS VS WIZARDS
+http://vapi.vaders.tv/play/34188.m3u8?token=eyJ1c2VybmFtZSI6InBldGVyZHBoIiwicGFzc3dvcmQiOiI5MzAwNDk4MCJ9
+#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",NUGGETS VS RAPTORS
+http://vapi.vaders.tv/play/2845.m3u8?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
+#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",CAVS VS HEAT
+http://vapi.vaders.tv/play/39829.m3u8?token=eyJ1c2VybmFtZSI6InNjdHZfMjZydWJiZXJkdWNrIiwicGFzc3dvcmQiOiJsZXdpczIifQ==
+#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",BULLS VS ROCKETS
+http://vapi.vaders.tv/play/77883.m3u8?token=eyJ1c2VybmFtZSI6InBldGVyZHBoIiwicGFzc3dvcmQiOiI5MzAwNDk4MCJ9
+#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",MAVERICKS VS KINGS
+http://vapi.vaders.tv/play/41143.m3u8?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
+#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",PACERS VS WARRIORS
+http://vapi.vaders.tv/play/52120.m3u8?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
+#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",CLIPPERS VS BUCKS
+http://vapi.vaders.tv/play/2459.m3u8?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",NBA 8
 http://vaders.tv:80/live/greeng4ng1/green908/39433.ts
 #EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",NBA 9
