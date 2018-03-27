@@ -499,6 +499,18 @@ http://mc1.dl3enter.in/files/d1/film/2001/Hannibal/Hannibal.2001.720p.DL.mkv
 http://mc1.dl3enter.in/files/d1/film/2002/Red%20Dragon/Red.Dragon.2002.720p.BluRay.DL.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Hannibalrisingposter.jpg" group-title="VOD MOVIES", Hannibal Rising
 http://dl2.heyserver.in/film/2016-5-/Hannibal.Rising.2007.UNRATED.720p.HeyDL.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Top_Gun_Movie.jpg" group-title="VOD MOVIES", Top Gun
+http://mc1.dl3enter.in/files/d1/film/1986/Top%20Gun/Top.Gun.1986.720p.BluRay.DL.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/War_of_the_Worlds_2005_poster.jpg" group-title="VOD MOVIES", War of the Worlds
+http://dl.tehmovies.org/94/95/8/War.of.The.Worlds.2005.720p.Ganool.Tehmovies.biz.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Tropic_thunder_ver3.jpg" group-title="VOD MOVIES", Tropic Thunder
+http://dl.tehmovies.org/sr1/bahman/Tropic.Thunder.2008.Uncut.720p.TehMovies.Com.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Oblivion2013Poster.jpg" group-title="VOD MOVIES", Oblivion
+http://dl.funsaber.net/movie/96/5/Oblivion.2013.720p.Farsi.Dubbed%28Funsaber_Net%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Jack_Reacher_poster.jpg" group-title="VOD MOVIES", Jack Reacher 1
+http://dl.funsaber.net/movie/95%20/9/Jack.Reacher.2012.BluRay.720p.Ganool.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Vanilla_sky_post.jpg" group-title="VOD MOVIES", Vanilla Sky
+http://dl.funsaber.net/movie/95%20/11/Vanilla.Sky.2001.Extended.720p.Funsaber.mkv
 #EXTINF:-1,tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/12378156/p12378156_p_v8_aa.jpg" group-title="Tagalog Movies",A Second Chance (2015)
 https://archive.org/download/ASCWeb/ASCWeb.mp4
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/OneMoreChance.jpg" group-title="Tagalog Movies",One More Chance (2007)
