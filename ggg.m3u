@@ -545,6 +545,8 @@ http://dl.tehmovies.org/sr1/user1/96/2/The.Ten.Commandments.1956.720p.YIFY.TehMo
 http://dl.tehmovies.org/sr1/aban/Son%20of%20God%20%282014%29%20720p_TehMovieS.Com.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Noah2014Poster.jpg" group-title="VOD MOVIES", Noah
 http://dl.tehmovies.org/sr1/aban/Noah.2014.720p.BR_TehMovieS.Com.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Ben-Hur_2016_poster.png" group-title="VOD MOVIES", Ben Hur
+http://dl.funsaber.net/movie/95%20/9/Ben-Hur.2016.720p.BluRay.Funsaber.mkv
 #EXTINF:-1,tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/12378156/p12378156_p_v8_aa.jpg" group-title="Tagalog Movies",A Second Chance (2015)
 https://archive.org/download/ASCWeb/ASCWeb.mp4
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/OneMoreChance.jpg" group-title="Tagalog Movies",One More Chance (2007)
