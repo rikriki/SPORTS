@@ -1380,7 +1380,7 @@ http://vapi.vaders.tv/play/8259.ts?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXN
 #EXTINF:-1 tvg-ID="NeoSports.in" tvg-name="Neo Prime" tvg-logo="https://imgur.com/Rqv0Ds2.png" group-title="Sports",Neo Prime
 http://vapi.vaders.tv/play/12295.ts?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
 #EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",SPURS VS WIZARDS
-http://vapi.vaders.tv/play/52207.ts?token=eyJ1c2VybmFtZSI6IlBkYXZpZXMiLCJwYXNzd29yZCI6ImhIQ3lZR0tZd3kifQ==
+http://vapi.vaders.tv/play/2541.ts?token=eyJ1c2VybmFtZSI6InBldGVyZHBoIiwicGFzc3dvcmQiOiI5MzAwNDk4MCJ9
 #EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",NUGGETS VS RAPTORS
 http://vapi.vaders.tv/play/2845.ts?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
 #EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",CAVS VS HEAT
