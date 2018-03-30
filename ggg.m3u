@@ -1467,9 +1467,9 @@ http://vapi.vaders.tv/play/8319.ts?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXN
 http://vapi.vaders.tv/play/8259.ts?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
 #EXTINF:-1 tvg-name="Neo Prime" tvg-id="NeoSports.in" tvg-logo="http://vod6.vaders.tv:8080/logos/neo%20sports.png" group-title="Sports",Neo Prime
 http://vapi.vaders.tv/play/12295.ts?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
-#EXTINF:-1 tvg-name="CBS Sports HQ" tvg-id="None" tvg-logo="" group-title="Sports",CBS Sports HQ
+#EXTINF:-1 tvg-name="CBS Sports HQ" tvg-id="None" tvg-logo="http://awfulannouncing.com/wp-content/uploads/sites/94/2014/04/cbssports2.png" group-title="Sports",CBS Sports HQ
 http://vapi.vaders.tv/play/77169.ts?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
-#EXTINF:-1 tvg-name="RDS 2 HD" tvg-id="None" tvg-logo="" group-title="Sports",RDS 2 HD
+#EXTINF:-1 tvg-name="RDS 2 HD" tvg-id="None" tvg-logo="https://rdsimages.cookieless.ca/polopoly_fs/1.670081.1381160928!/img/httpImage/image.jpg_gen/derivatives/main-xxxhdpi/image.jpg" group-title="Sports",RDS 2 HD
 http://vapi.vaders.tv/play/77718.ts?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
 #EXTINF:-1 tvg-name="Spectrum SportsNet LA HD" tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Logo_for_Spectrum_SportsNet_LA.jpg" group-title="Sports",Spectrum SportsNet LA HD
 http://vapi.vaders.tv/play/77882.ts?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
