@@ -86,7 +86,7 @@ http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_stv.m3u
 #EXTINF:-1, group-title="JAPAN",Japan Channel DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="VOD MOVIES", JOHN WICK  
-http://avadl.uploadt.com/New2/Film/John%20Wick%20%282014%29%20720p%20BrRip_AvaDL.com.mkv
+http://dl.tehmovies.org/sr1/dey/1/John.Wick.2014.720p.TehMovies.Com.mkv
 #EXTINF:-1, tvg-logo="http://budomate.com/wp-content/uploads/2016/09/john-wick-2-poster-2.png" group-title="VOD MOVIES", JOHN WICK 2 
 http://dl.tehmovies.org/94/96/3/John.Wick.Chapter.2.2017.720p.WEB-DL.NBY.Tehmovies_me.mkv
 #EXTINF:-1, tvg-logo="https://yts.ag/assets/images/movies/Twilight_2008/medium-cover.jpg" group-title="VOD MOVIES", TWILIGHT (2008)
@@ -108,31 +108,31 @@ http://dl.tehmovies.org/94/96/4/The.Matrix.Revolutions.2003.720p.YIFY.Tehmovies_
 #EXTINF:-1, tvg-logo="https://cdn.traileraddict.com/content/warner-bros-pictures/wonder-woman-2017-5.jpg" group-title="VOD MOVIES", WONDER WOMAN
 http://dl.tehmovies.org/94/96/6/Wonder.Woman.2017.720p.WEB-DL.MkvCage.Tehmovies_top.mkv
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_%282001%29_theatrical_poster.jpg" group-title="VOD MOVIES", LOTR - FELLOWSHIP OF THE RING
-http://avadl.uploadt.com/DL7/Film/X265/The%20Lord%20of%20the%20Rings%201%20%282001%29%20EE%20720p%20BrRip_AVADL.iNFO.mkv
+http://dl.tehmovies.org/sr1/dey/1/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring.2001.720p.Extended.TehMovies.Com.mkv
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Lord_of_the_Rings_-_The_Two_Towers.jpg" group-title="VOD MOVIES", LOTR - THE TWO TOWERS
-http://avadl.uploadt.com/DL7/Film/X265/The%20Lord%20of%20the%20Rings%202%20%282002%29%20EE%20720p%20BrRip_AVADL.iNFO.mkv
+http://dl.tehmovies.org/sr1/dey/1/The%20Lord%20of%20the%20Rings%20The%20Two%20Towers%20720p.TehMovies.Com.mkv
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Lord_of_the_Rings_-_The_Return_of_the_King.jpg" group-title="VOD MOVIES", LOTR - RETURN OF THE KING
-http://avadl.uploadt.com/DL7/Film/X265/The%20Lord%20of%20the%20Rings%203%20%282003%29%20EE%20720p%20BrRip_AVADL.iNFO.mkv
+http://dl.tehmovies.org/sr1/dey/1/The.Lord.of.the.Rings.3.The.Return.of.the.King.2003.EXTENDED.720p.TehMovies.Comz.mkv
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Transformers_The_Last_Knight_poster.jpg" group-title="VOD MOVIES", TRANSFORMERS: THE LAST KNIGHT
 http://dl.tehmovies.org/94/96/6/Transformers.The.Last.Knight.2017.720p.x265.MkvCage.Tehmovies_top.mkv
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/X-MenfilmPoster.jpg" group-title="VOD MOVIES", X-MEN 1
-http://dl.my-film.me/s1/Movie/X.Men.2000/X-Men.2000.720p.Exclusive.Farsi.Dubbed.95363031.mkv
+http://dl.tehmovies.org/sr1/azar/X-Men%202000%20m720p%20TehMovies.Com.mkv
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/X2_poster.jpg" group-title="VOD MOVIES", X-MEN 2
-http://dl.dlfile.pro/2/X-Men_2.720p.mkv
+http://dl.tehmovies.org/sr1/azar/X-Men%202%202003%20720p%20TehMovies.Com.mp4
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/X-Men_The_Last_Stand.jpg" group-title="VOD MOVIES", X-MEN 3
-http://dl.dlfile.pro/2/X-Men_3.720p.mkv
+http://dl.tehmovies.org/sr1/azar/X-Men%203%20-%20The%20Last%20Stand%202006%20m720p%20TehMovies.Com.mkv
 #EXTINF:-1, tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/x-men-origins-wolverine-2009/large_vbaV7DalSF6Uy4qLyVK7uNdtmFy.jpg" group-title="VOD MOVIES", ORIGIN: WOLVERINE
-http://dl.dlfile.pro/2/X-Men.Origins.Wolverine.2009.1080p.BrRip.mp4
+http://dl.tehmovies.org/sr1/azar/X-Men%20Origins%20Wolverine%202009%20TehMovies.Com.mkv
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/X-MenFirstClassMoviePoster.jpg" group-title="VOD MOVIES", X-MEN FIRST CLASS
-http://dl.dlfile.pro/2/X-Men.First.Class.2011.Bluray%201080p.mp4
+http://dl.tehmovies.org/sr1/azar/X-Men%20First%20Class%202011%20720p%20TehMovies.Com.mp4
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/The_Wolverine_posterUS.jpg" group-title="VOD MOVIES", THE WOLVERINE
-http://dl.dlfile.pro/2/The.Wolverine.2013.EXTENDED.720p.Ganool.mkv
+http://dl.tehmovies.org/sr1/user1/96/2/The_Wolverine_2013_EXTENDED_1080p_BluRay_HDMaNiAcS.TehMovies.mkv
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/X-Men_Days_of_Future_Past_poster.jpg" group-title="VOD MOVIES", DAYS OF FUTURE PAST
-http://dl.dlfile.pro/2/X-Men.Days.of.Future.Past.2014.The.Rogue.Cut.720p.ShAaNiG.mkv
+http://dl.tehmovies.org/94/10/X.Men.Days.of.Future.Past.2014.720p.Tehmovies.ir.mkv
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Deadpool_poster.jpg" group-title="VOD MOVIES", DEADPOOL
 http://dl.tehmovies.org/94/95/2/Deadpool.2016.720p.WEB-DL.Tehmovies.org.mkv
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/X-Men_-_Apocalypse.jpg" group-title="VOD MOVIES", X-MEN APOCALYPSE
-http://dl.dlfile.pro/2/X-Men.Apocalypse.2016.720p.ShAaNiG.mkv
+http://dl.tehmovies.org/94/95/6/X-Men.Apocalypse.2016.720p.ShAaNiG.Tehmovies.biz.mkv
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Logan_2017_poster.jpg" group-title="VOD MOVIES", LOGAN
 http://dl.tehmovies.org/94/96/3/Logan%202017%20720p%20Dubble.Farsi.Tehmovies_me.mkv
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg" group-title="VOD MOVIES", HUNGER GAMES
@@ -156,9 +156,9 @@ http://dl.par30dl.com/Collections/Harry.Potter/Harry.Potter.and.the.Order.of.the
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Harry_Potter_and_the_Half-Blood_Prince_poster.jpg" group-title="VOD MOVIES", Half Blood Prince 
 http://dl.par30dl.com/Collections/Harry.Potter/Harry.Potter.and.the.Half.Blood.Prince.2009..720p.Dubbed_www.par30dl.com.mkv
 #EXTINF:1, tvg-logo="https://vignette.wikia.nocookie.net/harrypotter/images/a/ab/Deathly_Hallows_1_poster.jpg" group-title="VOD MOVIES", Deathly Hallows 1
-http://dl.par30dl.com/Collections/Harry.Potter/Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.720p.Dubbed_www.par30dl.com.mkv
+http://dl.tehmovies.org/sr1/azar/Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.Blu-ray.720p.TehMovieS.Com.mkv
 #EXTINF:1, tvg-logo="https://vignette.wikia.nocookie.net/harrypotter/images/b/bd/7xmtxRc9nQnCuWINuTT4SMP5NJc.jpg" group-title="VOD MOVIES", Deathly Hallows 2 
-http://dl.par30dl.com/Collections/Harry.Potter/Harry.Potter.and.the.Deathly.Hallows.Part.2.2011.720p.Dubbed_www.par30dl.com.mkv
+http://dl.tehmovies.org/sr1/azar/Harry.Potter.and.the.Deathly.Hallows-.Part%202.2011.Blu-ray.720p.TehMovieS.Com.mp4
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg" group-title="VOD MOVIES", AVATAR
 http://dl.funsaber.net/movie/95%20/9/Avatar.2009.extended.720p.Ganool.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Xxx_return_of_xander_cage_film_poster.jpeg" group-title="VOD MOVIES", XANDER CAGE
@@ -178,7 +178,7 @@ http://dl.funsaber.net/movie/Jason.Bourne.2016.720p.BluRay.x264.ShAaNiG.Funsaber
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Taken_film_poster.jpg" group-title="VOD MOVIES", TAKEN 1
 http://dl.funsaber.net/movie/96/5/Taken.2008.720p.Farsi.Dubbed%28Funsaber_Net%29.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Taken_2_Poster.jpg/220px-Taken_2_Poster.jpg" group-title="VOD MOVIES", TAKEN 2
-http://dl3.vaiomusic.org/Movie/Taken%202%202012%20-%20720p%20%28vaiomusic%29.mkv
+http://dl.tehmovies.org/sr1/dey/Taken%202%20%282012%29%20720p_TehMovies.Com.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Taken_3_poster.jpg" group-title="VOD MOVIES", TAKEN 3
 http://dl.funsaber.net/movie/96/1/Taken.3.2014.BluRay.720p.x264.IFR.Dubbed_Funsaber.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/MissionImpossiblePoster.jpg" group-title="VOD MOVIES", MI 1
@@ -258,13 +258,13 @@ http://dl.dlfile.pro/2/The.Fate.of.the.Furious.2017.HC.720p.HDrip.nItRo.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Salt_film_theatrical_poster.jpg" group-title="VOD MOVIES", SALT
 http://dl.melimedia.net/mersad/movie/96/02/Salt.2010.720p.x264_MeliMedia.INFO.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Allied_%28film%29.png" group-title="VOD MOVIES", ALLIED
-http://dl.sitemovie.ir/movie/Allied_2016_720p_X265_BrRip_SiteMovie_ir.mkv
+http://dl.funsaber.net/movie/95%20/11/Allied.2016.720p.BluRay.Funsaber.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Mr_and_Mrs_Smith_poster.png" group-title="VOD MOVIES", MR & MRS SMITH
 http://dl.marzfun.ir/ali/Film/Dooble/1395/09/02/Mr.Mrs.Smith.2005.720p%20%28MarzFun.ir%29.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/War_for_the_Planet_of_the_Apes_poster.jpg" group-title="VOD MOVIES", WAR FOR THE PLANET OF THE APES
-http://sv4avadl.uploadt.com/Movie/2017/10/War.For.The.Planet.Of.The.Apes.2017.720p.BluRay.x264-BLOW_AVADL.CO.mkv
+http://dl.funsaber.net/movie/96/8/War.For.The.Planet.Of.The.Apes.2017.720p.x265.DUBLE.Funsaber_Net.mkv
 #EXTINF:1, tvg-logo="https://in.bmscdn.com/iedb/movies/images/website/poster/large/a-hitman-s-bodyguard-et00056136-17-04-2017-11-16-32.jpg" group-title="VOD MOVIES", HITMAN'S BODYGUARD
-http://sv4avadl.uploadt.com/Movie/2017/08/The.Hitmans.Bodyguard.2017.720p.WEB-DL.AVADL.CO.mkv
+http://dl.funsaber.net/movie/96/8/The.Hitman.s.Bodyguard.2017.BRrip.720p.SaberFun.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Baby_Driver_poster.jpg" group-title="VOD MOVIES", BABY DRIVER
 http://dl.funsaber.net/movie/96/7/Baby_Driver_2017_720p_BrRip_x265_MkvCage_Funsaber_Net.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/The_Mummy_%282017%29.jpg" group-title="VOD MOVIES", THE MUMMY
@@ -284,15 +284,15 @@ http://mc1.dl3enter.in/files/d1/film/2008/Wanted/Wanted.2008.720p.BluRay.DL.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Batman_v_Superman_poster.jpg" group-title="VOD MOVIES", BATMAN VS SUPERMAN
 http://dl.dlfile.pro/2/Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.720p.BluRay.x265.ShAaNiG.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Assassin%27s_Creed_film_poster.jpg" group-title="VOD MOVIES", ASSASSIN'S CREED
-http://sv4avadl.uploadet.ir/Movie/2017/Ass4ssins.Creed.2016.1080p.BRRip.x264.AAC.AVADL.BiZ.mp4
+http://dl.funsaber.net/movie/95%20/12/A.s.s.a.s.s.i.n.s.Creed.2016.720p.Ganool.mkv
 #EXTINF:1, tvg-logo="https://a.ltrbxd.com/resized/film-poster/2/5/8/1/2/8/258128-rogue-one-a-star-wars-story-0-230-0-345-crop.jpg" group-title="VOD MOVIES", STAR WARS: ROGUE ONE
 http://dl.sitemovie.ir/movie/Rogue_One_2016_720p_BrRip_x265_ShAaNiG_SITEMOVIE.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Valerian_and_the_City_of_a_Thousand_Planets.jpg" group-title="VOD MOVIES", VALERIAN
-http://sv4avadl.uploadet.ir/Movie/2017/11/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.HC.HDRip_AVADL.CO.mkv
+http://dl.funsaber.net/movie/96/8/Valerian.and.the.City.of.a.Thousand.Planets.2017.BRrip.720p.Mkvcage.SaberFun.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Kong_Skull_Island_poster.jpg" group-title="VOD MOVIES", KONG: SKULL ISLAND
 http://dl.sitemovie.ir/movie/Kong_Skull_Island_2017_720p_WEB-DL_MkvCage_SITEMOVIE_IR.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Atomic_Blonde_poster.jpg" group-title="VOD MOVIES", ATOMIC BLONDE
-http://sv4avadl.uploadet.ir/Movie/2017/11/Atomic.Bl0nde.2017.720p.BRRip_AVADL.CO.mkv
+http://dl.funsaber.net/movie/96/8/Atomic.Bl0nde.2017.Bluray.720p.PaHe.SaberFun.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Divergent.jpg" group-title="VOD MOVIES", DIVERGENT
 http://dl.dlfile.pro/ali/film/movie/Divergent%202014%20BluRay%20720p.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Insurgent_poster.jpg" group-title="VOD MOVIES", DIVERGENT: INSURGENT
@@ -306,7 +306,7 @@ http://dl.tehmovies.org/94/8/Maze.Runner.The.Scorch.Trials.2015.720p.Tehmovies.i
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Hacksaw_Ridge_poster.png" group-title="VOD MOVIES", HACKSAW RIDGE
 http://dl.funsaber.net/movie/95%20/11/Hacksaw.Ridge.2016.720p.BluRay.Funsaber.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Passengers_2016_film_poster.jpg" group-title="VOD MOVIES", PASSENGERS
-http://sv4avadl.uploadet.ir/survivor/Movie/2016/Passengers.2016.720p.BrRip_AVADL.BiZ.mkv
+http://dl.funsaber.net/movie/95%20/12/Passengers.2016.720p.WEB-DL.ShAaNiG.Funsaber.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Lucy_%282014_film%29_poster.jpg" group-title="VOD MOVIES", LUCY
 http://dl3.vaiomusic.org/Movie/Lucy%202014%20-%201080p%28vaiomusic%29.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg" group-title="VOD MOVIES", MAD MAX
@@ -366,7 +366,7 @@ http://dl.sitemovie.ir/movie/Despicable_Me_3_2017_720p_Farsi_Dubbed_SiteMovie_ir
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg" group-title="VOD MOVIES", It (2017)
 http://dl.tehmovies.org/94/96/9/IT.2017.720p.Ganool.Tehmovies.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Dunkirk_Film_poster.jpg" group-title="VOD MOVIES", DUNKIRK
-http://sv4avadl.uploadt.com/Movie/2017/07/Dunkirk.2017.Eng.720p.HD-TS.x264.AVADL.BiZ.mp4
+http://dl.funsaber.net/movie/96/9/Dunkirk_2017_720p_BrRip_MkvCage_SaberFun.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Kingsman_The_Golden_Circle.png" group-title="VOD MOVIES", Kingsman The Golden Circle
 http://dl.tehmovies.org/94/96/9/Kingsman.The.Golden.Circle.2017.720p.x265.Pahe.Tehmovies.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Moana_Teaser_Poster.jpg" group-title="VOD MOVIES", Moana
