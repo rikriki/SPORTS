@@ -1951,3 +1951,13 @@ http://vapi.vaders.tv/play/39398.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZW
 http://vapi.vaders.tv/play/39395.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZWxpc3NhNDM3IiwicGFzc3dvcmQiOiJrYXJsb3M0MzcifQ==
 #EXTINF:-1, tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/Star-Vijay.png" group-title="Tamil",Star Vijay
 http://vapi.vaders.tv/play/39397.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZWxpc3NhNDM3IiwicGFzc3dvcmQiOiJrYXJsb3M0MzcifQ==
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/JoshuaParker.jpg" group-title="BOXING: Joshua vs Parker",CHANNEL 1
+http://vapi.vaders.tv/play/50322.ts?token=eyJ1c2VybmFtZSI6InRpZ2VyMTIiLCJwYXNzd29yZCI6InQ3NWdlOHI5MCJ9
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/JoshuaParker.jpg" group-title="BOXING: Joshua vs Parker",CHANNEL 2
+http://vapi.vaders.tv/play/2552.ts?token=eyJ1c2VybmFtZSI6IlJPQkVSVEhPTFRDQU1QIiwicGFzc3dvcmQiOiJUdWNzNTQzMiJ9
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/JoshuaParker.jpg" group-title="BOXING: Joshua vs Parker",CHANNEL 3
+http://vapi.vaders.tv/play/39224.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZWxpc3NhNDM3IiwicGFzc3dvcmQiOiJrYXJsb3M0MzcifQ==
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/JoshuaParker.jpg" group-title="BOXING: Joshua vs Parker",CHANNEL 4
+http://vapi.vaders.tv/play/46472.ts?token=eyJ1c2VybmFtZSI6ImNoaXR3bjQ5ZXIiLCJwYXNzd29yZCI6IkJINXdjT0hZUGoifQ==
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/JoshuaParker.jpg" group-title="BOXING: Joshua vs Parker",CHANNEL 5
+http://vapi.vaders.tv/play/39637.ts?token=eyJ1c2VybmFtZSI6IlQxZzNyIiwicGFzc3dvcmQiOiJTazFwcHkifQ==
