@@ -89,7 +89,7 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/i
 http://dl.tehmovies.org/sr1/dey/1/John.Wick.2014.720p.TehMovies.Com.mkv
 #EXTINF:-1, tvg-logo="http://budomate.com/wp-content/uploads/2016/09/john-wick-2-poster-2.png" group-title="VOD MOVIES", JOHN WICK 2 
 http://dl.tehmovies.org/94/96/3/John.Wick.Chapter.2.2017.720p.WEB-DL.NBY.Tehmovies_me.mkv
-#EXTINF:-1, tvg-logo="https://yts.ag/assets/images/movies/Twilight_2008/medium-cover.jpg" group-title="VOD MOVIES", TWILIGHT (2008)
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Twilight_%282008_film%29_poster.jpg" group-title="VOD MOVIES", TWILIGHT (2008)
 http://dl.tehmovies.org/94/95/9/Twilight.720p.Tehmovies.biz.mkv
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Eclipse_Theatrical_One-Sheet.jpg" group-title="VOD MOVIES", TWILIGHT ECLIPSE 
 http://dl.tehmovies.org/94/95/9/Twilight_Eclipse.2010.720p.Tehmovies.biz.mkv
@@ -151,7 +151,7 @@ http://dl.par30dl.com/Collections/Harry.Potter/Harry.Potter.And.The.Chamber.of.S
 http://dl.par30dl.com/Collections/Harry.Potter/Harry.Potter.and.the.Prisoner.of.Azkaban.2004.720p.Dubbed_www.par30dl.com.mkv
 #EXTINF:1, tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/harry-potter-and-the-goblet-of-fire-2005/large_6sASqcdrEHXxUhA3nFpjrRecPD2.jpg" group-title="VOD MOVIES", Goblet of Fire 
 http://dreamsupport.us/justin/Movies/Harry%20Potter%20and%20The%20Goblet%20Of%20Fire%20(2005)/Harry%20Potter%20and%20The%20Goblet%20Of%20Fire%20(2005).mp4
-#EXTINF:1, tvg-logo="https://i.ytimg.com/vi/Ak6vjFiZUqM/movieposter.jpg" group-title="VOD MOVIES", Order of The Phoenix 
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Harry_Potter_and_the_Order_of_the_Phoenix_poster.jpg" group-title="VOD MOVIES", Order of The Phoenix 
 http://dl.par30dl.com/Collections/Harry.Potter/Harry.Potter.and.the.Order.of.the.Phoenix.2007.720p.Dubbed_www.par30dl.com.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Harry_Potter_and_the_Half-Blood_Prince_poster.jpg" group-title="VOD MOVIES", Half Blood Prince 
 http://dl.par30dl.com/Collections/Harry.Potter/Harry.Potter.and.the.Half.Blood.Prince.2009..720p.Dubbed_www.par30dl.com.mkv
@@ -475,9 +475,9 @@ http://dl.tehmovies.org/94/96/12/Wonder.Wheel.2017.720p.Ganool.Tehmovies.mkv
 http://dl.tehmovies.org/94/96/12/Star.Wars.The.Last.Jedi.2017.720p.YIFY.Tehmovies.mp4
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/InsidiousTheLastKey.jpg" group-title="VOD MOVIES", Insidious 4
 http://dl.tehmovies.org/94/96/12/Insidious.The.Last.Key.2018.720p.WEB-DL.Tehmovies.mkv
-#EXTINF:1, tvg-logo="http://www.web-planet.co/wp-content/uploads/2018/03/BENT-2018.jpg" group-title="VOD MOVIES", Bent
+#EXTINF:1, tvg-logo="https://d1hwmph06ue357.cloudfront.net/new_test/wp-content/uploads/2018/02/keyart-single-bent-vertical.jpg" group-title="VOD MOVIES", Bent
 http://dl.tehmovies.org/94/96/12/Bent.2018.720p.WEB-DL.MkvCage.Tehmovies.mkv
-#EXTINF:1, tvg-logo="https://i.ytimg.com/vi/7HXBGQrjOD4/maxresdefault.jpg" group-title="VOD MOVIES", Aliens Ate My Homework
+#EXTINF:1, tvg-logo="https://i2.wp.com/www.lovebugsandpostcards.com/wp-content/uploads/2018/03/AliensAteMyHomework.png" group-title="VOD MOVIES", Aliens Ate My Homework
 http://dl.tehmovies.org/94/96/12/Aliens.Ate.My.Homework.2018.HDRip.Tehmovies.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/The_Greatest_Showman_poster.png" group-title="VOD MOVIES", The Greatest Showman
 http://dl.tehmovies.org/94/96/12/The.Greatest.Showman.2017.720p.WEB-DL.MkvCage.Tehmovies.mkv
@@ -511,7 +511,7 @@ http://dl.funsaber.net/movie/96/5/Oblivion.2013.720p.Farsi.Dubbed%28Funsaber_Net
 http://dl.funsaber.net/movie/95%20/9/Jack.Reacher.2012.BluRay.720p.Ganool.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Vanilla_sky_post.jpg" group-title="VOD MOVIES", Vanilla Sky
 http://dl.funsaber.net/movie/95%20/11/Vanilla.Sky.2001.Extended.720p.Funsaber.mkv
-#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/Eyes_Wide_Shut_%281999%29.pngg" group-title="VOD MOVIES", Eyes Wide Shut
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/Eyes_Wide_Shut_%281999%29.png" group-title="VOD MOVIES", Eyes Wide Shut
 http://dl.tehmovies.org/sr1/user1/96/2/Eyes.Wide.Shut.1999.720p.YIFY.TehMovies.mp4
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Cocktail_1988.jpg" group-title="VOD MOVIES", Cocktail
 http://mc1.dl3enter.in/files/d1/Movie/1988/Cocktail/Cocktail.1988.BluRay.720p.DL.mkv
