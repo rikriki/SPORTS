@@ -549,6 +549,8 @@ http://dl.tehmovies.org/sr1/aban/Noah.2014.720p.BR_TehMovieS.Com.mkv
 http://dl.funsaber.net/movie/95%20/9/Ben-Hur.2016.720p.BluRay.Funsaber.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/The_Commuter_film_poster.jpg" group-title="VOD MOVIES", The Commuter
 http://dl.hastidl.net/remotes/The.Commuter.2018.720p.HDRip.MkvCage.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/MazeRunnerDeathCureFinalPoster.jpeg" group-title="VOD MOVIES", Maze Runner: The Death Cure
+http://dl.hastidl.net/remotes/Maze.Runner.The.Death.Cure.2018.720p.HC.HDRip.MkvCage.mkv
 #EXTINF:-1,tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/12378156/p12378156_p_v8_aa.jpg" group-title="Tagalog Movies",A Second Chance (2015)
 https://archive.org/download/ASCWeb/ASCWeb.mp4
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/OneMoreChance.jpg" group-title="Tagalog Movies",One More Chance (2007)
