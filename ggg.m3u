@@ -1969,3 +1969,39 @@ http://vapi.vaders.tv/play/39398.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZW
 http://vapi.vaders.tv/play/39395.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZWxpc3NhNDM3IiwicGFzc3dvcmQiOiJrYXJsb3M0MzcifQ==
 #EXTINF:-1, tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/Star-Vijay.png" group-title="Tamil",Star Vijay
 http://vapi.vaders.tv/play/39397.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZWxpc3NhNDM3IiwicGFzc3dvcmQiOiJrYXJsb3M0MzcifQ==
+#EXTINF:-1,group-title="HELLAS",ALPHA
+http://78.128.63.6:8009/play/a00i/index.m3u8
+#EXTINF:-1,group-title="HELLAS",ERT2
+http://78.128.63.6:8009/play/a005/index.m3u8
+#EXTINF:-1,group-title="HELLAS",Vouli
+http://78.128.63.6:8009/play/a007/index.m3u8
+#EXTINF:-1,group-title="HELLAS",Kosmos
+http://78.128.63.6:8009/play/a004/index.m3u8
+#EXTINF:-1,group-title="HELLAS",ERT3
+http://78.128.63.6:8009/play/a00a/index.m3u8
+#EXTINF:-1,group-title="HELLAS",ERT HD
+http://78.128.63.6:8009/play/a00b/index.m3u8
+#EXTINF:-1,group-title="HELLAS",SKAI
+http://78.128.63.6:8009/play/a00f/index.m3u8
+#EXTINF:-1,group-title="HELLAS",M.tv
+http://78.128.63.6:8009/play/a00d/index.m3u8
+#EXTINF:-1,group-title="HELLAS",ART
+http://78.128.63.6:8009/play/a00k/index.m3u8
+#EXTINF:-1,group-title="HELLAS",Proto
+http://78.128.63.6:8009/play/a003/index.m3u8
+#EXTINF:-1,group-title="HELLAS",Voice Of Greece
+http://78.128.63.6:8009/play/a009/index.m3u8
+#EXTINF:-1,group-title="HELLAS",MEGA
+http://78.128.63.6:8009/play/a00e/index.m3u8
+#EXTINF:-1,group-title="HELLAS",Trito
+http://78.128.63.6:8009/play/a006/index.m3u8
+#EXTINF:-1,group-title="HELLAS",epsilontv
+http://78.128.63.6:8009/play/a00l/index.m3u8
+#EXTINF:-1,group-title="HELLAS",Era Sport
+http://78.128.63.6:8009/play/a008/index.m3u8
+#EXTINF:-1,group-title="HELLAS",ERT1
+http://78.128.63.6:8009/play/a002/index.m3u8
+#EXTINF:-1,group-title="HELLAS",STAR
+http://78.128.63.6:8009/play/a00g/index.m3u8
+#EXTINF:-1,group-title="HELLAS",ANT1
+http://78.128.63.6:8009/play/a00j/index.m3u8
