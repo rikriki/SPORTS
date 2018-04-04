@@ -1487,32 +1487,6 @@ http://vapi.vaders.tv/play/77882.ts?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYX
 http://vapi.vaders.tv/play/77883.ts?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
 #EXTINF:-1 tvg-name="TVA Sports HD" tvg-id="None" tvg-logo="http://vod6.vaders.tv:8080/logos/tva%20sports.png" group-title="Sports",TVA Sports HD
 http://vapi.vaders.tv/play/73296.ts?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",RAPTORS VS CAVS
-http://vapi.vaders.tv/play/2848.ts?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",NETS VS SIXERS
-http://vapi.vaders.tv/play/33511.ts?token=eyJ1c2VybmFtZSI6ImdyZWVuZzRuZzEiLCJwYXNzd29yZCI6ImdyZWVuOTA4In0=
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",HAWKS VS HEAT
-http://vapi.vaders.tv/play/52202.ts?token=eyJ1c2VybmFtZSI6InNjdHZfMjZydWJiZXJkdWNrIiwicGFzc3dvcmQiOiJsZXdpczIifQ==
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",MAGIC VS KNICKS
-http://vapi.vaders.tv/play/52194.ts?token=eyJ1c2VybmFtZSI6InBldGVyZHBoIiwicGFzc3dvcmQiOiI5MzAwNDk4MCJ9
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",HORNETS VS BULLS
-http://vapi.vaders.tv/play/52201.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZWxpc3NhNDM3IiwicGFzc3dvcmQiOiJrYXJsb3M0MzcifQ==
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",WIZARDS VS ROCKETS
-http://vapi.vaders.tv/play/2546.ts?token=eyJ1c2VybmFtZSI6InNjdHZfamF5ODA1IiwicGFzc3dvcmQiOiJsaXZlcnBvb2wxIn0=
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",CELTICS VS BUCKS
-http://vapi.vaders.tv/play/2553.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZWxpc3NhNDM3IiwicGFzc3dvcmQiOiJrYXJsb3M0MzcifQ==
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",WARRIORS VS THUNDER
-http://vapi.vaders.tv/play/39828.ts?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",BLAZERS VS MAVERICS
-http://vapi.vaders.tv/play/2554.ts?token=eyJ1c2VybmFtZSI6InNjdHZfamF5ODA1IiwicGFzc3dvcmQiOiJsaXZlcnBvb2wxIn0=
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",PACERS VS NUGGETS
-http://vapi.vaders.tv/play/52195.ts?token=eyJ1c2VybmFtZSI6InNjdHZfamF5ODA1IiwicGFzc3dvcmQiOiJsaXZlcnBvb2wxIn0=
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",LAKERS VS JAZZ
-http://vapi.vaders.tv/play/77882.ts?token=eyJ1c2VybmFtZSI6InNjdHZfamF5ODA1IiwicGFzc3dvcmQiOiJsaXZlcnBvb2wxIn0=
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",KINGS VS SUNS
-http://vapi.vaders.tv/play/41143.ts?token=eyJ1c2VybmFtZSI6InNjdHZfamF5ODA1IiwicGFzc3dvcmQiOiJsaXZlcnBvb2wxIn0=
-#EXTINF:-1, tvg-logo="http://varianthometech.com/wp-content/uploads/2016/02/NBA-League-Pass-Logo.png" group-title="NBA - LIVE GAMES ONLY",SPURS VS CLIPPERS
-http://vapi.vaders.tv/play/39828.ts?token=eyJ1c2VybmFtZSI6InNjdHZfamF5ODA1IiwicGFzc3dvcmQiOiJsaXZlcnBvb2wxIn0=
 #EXTINF:-1 tvg-ID="ABC.us" tvg-name="ABC HD" tvg-logo="https://imgur.com/zKY0Cc4.png" group-title="United States",ABC HD
 http://vapi.vaders.tv/play/2435.ts?token=eyJ1c2VybmFtZSI6Impvc2h1YXdlYmJlcjE1IiwicGFzc3dvcmQiOiJ5YWtpbWEifQ==
 #EXTINF:-1 tvg-ID="" tvg-name="ABC Atlanta HD" tvg-logo="https://imgur.com/jvn02IA.png" group-title="United States - Regionals",ABC Atlanta HD
