@@ -45,6 +45,8 @@ http://vapi.vaders.tv/play/39631.ts?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYX
 http://vapi.vaders.tv/play/39633.ts?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
 #EXTINF:-1, tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/07104534gma%20pinoytv.png" group-title="PINOY TV", GMA Pinoy
 http://vapi.vaders.tv/play/39632.ts?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
+#EXTINF:-1, tvg-logo="http://www.nyxmartinez.com/wp-content/uploads/2015/05/Living-Asia-Channel.jpg" group-title="PINOY TV", LIVING ASIA CHANNEL
+https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs219.gif" group-title="JAPAN",CS219
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs18.stream/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/11.jpg" group-title="JAPAN",Eisei Gekijo
