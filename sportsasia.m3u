@@ -1,104 +1,19 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://sc.dish.com/shared/images/station-logos/nbatv.png", NBA TV
-http://live.jibhdlive.com/nba_tv_hd_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png", FOX SPORTS HD
-http://live.jibhdlive.com/fox_sports_hd_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png", FOX SPORTS 1
-http://live.jibhdlive.com/fox_sports_1_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png", FOX SPORTS 2
-http://live.jibhdlive.com/fox_sports_2_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Fox_Sports_3_logo.png", FOX SPORTS 3
-http://live.jibhdlive.com/fox_sports_3_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.dprom.tv/public/img/true_tennis_hd.png", TRUE TENNIS HD
-http://live.jibhdlive.com/true_tennis_hd_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://actv.tv/wp-content/uploads/mutv1.png", MANCHESTER UNITED TV
-http://live.jibhdlive.com/mutv_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb08c4.png", CHELSEA TV
-http://live.jibhdlive.com/chelsea_tv_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb04a7.jpg", LIVERPOOL TV
-http://live.jibhdlive.com/lfctv_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://i.imgur.com/F2R303x.png", BT SPORT 1 HD
-http://live.jibhdlive.com/bt_sport_1_hd_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/vsuvvu1433963716.png", BT SPORT 2 HD
-http://live.jibhdlive.com/bt_sport_2_hd_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://www.pitv.co.za/wp-content/uploads/2016/11/bt-sport-3-hd.png", BT SPORT 3 HD 
-http://live.jibhdlive.com/bt_sport_3_hd_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://cdn.firstone.tv/images/logos/uk/BTESPN.png", BT SPORT ESPN
-http://live.jibhdlive.com/bt_sport_espn_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_1_aug2014.png", TSN 1
-http://live.jibhdlive.com/0x444_tsn1_360p/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.woodbineentertainment.com/Woodbine/SiteAssets/Pages/Breeders-Crown/TSN2_CMYK.jpg", TSN 2
-http://live.jibhdlive.com/0x444_tsn2_360p/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_3_aug2014.png", TSN 3
-http://live.jibhdlive.com/0x444_tsn3_360p/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://freetvall.com/files/thumbs/150179087733588.jpg", SKY SPORTS MAIN EVENT
-http://live.jibhdlive.com/sky_sports_mainevent_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfbaaf5.png", SKY SPORTS PREMIER LEAGUE
-http://live.jibhdlive.com/sky_sports_premiere_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-ACTION.png", SKY SPORTS ACTION
-http://live.jibhdlive.com/sky_sports_action_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff2cc3.jpg", SKY SPORTS FOOTBALL
-http://live.jibhdlive.com/skysportfootball_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://media.info/i/lf/0/1500373955/6753.png", SKY SPORTS ARENA
-http://live.jibhdlive.com/skysportarena_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2016/03/sky-sports-mix-1.jpg", SKY SPORTS MIX
-http://live.jibhdlive.com/skysportmix_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff28ea.png", SKY SPORTS F1
-http://live.jibhdlive.com/kysportf1_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff5bb7.png", SKY SPORTS NEWS
-http://live.jibhdlive.com/skysportnew_360.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch119.jpg", FIGHT SPORTS
-http://live.jibhdlive.com/ais_fightsport_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff7674.png", PREMIER LEAGUE TV 1
-http://live.jibhdlive.com/prtv_1_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff7a4f.png", PREMIER LEAGUE TV 2
-http://live.jibhdlive.com/prtv_2_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff7dad.png", PREMIER LEAGUE TV 3
-http://live.jibhdlive.com/prtv_3_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff733d.png", GOLF CHANNEL
-http://live.jibhdlive.com/golf_channel_thailand_hd_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff949c.png", TRUE SPORT HD 1
-http://live.jibhdlive.com/truesport_hd_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff97dc.png", TRUE SPORT HD 2
-http://live.jibhdlive.com/truesport_hd_2_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dffa6a1.png", TRUE SPORT HD 3
-http://live.jibhdlive.com/truesport_hd_3_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dffaa46.png", SETANTA ASIA
-http://live.jibhdlive.com/truesport_hd_4_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e01dcd2.jpg", TS SPORT 1
-http://live.jibhdlive.com/truesport_1_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e0000e3.png", TS SPORT 2
-http://live.jibhdlive.com/truesport_2_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e02020a.jpg", TS SPORT 3
-http://live.jibhdlive.com/truesport_3_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e0014b4.png", TS SPORT 5
-http://live.jibhdlive.com/truesport_5_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e00201e.png", TS SPORT 6
-http://live.jibhdlive.com/truesport_6_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e0032c3.png", TS SPORT 7
-http://live.jibhdlive.com/truesport_7_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb2cbd.png", EUROSPORT
-http://live.jibhdlive.com/eurosport_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb30ce.png", EUROSPORT 1
-http://live.jibhdlive.com/eurosport_1_uk_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb34e5.png", EUROSPORT 2
-http://live.jibhdlive.com/eurosport_2_uk_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb0fcb.png", SKYNET SPORTS HD
-http://live.jibhdlive.com/skynet_sport_hd_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb0fcb.png", SKYNET SPORTS 1
-http://live.jibhdlive.com/skynet_sports_1_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb0fcb.png", SKYNET SPORTS 2
-http://live.jibhdlive.com/skynet_sports_2_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb1a5f.png", SKYNET SPORTS 3
-http://live.jibhdlive.com/skynet_sports_3_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb1e47.png", SKYNET SPORTS 4
-http://live.jibhdlive.com/skynet_sports_4_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb24f9.png", SKYNET SPORTS 5
-http://live.jibhdlive.com/skynet_sports_5_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb28a0.png", SKYNET SPORTS 6
-http://live.jibhdlive.com/skynet_sports_6_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb417f.png", SONY ESPN
-http://live.jibhdlive.com/sony_espn_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb44e9.png", SONY SIX HD
-http://live.jibhdlive.com/sony_six_720p.stream/playlist.m3u8
-
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/947598867985457152/lOzb5ud9.jpg" group-title="PINOY TV", CNN PHILIPPINES
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV PHILS
+https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/chunklist_b2592000.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/753895989904367616/GvgKNn1u.jpg" group-title="PINOY TV", INQUIRER 990
+https://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist_w980265345.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/870865623047262208/1-IrAl1L_400x400.jpg" group-title="PINOY TV", PILIPINAS HD
+https://59c3ec70cfde0.streamlock.net/channel_4/channel4/chunklist_w663856267.m3u8
+#EXTINF:-1, tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/d/df/Cropped-island_living_logo.png" group-title="PINOY TV", ISLAND LIVING CHANNEL
+https://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist_w836722160.m3u8
+#EXTINF:-1, tvg-logo="https://l3.tikilive.com/public/files/shows/157/157639/45392-800x450-FFFFFF.jpgg" group-title="PINOY TV", LIFE TV
+https://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist_w901462722.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/889363645942988800/ZYNI7o0U_400x400.jpg" group-title="PINOY TV", TBN ASIA
+https://59c3ec70cfde0.streamlock.net/channel_3/channel3/chunklist_w892560450.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/OShopping_2015.png" group-title="PINOY TV", BEAM O SHOPPING
+https://59c3ec70cfde0.streamlock.net/channel_2/channel2/chunklist_w838248083.m3u8
+#EXTINF:-1, tvg-logo="https://www.shoptv.com.ph/skin/frontend/cudsly/default/images/shoptv-logo.png" group-title="PINOY TV", BEAM SHOP TV
+https://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist_w174661881.m3u8
