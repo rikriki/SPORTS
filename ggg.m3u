@@ -1697,6 +1697,8 @@ http://vapi.vaders.tv/play/74789.ts?token=eyJ1c2VybmFtZSI6IlQxZzNyIiwicGFzc3dvcm
 http://vapi.vaders.tv/play/74791.ts?token=eyJ1c2VybmFtZSI6IlQxZzNyIiwicGFzc3dvcmQiOiJTazFwcHkifQ==
 #EXTINF:-1,tvg-logo="https://aureusacademy.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-31-at-16.01.48.png" group-title="ASIAN TV",Channel News Asia
 https://tglcnash-i.akamaihd.net/hls/live/566559/pcweb/02.m3u8
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/originals/b4/60/b6/b460b602af2cc59b945811a87e9eb405.jpg" group-title="ASIAN TV",Asia Food Channel
+http://61.58.60.247:9000/live/176.m3u8
 #EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/hi5tv/images/8/87/Okto.png" group-title="ASIAN TV",Okto TV
 https://tgloktoh-i.akamaihd.net/hls/live/566486/pcweb/02.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/778129630284902401/gXjFkqGM_400x400.jpg" group-title="ASIAN TV",Bloomberg TV Asia
