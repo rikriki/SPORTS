@@ -1845,15 +1845,61 @@ http://vapi.vaders.tv/play/39398.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZW
 http://vapi.vaders.tv/play/39395.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZWxpc3NhNDM3IiwicGFzc3dvcmQiOiJrYXJsb3M0MzcifQ==
 #EXTINF:-1, tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/Star-Vijay.png" group-title="Tamil",Star Vijay
 http://vapi.vaders.tv/play/39397.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZWxpc3NhNDM3IiwicGFzc3dvcmQiOiJrYXJsb3M0MzcifQ==
-#EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c01.png" group-title="Taiwan",Formosa TV
+#EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c01.png" group-title="CHINA/TAIWAN",Formosa TV
 https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv002/stream0.m3u8?token=CtPszHJSnyJfaon2C4tD6A&expires=1524282545
-#EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c02.png" group-title="Taiwan",FTV News
+#EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c02.png" group-title="CHINA/TAIWAN",FTV News
 https://mozai.4gtv.tv/m3u8/embed/litv-ftv13/stream0.m3u8?token=JM9DAHi_ROPFGjx_D6q2Jg&expires=1524282588
-#EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c03.png" group-title="Taiwan",FT TV
+#EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c03.png" group-title="CHINA/TAIWAN",FT TV
 https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv001/stream0.m3u8?token=dfIREYXyqXF7m44i1I67xQ&expires=1524282627
-#EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c04.png" group-title="Taiwan",FMTV
+#EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c04.png" group-title="CHINA/TAIWAN",FMTV
 https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv003/stream1.m3u8?token=zncUDWfckOiyqmmFx3kQnA&expires=1524282430
-#EXTINF:-1, tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv035_mobile.png" group-title="Taiwan",Bonus 1
+#EXTINF:-1, tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv035_mobile.png" group-title="CHINA/TAIWAN",Bonus 1
 https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv035/stream0.m3u8?token=GipnJp9JB7_jiP_ylfnUuQ&expires=1524282897
-#EXTINF:-1, tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-longturn09_mobile.png" group-title="Taiwan",Bonus 2
-https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv038/stream0.m3u8?token=fR2f-zeFs4UfYmrR24I_vA&expires=1524283030&refer=
+#EXTINF:-1, tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-longturn09_mobile.png" group-title="CHINA/TAIWAN",Bonus 2
+https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv038/stream0.m3u8?token=fR2f-zeFs4UfYmrR24I_vA&expires=1524283030&
+#EXTINF:-1, group-title="CHINA/TAIWAN", CCTV-4
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225521/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", CCTV-7
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225832/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", CCTV-11
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225983/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", ShengZhenWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225501/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", JiangSuWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", DianYing
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", ShanDongWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225775/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", LiaoNingWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225782/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", BeiJingWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225988/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", DongFangWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", GuangDongWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225985/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", AnHuiWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225809/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", GuangXiWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225811/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", GuangXiWeiShi
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226002/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", JiaoYuQingNian
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225872/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", ShengHuo
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225873/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", DongMan
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225996/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", YouXiFengYun
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226003/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", KaKuShaoEr
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", JingYingKaTong
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", BST TiYu1
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", BST TiYu2
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226035/index.m3u8
+#EXTINF:-1, group-title="CHINA/TAIWAN", Knews24
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226041/index.m3u8
