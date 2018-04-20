@@ -1853,3 +1853,7 @@ https://mozai.4gtv.tv/m3u8/embed/litv-ftv13/stream0.m3u8?token=JM9DAHi_ROPFGjx_D
 https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv001/stream0.m3u8?token=dfIREYXyqXF7m44i1I67xQ&expires=1524282627
 #EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c04.png" group-title="Taiwan",FMTV
 https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv003/stream1.m3u8?token=zncUDWfckOiyqmmFx3kQnA&expires=1524282430
+#EXTINF:-1, tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv035_mobile.png" group-title="Taiwan",Bonus 1
+https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv035/stream0.m3u8?token=GipnJp9JB7_jiP_ylfnUuQ&expires=1524282897
+#EXTINF:-1, tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-longturn09_mobile.png" group-title="Taiwan",Bonus 2
+https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv038/stream0.m3u8?token=fR2f-zeFs4UfYmrR24I_vA&expires=1524283030&refer=
