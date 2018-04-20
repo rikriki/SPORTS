@@ -1845,3 +1845,5 @@ http://vapi.vaders.tv/play/39398.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZW
 http://vapi.vaders.tv/play/39395.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZWxpc3NhNDM3IiwicGFzc3dvcmQiOiJrYXJsb3M0MzcifQ==
 #EXTINF:-1, tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/Star-Vijay.png" group-title="Tamil",Star Vijay
 http://vapi.vaders.tv/play/39397.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZWxpc3NhNDM3IiwicGFzc3dvcmQiOiJrYXJsb3M0MzcifQ==
+#EXTINF:-1, tvg-logo="https://sc.dish.com/shared/images/station-logos/ftvtw.png" group-title="Taiwan",Formosa TV
+https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv002/stream0.m3u8?token=faTjFbNDmfkUluqz-zWoIA&expires=1524280027
