@@ -1852,17 +1852,17 @@ http://vapi.vaders.tv/play/39395.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZW
 #EXTINF:-1, tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/Star-Vijay.png" group-title="Tamil",Star Vijay
 http://vapi.vaders.tv/play/39397.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZWxpc3NhNDM3IiwicGFzc3dvcmQiOiJrYXJsb3M0MzcifQ==
 #EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c01.png" group-title="CHINA/TAIWAN",Formosa TV
-https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv002/stream0.m3u8?token=CtPszHJSnyJfaon2C4tD6A&expires=1524282545
+https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv002/stream0.m3u8?token=tb6eSIDidCTKu_FF-G8J1w&expires=1524327397
 #EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c02.png" group-title="CHINA/TAIWAN",FTV News
-https://mozai.4gtv.tv/m3u8/embed/litv-ftv13/stream0.m3u8?token=JM9DAHi_ROPFGjx_D6q2Jg&expires=1524282588
+https://mozai.4gtv.tv/m3u8/embed/litv-ftv13/stream0.m3u8?token=YrcsowrJ0Dud76Qbf_U3pw&expires=1524327512
 #EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c03.png" group-title="CHINA/TAIWAN",FT TV
-https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv001/stream0.m3u8?token=dfIREYXyqXF7m44i1I67xQ&expires=1524282627
+https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv001/stream0.m3u8?token=AVvqUN306XoVnPSDPfp46A&expires=1524327585
 #EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c04.png" group-title="CHINA/TAIWAN",FMTV
-https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv003/stream1.m3u8?token=zncUDWfckOiyqmmFx3kQnA&expires=1524282430
+https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv003/stream0.m3u8?token=bmRlF4r8Lrqzr1rZpZYkQA&expires=1524327663
 #EXTINF:-1, tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv035_mobile.png" group-title="CHINA/TAIWAN",Bonus 1
-https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv035/stream0.m3u8?token=GipnJp9JB7_jiP_ylfnUuQ&expires=1524282897
+https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv035/stream0.m3u8?token=RevJFz-wib4GTEvOG4XBCw&expires=1524327685
 #EXTINF:-1, tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-longturn09_mobile.png" group-title="CHINA/TAIWAN",Bonus 2
-https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv038/stream0.m3u8?token=fR2f-zeFs4UfYmrR24I_vA&expires=1524283030&
+https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv038/stream0.m3u8?token=3b60o36buNZhivJSAanjIw&expires=1524327749
 #EXTINF:-1, group-title="CHINA/TAIWAN", CCTV-4
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225521/index.m3u8
 #EXTINF:-1, group-title="CHINA/TAIWAN", CCTV-7
