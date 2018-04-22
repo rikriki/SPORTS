@@ -2301,3 +2301,189 @@ http://nitrotv.for-the.biz:25461/live/Zeke/1234/5886.ts
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/18534.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: AFN Sports 2" tvg-logo="https://scontent.fhou1-2.fna.fbcdn.net/v/t1.0-9/14705699_1202902249782233_6180086676012362791_n.jpg?_nc_cat=0&oh=a6aebcb1e6a87f91626008e18934e666&oe=5B6147E7" group-title="SPORTS ALT",US: AFN Sports 2
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/18533.ts
+#EXTINF:-1 tvg-id="us.AMC HDTV (East)" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/200px-AMC_logo_2016.svg.png" group-title="US ENTERTAINMENT",AMC HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1448.ts
+#EXTINF:-1 tvg-id="us.AMC HDTV (East)" tvg-name="AMC 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/200px-AMC_logo_2016.svg.png" group-title="US ENTERTAINMENT",AMC 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11541.ts
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E HD" tvg-logo="https://deltafonts.com/wp-content/uploads/a-and-e-logo.png" group-title="US ENTERTAINMENT",A&E HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1378.ts
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E 720" tvg-logo="https://deltafonts.com/wp-content/uploads/a-and-e-logo.png" group-title="US ENTERTAINMENT",A&E 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/12213.ts
+#EXTINF:-1 tvg-id="us.Animal Planet HDTV (East)" tvg-name="Animal Planet HD" tvg-logo="https://pbs.twimg.com/profile_images/908025842386784257/cmQWG5r3.jpg" group-title="US ENTERTAINMENT",Animal Planet HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1449.ts
+#EXTINF:-1 tvg-id="us.BBC America HDTV (East)" tvg-name="BBC America HD" tvg-logo="http://www.thewrap.com/sites/default/wp-content/uploads/files/BBC%20AMERICA.jpg" group-title="US ENTERTAINMENT",BBC America HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/3683.ts
+#EXTINF:-1 tvg-id="us.Bravo HDTV (East)" tvg-name="Bravo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/400px-Bravo_2017_logo.svg.png" group-title="US ENTERTAINMENT",Bravo HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1390.ts
+#EXTINF:-1 tvg-id="us.Bravo HDTV (East)" tvg-name="Bravo 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/400px-Bravo_2017_logo.svg.png" group-title="US ENTERTAINMENT",Bravo 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11532.ts
+#EXTINF:-1 tvg-id="us.Comedy Central HDTV (East)" tvg-name="Comedy Central HD" tvg-logo="http://www.stashmedia.tv/wp-content/uploads/2010/12/comedy-logo.png" group-title="US ENTERTAINMENT",Comedy Central HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/2105.ts
+#EXTINF:-1 tvg-id="us.Comedy Central HDTV (East)" tvg-name="Comedy Central 720" tvg-logo="http://www.stashmedia.tv/wp-content/uploads/2010/12/comedy-logo.png" group-title="US ENTERTAINMENT",Comedy Central 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11665.ts
+#EXTINF:-1 tvg-id="us.The Cooking Channel HDTV" tvg-name="Cooking Channel HD" tvg-logo="https://pbs.twimg.com/profile_images/707608054225833984/0oB_sFGh.jpg" group-title="US ENTERTAINMENT",Cooking Channel HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/3678.ts
+#EXTINF:-1 tvg-id="us.The Discovery Channel HDTV (East)" tvg-name="Discovery HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/2a/DSC_DGlobe_2016_Reverse.svg/revision/latest/scale-to-width-down/200?cb=20170504003819" group-title="US ENTERTAINMENT",Discovery HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1454.ts
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="Outdoor Channel HD" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/outdoor-jpg-HkjHzMYy-.jpg" group-title="US ENTERTAINMENT",Outdoor Channel HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/18449.ts
+#EXTINF:-1 tvg-id="us.BET - Eastern Feed" tvg-name="BET HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/5/58/F71a477d6e98f508107ee4988a20774d.jpeg/revision/latest?cb=20130527004829" group-title="US ENTERTAINMENT",BET HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/6201.ts
+#EXTINF:-1 tvg-id="tvone.us" tvg-name="TV ONE" tvg-logo="https://cdn0-a.production.images.static6.com/MNIbnDIgoibD4fUvrXS3yeasb58=/640x360/smart/filters:quality(90)/vidio-media-production/uploads/livestreaming/image/783/tvone-tv-stream-f54fcd.jpg" group-title="US ENTERTAINMENT",TV ONE
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/18451.ts
+#EXTINF:-1 tvg-id="us.Revolt HDTV" tvg-name="Revolt" tvg-logo="https://images.verizondigitalmedia.com/2015/03/revolt-tv-logo.jpg" group-title="US ENTERTAINMENT",Revolt
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/15163.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bounce TV" tvg-logo="https://pbs.twimg.com/profile_images/830073525440507904/ea6bt4Sy_400x400.jpg" group-title="US ENTERTAINMENT",Bounce TV
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/18516.ts
+#EXTINF:-1 tvg-id="us.The Discovery Channel HDTV (East)" tvg-name="Discovery 720" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/2a/DSC_DGlobe_2016_Reverse.svg/revision/latest/scale-to-width-down/200?cb=20170504003819" group-title="US ENTERTAINMENT",Discovery 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11563.ts
+#EXTINF:-1 tvg-id="us.Discovery Family Channel SDTV" tvg-name="Discovery Family FHD" tvg-logo="https://i.ytimg.com/vi/9mxltTKw0fI/0.jpg" group-title="US ENTERTAINMENT",Discovery Family FHD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/3676.ts
+#EXTINF:-1 tvg-id="us.Science HDTV" tvg-name="Discovery Science HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cf/150px-Discovery_Science_Canada_2011.png/revision/latest?cb=20120123233047" group-title="US ENTERTAINMENT",Discovery Science HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1455.ts
+#EXTINF:-1 tvg-id="us.Destination America HDTV" tvg-name="Destination America HD" tvg-logo="https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg?w=490&h=276&crop=1" group-title="US ENTERTAINMENT",Destination America HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/5259.ts
+#EXTINF:-1 tvg-id="us.Do It Yourself Network HDTV (East)" tvg-name="DIY HD" tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/52cde3dde4b0067e33162582/1389224926035/DIY-logo.png" group-title="US ENTERTAINMENT",DIY HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/3673.ts
+#EXTINF:-1 tvg-id="us.Do It Yourself Network HDTV (East)" tvg-name="DIY 720" tvg-logo="https://static1.squarespace.com/static/5134d411e4b027b1c0564b1e/51968996e4b0af15cc44e4e0/52cde3dde4b0067e33162582/1389224926035/DIY-logo.png" group-title="US ENTERTAINMENT",DIY 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11567.ts
+#EXTINF:-1 tvg-id="us.El Rey Network" tvg-name="El Rey Network HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/5/58/El_Rey_Network.svg/revision/latest/scale-to-width-down/320?cb=20161003203159" group-title="US ENTERTAINMENT",El Rey Network HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/5873.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/c/c5/E_us_hd.png/revision/latest/scale-to-width-down/384?cb=20130214205447" group-title="US ENTERTAINMENT",E! Entertainment HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/3680.ts
+#EXTINF:-1 tvg-id="us.E! Entertainment USA - Eastern Feed" tvg-name="E! Entertainment 720" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/c/c5/E_us_hd.png/revision/latest/scale-to-width-down/384?cb=20130214205447" group-title="US ENTERTAINMENT",E! Entertainment 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11531.ts
+#EXTINF:-1 tvg-id="us.National Geographic Channel HDTV" tvg-name="Nat Geo HD" tvg-logo="https://pbs.twimg.com/profile_images/1463630318/nat-geo.jpg" group-title="US ENTERTAINMENT",Nat Geo HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1377.ts
+#EXTINF:-1 tvg-id="us.National Geographic Channel HDTV" tvg-name="Nat Geo 720" tvg-logo="https://pbs.twimg.com/profile_images/1463630318/nat-geo.jpg" group-title="US ENTERTAINMENT",Nat Geo 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11566.ts
+#EXTINF:-1 tvg-id="us.NatGeo WILD HDTV" tvg-name="Nat Geo Wild HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest/scale-to-width-down/200?cb=20170426190523" group-title="US ENTERTAINMENT",Nat Geo Wild HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1469.ts
+#EXTINF:-1 tvg-id="us.NatGeo WILD HDTV" tvg-name="Nat Geo Wild 720" tvg-logo="https://i1.sndcdn.com/artworks-000239489971-ulpvwe-t500x500.jpg" group-title="US ENTERTAINMENT",Nat Geo Wild 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11553.ts
+#EXTINF:-1 tvg-id="us.The Oprah Winfrey Network HDTV (East)" tvg-name="OWN HD" tvg-logo="http://i0.wp.com/cine3.com/wp-content/uploads/2014/03/Own-HD.png" group-title="US ENTERTAINMENT",OWN HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/3660.ts
+#EXTINF:-1 tvg-id="us.IFC HDTV (East)" tvg-name="IFC HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/f3/IFC_Logo.svg/revision/latest/scale-to-width-down/640?cb=20161112182354" group-title="US ENTERTAINMENT",IFC HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/3663.ts
+#EXTINF:-1 tvg-id="us.Lifetime Television HDTV (East)" tvg-name="Lifetime HD" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/1/1e/Lifetime_2013.png/revision/latest/scale-to-width-down/200?cb=20150531221814" group-title="US ENTERTAINMENT",Lifetime HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1467.ts
+#EXTINF:-1 tvg-id="us.Lifetime Television HDTV (East)" tvg-name="Lifetime 720" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/1/1e/Lifetime_2013.png/revision/latest/scale-to-width-down/200?cb=20150531221814" group-title="US ENTERTAINMENT",Lifetime 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11667.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime Movies" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/e/ee/LMN_HD_logo_2011.svg/revision/latest/scale-to-width-down/640?cb=20160816223130" group-title="US ENTERTAINMENT",Lifetime Movies
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/15179.ts
+#EXTINF:-1 tvg-id="us.LMN HDTV (East)" tvg-name="LMN HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/e/ee/LMN_HD_logo_2011.svg/revision/latest/scale-to-width-down/640?cb=20160816223130" group-title="US ENTERTAINMENT",LMN HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/5882.ts
+#EXTINF:-1 tvg-id="us.Hallmark Channel HDTV (East)" tvg-name="Hallmark HD" tvg-logo="http://004ebd61b15926863818-aa61658d43149297ff6b42d9a3dc71d9.r21.cf5.rackcdn.com/tenants/3_logo.png" group-title="US ENTERTAINMENT",Hallmark HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1410.ts
+#EXTINF:-1 tvg-id="us.Hallmark Movies and Mysteries HDTV" tvg-name="Hallmark Movies & Mysteries HD" tvg-logo="http://media.soapoperanetwork.com/2014/12/hallmark_moviesandmysteries_01_640x400.jpg" group-title="US ENTERTAINMENT",Hallmark Movies & Mysteries HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/5878.ts
+#EXTINF:-1 tvg-id="us.Syfy HDTV" tvg-name="SYFY HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/2/24/Syfy_logo.svg/revision/latest/scale-to-width-down/320?cb=20160810120339" group-title="US ENTERTAINMENT",SYFY HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/2948.ts
+#EXTINF:-1 tvg-id="us.Syfy HDTV" tvg-name="SYFY 720" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/2/24/Syfy_logo.svg/revision/latest/scale-to-width-down/320?cb=20160810120339" group-title="US ENTERTAINMENT",SYFY 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11536.ts
+#EXTINF:-1 tvg-id="" tvg-name="Oxygen HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/9/92/Oxygen_2014.svg/revision/latest/scale-to-width-down/640?cb=20161120181741" group-title="US ENTERTAINMENT",Oxygen HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/3672.ts
+#EXTINF:-1 tvg-id="us.Pop (East)" tvg-name="POP HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/8/8a/Pop_TV.svg/revision/latest/scale-to-width-down/640?cb=20140825195821" group-title="US ENTERTAINMENT",POP HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/5896.ts
+#EXTINF:-1 tvg-id="us.MTV HDTV (East)" tvg-name="MTV HD" tvg-logo="https://4.bp.blogspot.com/-353tOX6l5pI/V5rBf964bRI/AAAAAAAABLw/dD6_eIOjeNgSIBQOUOJVC3v4lxEbLfSzACLcB/s1600/mtvlogo.png" group-title="US ENTERTAINMENT",MTV HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/3662.ts
+#EXTINF:-1 tvg-id="us.MTV Live" tvg-name="MTV Live HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/9/90/MTV_Live.svg/revision/latest/scale-to-width-down/200?cb=20170319123337" group-title="US ENTERTAINMENT",MTV Live HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1417.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/4/45/TLCHD.png/revision/latest/scale-to-width-down/640?cb=20150917211907" group-title="US ENTERTAINMENT",TLC HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/5892.ts
+#EXTINF:-1 tvg-id="us.FX HDTV (East)" tvg-name="FX HD" tvg-logo="http://americablejapan.net/images/station_logos/fx_hdjpg.jpg" group-title="US ENTERTAINMENT",FX HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/3668.ts
+#EXTINF:-1 tvg-id="us.FX HDTV (East)" tvg-name="FX 720" tvg-logo="http://americablejapan.net/images/station_logos/fx_hdjpg.jpg" group-title="US ENTERTAINMENT",FX 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11663.ts
+#EXTINF:-1 tvg-id="us.FXX HDTV (East)" tvg-name="FXX HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e1/Fxx_us_hd.png/revision/latest/scale-to-width-down/640?cb=20130929134922" group-title="US ENTERTAINMENT",FXX HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/3667.ts
+#EXTINF:-1 tvg-id="us.FXX HDTV (East)" tvg-name="FXX 720" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e1/Fxx_us_hd.png/revision/latest/scale-to-width-down/640?cb=20130929134922" group-title="US ENTERTAINMENT",FXX 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11668.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/FXM_Retro.jpg" group-title="US ENTERTAINMENT",FX Movie Channel
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/5888.ts
+#EXTINF:-1 tvg-id="us.FYI HDTV" tvg-name="FYI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/FYI%2C_logo.png" group-title="US ENTERTAINMENT",FYI HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/5876.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fusion HD" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/b/b6/Fusion_logo.svg/revision/latest/scale-to-width-down/379?cb=20130520193937" group-title="US ENTERTAINMENT",Fusion HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/3666.ts
+#EXTINF:-1 tvg-id="us.Freeform HDTV (East)" tvg-name="FreeForm HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/3/3d/Screen_Shot_2016-01-23_at_10.06.54_AM.png/revision/latest/scale-to-width-down/185?cb=20160123154059" group-title="US ENTERTAINMENT",FreeForm HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1407.ts
+#EXTINF:-1 tvg-id="us.Food Network HDTV (East)" tvg-name="Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="US ENTERTAINMENT",Food Network HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1948.ts
+#EXTINF:-1 tvg-id="us.Food Network HDTV (East)" tvg-name="Food Network 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="US ENTERTAINMENT",Food Network 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11552.ts
+#EXTINF:-1 tvg-id="us.HGTV HD" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/HGTV.png" group-title="US ENTERTAINMENT",HGTV HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/5881.ts
+#EXTINF:-1 tvg-id="us.HGTV HD" tvg-name="HGTV 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/HGTV.png" group-title="US ENTERTAINMENT",HGTV 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11573.ts
+#EXTINF:-1 tvg-id="us.Investigation Discovery HDTV" tvg-name="ID HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/6/67/Investigation_discovery_us_hd.png/revision/latest/scale-to-width-down/179?cb=20130224001500" group-title="US ENTERTAINMENT",ID HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1414.ts
+#EXTINF:-1 tvg-id="us.Investigation Discovery HDTV" tvg-name="ID 720" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/6/67/Investigation_discovery_us_hd.png/revision/latest/scale-to-width-down/179?cb=20130224001500" group-title="US ENTERTAINMENT",ID 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11560.ts
+#EXTINF:-1 tvg-id="us.GSN (East)" tvg-name="GSN HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/f8/GSN_2015.svg/revision/latest/scale-to-width-down/480?cb=20170411021253" group-title="US ENTERTAINMENT",GSN HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/5877.ts
+#EXTINF:-1 tvg-id="us.History HDTV (East)" tvg-name="History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" group-title="US ENTERTAINMENT",History Channel HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1466.ts
+#EXTINF:-1 tvg-id="us.History HDTV (East)" tvg-name="History Channel 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" group-title="US ENTERTAINMENT",History Channel 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11671.ts
+#EXTINF:-1 tvg-id="us.Spike TV HDTV (East)" tvg-name="Spike HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Spike_logo_2015.svg/500px-Spike_logo_2015.svg.png" group-title="US ENTERTAINMENT",Spike HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1432.ts
+#EXTINF:-1 tvg-id="" tvg-name="Outside TV HD" tvg-logo="https://20916-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2017/03/Outside_TV_live_stream.jpg" group-title="US ENTERTAINMENT",Outside TV HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/18551.ts
+#EXTINF:-1 tvg-id="us.TBS Superstation HDTV (East)" tvg-name="TBS HD" tvg-logo="http://i962.photobucket.com/albums/ae103/southpawjosh/tbs_new_zps9divheum.png" group-title="US ENTERTAINMENT",TBS HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/2106.ts
+#EXTINF:-1 tvg-id="us.TBS Superstation HDTV (East)" tvg-name="TBS 720" tvg-logo="http://i962.photobucket.com/albums/ae103/southpawjosh/tbs_new_zps9divheum.png" group-title="US ENTERTAINMENT",TBS 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11537.ts
+#EXTINF:-1 tvg-id="us.Velocity HDTV" tvg-name="VELOCITY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png" group-title="US ENTERTAINMENT",VELOCITY HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1475.ts
+#EXTINF:-1 tvg-id="us.Velocity HDTV" tvg-name="VELOCITY 720" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png" group-title="US ENTERTAINMENT",VELOCITY 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11562.ts
+#EXTINF:-1 tvg-id="us.TNT HD" tvg-name="TNT HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/e3/TNT.svg/revision/latest/scale-to-width-down/200?cb=20151126160432" group-title="US ENTERTAINMENT",TNT HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/2068.ts
+#EXTINF:-1 tvg-id="us.TNT HD" tvg-name="TNT 720" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/e3/TNT.svg/revision/latest/scale-to-width-down/200?cb=20151126160432" group-title="US ENTERTAINMENT",TNT 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11534.ts
+#EXTINF:-1 tvg-id="us.USA Network HDTV (East)" tvg-name="USA Network HD" tvg-logo="https://cordcutting.com/images/plex-images/usa-network.jpg" group-title="US ENTERTAINMENT",USA Network HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/2067.ts
+#EXTINF:-1 tvg-id="us.USA Network HDTV (East)" tvg-name="USA Network" tvg-logo="https://cordcutting.com/images/plex-images/usa-network.jpg" group-title="US ENTERTAINMENT",USA Network
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/16719.ts
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA Network 720" tvg-logo="https://i.pinimg.com/564x/bf/29/91/bf299117de6c51d7a23655027469eba2--covert-affairs-usa-network.jpg" group-title="US ENTERTAINMENT",USA Network 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/18456.ts
+#EXTINF:-1 tvg-id="us.Women" tvg-name="WE HD" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/WEtvLOGO.png" group-title="US ENTERTAINMENT",WE HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/3654.ts
+#EXTINF:-1 tvg-id="us.truTV HDTV (East)" tvg-name="TruTV HD" tvg-logo="http://tvseriesfinale.com/wp-content/uploads/2015/11/truTV-logo.jpg" group-title="US ENTERTAINMENT",TruTV HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1856.ts
+#EXTINF:-1 tvg-id="us.truTV HDTV (East)" tvg-name="TruTV 720" tvg-logo="http://tvseriesfinale.com/wp-content/uploads/2015/11/truTV-logo.jpg" group-title="US ENTERTAINMENT",TruTV 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11540.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/150px-Universal_Channel_2013.png" group-title="US ENTERTAINMENT",Universal HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/5487.ts
+#EXTINF:-1 tvg-id="fightsports.us" tvg-name="World Fishing Network HD" tvg-logo="https://pbs.twimg.com/profile_images/529770856222699521/p9JE5xM6_400x400.jpeg" group-title="US ENTERTAINMENT",World Fishing Network HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/18549.ts
+#EXTINF:-1 tvg-id="mavtv.us" tvg-name="MAV TV HD" tvg-logo="https://pbs.twimg.com/profile_images/542414185452167173/t0uZ-96M.jpeg" group-title="US ENTERTAINMENT",MAV TV HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/18553.ts
+#EXTINF:-1 tvg-id="" tvg-name="Motorsport HD" tvg-logo="https://cleeng.com/media/users/614/377/178.png" group-title="US ENTERTAINMENT",Motorsport HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/18552.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viceland" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/c/c4/Viceland_stacked.png/revision/latest/scale-to-width-down/640?cb=20161101091228" group-title="US ENTERTAINMENT",Viceland
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/3734.ts
+#EXTINF:-1 tvg-id="us.Travel Channel HDTV (East)" tvg-name="Travel Channel HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/64/Travel_Channel_2014.svg/revision/latest/scale-to-width-down/200?cb=20161115234003" group-title="US ENTERTAINMENT",Travel Channel HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/3655.ts
+#EXTINF:-1 tvg-id="us.Travel Channel HDTV (East)" tvg-name="Travel Channel 720" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/64/Travel_Channel_2014.svg/revision/latest/scale-to-width-down/200?cb=20161115234003" group-title="US ENTERTAINMENT",Travel Channel 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11565.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/9/93/VH1_2013.svg/revision/latest/scale-to-width-down/200?cb=20130106192827" group-title="US ENTERTAINMENT",VH1 HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1476.ts
+#EXTINF:-1 tvg-id="us.TV Land HDTV (East)" tvg-name="TV Land HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/400px-TV_Land_2015_logo.svg.png" group-title="US ENTERTAINMENT",TV Land HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/1853.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cozi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/400px-Cozi_TV_logo.svg.png" group-title="US ENTERTAINMENT",Cozi
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/7372.ts
+#EXTINF:-1 tvg-id="us.Fuse HD" tvg-name="Fuse" tvg-logo="https://pbs.twimg.com/profile_images/873156701691691008/v1Vuqbrc.jpg" group-title="US ENTERTAINMENT",Fuse
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/15161.ts
+#EXTINF:-1 tvg-id="" tvg-name="AFN Movie" tvg-logo="" group-title="US ENTERTAINMENT",AFN Movie
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/18539.ts
+#EXTINF:-1 tvg-id="" tvg-name="AFN Prime Atlantic" tvg-logo="" group-title="US ENTERTAINMENT",AFN Prime Atlantic
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/18537.ts
+#EXTINF:-1 tvg-id="" tvg-name="AFN Prime Pacific" tvg-logo="" group-title="US ENTERTAINMENT",AFN Prime Pacific
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/18536.ts
+#EXTINF:-1 tvg-id="" tvg-name="AFN Spectrum" tvg-logo="" group-title="US ENTERTAINMENT",AFN Spectrum
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/18535.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Shopping Channel" tvg-logo="http://tprholdings.com/wp-content/uploads/2016/07/TSC.jpg" group-title="US ENTERTAINMENT",The Shopping Channel
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/18510.ts
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" tvg-logo="https://static1.squarespace.com/static/52dffc30e4b0cad3616875ff/t/546d45c8e4b066150a01e7a6/1416447434254/QVC-box.jpg?format=500w" group-title="US ENTERTAINMENT",QVC
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/18527.ts
