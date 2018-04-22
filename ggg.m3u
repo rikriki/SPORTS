@@ -1852,17 +1852,17 @@ http://vapi.vaders.tv/play/39395.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZW
 #EXTINF:-1, tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/Star-Vijay.png" group-title="Tamil",Star Vijay
 http://vapi.vaders.tv/play/39397.ts?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZWxpc3NhNDM3IiwicGFzc3dvcmQiOiJrYXJsb3M0MzcifQ==
 #EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c01.png" group-title="CHINA/TAIWAN",Formosa TV
-https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv002/stream0.m3u8?token=tb6eSIDidCTKu_FF-G8J1w&expires=1524327397
+https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv002/stream0.m3u8?token=ziwhm281QACqpgHpvY20UA&expires=1524405177
 #EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c02.png" group-title="CHINA/TAIWAN",FTV News
-https://mozai.4gtv.tv/m3u8/embed/litv-ftv13/stream0.m3u8?token=YrcsowrJ0Dud76Qbf_U3pw&expires=1524327512
+https://mozai.4gtv.tv/m3u8/embed/litv-ftv13/stream0.m3u8?token=9q5_CK6-ptVt4pZgJXBj2A&expires=1524405237
 #EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c03.png" group-title="CHINA/TAIWAN",FT TV
-https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv001/stream0.m3u8?token=AVvqUN306XoVnPSDPfp46A&expires=1524327585
+https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv001/stream0.m3u8?token=mPM6x5epT-vDccjwvG66NA&expires=1524405280
 #EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c04.png" group-title="CHINA/TAIWAN",FMTV
-https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv003/stream0.m3u8?token=bmRlF4r8Lrqzr1rZpZYkQA&expires=1524327663
+https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv003/stream0.m3u8?token=0lls2EO0dsYRxIDildyL5w&expires=1524405327
 #EXTINF:-1, tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv035_mobile.png" group-title="CHINA/TAIWAN",Bonus 1
-https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv035/stream0.m3u8?token=RevJFz-wib4GTEvOG4XBCw&expires=1524327685
+https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv035/stream0.m3u8?token=IxHQ_RkAZK90AxE34NHYjw&expires=1524405358
 #EXTINF:-1, tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-longturn09_mobile.png" group-title="CHINA/TAIWAN",Bonus 2
-https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv038/stream0.m3u8?token=3b60o36buNZhivJSAanjIw&expires=1524327749
+https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv038/stream0.m3u8?token=9VeAuFMleOw28b1I3TGV3Q&expires=1524405396
 #EXTINF:-1, group-title="CHINA/TAIWAN", CCTV-4
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225521/index.m3u8
 #EXTINF:-1, group-title="CHINA/TAIWAN", CCTV-7
@@ -1909,13 +1909,3 @@ http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226035/index.m3u8
 #EXTINF:-1, group-title="CHINA/TAIWAN", Knews24
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226041/index.m3u8
-#EXTINF:-1, group-title="FRAMPTON-DONAIRE", LINK 1
-http://nitrotv.for-the.biz:25461/live/chris/1234/1318.ts
-#EXTINF:-1, group-title="FRAMPTON-DONAIRE", LINK 2
-http://nitrotv.for-the.biz:25461/live/Zeke/1234/3399.ts
-#EXTINF:-1, group-title="FRAMPTON-DONAIRE", LINK 3
-http://nitrotv.for-the.biz:25461/live/chris/1234/2191.ts
-#EXTINF:-1, group-title="FRAMPTON-DONAIRE", LINK 4
-http://nitrotv.for-the.biz:25461/live/Zeke/1234/12355.ts
-
-
