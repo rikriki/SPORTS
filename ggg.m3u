@@ -1094,9 +1094,9 @@ http://vapi.vaders.tv/play/2790.m3u8?token=eyJ1c2VybmFtZSI6InNjdHZfMjZydWJiZXJkd
 #EXTINF:-1, tvg-logo="https://imgur.com/cVJbnQ0.png" group-title="United Kingdom", BT Sports ESPN
 http://vapi.vaders.tv/play/39831.m3u8?token=eyJ1c2VybmFtZSI6InNjdHZfMjZydWJiZXJkdWNrIiwicGFzc3dvcmQiOiJsZXdpczIifQ==
 #EXTINF:-1, tvg-logo="https://imgur.com/TcNtBc3.png" group-title="United Kingdom", Eurosport 1 HD
-http://vapi.vaders.tv/play/19293.m3u8?token=eyJ1c2VybmFtZSI6InNjdHZfMjZydWJiZXJkdWNrIiwicGFzc3dvcmQiOiJsZXdpczIifQ==
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1812.ts
 #EXTINF:-1, tvg-logo="https://imgur.com/up2vaXf.png" group-title="United Kingdom", Eurosport 2 HD
-http://vapi.vaders.tv/play/19294.m3u8?token=eyJ1c2VybmFtZSI6InNjdHZfMjZydWJiZXJkdWNrIiwicGFzc3dvcmQiOiJsZXdpczIifQ==
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1811.ts
 #EXTINF:-1, tvg-logo="https://s9.postimg.org/k5s2cvnxb/Chelsea_TV.png" group-title="United Kingdom", Chelsea TV HD
 http://vapi.vaders.tv/play/40881.m3u8?token=eyJ1c2VybmFtZSI6InNjdHZfMjZydWJiZXJkdWNrIiwicGFzc3dvcmQiOiJsZXdpczIifQ==
 #EXTINF:-1, tvg-logo="http://i68.tinypic.com/xafyh.png" group-title="United Kingdom", MUTV HD
@@ -1520,7 +1520,7 @@ http://vapi.vaders.tv/play/2776.m3u8?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwY
 #EXTINF:-1 tvg-ID="I196.11180.schedulesdirect.org" tvg-name="Travel Channel HD" tvg-logo="https://imgur.com/O4qdtCb.png" group-title="United States",Travel Channel HD
 http://vapi.vaders.tv/play/39874.m3u8?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ=
 #EXTINF:-1 tvg-ID="OutdoorChannel.us" tvg-name="Outdoor Channel HD" tvg-logo="https://s9.postimg.org/4evwyi4q7/Outdoor_Channel.png" group-title="United States",Outdoor Channel HD
-http://vapi.vaders.tv/play/40878.m3u8?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ=
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/493.ts
 #EXTINF:-1 tvg-ID="Oxygen.us" tvg-name="Oxygen HD" tvg-logo="https://s23.postimg.org/aptmox74b/Oxygen.png" group-title="United States",Oxygen HD
 http://vapi.vaders.tv/play/40685.m3u8?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ=
 #EXTINF:-1 tvg-ID="Syfy.us" tvg-name="SYFY HD" tvg-logo="http://i67.tinypic.com/vcxf0m.png" group-title="United States",SYFY HD
