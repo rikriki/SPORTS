@@ -1691,6 +1691,8 @@ http://61.58.60.247:9000/live/180.m3u8
 http://218.60.94.32:1935/live/cs16.stream/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Fox_Action_Movies_logo_%282012%29.png" group-title="ASIAN TV",Fox Action Movies
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/8647.ts
+#EXTINF:-1,tvg-logo="https://topnews.in/files/Discovery-Networks-01252.jpg" group-title="ASIAN TV",Discovery Asia
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/8631.ts
 #EXTINF:-1 tvg-name="&Pictures HD" tvg-id="&picturesHD.in" tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg" group-title="India",&Pictures HD
 http://vapi.vaders.tv/play/12306.m3u8?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZWxpc3NhNDM3IiwicGFzc3dvcmQiOiJrYXJsb3M0MzcifQ==
 #EXTINF:-1 tvg-name="Aajtak" tvg-id="AajTak.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Aaj_Tak_logo.png" group-title="India",Aajtak
