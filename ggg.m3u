@@ -1703,6 +1703,16 @@ http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/8648.ts
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/8646.ts
 #EXTINF:-1,tvg-logo="https://normannorman.files.wordpress.com/2013/09/wpid-fox_asia.png" group-title="ASIAN TV",FOX
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/5454.ts
+#EXTINF:-1,tvg-logo="http://www.m3sat.com/en/file/news/113/thumb_Paramount.jpg" group-title="ASIAN TV",Paramount
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/8642.ts
+#EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/839_300.png" group-title="ASIAN TV",Setanta Asia
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/8601.ts
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/958120252403060736/jHwWjv4O_400x400.jpg" group-title="ASIAN TV",Sony Channel
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/8623.ts
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="ASIAN TV",Fox Life
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/8641.ts
+#EXTINF:-1,tvg-logo="http://i63.tinypic.com/qs8fwo.png" group-title="ASIAN TV",TLC Asia
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/8599.ts
 #EXTINF:-1 tvg-name="&Pictures HD" tvg-id="&picturesHD.in" tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg" group-title="India",&Pictures HD
 http://vapi.vaders.tv/play/12306.m3u8?token=eyJ1c2VybmFtZSI6ImNsZWFyc3RyZWFtc19tZWxpc3NhNDM3IiwicGFzc3dvcmQiOiJrYXJsb3M0MzcifQ==
 #EXTINF:-1 tvg-name="Aajtak" tvg-id="AajTak.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Aaj_Tak_logo.png" group-title="India",Aajtak
