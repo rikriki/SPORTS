@@ -1169,10 +1169,10 @@ http://vapi.vaders.tv/play/39830.m3u8?token=eyJ1c2VybmFtZSI6InNjdHZfZGpmaW5jaHki
 http://vapi.vaders.tv/play/2790.m3u8?token=eyJ1c2VybmFtZSI6InNjdHZfZGpmaW5jaHkiLCJwYXNzd29yZCI6InN3MXJlbGU1NXMifQ==
 #EXTINF:-1 tvg-name="BT Sports ESPN" tvg-id="I426.46594.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bt%20sport%20espn.png" group-title="Sports",BT Sports ESPN
 http://vapi.vaders.tv/play/39831.m3u8?token=eyJ1c2VybmFtZSI6InNjdHZfZGpmaW5jaHkiLCJwYXNzd29yZCI6InN3MXJlbGU1NXMifQ==
-#EXTINF:-1 tvg-name="Eurosport 1 HD" tvg-id="I410.60821.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/eurosport%201%20hd.png" group-title="Sports",Eurosport 1 HD
-http://vapi.vaders.tv/play/19293.m3u8?token=eyJ1c2VybmFtZSI6InNjdHZfZGpmaW5jaHkiLCJwYXNzd29yZCI6InN3MXJlbGU1NXMifQ==
-#EXTINF:-1 tvg-name="Eurosport 2 HD" tvg-id="I411.79652.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/eurosport%202%20hd.png" group-title="Sports",Eurosport 2 HD
-http://vapi.vaders.tv/play/19294.m3u8?token=eyJ1c2VybmFtZSI6InNjdHZfZGpmaW5jaHkiLCJwYXNzd29yZCI6InN3MXJlbGU1NXMifQ==
+#EXTINF:-1, tvg-logo="https://imgur.com/TcNtBc3.png" group-title="United Kingdom", Eurosport 1 HD
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1812.ts
+#EXTINF:-1, tvg-logo="https://imgur.com/up2vaXf.png" group-title="United Kingdom", Eurosport 2 HD
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1811.ts
 #EXTINF:-1 tvg-name="Chelsea TV HD" tvg-id="I421.101633.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/chelsea%20tv%20hd.png" group-title="Sports",Chelsea TV HD
 http://vapi.vaders.tv/play/40881.m3u8?token=eyJ1c2VybmFtZSI6InNjdHZfZGpmaW5jaHkiLCJwYXNzd29yZCI6InN3MXJlbGU1NXMifQ==
 #EXTINF:-1 tvg-name="MUTV HD" tvg-id="I418.91178.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/mutv%20hd.png" group-title="Sports",MUTV HD
