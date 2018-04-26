@@ -1,96 +1,344 @@
-#EXTINF:-1,Animal Planet
-http://14.161.132.130:4022/rtp/232.84.1.48:8268
-#EXTINF:-1,arirang
-http://14.161.132.130:4022/rtp/232.84.1.43:8238
-#EXTINF:-1,Asian Food Channel
-http://14.161.132.130:4022/rtp/232.84.1.115:10236
-#EXTINF:-1,Asian Food Channel HD
-http://14.161.132.130:4022/rtp/232.84.2.129:9570
-#EXTINF:-1,AXN
-http://14.161.132.130:4022/rtp/232.84.1.14:8058
-#EXTINF:-1,Bloomberg
-http://14.161.132.130:4022/rtp/232.84.1.7:8016
-#EXTINF:-1,CARTOON NETWORK
-http://14.161.132.130:4022/rtp/232.84.1.16:8070
-#EXTINF:-1,CINEMAX
-http://14.161.132.130:4022/rtp/232.84.1.20:8094
-#EXTINF:-1,CNN
-http://14.161.132.130:4022/rtp/232.84.2.126:8076
-#EXTINF:-1,Channel V
-http://14.161.132.130:4022/rtp/232.84.1.13:8052
-#EXTINF:-1,Channel V HD
-http://14.161.132.130:4022/rtp/232.84.2.132:9588
-#EXTINF:-1,Da Vinci Learning
-http://14.161.132.130:4022/rtp/232.84.1.108:10224
-#EXTINF:-1,Da Vinci Learning HD
-http://14.161.132.130:4022/rtp/232.84.2.131:9582
-#EXTINF:-1,DISCOVERY
-http://14.161.132.130:4022/rtp/232.84.1.47:8262
-#EXTINF:-1,DISNEY
-http://14.161.132.130:4022/rtp/232.84.1.18:8082
-#EXTINF:-1,Disney Junior
-http://14.161.132.130:4022/rtp/232.84.1.90:10398
-#EXTINF:-1,Diva Universal
-http://14.161.132.130:4022/rtp/232.84.1.109:10230
-#EXTINF:-1,Diva Universal HD
-http://14.161.132.130:4022/rtp/232.84.2.130:9576
-#EXTINF:-1,DW-TV
-http://14.161.132.130:4022/rtp/232.84.1.6:8010
-#EXTINF:-1,DW-TV HD
-http://14.161.132.130:4022/rtp/232.84.2.233:10416
-#EXTINF:-1,FASHION
-http://14.161.132.130:4022/rtp/232.84.1.2:7986
-#EXTINF:-1,FOX
-http://14.161.132.130:4022/rtp/232.84.1.66:8370
-#EXTINF:-1,FOX HD
-http://14.161.132.130:4022/rtp/232.84.2.120:8448
-#EXTINF:-1,FOX SPORTS
-http://14.161.132.130:4022/rtp/232.84.1.11:8040
-#EXTINF:-1,FOX SPORTS 2
-http://14.161.132.130:4022/rtp/232.84.1.12:8046
-#EXTINF:-1,France 24
-http://14.161.132.130:4022/rtp/232.84.2.135:9606
-#EXTINF:-1,GEM
-http://14.161.132.130:4022/rtp/232.84.1.84:10392
-#EXTINF:-1,HBO
-http://14.161.132.130:4022/rtp/232.84.1.19:8088
-#EXTINF:-1,KBS World
-http://14.161.132.130:4022/rtp/232.84.2.136:9612
-#EXTINF:-1,MEDIACORP
-http://14.161.132.130:4022/rtp/232.84.1.5:8004
-#EXTINF:-1,Nat Geo People
-http://14.161.132.130:4022/rtp/232.84.2.121:8376
-#EXTINF:-1,Nat Geo People HD
-http://14.161.132.130:4022/rtp/232.84.1.76:8430
-#EXTINF:-1,Nat Geo Wild HD
-http://14.161.132.130:4022/rtp/232.84.2.123:8454
-#EXTINF:-1,National Geographic
-http://14.161.132.130:4022/rtp/232.84.2.122:8364
-#EXTINF:-1,National Geographic HD
-http://14.161.132.130:4022/rtp/232.84.1.1:7980
-#EXTINF:-1,NHK WORLD
-http://14.161.132.130:4022/rtp/232.84.1.8:8022
-#EXTINF:-1,NHK WORLD HD
-http://14.161.132.130:4022/rtp/232.84.1.72:8406
-#EXTINF:-1,OPT 1-Tiếng Nga
-http://14.161.132.130:4022/rtp/232.84.1.63:8352
-#EXTINF:-1,Outdoor Channel HD
-http://14.161.132.130:4022/rtp/232.84.1.107:10218
-#EXTINF:-1,Red By HBO
-http://14.161.132.130:4022/rtp/232.84.1.44:8244
-#EXTINF:-1,Red By HBO HD
-http://14.161.132.130:4022/rtp/232.84.1.9:8028
-#EXTINF:-1,STAR MOVIES
-http://14.161.132.130:4022/rtp/232.84.1.10:8034
-#EXTINF:-1,Star Movies HD
-http://14.161.132.130:4022/rtp/232.84.1.77:8436
-#EXTINF:-1,Star World
-http://14.161.132.130:4022/rtp/232.84.2.119:8382
-#EXTINF:-1,Star World HD
-http://14.161.132.130:4022/rtp/232.84.1.78:8442
-#EXTINF:-1,TOONAMI
-http://14.161.132.130:4022/rtp/232.84.1.91:10404
-#EXTINF:-1,TV5MONDE
-http://14.161.132.130:4022/rtp/232.84.1.45:8250
-#EXTINF:-1,Travel & Living
-http://14.161.132.130:4022/rtp/232.84.1.49:8274
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",AE HD 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3390.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Arte 1 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3367.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Azteca 13 HD 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3395.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Can 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3393.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Canal DO TV 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3373.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",ConexaoTV 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3392.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",DW Latin 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3391.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Discovery TV 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3396.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Fish TV 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3379.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Fox Sports HD 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/10615.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Gloob 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3365.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",History HD 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3375.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",MTV 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3362.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Mais Globosat HD 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3368.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",MegaPix 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3363.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",MegaPix TV 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3384.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Proyecto 40 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3388.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",RCTV 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3389.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Rede asil 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3372.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Rede Gospel 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3371.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Rede TV 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3369.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",SporTV 1 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3382.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",SporTV 2 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3381.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",SporTV 3 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3380.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Syfy 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3359.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TC Action 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3374.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TC Cult 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3361.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TC Fun 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3364.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TC Pipoka HD 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3366.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TNT HD 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3360.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TV Aparceida 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3394.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TV asil Central 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3398.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TV Diario 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3387.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TV Escola 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3386.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TV Gazeta HD 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3378.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TV Gearl 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3376.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TV Mana France 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3385.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TVI 24 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3370.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TVI 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3377.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",VH1 Mega Hits 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3397.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Warner TV 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3358.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",24 Kitchen FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2781.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",24 Kitchen HD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6237.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",A Bola TV PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2780.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",AMC FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2776.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",AMC PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2777.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",ARTV PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/5619.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",AXN Black FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2772.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",AXN FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2771.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",AXN White FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2770.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Afro Music PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2778.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",BBC Entertainment PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2775.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",BBC World News PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2773.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",BTV 1 FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2766.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",BTV 1 HD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2767.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",BTV 1 PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/13247.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Baby First PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2769.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Baby TV PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2768.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Blaze PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2779.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",C-Music TV PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/5611.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",CBS Reality PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2760.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",CMTV PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2758.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Canal Panda PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2762.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Canal Q PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/5618.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Canção Nova PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/5620.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Cartoon Network PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2761.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Caça Vision PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2764.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Caça e Pesca PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2765.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",CineMundo PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2759.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Discovery Channel PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2757.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Discovery Showcase HD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2756.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Disney Channel PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3841.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Disney Junior PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2755.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",E! PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2754.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Eurosport 1 HD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2752.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Eurosport 1 PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2753.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Eurosport 2 PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2751.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Eurosport News PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2750.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",FOX Comedy HD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2740.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",FOX Comedy PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2745.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",FOX Crime HD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2739.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",FOX FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2743.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",FOX Life FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2741.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",FOX Movies HD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2742.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",FOX Movies PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2746.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Fashion TV PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2748.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Fight Network FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2749.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Fuel TV FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2747.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Fuel TV PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2738.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",História PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2735.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Hollywood FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2734.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Hollywood PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2733.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",JimJam PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2732.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Kombat Sport PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2731.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",LocalVisão TV HD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2744.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",MCM POP PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2730.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",MCM TOP PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2729.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",MCS LifeStyle PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2721.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",MTV PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2724.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Mezzo PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/5610.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Motorsport.TV HD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2725.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Motorvision TV PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2727.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Nat Geo Wild FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2722.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Nat Geo Wild PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2723.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",National Geographic FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2720.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Nickelodeon PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2719.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Odisseia PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2718.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",PFC PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2717.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Panda Biggs PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2763.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Porto Canal PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2716.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",RTP 1 FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2714.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",RTP 1 HD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2710.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",RTP 2 HD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2713.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",RTP 2 PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2709.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",RTP 3 PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2708.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",RTP Açores PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2712.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",RTP Internacional PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/5622.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",RTP Madeira PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2707.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",RTP Memória PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2706.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",RTP África PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2711.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Real Madrid TV PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2715.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SIC Caras HD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2697.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SIC Caras PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2705.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SIC FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2696.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SIC Kids PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2704.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SIC Mulher PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2702.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SIC Notícias HD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2698.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SIC Notícias PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2701.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SIC PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2703.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SIC Radical HD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2699.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SIC Radical PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2700.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SportTV 1 FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3618.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SportTV 1 HD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7425.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SportTV 1 PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2678.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SportTV 1 SD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7426.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SportTV 2 FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3617.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SportTV 2 PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2677.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SportTV 3 FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3616.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SportTV 3 PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2676.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SportTV 4 FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3615.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SportTV 4 PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2675.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SportTV 5 FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3614.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SportTV 5 PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2674.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SportTV+ FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/13248.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",SportTV+ PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3613.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Sporting TV HD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2695.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Sporting TV PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2694.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Syfy FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2693.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Syfy PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2692.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TLC PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2691.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TV Fatima PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/5617.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TV Globo PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2737.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TV Globo Premium FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2736.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TV Record PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2680.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TV Séries FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3843.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TVCine 1 FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2685.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TVCine 1 PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2684.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TVCine 2 FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2686.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TVCine 2 PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2683.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TVCine 3 FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2687.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TVCine 3 PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2682.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TVCine 4 FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2688.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TVCine 4 PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2681.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TVI 24 PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3844.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TVI FHD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3840.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TVI Ficção PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3846.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TVI PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3845.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",TVI Reality PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3842.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Toros TV PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2690.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Trace Urban PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/5612.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",Travel Channel HD PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2689.ts
+#EXTINF:-1, tvg-logo="https://cdn.shopify.com/s/files/1/1274/3829/products/Portugal-Flag.jpg" group-title="PT",VH1 PT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/5613.ts
