@@ -1279,7 +1279,7 @@ http://nitrotv.for-the.biz:25461/live/Zeke/1234/1246.ts
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1250.ts
 #EXTINF:-1 tvg-id="" tvg-name="CNN HD" tvg-logo="https://cdn1.iconfinder.com/data/icons/metro-ui-dock-icon-set--icons-by-dakirby/512/CNN.png" group-title="CANADA",CNN HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17430.ts
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY HD" tvg-logo="https://pbs.twimg.com/profile_images/849098983159066624/_prAxJ_F_400x400.jpg" group-title="CANADA",COMEDY HD
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY HD" tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/comedygold.png" group-title="CANADA",COMEDY HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17431.ts
 #EXTINF:-1 tvg-id="" tvg-name="CITY HD" tvg-logo="http://www.959chfm.com/wp-content/uploads/sites/12/2017/05/CHITTY.jpg" group-title="CANADA",CITY HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1249.ts
@@ -1287,7 +1287,7 @@ http://nitrotv.for-the.biz:25461/live/Zeke/1234/1249.ts
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17432.ts
 #EXTINF:-1 tvg-id="" tvg-name="CBS HD" tvg-logo="https://media.clickorlando.com/photo/2015/11/03/CBS-HD-Logo_198794_ver1.0_1280_720.jpg" group-title="CANADA",CBS HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1248.ts
-#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="https://pbs.twimg.com/profile_images/925712442579177472/cDCM9ges_400x400.jpg" group-title="CANADA",BET
+#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="http://putchannel.com/wp-content/uploads/2017/06/bet_logo_a_l.jpg" group-title="CANADA",BET
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/2424.ts
 #EXTINF:-1 tvg-id="" tvg-name="CTV ATLANTIC" tvg-logo="https://pbs.twimg.com/profile_images/443036081118658560/j9spWnRr_400x400.png" group-title="CANADA",CTV ATLANTIC
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17445.ts
@@ -1319,7 +1319,7 @@ http://nitrotv.for-the.biz:25461/live/Zeke/1234/2103.ts
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1262.ts
 #EXTINF:-1 tvg-id="" tvg-name="DIY NETWORK HD" tvg-logo="http://www.alticemediasolutions.com/sites/default/files/styles/homepage_news___features/public/diy-network.jpg?itok=O8eF82gA" group-title="CANADA",DIY NETWORK HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17436.ts
-#EXTINF:-1 tvg-id="ca.FXX HDTV Canada" tvg-name="FXX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/FX_Canada.png" group-title="CANADA",FXX HD
+#EXTINF:-1 tvg-id="ca.FXX HDTV Canada" tvg-name="FXX HD" tvg-logo="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fx-hd.png" group-title="CANADA",FXX HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1463.ts
 #EXTINF:-1 tvg-id="ca.FX HDTV (Canada)" tvg-name="FX HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d4/Fox96.svg/revision/latest/scale-to-width-down/200?cb=20170227135327" group-title="CANADA",FX HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1462.ts
@@ -1337,25 +1337,25 @@ http://nitrotv.for-the.biz:25461/live/Zeke/1234/17442.ts
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1471.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPACE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Space_logo_2013.svg/240px-Space_logo_2013.svg.png" group-title="CANADA",SPACE HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17422.ts
-#EXTINF:-1 tvg-id="" tvg-name="OLN HD" tvg-logo="" group-title="CANADA",OLN HD
+#EXTINF:-1 tvg-id="" tvg-name="OLN HD" tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/oln-300x300_jan15.png" group-title="CANADA",OLN HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17426.ts
-#EXTINF:-1 tvg-id="" tvg-name="PBS Vermont HD" tvg-logo="" group-title="CANADA",PBS Vermont HD
+#EXTINF:-1 tvg-id="" tvg-name="PBS Vermont HD" tvg-logo="https://imgur.com/OOUKgme.png" group-title="CANADA",PBS Vermont HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17425.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/WPTZ_5_logo.png" group-title="CANADA",NBC HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1265.ts
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/HGTV.png" group-title="CANADA",HGTV HD
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://s15.postimg.org/o3ximf75n/HGTV.pn" group-title="CANADA",HGTV HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17446.ts
 #EXTINF:-1 tvg-id="ca.The Learning Channel Canada" tvg-name="TLC HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b8/TLCK_Channel_Logo.png/revision/latest/scale-to-width-down/200?cb=20151210143955" group-title="CANADA",TLC HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1473.ts
 #EXTINF:-1 tvg-id="" tvg-name="Slice HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/6/60/Slice_2007.png/revision/latest/scale-to-width-down/150?cb=20110611232919" group-title="CANADA",Slice HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1268.ts
-#EXTINF:-1 tvg-id="" tvg-name="SHOWCASE HD" tvg-logo="" group-title="CANADA",SHOWCASE HD
+#EXTINF:-1 tvg-id="" tvg-name="SHOWCASE HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/191.png" group-title="CANADA",SHOWCASE HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17421.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="" group-title="CANADA",DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112015/disney_channel_0.png" group-title="CANADA",DISNEY CHANNEL HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17433.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD" tvg-logo="http://cdn.kidscreen.com/wp/wp-content/uploads/2013/04/DJ.jpg?ebbec3" group-title="CANADA",DISNEY JR HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17434.ts
 #EXTINF:-1 tvg-id="ca.Disney XD Canada (East)" tvg-name="Disney XD HD" tvg-logo="https://static1.squarespace.com/static/5920505f9f7456b860641b58/593cf29a1e5b6ca18cb0b7f0/593fb846d482e9b762ba99ce/1497348195066/disney-xd-logo.png?format=500w" group-title="KIDS",Disney XD HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1254.ts
-#EXTINF:-1 tvg-id="" tvg-name="PEACH TREE HD" tvg-logo="" group-title="CANADA",PEACH TREE HD
+#EXTINF:-1 tvg-id="" tvg-name="PEACH TREE HD" tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/PeachtreeTVHD.png" group-title="CANADA",PEACH TREE HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17424.ts
