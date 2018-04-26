@@ -1321,7 +1321,7 @@ http://nitrotv.for-the.biz:25461/live/Zeke/1234/1262.ts
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17436.ts
 #EXTINF:-1 tvg-id="ca.FXX HDTV Canada" tvg-name="FXX HD" tvg-logo="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fx-hd.png" group-title="CANADA",FXX HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1463.ts
-#EXTINF:-1 tvg-id="ca.FX HDTV (Canada)" tvg-name="FX HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d4/Fox96.svg/revision/latest/scale-to-width-down/200?cb=20170227135327" group-title="CANADA",FX HD
+#EXTINF:-1 tvg-id="ca.FX HDTV (Canada)" tvg-name="FX HD" tvg-logo="http://mhc.banhtml.com/wp-content/uploads/2015/09/s14321_h3_ba.png" group-title="CANADA",FX HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1462.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="https://www.savourychef.com/wp-content/uploads/2012/11/food-network-canada.jpg" group-title="CANADA",FOOD NETWORK HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17438.ts
@@ -1343,7 +1343,7 @@ http://nitrotv.for-the.biz:25461/live/Zeke/1234/17426.ts
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17425.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/WPTZ_5_logo.png" group-title="CANADA",NBC HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1265.ts
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://s15.postimg.org/o3ximf75n/HGTV.pn" group-title="CANADA",HGTV HD
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://s15.postimg.org/o3ximf75n/HGTV.png" group-title="CANADA",HGTV HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17446.ts
 #EXTINF:-1 tvg-id="ca.The Learning Channel Canada" tvg-name="TLC HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b8/TLCK_Channel_Logo.png/revision/latest/scale-to-width-down/200?cb=20151210143955" group-title="CANADA",TLC HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1473.ts
