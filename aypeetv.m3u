@@ -1327,7 +1327,7 @@ http://nitrotv.for-the.biz:25461/live/Zeke/1234/1462.ts
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17438.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://www.fetchlogos.com/wp-content/uploads/2015/10/HBO-2-Logo.jpg" group-title="CANADA",HBO 2 HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1260.ts
-#EXTINF:-1 tvg-id="ca.HBO Canada HDTV (East)" tvg-name="HBO HD" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/8c/c3/41/8cc341ea1660cb59c0b4ffde59d34e50.jpg" group-title="CANADA",HBO HD
+#EXTINF:-1 tvg-id="ca.HBO Canada HDTV (East)" tvg-name="HBO HD" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/8c/c3/41/8cc341ea1660cb59c0b4ffde59d34e50.jpg" group-title="CANADA",HBO 1 HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1261.ts
 #EXTINF:-1 tvg-id="" tvg-name="CTV HD" tvg-logo="https://static.ctv.ca/get-bm-media/635978803631770556/5763dfaf-f3a4-4e15-9426-496994caf642/0/0" group-title="CANADA",CTV HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1252.ts
