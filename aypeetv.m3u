@@ -1355,7 +1355,7 @@ http://nitrotv.for-the.biz:25461/live/Zeke/1234/17421.ts
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17433.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD" tvg-logo="http://cdn.kidscreen.com/wp/wp-content/uploads/2013/04/DJ.jpg?ebbec3" group-title="CANADA",DISNEY JR HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17434.ts
-#EXTINF:-1 tvg-id="ca.Disney XD Canada (East)" tvg-name="Disney XD HD" tvg-logo="https://static1.squarespace.com/static/5920505f9f7456b860641b58/593cf29a1e5b6ca18cb0b7f0/593fb846d482e9b762ba99ce/1497348195066/disney-xd-logo.png?format=500w" group-title="KIDS",Disney XD HD
+#EXTINF:-1 tvg-id="ca.Disney XD Canada (East)" tvg-name="Disney XD HD" tvg-logo="https://static1.squarespace.com/static/5920505f9f7456b860641b58/593cf29a1e5b6ca18cb0b7f0/593fb846d482e9b762ba99ce/1497348195066/disney-xd-logo.png?format=500w" group-title="CANADA",Disney XD HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1254.ts
 #EXTINF:-1 tvg-id="" tvg-name="PEACH TREE HD" tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/PeachtreeTVHD.png" group-title="CANADA",PEACH TREE HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17424.ts
