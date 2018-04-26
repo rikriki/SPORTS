@@ -1343,7 +1343,7 @@ http://nitrotv.for-the.biz:25461/live/Zeke/1234/17426.ts
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17425.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/WPTZ_5_logo.png" group-title="CANADA",NBC HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1265.ts
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://s15.postimg.org/o3ximf75n/HGTV.png" group-title="CANADA",HGTV HD
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/04/hgtv-home-logo-design.png" group-title="CANADA",HGTV HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/17446.ts
 #EXTINF:-1 tvg-id="ca.The Learning Channel Canada" tvg-name="TLC HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b8/TLCK_Channel_Logo.png/revision/latest/scale-to-width-down/200?cb=20151210143955" group-title="CANADA",TLC HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1473.ts
