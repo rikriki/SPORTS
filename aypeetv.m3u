@@ -895,7 +895,7 @@ http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1798.ts
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1803.ts
 #EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",tru TV UK
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1956.ts
-#EXTINF:-1, tvg-logo="https://img-aws.ehowcdn.com/750x428p/cache.gettyimages.com/xc/90283403.jpg" group-title="USA",A&E HD US
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" group-title="USA",A&E HD US
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/550.ts
 #EXTINF:-1, tvg-logo="https://img-aws.ehowcdn.com/750x428p/cache.gettyimages.com/xc/90283403.jpg" group-title="USA",A&E TV HD US
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7771.ts
