@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",SBT NORDESTE FHD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/19125.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Globo SP alt
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/19280.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Globo Premium alt
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/19283.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Globo Nordeste FHD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/19142.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TV Globo alt
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/19285.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TV Globo Premium
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/19282.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TV Globo Premium alt
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/19286.ts
 #EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",AE HD 
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3390.ts
 #EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Arte 1 
