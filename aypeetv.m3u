@@ -1207,6 +1207,10 @@ http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7779.ts
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/578.ts
 #EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",TNT HD US
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/549.ts
+#EXTINF:-1 tvg-id="us.TNT HD" tvg-name="US: TNT HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/e3/TNT.svg/revision/latest/scale-to-width-down/200?cb=20151126160432" group-title="ENTERTAINMENT",US: TNT HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/2068.ts
+#EXTINF:-1 tvg-id="us.TNT HD" tvg-name="US: TNT 720" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/e3/TNT.svg/revision/latest/scale-to-width-down/200?cb=20151126160432" group-title="ENTERTAINMENT",US: TNT 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11534.ts
 #EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Travel Channel HD US
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7694.ts
 #EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",UFC Fight Pass US
