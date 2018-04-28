@@ -1061,6 +1061,10 @@ http://vapi.vaders.tv/play/39824.ts?token=eyJ1c2VybmFtZSI6InNjdHZfMjZydWJiZXJkdW
 http://vapi.vaders.tv/play/2483.ts?token=eyJ1c2VybmFtZSI6InNjdHZfMjZydWJiZXJkdWNrIiwicGFzc3dvcmQiOiJsZXdpczIifQ==
 #EXTINF:-1, tvg-logo="https://imgur.com/K7NCCx4.png" group-title="United Kingdom", Sky Sports F1
 http://vapi.vaders.tv/play/39825.ts?token=eyJ1c2VybmFtZSI6InNjdHZfMjZydWJiZXJkdWNrIiwicGFzc3dvcmQiOiJsZXdpczIifQ==
+#EXTINF:-1, tvg-logo="https://imgur.com/ccXIxFw.png" group-title="United Kingdom", Sky Sports F1 HD UK Alt
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/371.ts
+#EXTINF:-1, tvg-logo="https://imgur.com/ccXIxFw.png" group-title="United Kingdom", Sky Sports F1 UK Alt
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/337.ts
 #EXTINF:-1, tvg-logo="https://imgur.com/HcXRJ70.png" group-title="United Kingdom", Sky Sports Arena HD
 http://vapi.vaders.tv/play/42361.ts?token=eyJ1c2VybmFtZSI6InNjdHZfMjZydWJiZXJkdWNrIiwicGFzc3dvcmQiOiJsZXdpczIifQ==
 #EXTINF:-1, tvg-logo="https://imgur.com/COPWBwj.png" group-title="United Kingdom", Sky Sports Arena
@@ -1137,6 +1141,10 @@ http://vapi.vaders.tv/play/39824.ts?token=eyJ1c2VybmFtZSI6InNjdHZfZGpmaW5jaHkiLC
 http://vapi.vaders.tv/play/2483.ts?token=eyJ1c2VybmFtZSI6InNjdHZfZGpmaW5jaHkiLCJwYXNzd29yZCI6InN3MXJlbGU1NXMifQ==
 #EXTINF:-1 tvg-name="Sky Sports F1" tvg-id="I472.87578.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20f1%20new.png" group-title="Sports",Sky Sports F1
 http://vapi.vaders.tv/play/39825.ts?token=eyJ1c2VybmFtZSI6InNjdHZfZGpmaW5jaHkiLCJwYXNzd29yZCI6InN3MXJlbGU1NXMifQ==
+#EXTINF:-1, tvg-logo="https://imgur.com/ccXIxFw.png" group-title="Sports", Sky Sports F1 HD UK Alt
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/371.ts
+#EXTINF:-1, tvg-logo="https://imgur.com/ccXIxFw.png" group-title="Sports", Sky Sports F1 UK Alt
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/337.ts
 #EXTINF:-1 tvg-name="Sky Sports Arena HD" tvg-id="I474.104322.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20arena%20hd.png" group-title="Sports",Sky Sports Arena HD
 http://vapi.vaders.tv/play/42361.ts?token=eyJ1c2VybmFtZSI6InNjdHZfZGpmaW5jaHkiLCJwYXNzd29yZCI6InN3MXJlbGU1NXMifQ==
 #EXTINF:-1 tvg-name="Sky Sports Arena" tvg-id="I474.104322.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20arena.png" group-title="Sports",Sky Sports Arena
