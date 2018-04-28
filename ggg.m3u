@@ -1265,6 +1265,8 @@ http://vapi.vaders.tv/play/52208.ts?token=eyJ1c2VybmFtZSI6InNjdHZfZGpmaW5jaHkiLC
 http://vapi.vaders.tv/play/52209.ts?token=eyJ1c2VybmFtZSI6InNjdHZfZGpmaW5jaHkiLCJwYXNzd29yZCI6InN3MXJlbGU1NXMifQ==
 #EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2565.ts?token=eyJ1c2VybmFtZSI6InNjdHZfZGpmaW5jaHkiLCJwYXNzd29yZCI6InN3MXJlbGU1NXMifQ==&duration=3600" catchup-days=7 tvg-name="ESPN HD" tvg-id="I206.32645.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/espn%20hd.png" group-title="Sports",ESPN HD
 http://vapi.vaders.tv/play/2565.ts?token=eyJ1c2VybmFtZSI6InNjdHZfZGpmaW5jaHkiLCJwYXNzd29yZCI6InN3MXJlbGU1NXMifQ==
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2565.ts?token=eyJ1c2VybmFtZSI6InNjdHZfZGpmaW5jaHkiLCJwYXNzd29yZCI6InN3MXJlbGU1NXMifQ==&duration=3600" catchup-days=7 tvg-name="ESPN HD" tvg-id="I206.32645.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/espn%20hd.png" group-title="Sports",ESPN Alt
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/552.ts
 #EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2566.ts?token=eyJ1c2VybmFtZSI6InNjdHZfZGpmaW5jaHkiLCJwYXNzd29yZCI6InN3MXJlbGU1NXMifQ==&duration=3600" catchup-days=7 tvg-name="ESPN 2 HD" tvg-id="I209.45507.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/espn%202%20hd.png" group-title="Sports",ESPN 2 HD
 http://vapi.vaders.tv/play/2566.ts?token=eyJ1c2VybmFtZSI6InNjdHZfZGpmaW5jaHkiLCJwYXNzd29yZCI6InN3MXJlbGU1NXMifQ==
 #EXTINF:-1 tvg-name="ESPN U HD" tvg-id="I208.60696.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/espn%20u%20hd.png" group-title="Sports",ESPN U HD
