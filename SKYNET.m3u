@@ -1,315 +1,1411 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://lh4.googleusercontent.com/-2TIg7V8TpKo/TYD9Z5jg97I/AAAAAAAAACc/3DQcc_fXs9E/s1600/TV5+Logo.jpg" group-title="PINOY TV", TV 5 KAPATID
-http://stream3.news5.ph:1935/n5e/singko_3/chunklist_w56666566.m3u8
-#EXTINF:-1, tvg-logo="http://cnnphilippines.com/incoming/ttbl9f-main-logo.png/BINARY/main-logo.png" group-title="PINOY TV", CNN PHILIPPINES
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",3e UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1790.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",4Music UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1936.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",4Seven UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1937.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",5Star UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1963.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",5USA UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1964.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",AMC From BT UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1892.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",AT THE RACES UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1801.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Alibi UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1916.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Animal Planet +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1878.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Animal Planet UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1879.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC Four HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1990.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC Four UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1989.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC News HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1777.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC One Channel Islands UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1776.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC One HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1998.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC One Northern Ireland UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2000.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC One Oxford UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1775.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC One Scotland UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1786.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC One UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1997.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC One Wales UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2002.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC One Yorks UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1774.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC Parliament UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2003.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC Two HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1995.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC Two Scotland UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2004.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC Two UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1994.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BBC World News UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2006.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BET UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1961.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport 1 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/370.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport 1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/369.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport 2 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/368.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport 2 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/367.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport 3 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/366.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport 3 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/365.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport ESPN HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1743.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport ESPN UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1819.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport Extra 1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1818.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport Extra 2 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1817.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport Extra 3 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1816.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport Extra 4 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1815.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport Extra 5 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1814.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BT Sport Mosaic 2 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1813.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Baby TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1852.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Bike Channel UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1893.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Blaze UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1787.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Bloomberg TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1770.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Boomerang +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1769.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Boomerang UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1862.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Box Hits UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1768.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Hip Hop & R & B Music TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1767.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BoxNation HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/5712.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",BoxNation UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1805.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CAPITAL TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1778.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CBBC HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1993.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CBBC UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1991.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CBS Action UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1909.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CBS Drama UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1908.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CBS Reality UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1910.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CBeebies HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1741.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CITV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1740.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",CNN UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1764.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Cartoon Network UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1857.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Cartoonito UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1865.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Challenge +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1944.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Challenge UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1782.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Channel 4 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1970.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Channel 4 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1972.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Channel 5 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1967.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Channel 5 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1968.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Channel AKA UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1945.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Chart Show Hits UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1766.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Chart Show TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1765.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Chelsea TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1796.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Comedy Central Extra +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1894.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Comedy Central Extra UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1895.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Comedy Central UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1896.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Crime+Investigation +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1880.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",DMAX +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1876.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",DMAX UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1877.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Dave UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1911.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Dave ja vu UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1788.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery Channel +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1887.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery Channel UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1886.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery History +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1872.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery History UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1873.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery Home & Health +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1868.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery Home & Health UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1826.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery Science +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1874.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery Science UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1875.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery Shed UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1885.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Discovery Turbo UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1884.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Disney Channel +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1843.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Disney Channel UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1844.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Disney Junior +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1762.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Disney Junior UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1845.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Disney XD +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1847.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Disney XD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1846.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Drama UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1863.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",E! +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1907.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",E! UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1934.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",E4 +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1965.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",E4 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1966.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Eden +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1946.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Eden UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1935.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Eurosport 1 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1812.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Eurosport 2 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1811.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",FOX News UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1760.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",FOX UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1913.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",FOX+ UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1914.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Film4 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1830.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Flava UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1761.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Food Network +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1941.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Food Network UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1942.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",GINX eSports TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1758.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",GOLD +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1947.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",GOLD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1915.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Geo News PK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1759.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Good Food UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1912.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",H2 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1871.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Hillsong Channel UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1757.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",History +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1866.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",History UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1867.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Home +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1869.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Home UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1870.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Horror Channel +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1926.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Horror Channel UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1825.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1984.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV Encore +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1973.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV Encore UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1927.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV 1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1985.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV2 +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1981.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV2 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1983.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV2 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1982.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV3 +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1978.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV3 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1979.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV4 +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1975.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITV4 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1976.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",ITVBe +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1974.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Investigation Discovery +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1882.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Investigation Discovery UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1883.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",KISS UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1929.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",KIX +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1755.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",KIX UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1756.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Kerrang! TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1928.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",LFC TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1802.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MTV +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1834.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Rap 2K Music TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1754.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MTV Base UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1836.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MTV Classic UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1837.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MTV Dance UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1838.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MTV Hits UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1839.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MTV Music UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1840.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MTV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1835.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MU TV HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1797.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MUTV HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1810.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",MUTV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1809.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Made In Bristol UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1949.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",More4 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1930.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Motors TV HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1891.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Movies 24 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1829.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Movies4Men +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1828.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Movies4Men UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1827.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",My5 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1789.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Nat Geo Wild UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1889.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Nick Jr. +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1849.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Nick Jr. Peppa UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1753.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Nick Jr. Too UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1848.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Nick Jr. UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1850.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",NickToons UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1864.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Nickelodeon +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1858.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Nickelodeon UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1859.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",PBS America UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1791.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",POP +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1751.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",POP UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1752.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Pick +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1951.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Pick UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1853.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Premier Sports HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1807.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Premier Sports UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1808.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Fjorton Music TV FHD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1962.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",QUEST RED +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1749.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",QUEST RED UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1750.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",QUEST UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1890.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",RTÉ Jr UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1854.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",RTÉ News Now UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1748.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",RTÉ One HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1933.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",RTÉ One UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1856.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",RTÉ Two HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1932.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",RTÉ Two UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1855.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Racing UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1800.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Real Lives +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1952.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Real Lives UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1939.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Really UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1940.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Latino Pop Music TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1784.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",S4C UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1931.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Scuzz UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1747.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky 1 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1920.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky 1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1919.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky 2 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1918.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Arts UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1917.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Atlantic +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1921.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Atlantic UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1922.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Action & Adventure HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/351.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Action & Adventure UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/352.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Comedy HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/349.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Comedy UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/350.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Crime & Thriller UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/348.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Disney HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/346.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Disney UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/347.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Drama & Romance UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/345.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Family HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/343.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Family UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/344.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Greats UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/342.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Oscars UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1823.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Premiere +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1824.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Premiere UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/341.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Sci-Fi & Horror UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/340.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Cinema Select UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/339.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Hits UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1822.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Living +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1923.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Living UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1924.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky News UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1925.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Action HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/333.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Action UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/374.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Arena HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6201.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Arena UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6200.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Cricket HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/334.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Cricket UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/375.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports F1 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/371.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports F1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/337.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Football HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6204.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Football UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6203.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Golf HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/332.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Golf UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/373.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Main Event HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/335.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Main Event UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/376.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Mix HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1821.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports News HQ UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/336.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Premier League HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/331.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sky Sports Premier League UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/372.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Sony Channel +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1943.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Starz TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1746.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Syfy +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1899.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Syfy UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1900.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",TCM +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1954.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",TCM UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1955.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",TG4 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1793.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",TLC +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1902.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",TLC +2 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1901.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",TLC UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1903.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Tom And Jerry HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/10560.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",TV3 +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1957.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",TV3 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1958.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",The Box UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1745.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",The Vault UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1744.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Tiny Pop +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1860.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Tiny Pop UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1861.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Travel Channel UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1781.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",True Crime +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1832.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",True Crime UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1833.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",True Entertainment UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1783.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",True Movies +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1831.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",UTV HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1959.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Universal Channel +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1897.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Universal Channel UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1898.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",VH1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1841.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",VIVA UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1842.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Viceland UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1953.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",Vintage TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1960.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",W +1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1904.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",W UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1905.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",World Fight Channel UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1948.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",YESTERDAY UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1906.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",YourTV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1785.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",eir Sport 1 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1804.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",eir Sport 2 HD UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1798.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",eir Sport 2 UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1803.ts
+#EXTINF:-1, tvg-logo="http://icons.veryicon.com/png/Flag/Not%20a%20Patriot/UK%20Flag.png" group-title="UK",tru TV UK
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1956.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",A&E HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/550.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",A&E TV HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7771.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",ABC FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7592.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",ABC HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/539.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",ABC News HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/540.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",AFN Spectrum HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7726.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",AFN Sport 1 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1136.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",AFN Sport 2 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1135.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",AMC HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/521.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",AMC US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7792.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Amazing Discoveries HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/551.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Animal Planet US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7791.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",BET HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7770.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",BYU TV US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/522.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Bloomberg Europe US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/503.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Bloomberg TV HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/489.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Boomerang US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/502.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Bravo HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/541.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Bravo US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7790.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",C-Span 1 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/564.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",C-Span 2 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/565.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",C-Span 3 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/566.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CBS US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/486.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CBSN HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/524.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CNBC US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/525.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CNN HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/568.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CW HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/543.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CW US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7777.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CW11 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/500.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Cable News Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7769.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Cartoon Network US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/523.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Chiller HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7717.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CineMax 5 StarMax US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/507.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CineMax Action HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/567.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CineMax ActionMax East US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/508.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CineMax East US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/509.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",CineMax MoreMax US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/501.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Cinemax Action US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7789.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Cinemax More HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7768.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Comedy Central FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/542.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Comedy Central US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7788.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",DIY Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7728.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",DIY Network US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/482.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",DW US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/528.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Discovery Channel CA FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7580.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Discovery Channel HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7767.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Discovery HD Showcase US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/499.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Discovery HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/526.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Discovery Science HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/510.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Discovery Velocity US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/527.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Disney Channel HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7766.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Disney XD HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7765.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",E! Entertainment HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7764.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",ESPN 1 HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7763.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",ESPN 1 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/552.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",ESPN 2 FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/569.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",ESPN 2 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7787.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",ESPN HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/544.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",El Rey Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7715.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",FOX 43 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/570.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",FX HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/513.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",FX US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7784.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fashion One HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/498.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fight HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/529.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fight Sport HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/584.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fine Living US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/497.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Food Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/511.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Food Network US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7783.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/512.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox News HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/545.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Soccer Plus HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6206.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Soccer Plus US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7785.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Sports 1 HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/553.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Sports 1 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7786.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Sports 2 FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/554.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Sports 2 HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7759.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Sports 506 HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/571.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Sports College Central HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7756.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Sports HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7760.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fox Sports North HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7752.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Free Form HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/572.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",FreeForm HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7688.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Fuel HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/496.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",GSN HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7749.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",H2 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/514.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HBO Comedy HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/530.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HBO East US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/483.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HBO Family HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7748.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HBO HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/531.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HBO Signature HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7747.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HBO Signature US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/484.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HBO US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7776.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HBO Zone US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/532.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HGTV HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/495.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HGTV US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7782.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",HIFI US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/516.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Hallmark Channel HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7746.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Hallmark US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/515.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",History HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/546.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",History US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7781.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",IFC HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7710.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Investigation Discovery HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7693.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Lifetime HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7745.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",MLB HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/573.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",MLB Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7701.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",MLB Network US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/574.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",MSNBC HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/575.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",MTV Base HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7744.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",MTV Rocks US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/494.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NBA HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/533.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NBC Golf Channel FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6147.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NBC Golf Channel HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6146.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NBC Golf HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7743.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NBC News HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7742.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NBC SN HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7741.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NBC US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/490.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NBCSN HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/555.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NFL Network 1 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/504.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NFL Network FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/505.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NFL Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/556.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NFL Network US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7793.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NFL Now HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7773.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NFL Redzone HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7772.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",NHL Network US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/576.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Nat Geo Wild HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7692.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Nat Geographic HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7691.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",National Geographic US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/517.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Oprah Winfrey Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7740.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Outdoor Channel HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/493.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",PAC-12 Arizona US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/557.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",PAC-12 Bay Area US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/558.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",PAC-12 Los Angeles FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/559.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",PAC-12 Oregon FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/560.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",PAC-12 Washington FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/561.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Reelz HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7739.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",SEC Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7707.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Science HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7738.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Showtime 2 HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7737.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Showtime 2 US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/534.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Showtime East HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7736.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Showtime FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/535.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Showtime Showcase HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7735.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Showtime West US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/485.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Smile Of A Child US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/492.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Spike HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/518.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Spike TV HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7727.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Starz Cinema US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/536.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Starz Comedy US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/537.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Starz Edge HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/519.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Starz Edge US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7780.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Starz Encore HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7731.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Starz Encore US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/538.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",SyFy HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/548.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",SyFy US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7779.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",TBS HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/578.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",TNT HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/549.ts
+#EXTINF:-1, tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2012/04/tnt_tv-logo.jpg" group-title="USA",TNT HD
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/2068.ts
+#EXTINF:-1, tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2012/04/tnt_tv-logo.jpg" group-title="USA",TNT 720
+http://nitrotv.for-the.biz:25461/live/Zeke/1234/11534.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Travel Channel HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7694.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",UFC Fight Pass US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/6421.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",US Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/520.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",USA HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7729.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",USA Network HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/547.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Univision HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7704.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",VH1 Classic US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/491.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",WWE HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/562.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",WWE Network FHD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7544.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",WWE US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7778.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",beINSports HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/506.ts
+#EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",truTV HD US
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7705.ts
+#EXTINF:-1, tvg-logo="https://insidemanila.ph/images/content/17-2017-10-12-03-53-25pm.jpg" group-title="PINOY TV", ESPN 5
+http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?sd=10&rebase=on&id=AgBuNvUhFwNiTI+r51ouN6AcksAkKeRxTlnoNo1oOcaFEcCK9ZNerNIP3K2Gv1T2wmqGPXrIiZCGuA%3d%3d&hdntl=exp=1525218575~acl=%2f*~data=hdntl~hmac=3a838c14a88f50fecc131a992ee8319a7d242584dd3695a46ae931339f8f84a3
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/947598867985457152/lOzb5ud9.jpg" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/DZIQ.jpg" group-title="PINOY TV", INQUIRER 990
-http://beam-wowza.vbusiness.ph:1935/live/channel7/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/BEAM31PH_Logo.jpg/250px-BEAM31PH_Logo.jpg" group-title="PINOY TV", BEAM CHANNEL 5
-http://beam-wowza.vbusiness.ph:1935/live/channel4/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/BEAM31PH_Logo.jpg/250px-BEAM31PH_Logo.jpg" group-title="PINOY TV", BEAM CHANNEL 6
-http://beam-wowza.vbusiness.ph:1935/live/channel6/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/-yqHMWSJvNG8/AAAAAAAAAAI/AAAAAAAAAAA/3e836jSrhFg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="PINOY TV", BEAM TV SHOP
-http://beam-wowza.vbusiness.ph:1935/live/channel3/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV PHILS
+https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/chunklist_b2592000.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/753895989904367616/GvgKNn1u.jpg" group-title="PINOY TV", INQUIRER 990
+https://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist_w980265345.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/870865623047262208/1-IrAl1L_400x400.jpg" group-title="PINOY TV", PILIPINAS HD
+https://59c3ec70cfde0.streamlock.net/channel_4/channel4/chunklist_w663856267.m3u8
+#EXTINF:-1, tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/d/df/Cropped-island_living_logo.png" group-title="PINOY TV", ISLAND LIVING CHANNEL
+https://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist_w836722160.m3u8
+#EXTINF:-1, tvg-logo="https://l3.tikilive.com/public/files/shows/157/157639/45392-800x450-FFFFFF.jpgg" group-title="PINOY TV", LIFE TV
+https://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist_w901462722.m3u8
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/889363645942988800/ZYNI7o0U_400x400.jpg" group-title="PINOY TV", TBN ASIA
+https://59c3ec70cfde0.streamlock.net/channel_3/channel3/chunklist_w892560450.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/OShopping_2015.png" group-title="PINOY TV", BEAM O SHOPPING
-http://beam-wowza.vbusiness.ph:1935/live/channel2/playlist.m3u8
+https://59c3ec70cfde0.streamlock.net/channel_2/channel2/chunklist_w838248083.m3u8
 #EXTINF:-1, tvg-logo="https://www.shoptv.com.ph/skin/frontend/cudsly/default/images/shoptv-logo.png" group-title="PINOY TV", BEAM SHOP TV
-http://beam-wowza.vbusiness.ph:1935/live/channel1/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df7dc6e.png" group-title="MOVIES", TRUE MOVIES
-http://live.jibhdlive.com/true_movie_hits_480p.stream/playlist.m3u8
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_family_movies.png" group-title="MOVIES",FOX FAMILY MOVIES
-http://183.88.212.205:8010/play/a01m
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_movies_premium.png" group-title="MOVIES",FOX MOVIES PREMIUM
-http://183.88.212.205:8010/play/a01l
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Fox-Action-Movies-HD-COLOR.png" group-title="MOVIES",FOX ACTION MOVIES HD
-http://183.88.212.205:8010/play/a010
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fox_chrime.png" group-title="MOVIES",FOX CRIME
-http://183.88.212.205:8010/play/a020
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df813d9.jpg" group-title="MOVIES", FX CINEMA
-http://live.jibhdlive.com/fx_720p.stream/playlist.m3u8
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/HBO-HD-COLOR.png" group-title="MOVIES",HBO HD
-http://183.88.212.205:8010/play/a00u
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/HBO.png" group-title="MOVIES",HBO SD
-http://183.88.212.205:8010/play/a00m
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df84af5.jpg" group-title="MOVIES", HBO HD 2
-http://live.jibhdlive.com/hbo_hd_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df84e68.jpg" group-title="MOVIES", HBO HITS
-http://live.jibhdlive.com/hbo_hits_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85235.jpg" group-title="MOVIES", HBO SIGNATURE
-http://live.jibhdlive.com/hbo_signature_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df8561e.jpg" group-title="MOVIES", HBO FAMILY
-http://live.jibhdlive.com/hbo_family_720p.stream/playlist.m3u8
-#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df85959.jpg" group-title="MOVIES",CINEMAX
-http://183.88.212.205:8010/play/a00n
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Movies-HD-COLOR.png" group-title="MOVIES",SKYNET MOVIES HD
-http://183.88.212.205:8010/play/a00v
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df81779.jpg" group-title="MOVIES", THRILL
-http://live.jibhdlive.com/thrill_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.totiptv.com/Product/Channel/images/Kix.png" group-title="MOVIES", KIX HD
-http://27.254.63.162/stream/tot4k.php?channel_id=e584e0adae6440eab366f5fe3a824f91
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df82e42.png" group-title="MOVIES", WARNER TV
-http://live.jibhdlive.com/warner_tv_720p.stream/playlist.m3u8
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/asian_movies.png" group-title="MOVIES",ASIAN MOVIES
-http://183.88.212.205:8010/play/a01j
-#EXTINF:-1,tvg-logo="https://www.sky.co.nz/documents/24003/39746/MK_SCC_Logo_250x180.png" group-title="MOVIES",STAR CHINESE MOVIES
-http://183.88.212.205:8010/play/a02e
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/world_movies.png" group-title="MOVIES",WORLD MOVIES
-http://183.88.212.205:8010/play/a01k
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/world_drama.png" group-title="MOVIES",WORLD DRAMA
-http://183.88.212.205:8010/play/a01x
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/int_drama.png" group-title="MOVIES",INTERNATIONAL DRAMA
-http://183.88.212.205:8010/play/a01y
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/PAY-PER-VIEW.png" group-title="PPV",SKYNET-HD-PAY PER VIEW
-http://183.88.212.205:8010/play/a00w
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/animal_planet.png" group-title="DOCUMENTARIES AND TRAVEL",ANIMAL PLANET
-http://183.88.212.205:8010/play/a030
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Discovery.png" group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY CHANNEL
-http://183.88.212.205:8010/play/a031
-#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df99908.png" group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY HD WORLD
-http://183.88.212.205:8010/play/a00t
-#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9babd.png" group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY SCIENCE
-http://183.88.212.205:8010/play/a034
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Kid.png" group-title="DOCUMENTARIES AND TRAVEL",DISCOVERY KIDS
-http://183.88.212.205:8010/play/a036
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Dis_TLC.png" group-title="DOCUMENTARIES AND TRAVEL",TLC
-http://183.88.212.205:8010/play/a032
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/NGC.png" group-title="DOCUMENTARIES AND TRAVEL",NAT GEO
-http://183.88.212.205:8010/play/a02x
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/net_geo_people.png" group-title="DOCUMENTARIES AND TRAVEL",NAT GEO PEOPLE
-http://183.88.212.205:8010/play/a02z
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/net_geo_music.png" group-title="DOCUMENTARIES AND TRAVEL",NAT GEO MUSIC
-http://183.88.212.205:8010/play/a01q
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/net_geo_wild.png" group-title="DOCUMENTARIES AND TRAVEL",NAT GEO WILD
-http://183.88.212.205:8010/play/a02y
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Fyi.jpg" group-title="DOCUMENTARIES AND TRAVEL",FYI
-http://183.88.212.205:8010/play/a00k
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/outdoor.png" group-title="DOCUMENTARIES AND TRAVEL",OUTDOOR CHANNEL
-http://183.88.212.205:8010/play/a03d
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa457e.png" group-title="DOCUMENTARIES AND TRAVEL", ASIA FOOD CHANNEL
-http://live.jibhdlive.com/asian_food_channel_480p.stream/playlist.m3u8
-#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa1938.png" group-title="DOCUMENTARIES AND TRAVEL",BBC EARTH
-http://183.88.212.205:8010/play/a03e
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/turbo.png" group-title="DOCUMENTARIES AND TRAVEL",DMAX
-http://183.88.212.205:8010/play/a035
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/History-COLOR.png" group-title="DOCUMENTARIES AND TRAVEL",HISTORY HD
-http://183.88.212.205:8010/play/a00y
-#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9a165.png" group-title="DOCUMENTARIES AND TRAVEL",H2
-http://183.88.212.205:8010/play/a03k
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/mi.png" group-title="DOCUMENTARIES AND TRAVEL",MITV
-http://183.88.212.205:8010/play/a016
-#EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/LIVING%20ASIA.png" group-title="DOCUMENTARIES AND TRAVEL", LIVING ASIA CHANNEL
+https://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist_w174661881.m3u8
+#EXTINF:-1, tvg-logo="http://www.filipinotelevision.com/wp-content/uploads/2014/05/slider-tfc-unit.png"  group-title="PINOY TV", TFC
+http://vapi.vaders.tv/play/38782.m3u8?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
+#EXTINF:-1, tvg-logo="https://mark.trademarkia.com/logo-images/gma-network/gma-life-tv-77287763.jpg" group-title="PINOY TV", GMA Life TV
+http://vapi.vaders.tv/play/39631.m3u8?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/GMA_News_TV_official_slogan.jpg" group-title="PINOY TV", GMA News
+http://vapi.vaders.tv/play/39633.m3u8?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
+#EXTINF:-1, tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/07104534gma%20pinoytv.png" group-title="PINOY TV", GMA Pinoy
+http://vapi.vaders.tv/play/39632.m3u8?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
+#EXTINF:-1, tvg-logo="http://www.nyxmartinez.com/wp-content/uploads/2015/05/Living-Asia-Channel.jpg" group-title="PINOY TV", LIVING ASIA CHANNEL
 https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/arirang.png" group-title="INTERNATIONAL",ARIRANG
-http://183.88.212.205:8010/play/a026
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/kbs_world.png" group-title="INTERNATIONAL",KBS WORLD
-http://183.88.212.205:8010/play/a025
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/M1.png" group-title="INTERNATIONAL",TVN ASIA
-http://183.88.212.205:8010/play/a024
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/DW.png" group-title="INTERNATIONAL",Deutsche Welle
-http://183.88.212.205:8010/play/a02g
-#EXTINF:-1,tvg-logo="https://www.kcet.org/sites/kl/files/atoms/article_atoms/www.kcet.org/shows/tvtalk/nhk-logo-600.jpg" group-title="INTERNATIONAL",NHK WORLD TV
-http://183.88.212.205:8010/play/a028
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/nhk_world.png" group-title="INTERNATIONAL",NHK WORLD PREMIUM
-http://183.88.212.205:8010/play/a027
-#EXTINF:-1, tvg-logo="http://www.vmore.tv/wp-content/uploads/2015/03/KTV.png" group-title="INTERNATIONAL", KTV HD
-http://218.38.152.31:1935/klive/klive.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/200px-Logo_of_the_Korean_Central_Television.svg.png" group-title="INTERNATIONAL", KCTV
-http://122.202.129.136:1935/live/ch5/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://channels.roku.com/images/f03a500979a74879b7a777a5dc7d9641-hd.jpg" group-title="INTERNATIONAL", GCN
-http://live-manminflv.ktics.co.kr:1935/live/_definst_/live_stream_high/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://about.ebs.co.kr/kor/images/program/img_channel02.gif" group-title="INTERNATIONAL", EBS 1
-http://ebsonair.ebs.co.kr:1935/groundwavetablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://about.ebs.co.kr/kor/images/program/img_channel03.gif" group-title="INTERNATIONAL", EBS 2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://about.ebs.co.kr/kor/images/program/img_channel02.gif" group-title="INTERNATIONAL", EBS +1
-http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://about.ebs.co.kr/kor/images/program/img_channel03.gif" group-title="INTERNATIONAL", EBS +2
-http://ebsonair.ebs.co.kr:1http://live-sport.me/wp-content/uploads/2015/07/EBS-U.gif935/plus2tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://live-sport.me/wp-content/uploads/2015/07/EBS-U.gif" group-title="INTERNATIONAL", EBS U
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/TV+Chosun+logo_1653.png" group-title="INTERNATIONAL", TV CHOSUN
-http://live.chosun.gscdn.com/live/_definst_/mp4:tvchosun1.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Taegu_Broadcasting_Corporation_logo.png" group-title="INTERNATIONAL", TBC SBS
-http://221.157.125.232:1935/live/psike/chunklist_w2123555309.m3u8
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/EI.png" group-title="ENTERTAINMENT AND LIFESTYLE",E!
-http://183.88.212.205:8010/play/a03o
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/DIVI.png" group-title="ENTERTAINMENT AND LIFESTYLE",DIVA UNIVERSAL
-http://183.88.212.205:8010/play/a03n
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/TC_S69.png" group-title="ENTERTAINMENT AND LIFESTYLE",COMEDY CENTRAL
-http://183.88.212.205:8010/play/a03b
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fashion_one.png" group-title="ENTERTAINMENT AND LIFESTYLE",FASHION ONE
-http://183.88.212.205:8010/play/a01v
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Screen_Red.png" group-title="ENTERTAINMENT AND LIFESTYLE",RED BY HBO
-http://183.88.212.205:8010/play/a03c
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Universal-.jpg" group-title="ENTERTAINMENT AND LIFESTYLE",UNIVERSAL SD
-http://183.88.212.205:8010/play/a03m
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/EVE.png" group-title="ENTERTAINMENT AND LIFESTYLE",EVE
-http://183.88.212.205:8010/play/a033
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/starworld.png" group-title="ENTERTAINMENT AND LIFESTYLE",STAR WORLD
-http://183.88.212.205:8010/play/a021
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df81b42.png" group-title="ENTERTAINMENT AND LIFESTYLE", STARWORLD HD 2
-http://live.jibhdlive.com/starworld_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://ulango.tv/uploads/channels/60233/logo_crime%20+%20investigation.png" group-title="ENTERTAINMENT AND LIFESTYLE", CRIME INVESTIGATION
-http://27.254.63.162/stream/totnew.php?channel_id=9961a963920f45f4bc0d81c3e478b334
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/life_time.png" group-title="ENTERTAINMENT AND LIFESTYLE",LIFETIME
-http://183.88.212.205:8010/play/a03l
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/fx.png" group-title="ENTERTAINMENT AND LIFESTYLE",FX
-http://183.88.212.205:8010/play/a023
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/AXN.png" group-title="ENTERTAINMENT AND LIFESTYLE",AXN ASIA
-http://183.88.212.205:8010/play/a00i
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/mtv_china.png" group-title="MUSIC",MTV SEA
-http://183.88.212.205:8010/play/a01t
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/channel-V.jpg" group-title="MUSIC",CHANNEL V
-http://183.88.212.205:8010/play/a01p
-#EXTINF:-1,tvg-logo="http://ip2day.net/asset/ip2day/images/icon_channel/icon-mtvchina.png" group-title="MUSIC",MTV CHINA
-http://183.88.212.205:8010/play/a01s
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/LIVE-HD-COLOR.png" group-title="MUSIC",MTV LIVE HD
-http://183.88.212.205:8010/play/a00s
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954df9864d.png" group-title="MUSIC", TRACE URBAN
-http://live.jibhdlive.com/trace_urban_720p.stream/playlist.m3u8
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/nickjr.png" group-title="KIDS",NICKJR
-http://183.88.212.205:8010/play/a01c
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/baby_tv.png" group-title="KIDS",BABY TV
-http://183.88.212.205:8010/play/a01e
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/ANIMAX.png" group-title="KIDS",ANIMAX
-http://183.88.212.205:8010/play/a00h
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Disney_Channel.png" group-title="KIDS",DISNEY CHANNEL ASIA
-http://183.88.212.205:8010/play/a02t
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/CN.png" group-title="KIDS",CARTOON NETWORK
-http://183.88.212.205:8010/play/a01b
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/nickelodeon.png" group-title="KIDS",NICKELODEON
-http://183.88.212.205:8010/play/a01f
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/Disney_Junior.png" group-title="KIDS",DISNEY JUNIOR ASIA
-http://183.88.212.205:8010/play/a02u
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/DISNEY-HD.png" group-title="KIDS",DISNEY XD
-http://183.88.212.205:8010/play/a00x
-#EXTINF:-1,tvg-logo="https://media.ents24network.com/image/000/118/138/b829fa23d2de2c88897f7c070731ecd2cb97fdc6.jpg" group-title="KIDS",BBC CBEEBIES
-http://183.88.212.205:8010/play/a03f
-#EXTINF:-1,tvg-logo="http://mfa.gov.ua/mediafiles/sites/singapore/images/news/tmbs/CNBC_logo-tmb-270x180.jpg" group-title="NEWS",CNBC
-http://183.88.212.205:8010/play/a02c
-#EXTINF:-1,tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa8fde.png" group-title="NEWS",FOX NEWS
-http://183.88.212.205:8010/play/a00f
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/CNN.png" group-title="NEWS",CNN
-http://183.88.212.205:8010/play/a00l
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/sky_news.png" group-title="NEWS",SKY NEWS
-http://183.88.212.205:8010/play/a00e
-#EXTINF:-1,tvg-logo="http://tvimages.burrp.com/images/channels2/news/BBC-World-News.png" group-title="NEWS",BBC WORLD NEWS
-http://183.88.212.205:8010/play/a03g
-#EXTINF:-1, tvg-logo="http://www.totiptv.com/Product/Channel/images/AlJazeera.png" group-title="NEWS", Al Jazeera English
-http://27.254.63.162/stream/tot4k.php?channel_id=ea4c9d2666bc411d8e6777e8a1d2b747
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/bloomberg.png" group-title="NEWS",BLOOMBERG
-http://183.88.212.205:8010/play/a02d
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/channel_news_asia.png" group-title="NEWS",CHANNEL NEWS ASIA
-http://183.88.212.205:8010/play/a02f
-#EXTINF:-1,tvg-logo="http://www.skynetdth.com/images/channal_logo/france24.png" group-title="NEWS",FRANCE 24
-http://183.88.212.205:8010/play/a02h
-#EXTINF:-1,tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/01/CCTV.png" group-title="NEWS",CCTV NEWS
-http://183.88.212.205:8010/play/a029
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfa821f.png" group-title="NEWS", EURONEWS
-http://live.jibhdlive.com/euronews_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://sc.dish.com/shared/images/station-logos/nbatv.png" group-title="SPORTS", NBA TV
-http://live.jibhdlive.com/nba_tv_hd_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_300.png" group-title="SPORTS", FOX SPORTS HD
-http://live.jibhdlive.com/fox_sports_hd_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png" group-title="SPORTS", FOX SPORTS 1
-http://live.jibhdlive.com/fox_sports_1_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="SPORTS", FOX SPORTS 2
-http://live.jibhdlive.com/fox_sports_2_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Fox_Sports_3_logo.png" group-title="SPORTS", FOX SPORTS 3
-http://live.jibhdlive.com/fox_sports_3_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.dprom.tv/public/img/true_tennis_hd.png" group-title="SPORTS", TRUE TENNIS HD
-http://live.jibhdlive.com/true_tennis_hd_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://actv.tv/wp-content/uploads/mutv1.png" group-title="SPORTS", MANCHESTER UNITED TV
-http://live.jibhdlive.com/mutv_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb08c4.png" group-title="SPORTS", CHELSEA TV
-http://live.jibhdlive.com/chelsea_tv_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb04a7.jpg" group-title="SPORTS", LIVERPOOL TV
-http://live.jibhdlive.com/lfctv_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://i.imgur.com/F2R303x.png" group-title="SPORTS", BT SPORT 1 HD
-http://live.jibhdlive.com/bt_sport_1_hd_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://www.thelogodb.com/images/media/logo/vsuvvu1433963716.png" group-title="SPORTS", BT SPORT 2 HD
-http://live.jibhdlive.com/bt_sport_2_hd_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://www.pitv.co.za/wp-content/uploads/2016/11/bt-sport-3-hd.png" group-title="SPORTS", BT SPORT 3 HD 
-http://live.jibhdlive.com/bt_sport_3_hd_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://cdn.firstone.tv/images/logos/uk/BTESPN.png" group-title="SPORTS", BT SPORT ESPN
-http://live.jibhdlive.com/bt_sport_espn_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_1_aug2014.png" group-title="SPORTS", TSN 1
-http://live.jibhdlive.com/0x444_tsn1_360p/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.woodbineentertainment.com/Woodbine/SiteAssets/Pages/Breeders-Crown/TSN2_CMYK.jpg" group-title="SPORTS", TSN 2
-http://live.jibhdlive.com/0x444_tsn2_360p/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/tsn_3_aug2014.png" group-title="SPORTS", TSN 3
-http://live.jibhdlive.com/0x444_tsn3_360p/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://freetvall.com/files/thumbs/150179087733588.jpg" group-title="SPORTS", SKY SPORTS MAIN EVENT
-http://live.jibhdlive.com/sky_sports_mainevent_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfbaaf5.png" group-title="SPORTS", SKY SPORTS PREMIER LEAGUE
-http://live.jibhdlive.com/sky_sports_premiere_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-ACTION.png" group-title="SPORTS", SKY SPORTS ACTION
-http://live.jibhdlive.com/sky_sports_action_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff2cc3.jpg", SKY SPORTS FOOTBALL
-http://live.jibhdlive.com/skysportfootball_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://media.info/i/lf/0/1500373955/6753.png" group-title="SPORTS", SKY SPORTS ARENA
-http://live.jibhdlive.com/skysportarena_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2016/03/sky-sports-mix-1.jpg" group-title="SPORTS", SKY SPORTS MIX
-http://live.jibhdlive.com/skysportmix_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff28ea.png" group-title="SPORTS", SKY SPORTS F1
-http://live.jibhdlive.com/kysportf1_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff5bb7.png" group-title="SPORTS", SKY SPORTS NEWS
-http://live.jibhdlive.com/skysportnew_360.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch119.jpg" group-title="SPORTS", FIGHT SPORTS
-http://live.jibhdlive.com/ais_fightsport_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff7674.png" group-title="SPORTS", PREMIER LEAGUE TV 1
-http://live.jibhdlive.com/prtv_1_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff7a4f.png" group-title="SPORTS", PREMIER LEAGUE TV 2
-http://live.jibhdlive.com/prtv_2_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff7dad.png" group-title="SPORTS", PREMIER LEAGUE TV 3
-http://live.jibhdlive.com/prtv_3_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff733d.png" group-title="SPORTS", GOLF CHANNEL
-http://live.jibhdlive.com/golf_channel_thailand_hd_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff949c.png", TRUE SPORT HD 1
-http://live.jibhdlive.com/truesport_hd_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff97dc.png" group-title="SPORTS", TRUE SPORT HD 2
-http://live.jibhdlive.com/truesport_hd_2_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dffa6a1.png" group-title="SPORTS", TRUE SPORT HD 3
-http://live.jibhdlive.com/truesport_hd_3_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dffaa46.png" group-title="SPORTS", SETANTA ASIA
-http://live.jibhdlive.com/truesport_hd_4_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e01dcd2.jpg" group-title="SPORTS", TS SPORT 1
-http://live.jibhdlive.com/truesport_1_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e0000e3.png" group-title="SPORTS", TS SPORT 2
-http://live.jibhdlive.com/truesport_2_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e02020a.jpg" group-title="SPORTS", TS SPORT 3
-http://live.jibhdlive.com/truesport_3_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e0014b4.png" group-title="SPORTS", TS SPORT 5
-http://live.jibhdlive.com/truesport_5_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e00201e.png" group-title="SPORTS", TS SPORT 6
-http://live.jibhdlive.com/truesport_6_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954e0032c3.png" group-title="SPORTS", TS SPORT 7
-http://live.jibhdlive.com/truesport_7_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb2cbd.png" group-title="SPORTS", EUROSPORT
-http://live.jibhdlive.com/eurosport_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb30ce.png" group-title="SPORTS", EUROSPORT 1
-http://live.jibhdlive.com/eurosport_1_uk_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb34e5.png" group-title="SPORTS", EUROSPORT 2
-http://live.jibhdlive.com/eurosport_2_uk_360p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb0fcb.png" group-title="SPORTS", SKYNET SPORTS HD
-http://live.jibhdlive.com/skynet_sport_hd_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb0fcb.png" group-title="SPORTS", SKYNET SPORTS 1
-http://live.jibhdlive.com/skynet_sports_1_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb0fcb.png" group-title="SPORTS", SKYNET SPORTS 2
-http://live.jibhdlive.com/skynet_sports_2_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb1a5f.png" group-title="SPORTS", SKYNET SPORTS 3
-http://live.jibhdlive.com/skynet_sports_3_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb1e47.png" group-title="SPORTS", SKYNET SPORTS 4
-http://live.jibhdlive.com/skynet_sports_4_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb24f9.png" group-title="SPORTS", SKYNET SPORTS 5
-http://live.jibhdlive.com/skynet_sports_5_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb28a0.png" group-title="SPORTS", SKYNET SPORTS 6
-http://live.jibhdlive.com/skynet_sports_6_480p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb417f.png" group-title="SPORTS", SONY ESPN
-http://live.jibhdlive.com/sony_espn_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dfb44e9.png" group-title="SPORTS", SONY SIX HD
-http://live.jibhdlive.com/sony_six_720p.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://www.abu.org.my/images/articles/news/edge_sport.jpg" group-title="SPORTS",EDGE SPORT
-http://183.88.212.205:8010/play/a03i
-#EXTINF:-1, tvg-logo="http://www.movieclub.tv/img_live_vertical/59954dff733d.png" group-title="SPORTS",GOLF CHANNEL 2
-http://183.88.212.205:8010/play/a02q
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="VOD MOVIES", JOHN WICK  
+http://dl.2tehmovies.com/sr1/dey/1/John.Wick.2014.720p.TehMovies.Com.mkv
+#EXTINF:-1, tvg-logo="http://budomate.com/wp-content/uploads/2016/09/john-wick-2-poster-2.png" group-title="VOD MOVIES", JOHN WICK 2 
+http://dl.2tehmovies.com/94/96/3/John.Wick.Chapter.2.2017.720p.WEB-DL.NBY.Tehmovies_me.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Twilight_%282008_film%29_poster.jpg" group-title="VOD MOVIES", TWILIGHT (2008)
+http://dl.2tehmovies.com/94/95/9/Twilight.720p.Tehmovies.biz.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Eclipse_Theatrical_One-Sheet.jpg" group-title="VOD MOVIES", TWILIGHT ECLIPSE 
+http://dl.2tehmovies.com/94/95/9/Twilight_Eclipse.2010.720p.Tehmovies.biz.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/The_Twilight_Saga-_New_Moon_poster.JPG" group-title="VOD MOVIES", TWILIGHT NEW MOON  
+http://dl.2tehmovies.com/94/95/9/Twilight_New_Moon.720p.Tehmovies.biz.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Breaking_Dawn_Part_1_Poster.jpg" group-title="VOD MOVIES", TWILIGHT BREAKING DAWN 1
+http://dl.2tehmovies.com/94/95/9/The_Twilight_Saga_Breaking_Dawn_Part_1_720p.Tehmovies.biz.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/The_Twilight_Saga_Breaking_Dawn_Part_2_poster.jpg" group-title="VOD MOVIES", TWILIGHT BREAKING DAWN 2
+http://dl.2tehmovies.com/94/95/9/The.Twilight.Saga.Breaking.Dawn.Part.2.2012.720p.Ganool.Tehmovies.biz.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg" group-title="VOD MOVIES", MATRIX  
+http://dl.2tehmovies.com/94/96/4/The.Matrix.1999.720p.YIFY.Tehmovies_me.mp4
+#EXTINF:-1, tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/95/4d/2b/954d2ba64597ba26c0705d54c5663bec.jpg" group-title="VOD MOVIES", MATRIX RELOADED
+http://dl.2tehmovies.com/94/96/4/The.Matrix.Reloaded.2003.720p.YIFY.Tehmovies_me.mp4
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Matrix_revolutions_ver7.jpg" group-title="VOD MOVIES", MATRIX REVOLUTIONS
+http://dl.2tehmovies.com/94/96/4/The.Matrix.Revolutions.2003.720p.YIFY.Tehmovies_me.mp4
+#EXTINF:-1, tvg-logo="https://cdn.traileraddict.com/content/warner-bros-pictures/wonder-woman-2017-5.jpg" group-title="VOD MOVIES", WONDER WOMAN
+http://dl.2tehmovies.com/94/96/6/Wonder.Woman.2017.720p.WEB-DL.MkvCage.Tehmovies_top.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_%282001%29_theatrical_poster.jpg" group-title="VOD MOVIES", LOTR - FELLOWSHIP OF THE RING
+http://dl.my-film.me/s1/Movie/The.Lord.of.the.Ring.The.Fellowship.of.the.Ring.2001/The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.2001.Extended.720p.BluRay.x264.95363031.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Lord_of_the_Rings_-_The_Two_Towers.jpg" group-title="VOD MOVIES", LOTR - THE TWO TOWERS
+http://dl.par30dl.com/Collections/The.Lord.of.the.Rings/The.Lord.of.the.Rings.2.The.Two.Towers.2002.EXTENDED.720p.Dubbed_www.par30dl.com.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Lord_of_the_Rings_-_The_Return_of_the_King.jpg" group-title="VOD MOVIES", LOTR - RETURN OF THE KING
+http://dl.2tehmovies.com/sr1/dey/1/The.Lord.of.the.Rings.3.The.Return.of.the.King.2003.EXTENDED.720p.TehMovies.Comz.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Transformers_The_Last_Knight_poster.jpg" group-title="VOD MOVIES", TRANSFORMERS: THE LAST KNIGHT
+http://dl.2tehmovies.com/94/96/6/Transformers.The.Last.Knight.2017.720p.x265.MkvCage.Tehmovies_top.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/X-MenfilmPoster.jpg" group-title="VOD MOVIES", X-MEN 1
+http://dl.2tehmovies.com/sr1/azar/X-Men%202000%20m720p%20TehMovies.Com.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/X2_poster.jpg" group-title="VOD MOVIES", X-MEN 2
+http://dl.2tehmovies.com/sr1/azar/X-Men%202%202003%20720p%20TehMovies.Com.mp4
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/X-Men_The_Last_Stand.jpg" group-title="VOD MOVIES", X-MEN 3
+http://dl.2tehmovies.com/sr1/azar/X-Men%203%20-%20The%20Last%20Stand%202006%20m720p%20TehMovies.Com.mkv
+#EXTINF:-1, tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/x-men-origins-wolverine-2009/large_vbaV7DalSF6Uy4qLyVK7uNdtmFy.jpg" group-title="VOD MOVIES", ORIGIN: WOLVERINE
+http://dl.2tehmovies.com/sr1/azar/X-Men%20Origins%20Wolverine%202009%20TehMovies.Com.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/X-MenFirstClassMoviePoster.jpg" group-title="VOD MOVIES", X-MEN FIRST CLASS
+http://dl.2tehmovies.com/sr1/azar/X-Men%20First%20Class%202011%20720p%20TehMovies.Com.mp4
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/The_Wolverine_posterUS.jpg" group-title="VOD MOVIES", THE WOLVERINE
+http://dl.2tehmovies.com/sr1/user1/96/2/The_Wolverine_2013_EXTENDED_1080p_BluRay_HDMaNiAcS.TehMovies.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/X-Men_Days_of_Future_Past_poster.jpg" group-title="VOD MOVIES", DAYS OF FUTURE PAST
+http://dl.2tehmovies.com/94/10/X.Men.Days.of.Future.Past.2014.720p.Tehmovies.ir.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Deadpool_poster.jpg" group-title="VOD MOVIES", DEADPOOL
+http://dl.2tehmovies.com/94/95/2/Deadpool.2016.720p.WEB-dl.2tehmovies.com.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/X-Men_-_Apocalypse.jpg" group-title="VOD MOVIES", X-MEN APOCALYPSE
+http://dl.2tehmovies.com/94/95/6/X-Men.Apocalypse.2016.720p.ShAaNiG.Tehmovies.biz.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Logan_2017_poster.jpg" group-title="VOD MOVIES", LOGAN
+http://dl.2tehmovies.com/94/96/3/Logan%202017%20720p%20Dubble.Farsi.Tehmovies_me.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg" group-title="VOD MOVIES", HUNGER GAMES
+http://dl.my-film.in/s1/Movie/The.Hunger.Games.2012/The.Hunger.Games.2012.Bluray.720p.Ganool.95363031.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Catching-Fire_poster.jpg" group-title="VOD MOVIES", CATCHING FIRE
+http://dl.my-film.in/s1/Movie/The.Hunger.Games.Catching.Fire.2013/The.Hunger.Games.Catching.Fire.2013.Bluray.720p.X265.FA.48654540.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/MockingjayPart1Poster3.jpg/220px-MockingjayPart1Poster3.jpg" group-title="VOD MOVIES", MOCKINGJAY 1
+http://79.127.126.110/Film/1900-2016/The.Hunger.Games.Mockingjay.Part.1.2014.720p.ShAaNiG.mkv
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Mockingjay_Part_2_Poster.jpg" group-title="VOD MOVIES", MOCKINGJAY 2
+http://dl.2tehmovies.com/94/12/The.Hunger.Games.Mockingjay.Part.2.2015.720p.Tehmovies.net.mkv
+#EXTINF:1, tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/harry-potter-and-the-sorcerers-stone-2001/large_uLGaJ9FgPWf7EUgwjp9RTmHemw8.jpg" group-title="VOD MOVIES", Sorcerers Stone 
+http://dl.par30dl.com/Collections/Harry.Potter/Harry.Potter.And.The.Sorcerers.Stone.2001.EXTENDED.REPACK.720p.Dubbed_www.par30dl.com.mkv
+#EXTINF:1, tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/harry-potter-and-the-chamber-of-secrets-2002/large_lryNn7sNkvQIg45KwgeKnMxSSRX.jpg" group-title="VOD MOVIES", Chambers of Secrets
+http://dl.par30dl.com/Collections/Harry.Potter/Harry.Potter.And.The.Chamber.of.Secrets.2002.EXTENDED.REPACK.720p.Dubbed_www.par30dl.com.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Prisoner_of_azkaban_UK_poster.jpg" group-title="VOD MOVIES", Prisoner of Azkaban 
+http://dl.par30dl.com/Collections/Harry.Potter/Harry.Potter.and.the.Prisoner.of.Azkaban.2004.720p.Dubbed_www.par30dl.com.mkv
+#EXTINF:1, tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/harry-potter-and-the-goblet-of-fire-2005/large_6sASqcdrEHXxUhA3nFpjrRecPD2.jpg" group-title="VOD MOVIES", Goblet of Fire 
+http://dreamsupport.us/justin/Movies/Harry%20Potter%20and%20The%20Goblet%20Of%20Fire%20(2005)/Harry%20Potter%20and%20The%20Goblet%20Of%20Fire%20(2005).mp4
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Harry_Potter_and_the_Order_of_the_Phoenix_poster.jpg" group-title="VOD MOVIES", Order of The Phoenix 
+http://dl.par30dl.com/Collections/Harry.Potter/Harry.Potter.and.the.Order.of.the.Phoenix.2007.720p.Dubbed_www.par30dl.com.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Harry_Potter_and_the_Half-Blood_Prince_poster.jpg" group-title="VOD MOVIES", Half Blood Prince 
+http://dl.par30dl.com/Collections/Harry.Potter/Harry.Potter.and.the.Half.Blood.Prince.2009..720p.Dubbed_www.par30dl.com.mkv
+#EXTINF:1, tvg-logo="https://vignette.wikia.nocookie.net/harrypotter/images/a/ab/Deathly_Hallows_1_poster.jpg" group-title="VOD MOVIES", Deathly Hallows 1
+http://dl.2tehmovies.com/sr1/azar/Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.Blu-ray.720p.TehMovieS.Com.mkv
+#EXTINF:1, tvg-logo="https://vignette.wikia.nocookie.net/harrypotter/images/b/bd/7xmtxRc9nQnCuWINuTT4SMP5NJc.jpg" group-title="VOD MOVIES", Deathly Hallows 2 
+http://dl.2tehmovies.com/sr1/azar/Harry.Potter.and.the.Deathly.Hallows-.Part%202.2011.Blu-ray.720p.TehMovieS.Com.mp4
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg" group-title="VOD MOVIES", AVATAR
+http://dl.2tehmovies.com/sr1/azar/Avatar.2009.extended.720p.TehMovies.Com.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/Xxx_return_of_xander_cage_film_poster.jpeg" group-title="VOD MOVIES", XANDER CAGE
+http://dl.2tehmovies.com/94/96/2/3X.Return.of.Xander.Cage.2017.720p.WEB-DL.ShAaNiG.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Alien_Covenant_Teaser_Poster.jpg" group-title="VOD MOVIES", ALIEN COVENANT
+http://dl.2tehmovies.com/94/96/5/All.Eyez.on.Me.2017.720p.WEB-DL.MkvCage.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/BourneIdentityfilm.jpg" group-title="VOD MOVIES", BOURNE IDENTITY
+http://dl.2tehmovies.com/94/11/The_Bourne_Identity.720p.Tehmovies.net.mkv
+#EXTINF:1, tvg-logo="http://images3.static-bluray.com/movies/covers/8306_large.jpg" group-title="VOD MOVIES", BOURNE SUPREMACY
+http://dl.2tehmovies.com/94/11/The.Bourne.Supremacy.2004.720p.Tehmovies.net.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/The_Bourne_Ultimatum_%282007_film_poster%29.jpg" group-title="VOD MOVIES", BOURNE ULTIMATUM
+http://dl.2tehmovies.com/94/11/The_Bourne_Ultimatum.720p.Tehmovies.net.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/The_Bourne_Legacy_Poster.jpg" group-title="VOD MOVIES", BOURNE LEGACY
+http://dl.2tehmovies.com/94/11/The.Bourne.Legacy.2012.720p.Tehmovies.net.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Jason_Bourne_%28film%29.jpg" group-title="VOD MOVIES", JASON BOURNE
+http://dl.2tehmovies.com/94/95/8/Jason.Bourne.2016.720p.ShAaNiG.Tehmovies.biz.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Taken_film_poster.jpg" group-title="VOD MOVIES", TAKEN 1
+http://79.127.126.110/Film/1900-2016/Taken.2008.720p.Farsi.Dubbed.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Taken_2_Poster.jpg/220px-Taken_2_Poster.jpg" group-title="VOD MOVIES", TAKEN 2
+http://dl.2tehmovies.com/sr1/dey/Taken%202%20%282012%29%20720p_TehMovies.Com.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Taken_3_poster.jpg" group-title="VOD MOVIES", TAKEN 3
+http://dl.2tehmovies.com/94/1/Taken.3.2014.EXTENDED.720p.TehMovies.Com.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/MissionImpossiblePoster.jpg" group-title="VOD MOVIES", MI 1
+http://dl.dlfile.pro/2/Mission_Impossible.1.720p.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Mission_Impossible_II.jpg/220px-Mission_Impossible_II.jpg" group-title="VOD MOVIES", MI 2
+http://dl.dlfile.pro/2/Mission_Impossible.2.720p.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Mission_Impossible_III.jpg" group-title="VOD MOVIES", MI 3
+http://dl.dlfile.pro/2/Mission_Impossible.3.720p.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Mission_impossible_ghost_protocol.jpg" group-title="VOD MOVIES", MI: GHOST PROTOCOL
+http://dl.2tehmovies.com/sr1/mohammad/96/5/19/Mission.Impossible.Ghost.Protocol.2011.720p.YIFY.Tehmovies_me.mp4
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Mission_Impossible_Rogue_Nation_poster.jpg" group-title="VOD MOVIES", MI: ROGUE NATION
+http://dl.2tehmovies.com/94/7/Mission.Impossible.Rogue.Nation.2015.720p.HDrip.Tehmovies.ir.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/The_Hobbit-_An_Unexpected_Journey.jpeg" group-title="VOD MOVIES", THE HOBBIT 1
+http://dl.2tehmovies.com/sr1/user1/96/2/The.Hobbit.An.Unexpected.Journey.2012.EXTENDED.720p.ShAaNiGl.TehMovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/The_Hobbit_-_The_Desolation_of_Smaug_theatrical_poster.jpg" group-title="VOD MOVIES", DESOLATION OF SMAUG
+http://dl.2tehmovies.com/sr1/aban/The%20Hobbit%20The%20Desolation%20of%20Smaug%20%282013%29%20720p_TehMovieS.Com.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/The_Hobbit_-_The_Battle_of_the_Five_Armies.jpg" group-title="VOD MOVIES", BATTLE OF FIVE THE ARMIES
+http://dl.2tehmovies.com/sr1/esfand/The.Hobbit.The.Battle.of.the.Five.Armies.2014.720p.TehMovies.Com.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/Spider-Man2002Poster.jpg" group-title="VOD MOVIES", SPIDERMAN 1
+http://dl3.vaiomusic.org/Movie/Spider%20Man%202002%20-%20720p%20%28media.vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Spider-Man_2_Poster.jpg" group-title="VOD MOVIES", SPIDERMAN 2
+http://dl3.vaiomusic.org/Movie/Spider%20Man%202004%20-%20720p%20%28media.vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Spider-Man_3%2C_International_Poster.jpg" group-title="VOD MOVIES", SPIDERMAN 3
+http://dl3.vaiomusic.org/Movie/Spider%20Man%202007%20-%20720p%20%28media.vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spider-Man_theatrical_poster.jpeg" group-title="VOD MOVIES", THE AMAZING SPIDERMAN 1
+http://dl.2tehmovies.com/94/95/9/The.Amazing.Spider-Man.2012.720p.Ganool.Tehmovies.biz.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spiderman_2_poster.jpg" group-title="VOD MOVIES", THE AMAZING SPIDERMAN 2
+http://dl.2tehmovies.com/94/95/9/The.Amazing.Spider.Man.2.2014.720p.BluRay.x264.YIFY.Tehmovies.biz.mp4
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg" group-title="VOD MOVIES", SPIDERMAN HOMECOMING
+http://dl.2tehmovies.com/94/96/7/Spider.Man.Homecoming.2017.WEB-DL.720p.Tehmovies_top.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ironmanposter.JPG" group-title="VOD MOVIES", IRONMAN 1
+http://dl.2tehmovies.com/sr1/user1/96/2/Iron.Man.2008.720p.ShAaNiG.TehMovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/The_Incredible_Hulk_poster.jpg" group-title="VOD MOVIES", INCREDIBLE HULK
+http://dl.my-film.in/hasan/film/The.Incredible.Hulk.2008.720p-%5BMy-Film%5D.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg" group-title="VOD MOVIES", IRONMAN 2
+http://dl.2tehmovies.com/sr1/user1/96/2/Iron.Man.2.2010.720p.ShAaNiG.TehMovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/Thor_poster.jpg" group-title="VOD MOVIES", THOR 1
+http://dl.2tehmovies.com/trash/Thor.2011.720p.YIFY.TehMovies.mp4
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Captain_America_The_First_Avenger_poster.jpg" group-title="VOD MOVIES", CAPTAIN AMERICA 1
+http://dl.2tehmovies.com/sr1/shahryar/96/7/Captain.America.The.First.Avenger.2011.BluRay.720p.Ganool.%28TehMovies%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/TheAvengers2012Poster.jpg" group-title="VOD MOVIES", THE AVENGERS 1
+http://dl.my-film.in/s1/Movie/The.Avengers.2012/The.Avengers.2012.720p.Ganool-%5BMy-Film%5D.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Iron_Man_3_theatrical_poster.jpg" group-title="VOD MOVIES", IRONMAN 3
+http://dl.2tehmovies.com/sr1/user1/96/2/Iron.Man.3.2013.720p.Ganool.TehMovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Thor_-_The_Dark_World_poster.jpg" group-title="VOD MOVIES", THOR: DARK WORLD
+http://dl.dlfile.pro/2/Thor.The.Dark.World.2013.720p.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Captain_America_The_Winter_Soldier.jpg" group-title="VOD MOVIES",WINTER SOLDIER
+http://dl3.vaiomusic.org/Movie/Captain%20America%20The%20Winter%20Soldier%202014%20-%20720p%20%28media.vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Guardians_of_the_Galaxy_poster.jpg" group-title="VOD MOVIES", GUARDIANS OF GALAXY 1
+http://dl3.vaiomusic.org/Movie/Guardians%20of%20the%20Galaxy%202014%20-%20720p%20%28media.vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Avengers_Age_of_Ultron_poster.jpg" group-title="VOD MOVIES", AGE OF ULTRON
+http://dl.2tehmovies.com/94/6/Avengers.Age.of.Ultron.2015.720p.Tehmovies.ir.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Ant-Man_poster.jpg" group-title="VOD MOVIES", ANT MAN
+http://dl.2tehmovies.com/94/8/Ant.Man.2015.720p.HDrip.Tehmovies.ir.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg" group-title="VOD MOVIES", CAPT AMERICA: CIVIL WAR
+http://dl.2tehmovies.com/94/95/6/Captain.America.Civil.War.2016.720p.NBY.Tehmovies.biz.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/Doctor_Strange_poster.jpg" group-title="VOD MOVIES", DOCTOR STRANGE
+http://dl.2tehmovies.com/94/95/11/Doctor.Strange.2016.720p.MkvCage.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/Guardians_of_the_Galaxy_Vol_2_poster.jpg" group-title="VOD MOVIES", GUARDIANS OF GALAXY 2
+http://dl.funsaber.net/movie/96/5/Guardians_of_the_Galaxy_Vol_2_2017_720p_BrRip_x265_MkvCage_Funsaber_Net.mkv
+#EXTINF:1, tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-fast-and-the-furious-2001/large_3cucyEuLOOjjJ8nem5facsTEy68.jpg" group-title="VOD MOVIES", FAST AND FURIOUS 1
+http://dl.2tehmovies.com/94/95/10/fast/Fast.1.720p.Tehmovies_bid.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Two_fast_two_furious_ver5.jpg" group-title="VOD MOVIES", FAST AND FURIOUS 2
+http://dl.dlfile.pro/2/Fast.2.Furious.2003.720p.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Poster_-_Fast_and_Furious_Tokyo_Drift.jpg/220px-Poster_-_Fast_and_Furious_Tokyo_Drift.jpg" group-title="VOD MOVIES", FAST AND FURIOUS 3
+http://dl.dlfile.pro/2/The.Fast.and.the.Furious.Tokyo.Drift.2011.720p.BrRip.x264.YIFY.mp4
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/Fast_and_Furious_Poster.jpg" group-title="VOD MOVIES", FAST AND FURIOUS 4
+http://dl.movieo.ir/dlha/files/Fast%20and%20Furious/Fast.4.720p.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Fast_Five_poster.jpg" group-title="VOD MOVIES", FAST AND FURIOUS 5
+http://dl.movieo.ir/dlha/files/Fast%20and%20Furious/Fast.5.720p.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/FastandFurious6-teaserposter.jpg" group-title="VOD MOVIES", FAST AND FURIOUS 6
+http://dl.dlfile.pro/2/Fast.And.Furious.6.2013.EXTENDED.720p.Ganool.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Furious_7_poster.jpg" group-title="VOD MOVIES", FAST AND FURIOUS 7
+http://dl3.vaiomusic.org/Movie/Furious%207%202015%20-%20720p%20%28media.vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/The_Fate_of_The_Furious_Theatrical_Poster.jpg" group-title="VOD MOVIES", FAST AND FURIOUS 8
+http://dl.dlfile.pro/2/The.Fate.of.the.Furious.2017.HC.720p.HDrip.nItRo.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Salt_film_theatrical_poster.jpg" group-title="VOD MOVIES", SALT
+http://dl.2tehmovies.com/94/95/12/Salt.720p.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Allied_%28film%29.png" group-title="VOD MOVIES", ALLIED
+hhttp://dl.2tehmovies.com/94/95/11/Allied.2016.720p.Ganool.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Mr_and_Mrs_Smith_poster.png" group-title="VOD MOVIES", MR & MRS SMITH
+http://dl.marzfun.ir/ali/Film/Dooble/1395/09/02/Mr.Mrs.Smith.2005.720p%20%28MarzFun.ir%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/War_for_the_Planet_of_the_Apes_poster.jpg" group-title="VOD MOVIES", WAR FOR THE PLANET OF THE APES
+http://dl.2tehmovies.com/94/96/7/War.for.the.Planet.of.the.Apes.2017.1080p.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://in.bmscdn.com/iedb/movies/images/website/poster/large/a-hitman-s-bodyguard-et00056136-17-04-2017-11-16-32.jpg" group-title="VOD MOVIES", HITMAN'S BODYGUARD
+http://dl.2tehmovies.com/94/96/8/The.Hitmans.Bodyguard.2017.720p.MkvCage.Tehmovies.mkvv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Baby_Driver_poster.jpg" group-title="VOD MOVIES", BABY DRIVER
+http://dl.2tehmovies.com/94/96/7/Baby.Driver.2017.720p.MkvCage.Tehmovies_top.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/The_Mummy_%282017%29.jpg" group-title="VOD MOVIES", THE MUMMY
+http://dl.2tehmovies.com/94/96/6/The.Mummy.2017.720p.MkvCage.Tehmovies_top.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/The_Great_Wall_%28film%29.png" group-title="VOD MOVIES", THE GREAT WALL
+http://dl.2tehmovies.com/94/96/2/The.Great.Wall.2016.720p.ShAaNiG.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/The_Dark_Tower_teaser_poster.jpg" group-title="VOD MOVIES", THE DARK TOWER
+http://dl.2tehmovies.com/94/96/7/The.Dark.Tower.2017.720p.BRRip.900MB.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Pirates_of_the_Caribbean%2C_Dead_Men_Tell_No_Tales.jpg" group-title="VOD MOVIES", DEAD MEN TELL NO TALES
+http://dl.2tehmovies.com/94/96/6/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.720p.MkvCage.Tehmovies_top.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Unlocked_%282017_film%29.jpg" group-title="VOD MOVIES", UNLOCKED
+http://dl.2tehmovies.com/94/96/6/Unlocked.2017.720p.Ganool.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Baywatch_poster.jpg" group-title="VOD MOVIES", BAYWATCH
+http://dl.2tehmovies.com/94/96/5/Baywatch.2017.UNRATED.720p.MkvCage.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Wanted_film_poster.jpg" group-title="VOD MOVIES", WANTED
+http://mc1.dl3enter.in/files/d1/film/2008/Wanted/Wanted.2008.720p.BluRay.DL.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Batman_v_Superman_poster.jpg" group-title="VOD MOVIES", BATMAN VS SUPERMAN
+http://dl.dlfile.pro/2/Batman.v.Superman.Dawn.of.Justice.2016.EXTENDED.720p.BluRay.x265.ShAaNiG.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Assassin%27s_Creed_film_poster.jpg" group-title="VOD MOVIES", ASSASSIN'S CREED
+http://dl.2tehmovies.com/94/95/12/A.s.s.a.s.s.i.n.s.Creed.2016.720p.WEB-DL.MkvCage.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://a.ltrbxd.com/resized/film-poster/2/5/8/1/2/8/258128-rogue-one-a-star-wars-story-0-230-0-345-crop.jpg" group-title="VOD MOVIES", STAR WARS: ROGUE ONE
+http://dl.2tehmovies.com/94/95/12/Rogue.One.2016.720p.MkvCage.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Valerian_and_the_City_of_a_Thousand_Planets.jpg" group-title="VOD MOVIES", VALERIAN
+http://dl.2tehmovies.com/94/96/8/Valerian.and.the.City.of.a.Thousand.Planets.2017.720p.Ganool.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Kong_Skull_Island_poster.jpg" group-title="VOD MOVIES", KONG: SKULL ISLAND
+http://dl.2tehmovies.com/94/96/3/Kong.Skull.Island.2017.720p.MkvCage.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Atomic_Blonde_poster.jpg" group-title="VOD MOVIES", ATOMIC BLONDE
+http://dl.2tehmovies.com/94/96/8/Atomic.Bl0nde.2017.720p.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Divergent.jpg" group-title="VOD MOVIES", DIVERGENT
+http://dl.dlfile.pro/ali/film/movie/Divergent%202014%20BluRay%20720p.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Insurgent_poster.jpg" group-title="VOD MOVIES", DIVERGENT: INSURGENT
+http://dl.2tehmovies.com/94/4/Insurgent.2015.720p.HDrip.Tehmovies.com.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Allegiantfilmposter.jpg" group-title="VOD MOVIES", DIVERGENT: ALLEGIANT
+http://dl.2tehmovies.com/94/95/4/Allegiant.2016.720p.Tehmovies.org.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/The_Maze_Runner_poster.jpg" group-title="VOD MOVIES", MAZE RUNNER 1
+http://dl2.hexdownload.net/up/Movie/Foreign/1396/10/The.Maze.Runner.2014.Bluray.720p.HexDL.com.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Maze-Runner-The-Scorch-Trials-Poster.jpg" group-title="VOD MOVIES", MAZE RUNNER 2
+http://dl.2tehmovies.com/94/8/Maze.Runner.The.Scorch.Trials.2015.720p.Tehmovies.ir.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Hacksaw_Ridge_poster.png" group-title="VOD MOVIES", HACKSAW RIDGE
+http://dl.2tehmovies.com/94/95/11/Hacksaw.Ridge.2016.720p.ShAaNiG.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Passengers_2016_film_poster.jpg" group-title="VOD MOVIES", PASSENGERS
+http://dl.2tehmovies.com/94/95/12/Passengers.2016.720p.ShAaNiG.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Lucy_%282014_film%29_poster.jpg" group-title="VOD MOVIES", LUCY
+http://dl3.vaiomusic.org/Movie/Lucy%202014%20-%201080p%28vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg" group-title="VOD MOVIES", MAD MAX
+http://dl3.vaiomusic.org/Movie/Mad%20Max%20Fury%20Road%202015%20-%20720P%20%28media.vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Elysium_Poster.jpg" group-title="VOD MOVIES", Elysium
+http://dl.2tehmovies.com/94/96/12/Elysium.2013.720p.BluRay.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/The_Hateful_Eight.jpg" group-title="VOD MOVIES", The Hateful Eight
+http://dl3.vaiomusic.org/Movie/The%20Hateful%20Eight%202015%20-%20720p%20%28media.vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/The_November_Man_poster.jpg" group-title="VOD MOVIES", November Man
+http://dl3.vaiomusic.org/Movie/The%20November%20Man%202014%20-%201080p%20%28vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/The_Imitation_Game_%282014%29.png" group-title="VOD MOVIES", Imitation Game
+http://dl3.vaiomusic.org/Movie/The%20Imitation%20Game%202014%20-%201080%20p%20%28media.vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/Project_Almanac_poster.jpg" group-title="VOD MOVIES", Project Almanac
+http://dl3.vaiomusic.org/Movie/Project%20Almanac%202014%20-%201080p%20%28%20media.vaiomusic%29.mkv.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Gods_of_Egypt_poster.jpg" group-title="VOD MOVIES", Gods of Egypt
+http://dl3.vaiomusic.org/Movie/Gods%20of%20Egypt%202016%20-%20720p%20%28media.vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/47Ronin2012Poster.jpg" group-title="VOD MOVIES", 47 Ronin
+http://dl3.vaiomusic.org/Movie/47%20Ronin%202013%20-720p%20%28media.vaiomusic.Org%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Edge_of_Tomorrow_Poster.jpg" group-title="VOD MOVIES", Edge of Tomorrow
+http://dl3.vaiomusic.org/Movie/Edge.of.Tomorrow.2014.720p.%28media.vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Everest_poster.jpg" group-title="VOD MOVIES", Everest
+http://dl3.vaiomusic.org/Movie/Everest%202015%20-%20720p%20%28media.vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Fantastic_Four_poster.jpg" group-title="VOD MOVIES", Fantastic Four
+http://dl3.vaiomusic.org/Movie/Fantastic%20Four%202005%20-%201080p%20%28vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Fantastic_Four_2_Poster.jpg" group-title="VOD MOVIES", Rise of the Silver Surfer
+http://dl3.vaiomusic.org/Movie/Fantastic%20Four%20Rise%20of%20the%20Silver%20Surfer%202007%20-%201080p%20%28media.vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/2015_Focus_film_poster.png" group-title="VOD MOVIES", Focus
+http://dl3.vaiomusic.org/Movie/Focus%202015%20-%201080p%20%28media.vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg" group-title="VOD MOVIES", Interstellar
+http://dl3.vaiomusic.org/Movie/Interstellar%202014%20-720p%20%28media.vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Nightcrawlerfilm.jpg" group-title="VOD MOVIES", Nightcrawler
+http://dl3.vaiomusic.org/Movie/Nightcrawler%202014%20-%20720p%20%28vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Point_Break_poster.jpg" group-title="VOD MOVIES", Point Break
+http://dl3.vaiomusic.org/Movie/Point%20Break%202015%20-%20720p%20%28media.vaiomusic%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/The_Foreigner_%282017_film%29.jpg" group-title="VOD MOVIES", The Foreigner
+http://dl.2tehmovies.com/94/96/10/The.Foreigner.2017.720p.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Wind_River_%282017_film%29.png" group-title="VOD MOVIES", Wind River
+http://dl.2tehmovies.com/94/96/8/Wind.River.2017.720p.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Kung_Fu_Yoga_poster.jpeg" group-title="VOD MOVIES", Kung Fu Yoga
+http://dl.2tehmovies.com/94/96/2/Kung.Fu.Yoga.2017.720p.Ganool.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/American_Made_%28film%29.jpg" group-title="VOD MOVIES", American Made
+http://dl.2tehmovies.com/94/96/9/American.Made.2017.720p.SHeRiF.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Hangman_%282017%29_film_poster.jpg" group-title="VOD MOVIES", Hangman
+http://dl.2tehmovies.com/sr1/mari/96/11/Hangman.2017.720p.6CH.RARBG.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/08/The_Snowman_%282017%29_poster.jpg" group-title="VOD MOVIES", The Snowman
+http://dl.2tehmovies.com/94/96/10/The.Snowman.2017.720p.Ganool.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Justice_League_film_poster.jpg" group-title="VOD MOVIES", JUSTICE LEAGUE
+http://dl.releaze.xyz/Justice.League.2017.1080p.WEBRip.x265.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Wolf_Warriors_2_poster.jpeg" group-title="VOD MOVIES", WOLF WARRIOR 2
+http://dl.filmha.co/2017/film/khareji/Wolf%20Warrior%202%202017/Wo.lf.War.rior.2.2017.1080p.wb-dl.filmha.co.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Beauty_and_the_Beast_2017_poster.jpg" group-title="VOD MOVIES", Beauty and the Beast
+http://dl.2tehmovies.com/94/96/2/Beauty.and.the.Beast.2017.720p.ShAaNiG.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/King_Arthur_LotS_poster.jpg" group-title="VOD MOVIES", King Arthur
+http://dl.2tehmovies.com/94/96/5/King.Arthur.Legend.of.the.Sword.2017.720p.MkvCage.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Despicable_Me_3_%282017%29_Teaser_Poster.jpg" group-title="VOD MOVIES", Despicable Me 3
+http://dl.2tehmovies.com/94/96/6/Despicable.Me.3.2017.1080p.MkvCage.Tehmovies_top.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg" group-title="VOD MOVIES", It (2017)
+http://dl.2tehmovies.com/94/96/9/IT.2017.720p.Ganool.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Dunkirk_Film_poster.jpg" group-title="VOD MOVIES", DUNKIRK
+http://dl.2tehmovies.com/sr1/mari/96/9/Dunkirk.2017.720p.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Kingsman_The_Golden_Circle.png" group-title="VOD MOVIES", Kingsman The Golden Circle
+http://dl.2tehmovies.com/94/96/9/Kingsman.The.Golden.Circle.2017.720p.x265.Pahe.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Moana_Teaser_Poster.jpg" group-title="VOD MOVIES", Moana
+http://dl.2tehmovies.com/94/95/11/Moana.2016.720p.MkvCage.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png" group-title="VOD MOVIES", Blade Runner 2049
+http://dl.2tehmovies.com/94/96/9/Blade.Runner.2049.2017.720p.WEB-DL.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Thor_Ragnarok_poster.jpg" group-title="VOD MOVIES", THOR: RAGNAROK
+http://dl.2tehmovies.com/94/96/10/Thor.Ragnarok.2017.720p.WEB-DL.x265.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Jigsaw_2017_poster.jpg" group-title="VOD MOVIES", Jigsaw
+http://dl.2tehmovies.com/94/96/10/Jigsaw.2017.720p.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/Wonder_%28film%29.png" group-title="VOD MOVIES", Wonder
+http://dl.2tehmovies.com/94/96/11/Wonder.2017.720p.Ganool.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Braven_Poster.jpg" group-title="VOD MOVIES", Braven
+http://dl.2tehmovies.com/sr1/mari/96/12/Braven.2018.720p.Ganool.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/Only_the_Brave_%282017_film%29.jpg" group-title="VOD MOVIES", Only The Brave
+http://dl.2tehmovies.com/94/96/10/Only.the.Brave.2017.720p.x265.RMTeam.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/What_Happened_to_Monday.png" group-title="VOD MOVIES", What Happened to Monday
+http://dl.2tehmovies.com/94/96/9/What.Happened.to.Monday.2017.720p.Ganool.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Stronger_film_poster.jpg" group-title="VOD MOVIES", Stronger
+http://dl.2tehmovies.com/94/96/9/Stronger.2017.720p.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Singularity_2017.jpg" group-title="VOD MOVIES", Singularity
+http://dl.2tehmovies.com/94/96/9/Singularity.2017.720p.Ganool.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/American_Assassin.jpg" group-title="VOD MOVIES", American Assassin
+http://dl.2tehmovies.com/94/96/9/American.Assassin.2017.720p.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/When_We_First_Met.png" group-title="VOD MOVIES", When We First Met
+http://dl.2tehmovies.com/94/96/11/When.We.First.Met.2018.720p.WEB-DL.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://horrorpediadotcom.files.wordpress.com/2017/05/stillborn-2017-horror-movie-poster-2.jpg" group-title="VOD MOVIES", Still Born
+http://dl.2tehmovies.com/94/96/11/Still.Born.2017.720p.WEB-DL.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Murder_on_the_Orient_Express_teaser_poster.jpg" group-title="VOD MOVIES", Murder On The Orient Express
+http://dl.2tehmovies.com/94/96/11/Murder.on.the.Orient.Express.2017.720p.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Jumanji_poster.jpg" group-title="VOD MOVIES", Jumanji
+http://dl.sitemovie.ir/movie/Jumanji_1995_720p_BrRip_Ganool_SiteMovie_ir.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Jumanji_Welcome_to_the_Jungle.png" group-title="VOD MOVIES", Jumanji: Welcome to the Jungle
+http://dl.2tehmovies.com/94/96/12/Jumanji.Welcome.to.the.Jungle.2017.720p.WEB-DL.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg" group-title="VOD MOVIES", Coco
+http://dl.2tehmovies.com/94/96/11/Coco.2017.720p.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="http://monglieutrai.com/wp-content/uploads/2018/02/Headgame-2018-English-Movie-BRRip-720p-860MB-Download.jpg" group-title="VOD MOVIES", Headgame
+http://dl.2tehmovies.com/94/96/11/Headgame.2018.720p.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-movie/the-ballad-of-lefty-brown-poster0.jpg" group-title="VOD MOVIES", The Ballad of Lefty Brown
+http://dl.2tehmovies.com/94/96/11/The.Ballad.of.Lefty.Brown.2017.720p.iExTV.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Posternotebook.jpg" group-title="VOD MOVIES", The Notebook
+http://mc1.dl3enter.in/files/d1/film/2004/The%20NoteBook%202004/The.Notebook.2004.720p.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/If_Only_movie_poster.jpg" group-title="VOD MOVIES", If Only
+http://mc1.dl3enter.in/files/d1/film/2004/If%20Only/If.Only.2004.DVDrip.DL.avi
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/A_Walk_to_Remember_Poster.jpg" group-title="VOD MOVIES", A Walk to Remember
+http://mc1.dl3enter.in/files/d1/film/2002/A%20Walk%20To%20Remember/A%20Walk%20To%20Remember.2002.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Me_Before_You_%28film%29.jpg" group-title="VOD MOVIES", Me Before You
+http://mc1.dl3enter.in/files/d2/Movie/2016/Me%20Before%20You/Me%20Before%20You.2016.BluRay.720p.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Life_as_We_Know_It_Poster.jpg" group-title="VOD MOVIES", Life As We Know It
+http://mc1.dl3enter.in/files/d4/serial1/Movie/2010/Life%20as%20We%20Know%20It/Life.as.We.Know.It.2010.720p.DL.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/When_in_rome_poster.jpg" group-title="VOD MOVIES", When in Rome
+http://mc1.dl3enter.in/files/d4/serial1/Movie/2010/When%20In%20Rome/When.in.Rome.2010.BluRay.720p.DL.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Looking_Glass_%28film%29.jpg" group-title="VOD MOVIES", Looking Glass
+http://dl.2tehmovies.com/94/96/11/Looking.Glass.2018.720p.WEB-DL.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Newness_poster.jpg" group-title="VOD MOVIES", Newness
+http://dl.2tehmovies.com/94/96/11/Newness.2017.720p.BluRay.x264.YIFY.Tehmovies.mp4
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Pitch_Perfect_3.jpg" group-title="VOD MOVIES", Pitch Perfect 3
+http://dl.2tehmovies.com/94/96/12/Pitch.Perfect.3.2017.720p.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/Three_Billboards_Outside_Ebbing%2C_Missouri_poster.png" group-title="VOD MOVIES", Three Billboards 
+http://dl.2tehmovies.com/94/96/11/Three.Billboards.Outside.Ebbing.Missouri.2017.720p.Ganool.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Patriot_promo_poster.jpg" group-title="VOD MOVIES", The Patriot
+http://mc1.dl3enter.in/files/d1/film/2000/The%20Patriot/The.Patriot.2000.720p.BluRay.DL.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/CallMeByYourName2017.png" group-title="VOD MOVIES", Call Me By Your Name
+http://dl.2tehmovies.com/94/96/11/Call.Me.By.Your.Name.2017.720p.WEB-DL.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Darkest_Hour_poster.png" group-title="VOD MOVIES", Darkest Hour
+http://dl.2tehmovies.com/94/96/11/Darkest.Hour.2017.720p.BluRay.YIFY.Tehmovies.mp4
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Lady_Bird_poster.jpeg" group-title="VOD MOVIES", Lady Bird
+http://dl.2tehmovies.com/94/96/11/Lady.Bird.2017.720p.WEB-DL.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/Phantom_Thread.png" group-title="VOD MOVIES", Phantom Thread
+http://dl.2tehmovies.com/94/96/11/Phantom.Thread.2017.HDRip.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/The_Post_%28film%29.png" group-title="VOD MOVIES", The Post
+http://dl.2tehmovies.com/94/96/10/The.Post.2017.DVDScr.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/The_Shape_of_Water_%28film%29.png" group-title="VOD MOVIES", The Shape of Water
+http://dl.2tehmovies.com/94/96/12/The.Shape.of.Water.2017.720p.WEB-DL.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Teaser_poster_for_2017_film_Get_Out.png" group-title="VOD MOVIES", Get Out
+http://dl.2tehmovies.com/94/96/2/Get.Out.2017.720p.MkvCage.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Roman_J._Israel%2C_Esq..png" group-title="VOD MOVIES", Roman J Israel Esq
+http://dl.2tehmovies.com/94/96/10/Roman.J.Israel.Esq.2017.720p.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/I%2C_Tonya_%282017_film%29.png" group-title="VOD MOVIES", I Tonya
+http://dl.hastidl.net/remotes/I.Tonya.2017.720p.MkvCage.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/The_Florida_Project.jpg" group-title="VOD MOVIES", The Florida Project
+http://dl.2tehmovies.com/sr1/mari/96/11/The.Florida.Project.2017.720p.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/All_the_Money_in_the_World.png" group-title="VOD MOVIES", All The Money In The World
+http://dl.hastidl.net/remotes/All.the.Money.in.the.World.2017.720p.MkvCage.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Mudbound_%28film%29.png" group-title="VOD MOVIES", Mudbound
+http://dl.2tehmovies.com/sr1/mari/96/8/Mudbound.2017.WEB-DL.720p.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://123movieshub.sc/images/tt2936390/poster.jpg" group-title="VOD MOVIES", Battle of the Drones
+http://dl.2tehmovies.com/94/96/12/Battle.of.the.Drones.2017.720p.WEB-DL.Tehmovies.mkv
+#EXTINF:1, tvg-logo="http://simplydanielradcliffe.com/wp-content/uploads/81hqa6dPoSL._SL1500_-241x300.jpg" group-title="VOD MOVIES", Beast of Burden
+http://dl.2tehmovies.com/94/96/12/Beast.of.Burden.2018.720p.WEB-DL.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Bleeding_Steel_-_%E6%A9%9F%E5%99%A8%E4%B9%8B%E8%A1%80.jpg" group-title="VOD MOVIES", Bleeding Steel
+http://dl.2tehmovies.com/94/96/12/Bleeding.Steel.2017.720p.HC.WEBRip.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/Ferdinand_%28film%29.png" group-title="VOD MOVIES", Ferdinand
+http://dl.2tehmovies.com/94/96/12/Ferdinand.2017.720p.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://i.jeded.com/i/midnighters.103823.jpg" group-title="VOD MOVIES", Midnighters
+http://dl.2tehmovies.com/94/96/12/Midnighters.2017.720p.WEB-DL.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Paddington_2_poster.jpg" group-title="VOD MOVIES", Paddington 2
+http://dl.2tehmovies.com/94/96/12/Paddington.2.2017.720p.WEB-DL.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/The_Death_of_Stalin.png" group-title="VOD MOVIES", Death of Stalin
+http://dl.2tehmovies.com/94/96/12/The.Death.of.Stalin.2017.720p.Ganool.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/The_Lodgers_%282017%29_Film_Poster.jpg" group-title="VOD MOVIES", The Lodgers
+http://dl.2tehmovies.com/94/96/12/The.Lodgers.2017.720p.WEB-DL.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Wonderwheelfilmposter.jpg" group-title="VOD MOVIES", Wonder Wheel
+http://dl.2tehmovies.com/94/96/12/Wonder.Wheel.2017.720p.Ganool.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Star_Wars_The_Last_Jedi.jpg" group-title="VOD MOVIES", Star Wars: The Last Jedi
+http://dl.2tehmovies.com/94/96/12/Star.Wars.The.Last.Jedi.2017.720p.x265.RMTeam.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/InsidiousTheLastKey.jpg" group-title="VOD MOVIES", Insidious 4
+http://dl.2tehmovies.com/94/96/12/Insidious.The.Last.Key.2018.720p.WEB-DL.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://d1hwmph06ue357.cloudfront.net/new_test/wp-content/uploads/2018/02/keyart-single-bent-vertical.jpg" group-title="VOD MOVIES", Bent
+http://dl.2tehmovies.com/94/96/12/Bent.2018.720p.WEB-DL.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://i2.wp.com/www.lovebugsandpostcards.com/wp-content/uploads/2018/03/AliensAteMyHomework.png" group-title="VOD MOVIES", Aliens Ate My Homework
+http://dl.2tehmovies.com/94/96/12/Aliens.Ate.My.Homework.2018.HDRip.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/The_Greatest_Showman_poster.png" group-title="VOD MOVIES", The Greatest Showman
+http://dl.2tehmovies.com/94/96/12/The.Greatest.Showman.2017.720p.WEB-DL.MkvCage.Tehmovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Sid_and_nancy_poster.jpg" group-title="VOD MOVIES", Sid and Nancy 1
+https://archive.org/download/Sid.and.Nancy/Sid.and.Nancy.mp4
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/Memento_poster.jpg" group-title="VOD MOVIES", Memento
+http://dl.2tehmovies.com/94/96/5/Memento.2000.720p.Farsi.Dubbed.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Seven_%28movie%29_poster.jpg" group-title="VOD MOVIES", Se7en
+http://dl.my-film.in/s1/Movie/Se7en.1995/Se7en.1995.REMASTERED.720p.ShAaNiG.95363031.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Shutterislandposter.jpg" group-title="VOD MOVIES", Shutter Island
+http://dl.2tehmovies.com/sr1/aban/Shutter%20Island%20%282010%29%20720p_TehMovieS.Com.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/La_confidential.jpg" group-title="VOD MOVIES", LA Confidential
+http://dl.2tehmovies.com/94/95/250/L.A.Confidential.1997.720p.Tehmovies.biz.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg" group-title="VOD MOVIES", Silence of the Lambs
+http://dl.my-film.in/reza/film/The.Silence.of.the.Lambs.1991.720p-[My-Film].mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Hannibal_movie_poster.jpg" group-title="VOD MOVIES", Hannibal
+http://dl.2tehmovies.com/94/11/Hannibal.2001.720p.Tehmovies.net.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Red_Dragon_movie.jpg" group-title="VOD MOVIES", Red Dragon
+http://mc1.dl3enter.in/files/d1/film/2002/Red%20Dragon/Red.Dragon.2002.720p.BluRay.DL.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Hannibalrisingposter.jpg" group-title="VOD MOVIES", Hannibal Rising
+http://dl.2tehmovies.com/94/11/Hannibal.Rising.2007.UNRATED.720p.Tehmovies.net.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Top_Gun_Movie.jpg" group-title="VOD MOVIES", Top Gun
+http://mc1.dl3enter.in/files/d1/film/1986/Top%20Gun/Top.Gun.1986.720p.BluRay.DL.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/War_of_the_Worlds_2005_poster.jpg" group-title="VOD MOVIES", War of the Worlds
+http://dl.2tehmovies.com/94/95/8/War.of.The.Worlds.2005.720p.Ganool.Tehmovies.biz.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Tropic_thunder_ver3.jpg" group-title="VOD MOVIES", Tropic Thunder
+http://dl.2tehmovies.com/sr1/bahman/Tropic.Thunder.2008.Uncut.720p.TehMovies.Com.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Oblivion2013Poster.jpg" group-title="VOD MOVIES", Oblivion
+http://79.127.126.110/Film/1900-2016/Oblivion.2013.720p.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Jack_Reacher_poster.jpg" group-title="VOD MOVIES", Jack Reacher 1
+http://79.127.126.110/Film/1900-2016/Jack.Reacher.2012.720p.ShAaNiG.Farsi.Dubbed.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Vanilla_sky_post.jpg" group-title="VOD MOVIES", Vanilla Sky
+http://dl.2tehmovies.com/sr1/user1/96/3/Vanilla.Sky.2001.720p.Ganool.TehMovies..mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/Eyes_Wide_Shut_%281999%29.png" group-title="VOD MOVIES", Eyes Wide Shut
+http://dl.2tehmovies.com/sr1/user1/96/2/Eyes.Wide.Shut.1999.720p.YIFY.TehMovies.mp4
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Cocktail_1988.jpg" group-title="VOD MOVIES", Cocktail
+http://mc1.dl3enter.in/files/d1/Movie/1988/Cocktail/Cocktail.1988.BluRay.720p.DL.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Collateral_%28Movie%29.jpg" group-title="VOD MOVIES", Collateral
+http://dl.funsaber.net/movie/95%20/10/Collateral.2004.720p.Funsaber.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Jerry_Maguire_movie_poster.jpg" group-title="VOD MOVIES", Jerry Maguire
+http://dl.2tehmovies.com/sr1/user1/96/5/Jerry.Maguire.1996.BrRip.720p...TehMovies.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/Knight_and_day_09.jpg" group-title="VOD MOVIES", Knight and Day
+http://79.127.126.110/Film/1900-2016/Knight.And.Day.2010.EXTENDED.720p.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Jack_Reacher_Never_Go_Back_poster.jpg" group-title="VOD MOVIES", Jack Reacher 2
+http://dl.2tehmovies.com/94/95/10/Jack.Reacher.Never.Go.Back.2016.720p.BluRay.ShAaNiG.Tehmovies_me.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/Minority_Report_Poster.jpg" group-title="VOD MOVIES", Minority Report
+http://dl.funsaber.net/movie/96/2/Minority.Report.2002.720p.Farsi.Dubbed%28Funsaber_Net%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/The_Last_Samurai.jpg" group-title="VOD MOVIES", The Last Samurai
+http://avadl.uploadt.com/DL7/Film/X265/The%20Last%20Samurai%202003%20BrRip%20720p%20x265_AVADL.BiZ.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/A_Few_Good_Men_poster.jpg" group-title="VOD MOVIES", A Few Good Men
+http://dl.funsaber.net/movie/95%20/11/A.Few.Good.Men.1992.720p.Funsaber.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Rain_Man_poster.jpg" group-title="VOD MOVIES", Rain Man
+http://dl.funsaber.net/movie/96/2/Rain.Man.1988.720p.Farsi.Dubbed%28Funsaber%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Rock_of_ages_film_poster.jpg" group-title="VOD MOVIES", Rock of Ages
+http://razmovie.parsaspace.com/ashkan/movie/foreign/95/9/9/Rock.Of.Ages.720p.Ganool.%5BRazMovie.com%5D.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Valkyrie_poster.jpg" group-title="VOD MOVIES", Valkyrie
+http://dl.2tehmovies.com/sr1/shahryar/96/11/2/Valkyrie.2008.720p.%28TehMovies%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Born_On_The_4th_Of_July.jpg" group-title="VOD MOVIES", Born on the Fourth of July
+http://dl.funsaber.net/movie/95%20/11/Born.on.the.Fourth.of.July.1989.720p.Funsaber.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Thepassionposterface-1-.jpg" group-title="VOD MOVIES", The Passion of Christ
+http://dl.my-film.in/reza/film/The.Passion.of.the.Christ.2004.720p.BluRay-[My-Film].mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/10Command56.jpg" group-title="VOD MOVIES", Ten Commandments
+http://dl.2tehmovies.com/sr1/user1/96/2/The.Ten.Commandments.1956.720p.YIFY.TehMovies.mp4
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Son_of_God_film_poster.jpg" group-title="VOD MOVIES", Son of God
+http://dl.2tehmovies.com/sr1/aban/Son%20of%20God%20%282014%29%20720p_TehMovieS.Com.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Noah2014Poster.jpg" group-title="VOD MOVIES", Noah
+http://dl.2tehmovies.com/sr1/aban/Noah.2014.720p.BR_TehMovieS.Com.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Ben-Hur_2016_poster.png" group-title="VOD MOVIES", Ben Hur
+http://dl.2tehmovies.com/94/95/9/Ben-Hur.2016.720p.ShAaNiG.Tehmovies.biz.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/The_Commuter_film_poster.jpg" group-title="VOD MOVIES", The Commuter
+http://dl.hastidl.net/remotes/The.Commuter.2018.720p.HDRip.MkvCage.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/MazeRunnerDeathCureFinalPoster.jpeg" group-title="VOD MOVIES", Maze Runner: The Death Cure
+http://dl.hastidl.net/remotes/Maze.Runner.The.Death.Cure.2018.720p.HC.HDRip.MkvCage.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Black_Panther_film_poster.jpg" group-title="VOD MOVIES", Black Panther (HDTS Copy)
+http://dl.hastidl.net/remotes/Black.Panther.2018.HC.720p.HDTC.MkvCage.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Fifty_Shades_Freed_poster.png" group-title="VOD MOVIES", Fifty Shades Freed 
+http://dl.hastidl.net/remotes/Fifty.Shades.Freed.2018.UNRATED.720p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Scorched_Earth_%282018_film%29.jpg" group-title="VOD MOVIES", Scorched Earth
+http://dl.hastidl.net/remotes/Scorched.Earth.2018.720p.DibaMoviez.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/The_Layover_%28film%29.jpg" group-title="VOD MOVIES", The Layover
+http://dl.hastidl.net/remotes/The_Layover_2017_720p_WEB-DL_MkvCage_%28DibaMovie%29.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Ready_Player_One_%28film%29.png" group-title="VOD MOVIES", Ready Player One
+http://dl.hastidl.net/remotes/Ready.Player.One.2018.720p.HDTS.MkvCage.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Pacificrim2-poster.jpg" group-title="VOD MOVIES", Pacific Rim Uprising
+http://dl.hastidl.net/remotes/Pacific.Rim.Uprising.2018.720p.HC.HDRip.MkvCage.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3d/Peter-rabbit-teaser.jpg" group-title="VOD MOVIES", Peter Rabbit
+http://dl.hastidl.net/remotes/Peter.Rabbit.2018.720p.x265.RMTeam.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3d/Peter-rabbit-teaser.jpg" group-title="VOD MOVIES", Den of Thieves
+http://dl.hastidl.net/remotes/Den.of.Thieves.2018.720p.WEB-DL.MKVCage.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Annihilation_%28film%29.png" group-title="VOD MOVIES", Annihilation
+http://dl.hastidl.net/remotes/Annihilation.2018.720p.NF.WEB-DL.DD5.1.x264-NTG.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3d/Peter-rabbit-teaser.jpg" group-title="VOD MOVIES", Red Sparrow
+http://dl.hastidl.net/remotes/Red.Sparrow.2018.HC.720p.HDRip.MkvCage.mkv
