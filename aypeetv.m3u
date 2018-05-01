@@ -13,6 +13,10 @@ http://nitrotv.for-the.biz:25461/live/Zeke/1234/19285.ts
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/19282.ts
 #EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",TV Globo Premium alt
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/19286.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",VIVA
+http://painel1.diamanteiptv.top:25461/live/8488662555/WH658zxoyM/14050.ts
+#EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",VIVA HD
+http://painel1.diamanteiptv.top:25461/live/8488662555/WH658zxoyM/14049.ts
 #EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",AE HD 
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/3390.ts
 #EXTINF:-1, tvg-logo="http://www.flagz.co.nz/wp-content/uploads/2013/08/Brazil-flag.jpg" group-title="BRAZIL",Arte 1 
