@@ -1525,6 +1525,10 @@ http://vapi.vaders.tv/play/2461.ts?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXN
 http://vapi.vaders.tv/play/2459.ts?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ=
 #EXTINF:-1 tvg-ID="USANetwork.us" tvg-name="USA Network HD" tvg-logo="https://imgur.com/YEXrzHp.png" group-title="United States",USA Network HD
 http://vapi.vaders.tv/play/2462.ts?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ=
+#EXTINF:-1,tvg-logo="https://imgur.com/YEXrzHp.png" group-title="United States", USA ALT
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7729.ts
+#EXTINF:-1,tvg-logo="https://imgur.com/YEXrzHp.png" group-title="United States", USA ALT 2
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/547.ts
 #EXTINF:-1 tvg-ID="I9421.31046.schedulesdirect.org" tvg-name="Velocity HD" tvg-logo="http://i65.tinypic.com/inu2x1.png" group-title="United States",Velocity HD
 http://vapi.vaders.tv/play/2776.ts?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ=
 #EXTINF:-1 tvg-ID="I196.11180.schedulesdirect.org" tvg-name="Travel Channel HD" tvg-logo="https://imgur.com/O4qdtCb.png" group-title="United States",Travel Channel HD
