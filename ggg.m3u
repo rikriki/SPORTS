@@ -3355,13 +3355,13 @@ https://59c3ec70cfde0.streamlock.net/channel_2/channel2/chunklist_w838248083.m3u
 #EXTINF:-1, tvg-logo="https://www.shoptv.com.ph/skin/frontend/cudsly/default/images/shoptv-logo.png" group-title="PINOY TV", BEAM SHOP TV
 https://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist_w174661881.m3u8
 #EXTINF:-1, tvg-logo="http://www.filipinotelevision.com/wp-content/uploads/2014/05/slider-tfc-unit.png"  group-title="PINOY TV", TFC
-http://vapi.vaders.tv/play/38782.m3u8?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
+http://vapi.vaders.tv/play/38782.ts?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
 #EXTINF:-1, tvg-logo="https://mark.trademarkia.com/logo-images/gma-network/gma-life-tv-77287763.jpg" group-title="PINOY TV", GMA Life TV
-http://vapi.vaders.tv/play/39631.m3u8?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
+http://vapi.vaders.tv/play/39631.ts?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/GMA_News_TV_official_slogan.jpg" group-title="PINOY TV", GMA News
-http://vapi.vaders.tv/play/39633.m3u8?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
+http://vapi.vaders.tv/play/39633.ts?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
 #EXTINF:-1, tvg-logo="https://www.lycatv.tv/img/upload/contents/channelpage/channels/07104534gma%20pinoytv.png" group-title="PINOY TV", GMA Pinoy
-http://vapi.vaders.tv/play/39632.m3u8?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
+http://vapi.vaders.tv/play/39632.ts?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
 #EXTINF:-1, tvg-logo="http://www.nyxmartinez.com/wp-content/uploads/2015/05/Living-Asia-Channel.jpg" group-title="PINOY TV", LIVING ASIA CHANNEL
 https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="VOD MOVIES", JOHN WICK  
