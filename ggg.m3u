@@ -3312,12 +3312,10 @@ http://dl.hastidl.net/remotes/Annihilation.2018.720p.NF.WEB-DL.DD5.1.x264-NTG.mk
 http://dl.hastidl.net/remotes/Red.Sparrow.2018.HC.720p.HDRip.MkvCage.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Cartel-nuevo-de-el-secreto-de-sus-ojos.jpg" group-title="VOD MOVIES", The Secret In Their Eyes
 http://mc1.dl3enter.in/files/d1/film/2009/The%20Secret%20in%20Their%20Eyes/The.Secret.in.Their.Eyes.2009.720p.BluRay.DL.mkv
-#EXTINF:-1,tvg-logo="https://aureusacademy.com/wp-content/uploads/2017/05/Screen-Shot-2017-05-31-at-16.01.48.png" group-title="ASIAN TV",Channel News Asia
-https://tglcnash-i.akamaihd.net/hls/live/566559/pcweb/02.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/778129630284902401/gXjFkqGM_400x400.jpg" group-title="ASIAN TV",Bloomberg TV Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-240-1_live.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/875639380781563906/b1J1YbIE_400x400.jpg" group-title="ASIAN TV",Al Jazeera
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/9417.ts
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/875646402247901184/N4GGER3R_400x400.jpg" group-title="ASIAN TV",France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="ASIAN TV",Sky News
@@ -3350,61 +3348,25 @@ http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/8623.ts
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/8641.ts
 #EXTINF:-1,tvg-logo="http://i63.tinypic.com/qs8fwo.png" group-title="ASIAN TV",TLC Asia
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/8599.ts
-#EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c01.png" group-title="CHINA/TAIWAN",Formosa TV
-https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv002/stream0.m3u8?token=4MC3lt42i8p4imEqWLmAWw&expires=1524584321
-#EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c02.png" group-title="CHINA/TAIWAN",FTV News
-https://mozai.4gtv.tv/m3u8/embed/litv-ftv13/stream0.m3u8?token=SkVQUzbmRkKgQtU_hZMmow&expires=1524584391
-#EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c03.png" group-title="CHINA/TAIWAN",FT TV
-https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv001/stream0.m3u8?token=JpjM0jGAoFHpFwoWrcxeiQ&expires=1524584428
-#EXTINF:-1, tvg-logo="http://www.ftv.com.tw/images/c04.png" group-title="CHINA/TAIWAN",FMTV
-https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv003/stream0.m3u8?token=4VdCHD_Ry-DW3PtvOZvBGg&expires=1524584461
-#EXTINF:-1, tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv035_mobile.png" group-title="CHINA/TAIWAN",Bonus 1
-https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv035/stream0.m3u8?token=Q7dQP6JLe2rQEGXji3YyyA&expires=1524584487
-#EXTINF:-1, tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-longturn09_mobile.png" group-title="CHINA/TAIWAN",Bonus 2
-https://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv038/stream0.m3u8?token=mZ3ag-zVFhdug0qZH01ijA&expires=1524584536
-#EXTINF:-1, group-title="CHINA/TAIWAN", CCTV-4
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225521/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", CCTV-7
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225832/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", CCTV-11
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225983/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", ShengZhenWeiShi
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225501/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", JiangSuWeiShi
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", DianYing
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", ShanDongWeiShi
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225775/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", LiaoNingWeiShi
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225782/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", BeiJingWeiShi
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225988/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", DongFangWeiShi
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", GuangDongWeiShi
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225985/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", AnHuiWeiShi
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225809/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", GuangXiWeiShi
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225811/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", GuangXiWeiShi
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226002/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", JiaoYuQingNian
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225872/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", ShengHuo
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225873/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", DongMan
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225996/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", YouXiFengYun
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226003/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", KaKuShaoEr
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", JingYingKaTong
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", BST TiYu1
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", BST TiYu2
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226035/index.m3u8
-#EXTINF:-1, group-title="CHINA/TAIWAN", Knews24
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226041/index.m3u8
+#EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/810_300.png" group-title="ASIAN TV",Astro SuperSport 1 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1366.ts
+#EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/811_300.png" group-title="ASIAN TV",Astro SuperSport 2 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1365.ts
+#EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/816_300.png" group-title="ASIAN TV",Astro SuperSport 3 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1364.ts
+#EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/817_300.png" group-title="ASIAN TV",Astro SuperSport 4 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1161.ts
+#EXTINF:-1,tvg-logo="http://channel.jibhd.com/public/uploads/2017-11/Livetv_sd-skynetsportshd.png" group-title="ASIAN TV",SkyNet Sports HD 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1160.ts
+#EXTINF:-1,tvg-logo="http://channel.jibhd.com/public/uploads/2017-11/Livetv_sd-skynetsports1.png" group-title="ASIAN TV",SkyNet Sports 1 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1159.ts
+#EXTINF:-1,tvg-logo="http://channel.jibhd.com/public/uploads/2017-11/Livetv_sd-skynetsports2.png" group-title="ASIAN TV",SkyNet Sports 2 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1158.ts
+#EXTINF:-1,tvg-logo="http://channel.jibhd.com/public/uploads/2017-11/Livetv_sd-skynetsports3.png" group-title="ASIAN TV",SkyNet Sports 3 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1157.ts
+#EXTINF:-1,tvg-logo="http://channel.jibhd.com/public/uploads/2017-11/Livetv_sd-skynetsports4.png" group-title="ASIAN TV",SkyNet Sports 4 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1156.ts
+#EXTINF:-1,tvg-logo="http://channel.jibhd.com/public/uploads/2017-11/Livetv_sd-skynetsports5.png" group-title="ASIAN TV",SkyNet Sports 5 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1155.ts
+#EXTINF:-1,tvg-logo="http://channel.jibhd.com/public/uploads/2017-11/Livetv_sd-skynetsports6.png" group-title="ASIAN TV",SkyNet Sports 6 
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1154.ts
