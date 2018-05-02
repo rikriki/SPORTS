@@ -217,7 +217,7 @@ http://nitrotv.for-the.biz:25461/live/Zeke/1234/19295.ts
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/19294.ts
 #EXTINF:-1, tvg-logo="https://s3.envato.com/files/121101240/Photo%20Australia%20Flag%20%20590x332.jpg" group-title="AUSTRALIA", TEN Perth
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/19293.ts
-#EXTINF:-1, tvg-logo="https://ak4.picdn.net/shutterstock/videos/4256744/thumb/1.jpg" group-title="TURKEY", 24 TV TR
+#EXTINF:-1, tvg-logo="https://ak4.picdn.net/shutterstock/videos/4256744/thumb/1.jpg" group-title="TURKEY", 24 TV 
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/2084.ts
 #EXTINF:-1, tvg-logo="https://ak4.picdn.net/shutterstock/videos/4256744/thumb/1.jpg" group-title="TURKEY", 360 TV TR
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1115.ts
