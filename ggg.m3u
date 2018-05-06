@@ -4186,3 +4186,9 @@ http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1156.ts
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1155.ts
 #EXTINF:-1,tvg-logo="http://channel.jibhd.com/public/uploads/2017-11/Livetv_sd-skynetsports6.png" group-title="ASIAN TV",SkyNet Sports 6 
 http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1154.ts
+#EXTINF:-1, tvg-logo="https://ngscsports.com/wp-content/uploads/2018/04/download-28.jpg" group-title="NBA PLAYOFFS - LIVE GAMES ONLY", NBA Playoffs Live Channel 1
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/8538.ts
+#EXTINF:-1, tvg-logo="https://ngscsports.com/wp-content/uploads/2018/04/download-28.jpg" group-title="NBA PLAYOFFS - LIVE GAMES ONLY", NBA Playoffs Live Channel 2
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/8537.ts
+#EXTINF:-1, tvg-logo="https://ngscsports.com/wp-content/uploads/2018/04/download-28.jpg" group-title="NBA PLAYOFFS - LIVE GAMES ONLY", NBA Playoffs Live Channel 3
+http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/8536.ts
