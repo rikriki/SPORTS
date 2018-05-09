@@ -3632,6 +3632,8 @@ http://vapi.vaders.tv/play/39633.ts?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYX
 http://vapi.vaders.tv/play/39632.ts?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
 #EXTINF:-1, tvg-logo="http://www.nyxmartinez.com/wp-content/uploads/2015/05/Living-Asia-Channel.jpg" group-title="PINOY TV", LIVING ASIA CHANNEL
 https://djkn3ca9fodlg.cloudfront.net/tvgo/tvgo-livingasiatv/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://abscbnpr.com/wp-content/uploads/2015/11/ANC-new-logo-800x360.jpg" group-title="PINOY TV", ANC NEWS CHANNEL
+https://iwantpradals2-lh.akamaihd.net/i/ocpanc_1@520818/index_800_av-p.m3u8?sd=10&rebase=on&id=AgBuNvUCQ4dpXZBo8lrukTh6RnMviYl6fm3MMDWJ5eH5QoPIFpoPTHawJAQs2H%2fZWyKTSlVCKQcIyw%3d%3d&hdntl=exp=1525922320~acl=%2f*~data=hdntl~hmac=867f39e3051ca96826da76ae37b83703a3629728ba527ccbd38b70b9ee5767be
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="VOD MOVIES", JOHN WICK  
 http://dl.2tehmovies.com/sr1/dey/1/John.Wick.2014.720p.TehMovies.Com.mkv
 #EXTINF:-1, tvg-logo="http://budomate.com/wp-content/uploads/2016/09/john-wick-2-poster-2.png" group-title="VOD MOVIES", JOHN WICK 2 
