@@ -4246,3 +4246,5 @@ http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/367.ts
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/367.ts
 #EXTINF:-1, group-title="UFC 224", LINK 4
 http://d10famguob1zko.cloudfront.net/live/4841v/chunks.m3u8
+#EXTINF:-1, group-title="UFC 224", LINK 5
+http://cdn.theclub.cf/live/btsport2-hq/chunks.m3u8?nimblesessionid=6213707&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMy8yMDE4IDM6NDU6MzYgQU0maGFzaF92YWx1ZT1NRlE4cjJuYzZNSHlKZU4xSWhjUXJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE5OS4xODguMjAwLjg2JnN0cm1fbGVuPTU=
