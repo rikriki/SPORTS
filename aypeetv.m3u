@@ -1676,7 +1676,7 @@ http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/7705.ts
 #EXTINF:-1, tvg-logo="https://insidemanila.ph/images/content/17-2017-10-12-03-53-25pm.jpg" group-title="PINOY TV", ESPN 5
 http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
-https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?sd=10&rebase=on&id=AgBuNvAnQZkSBZ5d9VpAEfg7DS94jrLWBykh%2fDvxK7W59trxxRKRM7+PevycbfVrfCvcQ+vzjFToSg%3d%3d&hdntl=exp=1526116126~acl=%2f*~data=hdntl~hmac=f635e8e8d27c769af767f7012a9d3a8ae733f8f8906e8903bf4e0b965ca33a9e
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-b.m3u8?sd=10&rebase=on&id=AgBuNvmxFwNgFLmK91r86b63uMFtTOqevnGKGIFzwqNknIGKN3HCsfeZ0I%2f8ffLWLTWqeMjo+3SoKQ%3d%3d&hdntl=exp=1526258745~acl=%2f*~data=hdntl~hmac=64a5bd0ed7a77247064fd98f4ed8b21fdac63b049786da494816b30f400a240e
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/947598867985457152/lOzb5ud9.jpg" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV PHILS
