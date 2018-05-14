@@ -4236,7 +4236,7 @@ http://restream.geniptv.com:8080/live/live:kral__smart/UYjqUviEyW/1154.ts
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/1401.ts
 #EXTINF:-1 tvg-id="us.ESPN HDTV" tvg-name="US: ESPN 720" tvg-logo="https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/9f/89faf6d3-15fd-5da2-a671-d7d1b2344c48/5849a237de81b.image.png" group-title="NBA CONFERENCE FINALS",US: ESPN 720
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/7508.ts
-EXTINF:-1 tvg-id="us.TNT HD" tvg-name="US: TNT HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/e3/TNT.svg/revision/latest/scale-to-width-down/200?cb=20151126160432" group-title="NBA CONFERENCE FINALS",US: TNT HD
+#EXTINF:-1 tvg-id="us.TNT HD" tvg-name="US: TNT HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/e3/TNT.svg/revision/latest/scale-to-width-down/200?cb=20151126160432" group-title="NBA CONFERENCE FINALS",US: TNT HD
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/2068.ts
 #EXTINF:-1 tvg-id="us.TNT HD" tvg-name="US: TNT 720" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/e/e3/TNT.svg/revision/latest/scale-to-width-down/200?cb=20151126160432" group-title="NBA CONFERENCE FINALS",US: TNT 720
 http://nitrotv.for-the.biz:25461/live/Zeke/1234/11534.ts
