@@ -3606,6 +3606,8 @@ http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
 https://iwantpradals2-lh.akamaihd.net/i/ocpanc_1@520818/master.m3u8?hdnea=exp=1526707408~acl=/*~hmac=951afed684264b8b01e07fb95d2e69850a8ab5898964d8b40b64e1ab64ce71c7
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
 https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?sd=10&rebase=on&id=AgBuNrCqFwNgNMIp%2flrjdtgQRysgnQvA6GT7TEw4ExNYMoxZVsnFeqhv8+fnM9kenvR%2fuYgGgKvzZA%3d%3d&hdntl=exp=1526692674~acl=%2f*~data=hdntl~hmac=5fe2924ae7d1db312e9d82e6be3b9aeedbbea7b88c3493f48a8851c5a3a409ce
+#EXTINF:-1, tvg-logo="https://img.tfc.tv/xcms/episodeimages/41725/dzmmSHOWTHUMB-487x274.jpg" group-title="PINOY TV", DZMM TELERADYO
+https://iwantpradals2-lh.akamaihd.net/i/ocpdzmm_1@520817/master.m3u8?hdnea=exp=1526709362~acl=/*~hmac=b80c9a9fd7f71e73651629955f08852ed63c947370e858c5ca000c8dc81f369c
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/947598867985457152/lOzb5ud9.jpg" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV PHILS
