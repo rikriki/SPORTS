@@ -1415,6 +1415,8 @@ http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/7768.ts
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/542.ts
 #EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",Comedy Central US
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/7788.ts
+#EXTINF:-1,tvg-logo="https://ulango.tv/uploads/channels/62129/logo_crime%20investigation.png" group-title="USA",Crime Investigation HD
+http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/26.ts
 #EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",DIY Network HD US
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/7728.ts
 #EXTINF:-1, tvg-logo="http://www.dezignwithaz.com/images/american-flag-see-through.png" group-title="USA",DIY Network US
