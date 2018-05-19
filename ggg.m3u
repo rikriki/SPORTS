@@ -1399,22 +1399,6 @@ http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/833.ts
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/832.ts
 #EXTINF:-1, tvg-logo="https://ak4.picdn.net/shutterstock/videos/4256744/thumb/1.jpg" group-title="TURKEY", beINSport 92 HD TR
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/831.ts
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/Spider-Man2002Poster.jpg" group-title="4K MOVIES", Spiderman
-http://dl.my-film.in/Movie/2160p.4K/Spider-Man.2002.4K.UltraHD.2160p.WEB-DL.DD5.1.x264-%5BMy-Film%5D.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Spider-Man_2_Poster.jpg" group-title="4K MOVIES", Spiderman 2
-http://dl.my-film.in/Movie/2160p.4K/Spider-Man.2.2004.4K.UltraHD.2160p.WEB-DL.DD5.1.x264-%5BMy-Film%5D.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/Spider-Man_3%2C_International_Poster.jpg" group-title="4K MOVIES", Spiderman 3
-http://dl.my-film.in/Movie/2160p.4K/Spider-Man.3.2007.4K.UltraHD.2160p.WEB-DL.DD5.1.x264-%5BMy-Film%5D.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spider-Man_theatrical_poster.jpeg" group-title="4K MOVIES", The Amazing Spiderman
-http://dl.my-film.in/Movie/2160p.4K/The.Amazing.Spider-Man.2012.4K.UltraHD.WEB-DL.DD5.1.x264-%5BMy-Film%5D.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spiderman_2_poster.jpg" group-title="4K MOVIES", The Amazing Spiderman 2
-http://dl.my-film.in/Movie/2160p.4K/The.Amazing.Spider.Man.2.2014.4K.UltraHD.WEB-DL.DD5.1.x264-%5BMy-Film%5D.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Sully_xxlg.jpeg" group-title="4K MOVIES", Sully
-http://dl.my-film.in/Movie/2160p.4K/Sully.2016.4K.UltraHD.2160p.BluRay.DD2.0.x264-%5BMy-Film%5D.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/The_Revenant_2015_film_poster.jpg" group-title="4K MOVIES", The Revenant
-http://dl.2tehmovies.com/94/95/11/The.Revenant.2015.4K.2160p.Ultra.HD.BluRay.Tehmovies_me.mkv
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Hitman_Agent_47_poster.jpg" group-title="4K MOVIES", Hitman Agent 47
-http://dl.my-film.me/s1/Movie/Hitman.Agent.47.2015/Hitman.Agent.47.2015.2160p.4K.UltraHD.BluRay.DD5.1.x264-%5BMy-Film%5D.mkv
 #EXTINF:-1,tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/12378156/p12378156_p_v8_aa.jpg" group-title="Tagalog Movies",A Second Chance (2015)
 https://archive.org/download/ASCWeb/ASCWeb.mp4
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/OneMoreChance.jpg" group-title="Tagalog Movies",One More Chance (2007)
