@@ -1677,8 +1677,12 @@ http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/506.ts
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/7705.ts
 #EXTINF:-1, tvg-logo="https://insidemanila.ph/images/content/17-2017-10-12-03-53-25pm.jpg" group-title="PINOY TV", ESPN 5
 http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
+#EXTINF:-1, tvg-logo="http://abscbnpr.com/wp-content/uploads/2015/11/ANC-new-logo-800x360.jpg" group-title="PINOY TV", ANC NEWS CHANNEL
+https://iwantpradals2-lh.akamaihd.net/i/ocpanc_1@520818/master.m3u8?hdnea=exp=1526794960~acl=/*~hmac=67c3f7e171846a38da6bfaef384fab5442e2befd9f1ed87aa237e0352961a3c8
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
-https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?sd=10&rebase=on&id=AgBuNrCqFwNgNMIp%2flrjdtgQRysgnQvA6GT7TEw4ExNYMoxZVsnFeqhv8+fnM9kenvR%2fuYgGgKvzZA%3d%3d&hdntl=exp=1526692674~acl=%2f*~data=hdntl~hmac=5fe2924ae7d1db312e9d82e6be3b9aeedbbea7b88c3493f48a8851c5a3a409ce
+https://iwantpradals-lh.akamaihd.net/i/skyabscbnhd_1@383873/master.m3u8?hdnea=exp=1526794302~acl=/*~hmac=a1832a79e94b8eadeb8c5364a159e5ee56db444a8f65957a98f2d6ac132dcfc6
+#EXTINF:-1, tvg-logo="https://img.tfc.tv/xcms/episodeimages/41725/dzmmSHOWTHUMB-487x274.jpg" group-title="PINOY TV", DZMM TELERADYO
+https://iwantpradals2-lh.akamaihd.net/i/ocpdzmm_1@520817/master.m3u8?hdnea=exp=1526795150~acl=/*~hmac=d0f77e233f0c212b9f1b4916b4778900d3f0dadae5371083515d6cba54d59e9a
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/947598867985457152/lOzb5ud9.jpg" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV PHILS
