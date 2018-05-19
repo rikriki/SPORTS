@@ -4015,3 +4015,5 @@ http://vapi.vaders.tv/play/78048.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMT
 http://vapi.vaders.tv/play/79269.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1, tvg-logo="http://www.guildhallwinchester.co.uk/assets/images/event-thumb/789/facup.jpg" group-title="FA Cup Final",Channel 1
 http://d35f84vr5lrzf0.cloudfront.net/live/p6422/chunks.m3u8
+#EXTINF:-1, tvg-logo="http://www.guildhallwinchester.co.uk/assets/images/event-thumb/789/facup.jpg" group-title="FA Cup Final",Channel 2
+http://d3vt9cb322x4tv.cloudfront.net/tv/d3bez4yxmzcibc_fox_13.m3u8
