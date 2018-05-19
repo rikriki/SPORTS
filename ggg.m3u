@@ -4013,3 +4013,5 @@ http://vapi.vaders.tv/play/78047.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMT
 http://vapi.vaders.tv/play/78048.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1, tvg-name="Boomerang HD" tvg-id="None" tvg-logo="https://i.imgur.com/jdrtTer.png" group-title="United States",Boomerang HD
 http://vapi.vaders.tv/play/79269.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+#EXTINF:-1, tvg-logo="http://www.guildhallwinchester.co.uk/assets/images/event-thumb/789/facup.jpg" group-title="FA Cup Final",Channel 1
+http://d35f84vr5lrzf0.cloudfront.net/live/p6422/chunks.m3u8
