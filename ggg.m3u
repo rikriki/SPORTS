@@ -3329,10 +3329,10 @@ http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1155.ts
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1154.ts
 #EXTINF:-1,tvg-logo="https://ulango.tv/uploads/channels/62129/logo_crime%20investigation.png" group-title="ASIAN TV",Crime Investigation HD
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/26.ts
-#EXTINF:-1, tvg-logo="https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/9f/89faf6d3-15fd-5da2-a671-d7d1b2344c48/5849a237de81b.image.png" group-title="NBA CONFERENCE FINALS",US: ESPN 1
-http://nitrotv.for-the.biz:25461/live/chris/1234/1401.ts
-#EXTINF:-1, tvg-logo="https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/9f/89faf6d3-15fd-5da2-a671-d7d1b2344c48/5849a237de81b.image.png" group-title="NBA CONFERENCE FINALS",US: ESPN 2
-http://nitrotv.for-the.biz:25461/live/Zeke/1234/7508.ts
+#EXTINF:-1, tvg-logo="https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/9f/89faf6d3-15fd-5da2-a671-d7d1b2344c48/5849a237de81b.image.png" group-title="NBA CONFERENCE FINALS",CAVS VS CELTICS 1
+http://d2p98r7fv37pf1.cloudfront.net/live.m3u8
+#EXTINF:-1, tvg-logo="https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/9f/89faf6d3-15fd-5da2-a671-d7d1b2344c48/5849a237de81b.image.png" group-title="NBA CONFERENCE FINALS",CAVS VS CELTICS 2
+http://ak-hls-brs-espn1.espn.go.com/hls/live/218616/p/espn1-p-800/espn1-p-800.m3u8
 #EXTINF:-1, tvg-logo="https://images.tntdrama.com/tnt/w_460/https%3A%2F%2Fi.cdn.tntdrama.com%2Fassets%2Fimages%2F2018%2F04%2FNBATNT_Playoffs_TNTDrama_Talent_900x360.png" group-title="NBA CONFERENCE FINALS",GSW VS HOU 1
 http://wx.seekseedrtl.info/91/91.m3u8?show=oonhAFzhAvvrhAqz&ki_secu=1566916142
 #EXTINF:-1, tvg-logo="https://images.tntdrama.com/tnt/w_460/https%3A%2F%2Fi.cdn.tntdrama.com%2Fassets%2Fimages%2F2018%2F04%2FNBATNT_Playoffs_TNTDrama_Talent_900x360.png" group-title="NBA CONFERENCE FINALS",GSW VS HOU 2
@@ -4013,11 +4013,4 @@ http://vapi.vaders.tv/play/78047.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMT
 http://vapi.vaders.tv/play/78048.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1, tvg-name="Boomerang HD" tvg-id="None" tvg-logo="https://i.imgur.com/jdrtTer.png" group-title="United States",Boomerang HD
 http://vapi.vaders.tv/play/79269.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
-#EXTINF:-1, tvg-logo="http://www.guildhallwinchester.co.uk/assets/images/event-thumb/789/facup.jpg" group-title="FA Cup Final",Channel 1
-http://d35f84vr5lrzf0.cloudfront.net/live/p6422/chunks.m3u8
-#EXTINF:-1, tvg-logo="http://www.guildhallwinchester.co.uk/assets/images/event-thumb/789/facup.jpg" group-title="FA Cup Final",Channel 2
-http://d3vt9cb322x4tv.cloudfront.net/tv/d3bez4yxmzcibc_fox_13.m3u8
-#EXTINF:-1, tvg-logo="http://www.guildhallwinchester.co.uk/assets/images/event-thumb/789/facup.jpg" group-title="FA Cup Final",Channel 3
-https://wowzaprod110-i.akamaihd.net/hls/live/626720/358b96be_1_4128/chunklist.m3u8
-#EXTINF:-1, tvg-logo="http://www.guildhallwinchester.co.uk/assets/images/event-thumb/789/facup.jpg" group-title="FA Cup Final",Channel 4
-https://live.dlive.io/transcode-247/coect/playlist.m3u8
+
