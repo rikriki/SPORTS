@@ -3329,20 +3329,18 @@ http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1155.ts
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1154.ts
 #EXTINF:-1,tvg-logo="https://ulango.tv/uploads/channels/62129/logo_crime%20investigation.png" group-title="ASIAN TV",Crime Investigation HD
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/26.ts
-#EXTINF:-1, tvg-logo="https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/9f/89faf6d3-15fd-5da2-a671-d7d1b2344c48/5849a237de81b.image.png" group-title="NBA CONFERENCE FINALS",CAVS VS CELTICS 1
-http://d2p98r7fv37pf1.cloudfront.net/live.m3u8
-#EXTINF:-1, tvg-logo="https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/9f/89faf6d3-15fd-5da2-a671-d7d1b2344c48/5849a237de81b.image.png" group-title="NBA CONFERENCE FINALS",CAVS VS CELTICS 2
-http://ak-hls-brs-espn1.espn.go.com/hls/live/218616/p/espn1-p-800/espn1-p-800.m3u8
-#EXTINF:-1, tvg-logo="https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/9f/89faf6d3-15fd-5da2-a671-d7d1b2344c48/5849a237de81b.image.png" group-title="NBA CONFERENCE FINALS",CAVS VS CELTICS 3
-http://proxy2.freeiptv.ga/jio/m3u8.php?c=Six_HD&q=1200&e=.m3u8
-#EXTINF:-1, tvg-logo="https://images.tntdrama.com/tnt/w_460/https%3A%2F%2Fi.cdn.tntdrama.com%2Fassets%2Fimages%2F2018%2F04%2FNBATNT_Playoffs_TNTDrama_Talent_900x360.png" group-title="NBA CONFERENCE FINALS",GSW VS HOU 1
-http://wx.seekseedrtl.info/91/91.m3u8?show=oonhAFzhAvvrhAqz&ki_secu=1566916142
-#EXTINF:-1, tvg-logo="https://images.tntdrama.com/tnt/w_460/https%3A%2F%2Fi.cdn.tntdrama.com%2Fassets%2Fimages%2F2018%2F04%2FNBATNT_Playoffs_TNTDrama_Talent_900x360.png" group-title="NBA CONFERENCE FINALS",GSW VS HOU 2
-http://d2p98r7fv37pf1.cloudfront.net/live.m3u8
-#EXTINF:-1, tvg-logo="https://images.tntdrama.com/tnt/w_460/https%3A%2F%2Fi.cdn.tntdrama.com%2Fassets%2Fimages%2F2018%2F04%2FNBATNT_Playoffs_TNTDrama_Talent_900x360.png" group-title="NBA CONFERENCE FINALS",GSW VS HOU 3
-http://d198h324ii0j58.cloudfront.net/hls/nbawar1/index.m3u8
-#EXTINF:-1, tvg-logo="https://images.tntdrama.com/tnt/w_460/https%3A%2F%2Fi.cdn.tntdrama.com%2Fassets%2Fimages%2F2018%2F04%2FNBATNT_Playoffs_TNTDrama_Talent_900x360.png" group-title="NBA CONFERENCE FINALS",GSW VS HOU 4
-http://cors11.nba4live.fun/hls/lal.m3u8
+#EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 1
+http://d3fbme32phf0v0.cloudfront.net/live.m3u8
+#EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 2
+http://opo.seekseedrtl.info/91/91.m3u8?show=oFShArShAvnzhAoSr&ki_secu=1838999379
+#EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 3
+http://cdn.whostreams.net:8081/wsedge/zfazbc217u3b/chunks.m3u8?nimblesessionid=30619728&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDE4IDEyOjE3OjAwIEFNJmhhc2hfdmFsdWU9WW9YUUR3a00zcG85YTdvK1pmUzlHdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 4
+http://sprtbayarearsn-lh.akamaihd.net/i/sprtrsnbayarea_1@320710/index_900_av-p.m3u8?sd=6&rebase=on
+#EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 5
+http://185.152.66.56:25461/live/noeyes/noeyes/21459.m3u8?token=S0RfBRdcF1hDAVEBUgZWUgAEAANXBFkLAQJWVAQAUgAIBwBTBVFRBAIWSRsRQEIGVA8+WVFEAgEEBFELGkFGEVUUaA0AFg9AUgRUDFMWHEFBCwxVF1wIHxdADVYUWRFQB1UPUUYYFwcZQABLDFVcPFEHF1lWAxoJW0UIXhpBXAxvAlIJBVpRQFsWVRtOFlkQRUBbEnEPX1pBUQh9VQZSDBAqeydGGBcACEAXWBZRElkXVlkHBkQUEVZfEVxCEUpACkRkI0YYFwcZQABXEV1fDRdYQ10GEwARGRINQWkRVhFEFFIFCVFHQFsWVRtOFl0CTT0CX1sIXVBBWQtcRUEJQAFEG0YJW1sLFVsXZhJdVEEPQFkGB18aTg==
+#EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 6
+http://apache.gokarting.tk/live/btsport1-hq/chunks.m3u8?nimblesessionid=95815&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDE4IDEyOjIzOjIxIEFNJmhhc2hfdmFsdWU9VTFGb1Z6MmVTaW1iNHlvNjdPRzljUT09JnZhbGlkbWludXRlcz02MCZpZD0yYTAyOjQ3ODA6YmFkOjE6ZmNlZDoxZmY6ZmUwMTo0ODMmc3RybV9sZW49NQ==
 #EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2479.ts?token=eyJ1c2VybmFtZSI6IlJPQkVSVEhPTFRDQU1QIiwicGFzc3dvcmQiOiJUdWNzNTQzMiJ9&duration=3600" catchup-days=5 tvg-name="Sky Sports Cricket HD" tvg-id="SkySportsCricket.uk" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20cricket%20hd.png" group-title="Sports",Sky Sports Cricket HD
 http://vapi.vaders.tv/play/2479.ts?token=eyJ1c2VybmFtZSI6IlJPQkVSVEhPTFRDQU1QIiwicGFzc3dvcmQiOiJUdWNzNTQzMiJ9
 #EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2480.ts?token=eyJ1c2VybmFtZSI6IlJPQkVSVEhPTFRDQU1QIiwicGFzc3dvcmQiOiJUdWNzNTQzMiJ9&duration=3600" catchup-days=5 tvg-name="Sky Sports Action HD" tvg-id="SkySportsAction.uk" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20action%20hd.png" group-title="Sports",Sky Sports Action HD
