@@ -3953,6 +3953,8 @@ http://vapi.vaders.tv/play/53874.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMT
 http://vapi.vaders.tv/play/54628.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1, tvg-name="TBN HD" tvg-id="I260.14767.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20tbn%20hd.png" group-title="United States",TBN HD
 http://vapi.vaders.tv/play/54865.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+#EXTINF:-1, tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20tnt%20hd.png" group-title="United States",TNT HD
+http://vapi.vaders.tv/play/2459.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1, tvg-name="CBN HD" tvg-id="I267.49128.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20cbn%20hd.png" group-title="United States",CBN HD
 http://vapi.vaders.tv/play/54866.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1, tvg-name="SBN HD" tvg-id="I2030.30324.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/usa%20sbn%20hd.png" group-title="United States",SBN HD
