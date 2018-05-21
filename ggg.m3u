@@ -3330,7 +3330,7 @@ http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1154.ts
 #EXTINF:-1,tvg-logo="https://ulango.tv/uploads/channels/62129/logo_crime%20investigation.png" group-title="ASIAN TV",Crime Investigation HD
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/26.ts
 #EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 1
-http://d3fbme32phf0v0.cloudfront.net/live.m3u8
+http://ak-hls-brs-espn1.espn.go.com/hls/live/218616/p/espn1-p-2200/espn1-p-2200.m3u8
 #EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 2
 http://opo.seekseedrtl.info/91/91.m3u8?show=oFShArShAvnzhAoSr&ki_secu=1838999379
 #EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 3
