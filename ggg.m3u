@@ -3341,6 +3341,18 @@ http://tv.megaseedbox.com:8000/live/mega31540/plus/454.ts
 http://tv.megaseedbox.com:8000/live/mega31540/plus/391.ts
 #EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 6
 http://tv.megaseedbox.com:8000/live/mega31540/plus/403.ts
+#EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 7
+http://dhrquo73i999e.cloudfront.net/live/p7422/chunks.m3u8
+#EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 8
+http://test900.gcdn.co/e/l347483121.m3u8
+#EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 9
+http://ripple.is/live/espn3.m3u8
+#EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 10
+http://ultra.widestream.io:8081/wideedge/gf3ycsr/chunks.m3u8?nimblesessionid=3449107&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDE4IDExOjQ3OjA5IFBNJmhhc2hfdmFsdWU9NlVaSnVmby9Fd1lvSWRobGJkU2tYUT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 11
+http://live.srkcast.com/stream/bt1/chunks.m3u8?nimblesessionid=10940176&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDE4IDk6NTI6MjEgUE0maGFzaF92YWx1ZT1meHN4cjIreEdFbGF5V0VOcEZhWU9BPT0mdmFsaWRtaW51dGVzPTEwJmlkPTEwNS43MS4xMzAuMjE2JnN0cm1fbGVuPTc=
+#EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 12
+http://live2.sportshd.cf/stream/bt1/chunks.m3u8?nimblesessionid=25405304&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDE4IDExOjUxOjEzIFBNJmhhc2hfdmFsdWU9SnM0YWNTNVNrTGRPQjZhYWh6MDZuUT09JnZhbGlkbWludXRlcz0xMCZpZD00NS4zMi40OC4xMjMmc3RybV9sZW49Nw==
 #EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2479.ts?token=eyJ1c2VybmFtZSI6IlJPQkVSVEhPTFRDQU1QIiwicGFzc3dvcmQiOiJUdWNzNTQzMiJ9&duration=3600" catchup-days=5 tvg-name="Sky Sports Cricket HD" tvg-id="SkySportsCricket.uk" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20cricket%20hd.png" group-title="Sports",Sky Sports Cricket HD
 http://vapi.vaders.tv/play/2479.ts?token=eyJ1c2VybmFtZSI6IlJPQkVSVEhPTFRDQU1QIiwicGFzc3dvcmQiOiJUdWNzNTQzMiJ9
 #EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2480.ts?token=eyJ1c2VybmFtZSI6IlJPQkVSVEhPTFRDQU1QIiwicGFzc3dvcmQiOiJUdWNzNTQzMiJ9&duration=3600" catchup-days=5 tvg-name="Sky Sports Action HD" tvg-id="SkySportsAction.uk" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20action%20hd.png" group-title="Sports",Sky Sports Action HD
