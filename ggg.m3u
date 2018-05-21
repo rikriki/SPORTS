@@ -3330,11 +3330,11 @@ http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1154.ts
 #EXTINF:-1,tvg-logo="https://ulango.tv/uploads/channels/62129/logo_crime%20investigation.png" group-title="ASIAN TV",Crime Investigation HD
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/26.ts
 #EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 1
-http://nlcache5.streamlive.to/edge/xoaaohmeuajfeyf/chunks.m3u8?nimblesessionid=3240095&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDE4IDM6NDU6NDAgUE0maGFzaF92YWx1ZT01WTViWnpKNkRxMVZ4UDBkcjl0dE93PT0mdmFsaWRtaW51dGVzPTEwMCZzdHJtX2xlbj0yMCZpZD0xMTAuNTQuMTM0LjEwMA==
+http://209.182.228.22:8000/udp/230.50.0.13:8208
 #EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 2
-http://opo.seekseedrtl.info/91/91.m3u8?show=oFShArShAvnzhAoSr&ki_secu=1838999379
+http://209.182.228.22:8000/udp/230.50.0.15:8208
 #EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 3
-http://cdn.whostreams.net:8081/wsedge/zfazbc217u3b/chunks.m3u8?nimblesessionid=30619728&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDE4IDEyOjE3OjAwIEFNJmhhc2hfdmFsdWU9WW9YUUR3a00zcG85YTdvK1pmUzlHdz09JnZhbGlkbWludXRlcz0yMA==
+http://209.182.228.22:8000/udp/230.50.0.16:8208
 #EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 4
 http://sprtbayarearsn-lh.akamaihd.net/i/sprtrsnbayarea_1@320710/index_900_av-p.m3u8?sd=6&rebase=on
 #EXTINF:-1, tvg-logo="http://coachellavalleyweekly.com/wp-content/uploads/2018/04/FP_SPORTS-696x435.jpg" group-title="NBA CONFERENCE FINALS",LINK 5
