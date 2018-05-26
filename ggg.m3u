@@ -4029,39 +4029,3 @@ http://vapi.vaders.tv/play/78047.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMT
 http://vapi.vaders.tv/play/78048.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1, tvg-name="Boomerang HD" tvg-id="None" tvg-logo="https://i.imgur.com/jdrtTer.png" group-title="United States",Boomerang HD
 http://vapi.vaders.tv/play/79269.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
-#EXTINF:-1, tvg-logo="https://www.dramafever.com/st/news/images/a3e592e0-67ae-43d5-addf-f4cb679903f2.jpg" group-title="GOBLIN",Episode 1
-http://cdn17.micetop.us/cdn2_vidcdn_pro/drama/16052018/Goblin.E01.161202.720P-Next-1.mp4
-#EXTINF:-1, tvg-logo="https://www.dramafever.com/st/news/images/a3e592e0-67ae-43d5-addf-f4cb679903f2.jpg" group-title="GOBLIN",Episode 2
-http://fromv.ir/East/Korea/Goblin/Goblin.E02.540p%5BFromAnime%5D.mkv
-#EXTINF:-1, tvg-logo="https://www.dramafever.com/st/news/images/a3e592e0-67ae-43d5-addf-f4cb679903f2.jpg" group-title="GOBLIN",Episode 3
-http://fromv.ir/East/Korea/Goblin/Goblin.E03.540p%5BFromAnime%5D.mkv
-#EXTINF:-1, tvg-logo="https://www.dramafever.com/st/news/images/a3e592e0-67ae-43d5-addf-f4cb679903f2.jpg" group-title="GOBLIN",Episode 4
-http://fromv.ir/East/Korea/Goblin/Goblin.E04.540p%5BFromAnime%5D.mkv
-#EXTINF:-1, tvg-logo="https://www.dramafever.com/st/news/images/a3e592e0-67ae-43d5-addf-f4cb679903f2.jpg" group-title="GOBLIN",Episode 5
-http://fromv.ir/East/Korea/Goblin/Goblin.E05.540p%5BFromAnime%5D.mkv
-#EXTINF:-1, tvg-logo="https://www.dramafever.com/st/news/images/a3e592e0-67ae-43d5-addf-f4cb679903f2.jpg" group-title="GOBLIN",Episode 6
-http://fromv.ir/East/Korea/Goblin/Goblin.E06.540p%5BFromAnime%5D.mkv
-#EXTINF:-1, tvg-logo="https://www.dramafever.com/st/news/images/a3e592e0-67ae-43d5-addf-f4cb679903f2.jpg" group-title="GOBLIN",Episode 7
-http://fromv.ir/East/Korea/Goblin/Goblin.E07.540p%5BFromAnime%5D.mkv
-#EXTINF:-1, tvg-logo="https://www.dramafever.com/st/news/images/a3e592e0-67ae-43d5-addf-f4cb679903f2.jpg" group-title="GOBLIN",Episode 8
-http://fromv.ir/East/Korea/Goblin/Goblin.E08.540p%5BFromAnime%5D.mkv
-#EXTINF:-1, tvg-logo="https://www.dramafever.com/st/news/images/a3e592e0-67ae-43d5-addf-f4cb679903f2.jpg" group-title="GOBLIN",Episode 9
-http://fromv.ir/East/Korea/Goblin/Goblin.E09.540p%5BFromAnime%5D.mkv
-#EXTINF:-1, tvg-logo="https://www.dramafever.com/st/news/images/a3e592e0-67ae-43d5-addf-f4cb679903f2.jpg" group-title="GOBLIN",Episode 10
-http://fromv.ir/East/Korea/Goblin/Goblin.E10.540p%5BFromAnime%5D.mkv
-#EXTINF:-1, tvg-logo="http://footballinpui.com/wp-content/uploads/2018/05/realmadridliverpool.jpg" group-title="UEFA Champions League",Link 1
-https://d21j49ohiy3w9l.cloudfront.net/m_2.m3u8
-#EXTINF:-1, tvg-logo="http://footballinpui.com/wp-content/uploads/2018/05/realmadridliverpool.jpg" group-title="UEFA Champions League",Link 2
-https://d35g58m12jh0ko.cloudfront.net/index_2.m3u8
-#EXTINF:-1, tvg-logo="http://footballinpui.com/wp-content/uploads/2018/05/realmadridliverpool.jpg" group-title="UEFA Champions League",Link 3
-https://d1lxs2h8p7e7ia.cloudfront.net/index_1.m3u8
-#EXTINF:-1, tvg-logo="http://footballinpui.com/wp-content/uploads/2018/05/realmadridliverpool.jpg" group-title="UEFA Champions League",Link 4
-http://d1zk42aw20fw4b.cloudfront.net/live.m3u8
-#EXTINF:-1, tvg-logo="http://footballinpui.com/wp-content/uploads/2018/05/realmadridliverpool.jpg" group-title="UEFA Champions League",Link 5
-http://d3ewzm6l5lcqzd.cloudfront.net/live.m3u8
-#EXTINF:-1, tvg-logo="http://footballinpui.com/wp-content/uploads/2018/05/realmadridliverpool.jpg" group-title="UEFA Champions League",Link 6
-https://soccer-1.cfapps.io/api/redirect/withBaseUrl/http://a3.aliez.me:8080/hls/streama64532/index.m3u8?st=paZx2oL-sKNTcVFTWCoeNQ
-#EXTINF:-1, tvg-logo="http://footballinpui.com/wp-content/uploads/2018/05/realmadridliverpool.jpg" group-title="UEFA Champions League",Link 7
-http://pip.clquack.ml/welovesports982.m3u8
-#EXTINF:-1, tvg-logo="http://footballinpui.com/wp-content/uploads/2018/05/realmadridliverpool.jpg" group-title="UEFA Champions League",Link 8
-https://content-ausw1.uplynk.com/channel/6bd1ea18f6a14c70b76c49b72990c977/d.m3u8?pbs=f2973697f9274dbca46b4e0db864eba0
