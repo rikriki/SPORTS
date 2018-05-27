@@ -4029,17 +4029,3 @@ http://vapi.vaders.tv/play/78047.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMT
 http://vapi.vaders.tv/play/78048.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1, tvg-name="Boomerang HD" tvg-id="None" tvg-logo="https://i.imgur.com/jdrtTer.png" group-title="United States",Boomerang HD
 http://vapi.vaders.tv/play/79269.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
-#EXTINF:-1, group-title="Monaco Grand Prix",Link 1
-http://d3u2p6898xlnfc.cloudfront.net/easyf0.m3u8
-#EXTINF:-1, group-title="Monaco Grand Prix",Link 2
-https://live.dlive.io/transcode-5/coect/playlist.m3u8
-#EXTINF:-1, group-title="Monaco Grand Prix",Link 3
-http://sports.fileshare.ws:8081/abr_hls/abr_Stream-2/hls/Stream-2_480p/chunks.m3u8?nimblesessionid=3185020&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNy8yMDE4IDEyOjAxOjM2IFBNJmhhc2hfdmFsdWU9Zm5CcC9WUEdsZitBOTZ0VXN2MjVOQT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1, group-title="Monaco Grand Prix",Link 4
-http://5.226.137.13:8080/live/cem/cem2/64.m3u8?token=HxVYAkRaRw8UW1FUA1FXUwkHDlNWBVdTBAUBBQEGVwQFAABXD1BdUA4aG0NGREdVWAlpWFBDCVcCGRtEEVYUbQ1TElkVA1YEDxobQ0FZWFUbXgYdFhFaBRQPGwBUBFEHRhsSBk9GAEdYWVs+UVVDWVoBFAtaFF8NGhdWXz1XA18FWVRBDRBVFxoaXhJFEg8SfQ1RWEAAX0F5VlxQDBMvXAcZEk8VUAxBRFlDBBcKFwENXQUTGENQDkNbTUMbEVwQN3ASTxVXHUFTVkQIWl4XChsJBUQMQx9DX0ZmQwdAEkABVl0GRRBfFwYaG0NYUU1vWgtYX1ECRwhZW0oTWBFXEEgVXQxZWxFaRGdHCFESDxIIUwUBDUNO
-#EXTINF:-1, group-title="Monaco Grand Prix",Link 5
-http://ripple.is/live/espn3.m3u8
-#EXTINF:-1, group-title="Monaco Grand Prix",Link 6
-http://cdn.whostreams.net:8081/wsedge/wam6q8/chunks.m3u8?nimblesessionid=44219579&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNy8yMDE4IDEyOjM1OjU4IFBNJmhhc2hfdmFsdWU9eklyVjAxWVl0UDExOS9WT0xOZ1JIUT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1, group-title="Monaco Grand Prix",Link 7
-http://d3u2p6898xlnfc.cloudfront.net/easyf0.m3u8
