@@ -1425,6 +1425,16 @@ http://dl2.royamovie.com/film/2017/A.Fantastic.Woman.2017.HD1080P.X264.Spanish.m
 http://mc4.dl3enter.in/files/Movie/2013/Ida/Ida.2013.720p.Bluray.DL.mkv
 #EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Girls_Trip_film_poster.png" group-title="VOD MOVIES", Girls Trip
 http://dl.2tehmovies.com/94/96/7/Girls.Trip.2017.720p.MkvCage.Tehmovies_com.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/A_Quiet_Place_film_poster.png" group-title="VOD MOVIES", A Quiet Place
+http://dl2.funsaber.net/movie/97/03/A_Quiet_Place_2018_720p_HDRip_MkvCage_SaberFun.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/12_Strong_poster.jpg" group-title="VOD MOVIES", 12 Strong
+http://dl2.funsaber.net/movie/97/03/12.Strong.2018.720p.BRRip.x264.MkvCage.Dubbed.SaberFun.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Death_wish_2017_poster.jpg" group-title="VOD MOVIES", Death Wish
+http://dl2.funsaber.net/movie/97/03/Death.Wish.2018.720p.WEB-DL.MkvCage.SaberFun.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/GringoPoster.jpeg" group-title="VOD MOVIES", Gringo
+http://dl2.funsaber.net/movie/97/03/Gringo_2018_720p_BrRip_MkvCage_SaberFun.mkv
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Game_Night_%28film%29.png" group-title="VOD MOVIES", Game Night
+http://dl2.funsaber.net/movie/97/02/Game_Night_2018_720p_BrRip_MkvCage_SaberFun.mkv
 #EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2479.ts?token=eyJ1c2VybmFtZSI6IlJPQkVSVEhPTFRDQU1QIiwicGFzc3dvcmQiOiJUdWNzNTQzMiJ9&duration=3600" catchup-days=5 tvg-name="Sky Sports Cricket HD" tvg-id="SkySportsCricket.uk" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20cricket%20hd.png" group-title="Sports",Sky Sports Cricket HD
 http://vapi.vaders.tv/play/2479.ts?token=eyJ1c2VybmFtZSI6IlJPQkVSVEhPTFRDQU1QIiwicGFzc3dvcmQiOiJUdWNzNTQzMiJ9
 #EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2480.ts?token=eyJ1c2VybmFtZSI6IlJPQkVSVEhPTFRDQU1QIiwicGFzc3dvcmQiOiJUdWNzNTQzMiJ9&duration=3600" catchup-days=5 tvg-name="Sky Sports Action HD" tvg-id="SkySportsAction.uk" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20sports%20action%20hd.png" group-title="Sports",Sky Sports Action HD
