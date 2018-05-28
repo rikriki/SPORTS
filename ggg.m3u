@@ -3313,6 +3313,8 @@ http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/8601.ts
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/8623.ts
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="ASIAN TV",Fox Life
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/8641.ts
+#EXTINF:-1,tvg-logo="https://rayvblog.files.wordpress.com/2011/10/kbs_world2.png" group-title="ASIAN TV",KBS World
+http://112.175.138.137:1935/kbs_worldtv/_definst_/kbs_worldtv_4.stream/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://i63.tinypic.com/qs8fwo.png" group-title="ASIAN TV",TLC Asia
 https://iwantpradals-lh.akamaihd.net/i/skytlc_1@507577/master.m3u8?hdnea=exp=1527450332~acl=/*~hmac=6ea33613d30cf18f35ee1528e635f65346591527890246428245c66cac948bb4
 #EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/810_300.png" group-title="ASIAN TV",Astro SuperSport 1 
