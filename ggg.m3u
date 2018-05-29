@@ -2694,11 +2694,11 @@ http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1421.ts
 #EXTINF:-1, tvg-logo="https://insidemanila.ph/images/content/17-2017-10-12-03-53-25pm.jpg" group-title="PINOY TV", ESPN 5
 http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
 #EXTINF:-1, tvg-logo="http://abscbnpr.com/wp-content/uploads/2015/11/ANC-new-logo-800x360.jpg" group-title="PINOY TV", ANC NEWS CHANNEL
-https://iwantpradals2-lh.akamaihd.net/i/ocpanc_1@520818/master.m3u8?hdnea=exp=1527586178~acl=/*~hmac=59c32e53779799becf9c5315bc686901226c8e0c97d494f63b7bee8aab269988
+https://iwantpradals2-lh.akamaihd.net/i/ocpanc_1@520818/master.m3u8?hdnea=exp=1527714873~acl=/*~hmac=c986c4fa8fea28ecc734bea5dafa743d549a7fe4000c0b66f7a6d528b89c5691
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
-https://iwantpradals-lh.akamaihd.net/i/skyabscbnhd_1@383873/master.m3u8?hdnea=exp=1527585658~acl=/*~hmac=81b9ecce1e5c8c44eb4f7575701eaa15f0c5f41324542ab743a3cea63571ccdf
+https://iwantpradals-lh.akamaihd.net/i/skyabscbnhd_1@383873/master.m3u8?hdnea=exp=1527714959~acl=/*~hmac=ae76f5eb4d91dd8603f8d6265f7e7fc510ed2c0571d4a03949fbc1570199c509
 #EXTINF:-1, tvg-logo="https://img.tfc.tv/xcms/episodeimages/41725/dzmmSHOWTHUMB-487x274.jpg" group-title="PINOY TV", DZMM TELERADYO
-https://iwantpradals2-lh.akamaihd.net/i/ocpdzmm_1@520817/master.m3u8?hdnea=exp=1527586543~acl=/*~hmac=f0733dfda9bfda52e982efa975b4ae9b9bf6c76f9cb0a9f870e4183896e62aa4
+https://iwantpradals2-lh.akamaihd.net/i/ocpdzmm_1@520817/master.m3u8?hdnea=exp=1527715025~acl=/*~hmac=8d1dd02486b53002733ff767de29d49d5df927c25e3e27a5c4d6c4391d9473d8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/947598867985457152/lOzb5ud9.jpg" group-title="PINOY TV", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV PHILS
@@ -3320,7 +3320,7 @@ http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/8641.ts
 #EXTINF:-1,tvg-logo="https://rayvblog.files.wordpress.com/2011/10/kbs_world2.png" group-title="ASIAN TV",KBS World
 http://112.175.138.137:1935/kbs_worldtv/_definst_/kbs_worldtv_4.stream/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://i63.tinypic.com/qs8fwo.png" group-title="ASIAN TV",TLC Asia
-https://iwantpradals-lh.akamaihd.net/i/skytlc_1@507577/master.m3u8?hdnea=exp=1527450332~acl=/*~hmac=6ea33613d30cf18f35ee1528e635f65346591527890246428245c66cac948bb4
+https://iwantpradals-lh.akamaihd.net/i/skytlc_1@507577/master.m3u8?hdnea=exp=1527715120~acl=/*~hmac=5c8cd948237a9d1948c960b73927bffbb6fa624824a2ef926b6e45d067d4a72e
 #EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/810_300.png" group-title="ASIAN TV",Astro SuperSport 1 
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1366.ts
 #EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/811_300.png" group-title="ASIAN TV",Astro SuperSport 2 
