@@ -2710,7 +2710,7 @@ http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
 #EXTINF:-1, tvg-logo="http://abscbnpr.com/wp-content/uploads/2015/11/ANC-new-logo-800x360.jpg" group-title="PINOY TV", ANC NEWS CHANNEL
 https://iwantpradals2-lh.akamaihd.net/i/ocpanc_1@520818/master.m3u8?hdnea=exp=1527896974~acl=/*~hmac=6fd0244e809d31c3a392ca65c8e4ddd5ac94ca434ba3cc6b0c898b3ac542acfd
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
-https://iwantpradals-lh.akamaihd.net/i/skyabscbnhd_1@383873/master.m3u8?hdnea=exp=1527823019~acl=/*~hmac=0e34ed3cdb81e335924d0591393117442fc9a76a81e02f5af8d43299daf81318
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbn_1@388737/index_800_av-p.m3u8?sd=10&rebase=on&id=AgBuNqeDQ4dpjZSLEFsKyN53xyNgVgsRUFqiPN4O7ASwSBNZMIHUmBG3dvzoS5kn098kfxk6UMBTtg%3d%3d&hdntl=exp=1527897364~acl=%2f*~data=hdntl~hmac=7be3194166af34754a07a58df10a7151ab50c6bd31fca22c5bf85ce1f14e5055
 #EXTINF:-1, tvg-logo="https://img.tfc.tv/xcms/episodeimages/41725/dzmmSHOWTHUMB-487x274.jpg" group-title="PINOY TV", DZMM TELERADYO
 https://iwantpradals2-lh.akamaihd.net/i/ocpdzmm_1@520817/master.m3u8?hdnea=exp=1527897117~acl=/*~hmac=530806b1287446617ae27935edfd9901f284da7e364fe5ac265b9d23beaa9de8
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/947598867985457152/lOzb5ud9.jpg" group-title="PINOY TV", CNN PHILIPPINES
