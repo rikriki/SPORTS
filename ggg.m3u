@@ -3405,8 +3405,6 @@ http://vapi.vaders.tv/play/2489.ts?token=eyJ1c2VybmFtZSI6ImpjYXNlIiwicGFzc3dvcmQ
 http://vapi.vaders.tv/play/2561.ts?token=eyJ1c2VybmFtZSI6ImpjYXNlIiwicGFzc3dvcmQiOiI2MDIwdG9rIn0=
 #EXTINF:-1 tvg-name="NBC Sports Network HD" tvg-id="I220.15952.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/nbc%20sports%20network%20hd.png" group-title="Sports",NBC Sports Network HD
 http://vapi.vaders.tv/play/2562.ts?token=eyJ1c2VybmFtZSI6ImpjYXNlIiwicGFzc3dvcmQiOiI2MDIwdG9rIn0=
-#EXTINF:-1 tvg-name="NBC Sports Network HD" tvg-id="I220.15952.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/nbc%20sports%20network%20hd.png" group-title="United States",NBC Sports Network HD
-http://vapi.vaders.tv/play/2562.ts?token=eyJ1c2VybmFtZSI6ImpjYXNlIiwicGFzc3dvcmQiOiI2MDIwdG9rIn0=
 #EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2563.ts?token=eyJ1c2VybmFtZSI6ImpjYXNlIiwicGFzc3dvcmQiOiI2MDIwdG9rIn0=&duration=3600" catchup-days=5 tvg-name="BeIN Sports USA HD" tvg-id="I620.76950.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/bein%20sports%20usa.png" group-title="Sports",BeIN Sports USA HD
 http://vapi.vaders.tv/play/2563.ts?token=eyJ1c2VybmFtZSI6ImpjYXNlIiwicGFzc3dvcmQiOiI2MDIwdG9rIn0=
 #EXTINF:-1 tvg-name="ESPNews HD" tvg-id="I207.59976.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/espn%20news%20hd.png" group-title="Sports",ESPNews HD
@@ -3564,8 +3562,6 @@ http://vapi.vaders.tv/play/52189.ts?token=eyJ1c2VybmFtZSI6ImpjYXNlIiwicGFzc3dvcm
 #EXTINF:-1 tvg-name="Fox Sports Indiana HD" tvg-id="52195" tvg-logo="http://vaders.tv/logos/fox%20sports%20indiana.png" group-title="Sports",Fox Sports Indiana HD
 http://vapi.vaders.tv/play/52195.ts?token=eyJ1c2VybmFtZSI6ImpjYXNlIiwicGFzc3dvcmQiOiI2MDIwdG9rIn0=
 #EXTINF:-1 tvg-name="Fox Sports South HD" tvg-id="I646.61092.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/fox%20sports%20south.png" group-title="Sports",Fox Sports South HD
-http://vapi.vaders.tv/play/52200.ts?token=eyJ1c2VybmFtZSI6ImpjYXNlIiwicGFzc3dvcmQiOiI2MDIwdG9rIn0=
-#EXTINF:-1 tvg-name="Fox Sports South HD" tvg-id="I646.61092.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/fox%20sports%20south.png" group-title="United States",Fox Sports South HD
 http://vapi.vaders.tv/play/52200.ts?token=eyJ1c2VybmFtZSI6ImpjYXNlIiwicGFzc3dvcmQiOiI2MDIwdG9rIn0=
 #EXTINF:-1 tvg-name="Fox Sports South East HD" tvg-id="None" tvg-logo="" group-title="Sports",Fox Sports South East HD
 http://vapi.vaders.tv/play/52201.ts?token=eyJ1c2VybmFtZSI6ImpjYXNlIiwicGFzc3dvcmQiOiI2MDIwdG9rIn0=
