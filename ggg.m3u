@@ -3609,64 +3609,78 @@ http://vapi.vaders.tv/play/2738.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3d
 http://vapi.vaders.tv/play/2739.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
 #EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2741.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="Sky Cinema Family HD" tvg-id="SkyFamily.uk" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20cinema%20family.png" group-title="Premium Movies",Sky Cinema Family HD
 http://vapi.vaders.tv/play/2741.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2742.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="Sky Cinema Disney HD" tvg-id="SkyDisney.uk" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20cinema%20disney.png" group-title="Premium Movies",Sky Cinema Disney HD
-http://vapi.vaders.tv/play/2742.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2743.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="Sky Cinema Comedy HD" tvg-id="SkyComedy.uk" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20cinema%20comedy.png" group-title="Premium Movies",Sky Cinema Comedy HD
-http://vapi.vaders.tv/play/2743.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="Starz Edge" tvg-id="I529.57573.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/starz%20edge.png" group-title="Premium Movies",Starz Edge
-http://vapi.vaders.tv/play/3119.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="Starz Comedy" tvg-id="I528.57569.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/starz%20comedy.png" group-title="Premium Movies",Starz Comedy
-http://vapi.vaders.tv/play/3121.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="Starz Kids & Family" tvg-id="I527.57581.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/starz%20kids%20%26%20family.png" group-title="Premium Movies",Starz Kids & Family
-http://vapi.vaders.tv/play/3122.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="Starz Encore" tvg-id="I535.36225.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/starz%20encore.png" group-title="Premium Movies",Starz Encore
-http://vapi.vaders.tv/play/3123.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="HBO Signature HD" tvg-id="I503.59363.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/hbo%20signature.png" group-title="Premium Movies",HBO Signature HD
-http://vapi.vaders.tv/play/7857.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/7859.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="HBO HD" tvg-id="I501.19548.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/hbo.png" group-title="Premium Movies",HBO HD
-http://vapi.vaders.tv/play/7859.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="HBO Comedy HD" tvg-id="I506.59839.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/hbo%20comedy.png" group-title="Premium Movies",HBO Comedy HD
-http://vapi.vaders.tv/play/7860.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/7936.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="Cinemax" tvg-id="I515.34933.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/cinemax.png" group-title="Premium Movies",Cinemax
-http://vapi.vaders.tv/play/7936.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="HBO Zone HD" tvg-id="HBOZone.us" tvg-logo="http://vod6.vaders.tv:8080/logos/hbo%20zone%20hd.png" group-title="Premium Movies",HBO Zone HD
-http://vapi.vaders.tv/play/7944.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="Cinemax Moremax" tvg-id="I517.59373.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/cinemax%20moremax.png" group-title="Premium Movies",Cinemax Moremax
-http://vapi.vaders.tv/play/7945.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="Cinemax Actionmax" tvg-id="I519.59948.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/cinemax%20actionmax.png" group-title="Premium Movies",Cinemax Actionmax
-http://vapi.vaders.tv/play/7946.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="Cinemax 5 Star" tvg-id="I520.59961.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/cinemax%205%20star.png" group-title="Premium Movies",Cinemax 5 Star
-http://vapi.vaders.tv/play/7947.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="Epix Hits HD" tvg-id="39634" tvg-logo="http://vod6.vaders.tv:8080/logos/epix%20hits.png" group-title="Premium Movies",Epix Hits HD
-http://vapi.vaders.tv/play/39634.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="Epix 2 HD" tvg-id="39635" tvg-logo="http://vod6.vaders.tv:8080/logos/epix%202.png" group-title="Premium Movies",Epix 2 HD
-http://vapi.vaders.tv/play/39635.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="Epix HD" tvg-id="39636" tvg-logo="http://vod6.vaders.tv:8080/logos/epix.png" group-title="Premium Movies",Epix HD
-http://vapi.vaders.tv/play/39636.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/39637.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="Showtime HD" tvg-id="I545.21868.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/showtime.png" group-title="Premium Movies",Showtime HD
-http://vapi.vaders.tv/play/39637.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="Showtime 2 HD" tvg-id="I547.58533.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/showtime%202.png" group-title="Premium Movies",Showtime 2 HD
-http://vapi.vaders.tv/play/39638.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/39813.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="Sky Cinema Sci-Fi & Horror HD" tvg-id="SkySciFiHorror.uk" tvg-logo="http://vod6.vaders.tv:8080/logos/sky%20cinema%20sci-fi%20%26%20horror.png" group-title="Premium Movies",Sky Cinema Sci-Fi & Horror HD
-http://vapi.vaders.tv/play/39813.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/39873.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="Starz HD" tvg-id="I525.34941.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/starz%20hd.png" group-title="Premium Movies",Starz HD
-http://vapi.vaders.tv/play/39873.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="HBO Family HD" tvg-id="I507.59357.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/hbo%20family%20hd.png" group-title="Premium Movies",HBO Family HD
-http://vapi.vaders.tv/play/59092.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="Showtime Extreme HD" tvg-id="I549.60947.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/showtime%20extreme.png" group-title="Premium Movies",Showtime Extreme HD
-http://vapi.vaders.tv/play/64457.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="HBO2 HD" tvg-id="I502.59368.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/hbo2%20hd.png" group-title="Premium Movies",HBO2 HD
-http://vapi.vaders.tv/play/64791.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="Starz West HD" tvg-id="I538.14765.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/starz%20west.png" group-title="Premium Movies",Starz West HD
-http://vapi.vaders.tv/play/64903.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/72668.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="Sky Cinema Drama HD" tvg-id="SkyDrama.uk" tvg-logo="http://vaders.tv/logos/sky%20cinema%20drama.png" group-title="Premium Movies",Sky Cinema Drama HD
-http://vapi.vaders.tv/play/72668.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/74519.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="Sky Cinema Action HD" tvg-id="SkyAction.uk" tvg-logo="https://imgur.com/iVuAn1l.png" group-title="Premium Movies",Sky Cinema Action HD
-http://vapi.vaders.tv/play/74519.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="The Movie Channel HD" tvg-id="I553.35329.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/the%20movie%20channel.png" group-title="Premium Movies",The Movie Channel HD
-http://vapi.vaders.tv/play/74789.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1, tvg-name="HDNet Movies HD" tvg-id="I566.33668.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/hdnet%20movies.png" group-title="Premium Movies",HDNet Movies HD
-http://vapi.vaders.tv/play/74791.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2735.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9&duration=3600" catchup-days=5 tvg-name="Sky Cinema Hits HD" tvg-id="SkyHits.uk" tvg-logo="http://vaders.tv/logos/sky%20cinema%20hits.png" group-title="Premium Movies",Sky Cinema Hits HD
+http://vapi.vaders.tv/play/2735.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2736.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9&duration=3600" catchup-days=5 tvg-name="Sky Cinema Select HD" tvg-id="SkySelect.uk" tvg-logo="http://vaders.tv/logos/sky%20cinema%20select.png" group-title="Premium Movies",Sky Cinema Select HD
+http://vapi.vaders.tv/play/2736.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2737.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9&duration=3600" catchup-days=5 tvg-name="Sky Cinema Greats HD" tvg-id="SkyGreats.uk" tvg-logo="https://imgur.com/5BdxZ2U.png" group-title="Premium Movies",Sky Cinema Greats HD
+http://vapi.vaders.tv/play/2737.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2738.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9&duration=3600" catchup-days=5 tvg-name="Sky Cinema Premiere HD" tvg-id="SkyPremiere.uk" tvg-logo="http://vaders.tv/logos/sky%20cinema%20premiere.png" group-title="Premium Movies",Sky Cinema Premiere HD
+http://vapi.vaders.tv/play/2738.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2739.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9&duration=3600" catchup-days=5 tvg-name="Sky Cinema Thriller HD" tvg-id="SkyCrimeThriller.uk" tvg-logo="http://vaders.tv/logos/sky%20cinema%20thriller.png" group-title="Premium Movies",Sky Cinema Thriller HD
+http://vapi.vaders.tv/play/2739.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2741.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9&duration=3600" catchup-days=5 tvg-name="Sky Cinema Family HD" tvg-id="SkyFamily.uk" tvg-logo="http://vaders.tv/logos/sky%20cinema%20family.png" group-title="Premium Movies",Sky Cinema Family HD
+http://vapi.vaders.tv/play/2741.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2742.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9&duration=3600" catchup-days=5 tvg-name="Sky Cinema Disney HD" tvg-id="SkyDisney.uk" tvg-logo="http://vaders.tv/logos/sky%20cinema%20disney.png" group-title="Premium Movies",Sky Cinema Disney HD
+http://vapi.vaders.tv/play/2742.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2743.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9&duration=3600" catchup-days=5 tvg-name="Sky Cinema Comedy HD" tvg-id="SkyComedy.uk" tvg-logo="http://vaders.tv/logos/sky%20cinema%20comedy.png" group-title="Premium Movies",Sky Cinema Comedy HD
+http://vapi.vaders.tv/play/2743.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="Starz Edge" tvg-id="I529.57573.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/starz%20edge.png" group-title="Premium Movies",Starz Edge
+http://vapi.vaders.tv/play/3119.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="Starz Comedy" tvg-id="I528.57569.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/starz%20comedy.png" group-title="Premium Movies",Starz Comedy
+http://vapi.vaders.tv/play/3121.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="Starz Kids & Family" tvg-id="I527.57581.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/starz%20kids%20%26%20family.png" group-title="Premium Movies",Starz Kids & Family
+http://vapi.vaders.tv/play/3122.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="Starz Encore" tvg-id="I535.36225.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/starz%20encore.png" group-title="Premium Movies",Starz Encore
+http://vapi.vaders.tv/play/3123.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="HBO Signature HD" tvg-id="I503.59363.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/hbo%20signature.png" group-title="Premium Movies",HBO Signature HD
+http://vapi.vaders.tv/play/7857.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/7859.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9&duration=3600" catchup-days=5 tvg-name="HBO HD" tvg-id="I501.19548.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/hbo.png" group-title="Premium Movies",HBO HD
+http://vapi.vaders.tv/play/7859.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="HBO Comedy HD" tvg-id="I506.59839.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/hbo%20comedy.png" group-title="Premium Movies",HBO Comedy HD
+http://vapi.vaders.tv/play/7860.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/7936.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9&duration=3600" catchup-days=5 tvg-name="Cinemax" tvg-id="I515.34933.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/cinemax.png" group-title="Premium Movies",Cinemax
+http://vapi.vaders.tv/play/7936.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="HBO Zone HD" tvg-id="HBOZone.us" tvg-logo="http://vaders.tv/logos/hbo%20zone%20hd.png" group-title="Premium Movies",HBO Zone HD
+http://vapi.vaders.tv/play/7944.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="Cinemax Moremax" tvg-id="I517.59373.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/cinemax%20moremax.png" group-title="Premium Movies",Cinemax Moremax
+http://vapi.vaders.tv/play/7945.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="Cinemax Actionmax" tvg-id="I519.59948.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/cinemax%20actionmax.png" group-title="Premium Movies",Cinemax Actionmax
+http://vapi.vaders.tv/play/7946.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="Cinemax 5 Star" tvg-id="I520.59961.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/cinemax%205%20star.png" group-title="Premium Movies",Cinemax 5 Star
+http://vapi.vaders.tv/play/7947.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="Epix Hits HD" tvg-id="39634" tvg-logo="http://vaders.tv/logos/epix%20hits.png" group-title="Premium Movies",Epix Hits HD
+http://vapi.vaders.tv/play/39634.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="Epix 2 HD" tvg-id="39635" tvg-logo="http://vaders.tv/logos/epix%202.png" group-title="Premium Movies",Epix 2 HD
+http://vapi.vaders.tv/play/39635.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="Epix HD" tvg-id="39636" tvg-logo="http://vaders.tv/logos/epix.png" group-title="Premium Movies",Epix HD
+http://vapi.vaders.tv/play/39636.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/39637.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9&duration=3600" catchup-days=5 tvg-name="Showtime HD" tvg-id="I545.21868.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/showtime.png" group-title="Premium Movies",Showtime HD
+http://vapi.vaders.tv/play/39637.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="Showtime 2 HD" tvg-id="I547.58533.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/showtime%202.png" group-title="Premium Movies",Showtime 2 HD
+http://vapi.vaders.tv/play/39638.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/39813.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9&duration=3600" catchup-days=5 tvg-name="Sky Cinema Sci-Fi & Horror HD" tvg-id="SkySciFiHorror.uk" tvg-logo="http://vaders.tv/logos/sky%20cinema%20sci-fi%20%26%20horror.png" group-title="Premium Movies",Sky Cinema Sci-Fi & Horror HD
+http://vapi.vaders.tv/play/39813.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/39873.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9&duration=3600" catchup-days=5 tvg-name="Starz HD" tvg-id="I525.34941.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/starz%20hd.png" group-title="Premium Movies",Starz HD
+http://vapi.vaders.tv/play/39873.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="HBO Family HD" tvg-id="I507.59357.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/hbo%20family%20hd.png" group-title="Premium Movies",HBO Family HD
+http://vapi.vaders.tv/play/59092.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="Showtime Extreme HD" tvg-id="I549.60947.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/showtime%20extreme.png" group-title="Premium Movies",Showtime Extreme HD
+http://vapi.vaders.tv/play/64457.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="HBO2 HD" tvg-id="I502.59368.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/hbo2%20hd.png" group-title="Premium Movies",HBO2 HD
+http://vapi.vaders.tv/play/64791.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="Starz West HD" tvg-id="I538.14765.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/starz%20west.png" group-title="Premium Movies",Starz West HD
+http://vapi.vaders.tv/play/64903.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/72668.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9&duration=3600" catchup-days=5 tvg-name="Sky Cinema Drama HD" tvg-id="SkyDrama.uk" tvg-logo="http://vaders.tv/logos/sky%20cinema%20drama.png" group-title="Premium Movies",Sky Cinema Drama HD
+http://vapi.vaders.tv/play/72668.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/74519.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9&duration=3600" catchup-days=5 tvg-name="Sky Cinema Action HD" tvg-id="SkyAction.uk" tvg-logo="https://imgur.com/iVuAn1l.png" group-title="Premium Movies",Sky Cinema Action HD
+http://vapi.vaders.tv/play/74519.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="The Movie Channel HD" tvg-id="I553.35329.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/the%20movie%20channel.png" group-title="Premium Movies",The Movie Channel HD
+http://vapi.vaders.tv/play/74789.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="HDNet Movies HD" tvg-id="I566.33668.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/hdnet%20movies.png" group-title="Premium Movies",HDNet Movies HD
+http://vapi.vaders.tv/play/74791.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
+#EXTINF:-1 tvg-name="Starz Western HD" tvg-id="None" tvg-logo="" group-title="Premium Movies",Starz Western HD
+http://vapi.vaders.tv/play/79264.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
 #EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2464.ts?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==&duration=3600" catchup-days=5 tvg-name="BBC One HD" tvg-id="I141.87840.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bbc%20one%20hd.png" group-title="United Kingdom",BBC One HD
 http://vapi.vaders.tv/play/2464.ts?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==
 #EXTINF:-1, catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2467.ts?token=eyJ1c2VybmFtZSI6ImpnbWFjZ293YW4iLCJwYXNzd29yZCI6ImNrMGcweXhsbG8ifQ==&duration=3600" catchup-days=5 tvg-name="BBC Two HD" tvg-id="I142.50059.schedulesdirect.org" tvg-logo="http://vod6.vaders.tv:8080/logos/bbc%20two%20hd.png" group-title="United Kingdom",BBC Two HD
