@@ -4005,3 +4005,401 @@ http://vapi.vaders.tv/play/74790.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMT
 http://vapi.vaders.tv/play/75926.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
 #EXTINF:-1 tvg-name="Boomerang HD" tvg-id="None" tvg-logo="https://i.imgur.com/jdrtTer.png" group-title="United States",Boomerang HD
 http://vapi.vaders.tv/play/79269.ts?token=eyJ1c2VybmFtZSI6Im1hcnR5bWFydGluaTIwMTQiLCJwYXNzd29yZCI6InNoa2VsemdsM2sifQ==
+#EXTINF:-1 tvg-id="UK: BT FHD 1" tvg-name="UK: BT FHD 1" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-1.png" group-title="SPORTS ALT",UK: BT FHD 1
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1315.ts
+#EXTINF:-1 tvg-id="UK: BT FHD 2" tvg-name="UK: BT FHD 2" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-2.png" group-title="SPORTS ALT",UK: BT FHD 2
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1316.ts
+#EXTINF:-1 tvg-id="UK: BT FHD 3" tvg-name="UK: BT FHD 3" tvg-logo="https://i1.wp.com/www.nplsports.com/wp-content/uploads/2017/03/BT-3.png?fit=1000%2C1000" group-title="SPORTS ALT",UK: BT FHD 3
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1317.ts
+#EXTINF:-1 tvg-id="uk.BT Sport 1 HD" tvg-name="UK: BT SPORTS 1 HD" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-1.png" group-title="SPORTS ALT",UK: BT SPORTS 1 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1318.ts
+#EXTINF:-1 tvg-id="uk.BT Sport 2 HD" tvg-name="UK: BT SPORTS 2 HD" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-2.png" group-title="SPORTS ALT",UK: BT SPORTS 2 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1319.ts
+#EXTINF:-1 tvg-id="uk.BT Sport 3 HD" tvg-name="UK: BT SPORTS 3 HD" tvg-logo="https://i1.wp.com/www.nplsports.com/wp-content/uploads/2017/03/BT-3.png?fit=1000%2C1000" group-title="SPORTS ALT",UK: BT SPORTS 3 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1320.ts
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="UK: BoxNation" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51xUI0%2B-ClL._SL500_.png" group-title="SPORTS ALT",UK: BoxNation
+http://nitrotv.for-the.biz:25461/live/Rico/1234/2191.ts
+#EXTINF:-1 tvg-id="boxnation.uk" tvg-name="UK: BoxNation HD" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51xUI0%2B-ClL._SL500_.png" group-title="SPORTS ALT",UK: BoxNation HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/12355.ts
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT ESPN HD" tvg-logo="https://external.ford1-1.fna.fbcdn.net/safe_image.php?d=AQDXWsCa7W-8e3-f&w=264&h=264&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Fe%2Fe4%2FBT_Sport_ESPN_logo.png%2F720px-BT_Sport_ESPN_logo.png&colorbox&f&_nc_hash=AQDI531eFH4QyH3e" group-title="SPORTS ALT",UK: BT ESPN HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1314.ts
+#EXTINF:-1 tvg-id="uk.Sky Sports F1" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://i.redditmedia.com/jbIc0d8qKdbtisoC0YHRQyPS2Ee2BzA-DeG6cX3V6hw.jpg?w=320&s=a6f3fe95e50272bb0ce6a6cb761e0de5" group-title="SPORTS ALT",UK: Sky Sports F1 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1365.ts
+#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-name="UK: Sky Sports Main Event HD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-1.png" group-title="SPORTS ALT",UK: Sky Sports Main Event HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1360.ts
+#EXTINF:-1 tvg-id="Sky Sports F1" tvg-name="UK: SKY SPORTS FHD F1" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-1.png" group-title="SPORTS ALT",UK: SKY SPORTS FHD F1
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1368.ts
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-2.png" group-title="SPORTS ALT",UK: Sky Sports Cricket HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1361.ts
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="UK: Sky Sports Cricket FHD" tvg-logo="http://www.skysports.com/images/v5/social/sports/4.jpg" group-title="SPORTS ALT",UK: Sky Sports Cricket FHD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/7947.ts
+#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-name="UK: SKY SPORTS Main Event FHD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-1.png" group-title="SPORTS ALT",UK: SKY SPORTS Main Event FHD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1366.ts
+#EXTINF:-1 tvg-id="Sky Sports Action" tvg-name="UK: Sky Sports Action HD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-3.png" group-title="SPORTS ALT",UK: Sky Sports Action HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1362.ts
+#EXTINF:-1 tvg-id="Sky Sports Action" tvg-name="UK: SKY SPORTS Action FHD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-3.png" group-title="SPORTS ALT",UK: SKY SPORTS Action FHD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1367.ts
+#EXTINF:-1 tvg-id="Sky Sports Golf" tvg-name="UK: Sky Sports Golf HD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-4.png" group-title="SPORTS ALT",UK: Sky Sports Golf HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1363.ts
+#EXTINF:-1 tvg-id="Sky Sports Golf" tvg-name="UK: SKY SPORTS Golf FHD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-4.png" group-title="SPORTS ALT",UK: SKY SPORTS Golf FHD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1303.ts
+#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-5.png" group-title="SPORTS ALT",UK: Sky Sports Premier League HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1364.ts
+#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-name="UK: SKY SPORTS Premier League FHD" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-5.png" group-title="SPORTS ALT",UK: SKY SPORTS Premier League FHD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1304.ts
+#EXTINF:-1 tvg-id="Sky Sports Arena" tvg-name="UK: Sky Sports Arena FHD" tvg-logo="http://www.tgo-tv.net/images/tvthumb/sport/6482649364.jpg" group-title="SPORTS ALT",UK: Sky Sports Arena FHD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/7949.ts
+#EXTINF:-1 tvg-id="Sky Sports Arena" tvg-name="UK: Sky Sports Arena HD" tvg-logo="http://www.tgo-tv.net/images/tvthumb/sport/6482649364.jpg" group-title="SPORTS ALT",UK: Sky Sports Arena HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/7948.ts
+#EXTINF:-1 tvg-id="Sky Sports Football" tvg-name="UK: Sky Sports Football FHD" tvg-logo="https://pbs.twimg.com/profile_images/3085874404/2647cc712f0673100b0e3eca81c94be5_400x400.png" group-title="SPORTS ALT",UK: Sky Sports Football FHD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/7951.ts
+#EXTINF:-1 tvg-id="Sky Sports Football" tvg-name="UK: Sky Sports Football HD" tvg-logo="https://pbs.twimg.com/profile_images/3085874404/2647cc712f0673100b0e3eca81c94be5_400x400.png" group-title="SPORTS ALT",UK: Sky Sports Football HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/7950.ts
+#EXTINF:-1 tvg-id="uk.Premier Sports" tvg-name="UK: Premier Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Premier_Sports_logo.png" group-title="SPORTS ALT",UK: Premier Sports
+http://nitrotv.for-the.biz:25461/live/Rico/1234/2089.ts
+#EXTINF:-1 tvg-id="UK: PREMIER SPORTS HD" tvg-name="UK: Premier Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Premier_Sports_logo.png" group-title="SPORTS ALT",UK: Premier Sports HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1341.ts
+#EXTINF:-1 tvg-id="Sky Sports News" tvg-name="UK: Sky Sports News" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/75/a4/97/75a497d58c901ca17d919d315e12a59c.jpg" group-title="SPORTS ALT",UK: Sky Sports News
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1369.ts
+#EXTINF:-1 tvg-id="uk.Sky Sp Mix HD" tvg-name="UK: Sky Sports Mix" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/05/Sky-Sports-Mix.png" group-title="SPORTS ALT",UK: Sky Sports Mix
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1305.ts
+#EXTINF:-1 tvg-id="uk.Racing UK HD" tvg-name="UK: Racing UK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Racinguk.png" group-title="SPORTS ALT",UK: Racing UK HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1342.ts
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="UK: Eurosport 1 HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/c/c8/Eurosport_1_HD.svg/revision/latest/scale-to-width-down/185?cb=20160505173101" group-title="SPORTS ALT",UK: Eurosport 1 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/2088.ts
+#EXTINF:-1 tvg-id="uk.Eurosport 2" tvg-name="UK: Eurosport 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDK4g0nrnG6-naEOaWdYYG9uY4Tqv9_SbSuGt2hU91OSj-D3i3" group-title="SPORTS ALT",UK: Eurosport 2 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/2087.ts
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="UK: Eurosport 1" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/c/c8/Eurosport_1_HD.svg/revision/latest/scale-to-width-down/185?cb=20160505173101" group-title="SPORTS ALT",UK: Eurosport 1
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3199.ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="UK: Eurosport 2" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/c/cb/Eurosport_2_HD.svg/revision/latest/scale-to-width-down/200?cb=20150426155551" group-title="SPORTS ALT",UK: Eurosport 2
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3198.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS 1" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-1.png" group-title="SPORTS ALT",UK: SKY SPORTS 1
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3404.ts
+#EXTINF:-1 tvg-id="LFC TV" tvg-name="UK: LFC HD" tvg-logo="http://www.media15.tv/wp-content/uploads/2015/07/square-lfctv.jpg" group-title="SPORTS ALT",UK: LFC HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3551.ts
+#EXTINF:-1 tvg-id="The Box" tvg-name="UK: My Fight Box HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png" group-title="SPORTS ALT",UK: My Fight Box HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/7957.ts
+#EXTINF:-1 tvg-id="uk.At The Races" tvg-name="UK: At The Races" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQ42xnM-whCZqx1ZNzBNyUzwGDQksPnQcyu54CUc-k3QuWKeyr" group-title="SPORTS ALT",UK: At The Races
+http://nitrotv.for-the.biz:25461/live/Rico/1234/2086.ts
+#EXTINF:-1 tvg-id="Racing UK" tvg-name="UK: Racing UK" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/aa/Racinguk.jpg/revision/latest/scale-to-width-down/600?cb=20140411182930" group-title="SPORTS ALT",UK: Racing UK
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3386.ts
+#EXTINF:-1 tvg-id="uk.eir Sport 1" tvg-name="UK: eir Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Eirsport1logo.png/300px-Eirsport1logo.png" group-title="SPORTS ALT",UK: eir Sport 1
+http://nitrotv.for-the.biz:25461/live/Rico/1234/2090.ts
+#EXTINF:-1 tvg-id="eir Sport 2" tvg-name="UK: eir Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png" group-title="SPORTS ALT",UK: eir Sport 2
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5313.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS 2" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-2.png" group-title="SPORTS ALT",UK: SKY SPORTS 2
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3403.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS 3" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-3.png" group-title="SPORTS ALT",UK: SKY SPORTS 3
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3402.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS 4" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-4.png" group-title="SPORTS ALT",UK: SKY SPORTS 4
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3401.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS 5" tvg-logo="http://footballontv.com/img/channels/square-300/Sky-Sports-5.png" group-title="SPORTS ALT",UK: SKY SPORTS 5
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3400.ts
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT SPORT ESPN" tvg-logo="https://external.ford1-1.fna.fbcdn.net/safe_image.php?d=AQDXWsCa7W-8e3-f&w=264&h=264&url=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Fe%2Fe4%2FBT_Sport_ESPN_logo.png%2F720px-BT_Sport_ESPN_logo.png&colorbox&f&_nc_hash=AQDI531eFH4QyH3e" group-title="SPORTS ALT",UK: BT SPORT ESPN
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3396.ts
+#EXTINF:-1 tvg-id="BT Sport 1" tvg-name="UK: BT SPORT 1" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-1.png" group-title="SPORTS ALT",UK: BT SPORT 1
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3399.ts
+#EXTINF:-1 tvg-id="BT Sport 2" tvg-name="UK: BT SPORT 2" tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-2.png" group-title="SPORTS ALT",UK: BT SPORT 2
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3398.ts
+#EXTINF:-1 tvg-id="BT Sport 3" tvg-name="UK: BT SPORT 3" tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="SPORTS ALT",UK: BT SPORT 3
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3397.ts
+#EXTINF:-1 tvg-id="BT Sport X1" tvg-name="UK: BT Sport Extra 1" tvg-logo="https://ulango.tv/uploads/channels/62276/logo_bt%20sport%20extra.png" group-title="SPORTS ALT",UK: BT Sport Extra 1
+http://nitrotv.for-the.biz:25461/live/Rico/1234/2095.ts
+#EXTINF:-1 tvg-id="BT Sport X2 HD" tvg-name="UK: BT Sport Extra 2" tvg-logo="https://ulango.tv/uploads/channels/62276/logo_bt%20sport%20extra.png" group-title="SPORTS ALT",UK: BT Sport Extra 2
+http://nitrotv.for-the.biz:25461/live/Rico/1234/2094.ts
+#EXTINF:-1 tvg-id="BT Sport X3" tvg-name="UK: BT Sport Extra 3" tvg-logo="https://ulango.tv/uploads/channels/62276/logo_bt%20sport%20extra.png" group-title="SPORTS ALT",UK: BT Sport Extra 3
+http://nitrotv.for-the.biz:25461/live/Rico/1234/2093.ts
+#EXTINF:-1 tvg-id="BT Sport X4 HD" tvg-name="UK: BT Sport Extra 4" tvg-logo="https://ulango.tv/uploads/channels/62276/logo_bt%20sport%20extra.png" group-title="SPORTS ALT",UK: BT Sport Extra 4
+http://nitrotv.for-the.biz:25461/live/Rico/1234/2092.ts
+#EXTINF:-1 tvg-id="BT Sport X5 HD" tvg-name="UK: BT Sport Extra 5" tvg-logo="https://ulango.tv/uploads/channels/62276/logo_bt%20sport%20extra.png" group-title="SPORTS ALT",UK: BT Sport Extra 5
+http://nitrotv.for-the.biz:25461/live/Rico/1234/2091.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eleven Sports HD" tvg-logo="https://pbs.twimg.com/profile_images/813353685128511488/X33CBMGa_400x400.jpg" group-title="SPORTS ALT",UK: Eleven Sports HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/2100.ts
+#EXTINF:-1 tvg-id="ar.HD11" tvg-name="Bein Sports 11 HD" tvg-logo="https://lh5.ggpht.com/sBe1pdXG9bIzPzeDU9slcLxNdORVwuWZk_7dRZNEFApkTYuSO9feQWbtaE9t5B6RNGE=w300" group-title="SPORTS ALT",Bein Sports 11 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/2079.ts
+#EXTINF:-1 tvg-id="ar.HD12" tvg-name="Bein Sports 12 HD" tvg-logo="https://lh5.ggpht.com/sBe1pdXG9bIzPzeDU9slcLxNdORVwuWZk_7dRZNEFApkTYuSO9feQWbtaE9t5B6RNGE=w300" group-title="SPORTS ALT",Bein Sports 12 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/2078.ts
+#EXTINF:-1 tvg-id="fr.HD1" tvg-name="FR:BeinSport1_HD" tvg-logo="https://lh5.ggpht.com/sBe1pdXG9bIzPzeDU9slcLxNdORVwuWZk_7dRZNEFApkTYuSO9feQWbtaE9t5B6RNGE=w300" group-title="SPORTS ALT",FR:BeinSport1_HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3633.ts
+#EXTINF:-1 tvg-id="fr.HD2" tvg-name="FR:BeinSport2_HD" tvg-logo="https://lh5.ggpht.com/sBe1pdXG9bIzPzeDU9slcLxNdORVwuWZk_7dRZNEFApkTYuSO9feQWbtaE9t5B6RNGE=w300" group-title="SPORTS ALT",FR:BeinSport2_HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3632.ts
+#EXTINF:-1 tvg-id="fr.HD3" tvg-name="FR:BeinSport3_HD" tvg-logo="https://lh5.ggpht.com/sBe1pdXG9bIzPzeDU9slcLxNdORVwuWZk_7dRZNEFApkTYuSO9feQWbtaE9t5B6RNGE=w300" group-title="SPORTS ALT",FR:BeinSport3_HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3631.ts
+#EXTINF:-1 tvg-id="fr.10MAX" tvg-name="FR:BeinSportMax10" tvg-logo="https://lh5.ggpht.com/sBe1pdXG9bIzPzeDU9slcLxNdORVwuWZk_7dRZNEFApkTYuSO9feQWbtaE9t5B6RNGE=w300" group-title="SPORTS ALT",FR:BeinSportMax10
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3630.ts
+#EXTINF:-1 tvg-id="fr.4MAX" tvg-name="FR:BeinSportMax4" tvg-logo="https://www.thelogodb.com/images/media/logo/vxwvps1437967525.png/preview" group-title="SPORTS ALT",FR:BeinSportMax4
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3629.ts
+#EXTINF:-1 tvg-id="fr.5MAX" tvg-name="FR:BeinSportMax5" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/d/d0/Bein-sports-max-5_uioihjesc6nw1p6ydjpmkhsr6-1-.jpg/revision/latest/scale-to-width-down/200?cb=20140414170307" group-title="SPORTS ALT",FR:BeinSportMax5
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3628.ts
+#EXTINF:-1 tvg-id="fr.6MAX" tvg-name="FR:BeinSportMax6" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/3/38/Bein_sport_max_6.png/revision/latest?cb=20140415072229" group-title="SPORTS ALT",FR:BeinSportMax6
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3627.ts
+#EXTINF:-1 tvg-id="fr.7MAX" tvg-name="FR:BeinSportMax7" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/98/Bein_sport_max_7.png/revision/latest?cb=20140415072434" group-title="SPORTS ALT",FR:BeinSportMax7
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3626.ts
+#EXTINF:-1 tvg-id="fr.8MAX" tvg-name="FR:BeinSportMax8" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/4/48/Bein-sports-max-8_pmivscalaaop15paofin6utsd-1-.jpg/revision/latest/scale-to-width-down/200?cb=20140414170425" group-title="SPORTS ALT",FR:BeinSportMax8
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3625.ts
+#EXTINF:-1 tvg-id="fr.9MAX" tvg-name="FR:BeinSportMax9" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/f1/Bein_sport_max_9.png/revision/latest?cb=20140415072739" group-title="SPORTS ALT",FR:BeinSportMax9
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3624.ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="FR:EUROSPORT_2_HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/c/cb/Eurosport_2_HD.svg/revision/latest/scale-to-width-down/200?cb=20150426155551" group-title="SPORTS ALT",FR:EUROSPORT_2_HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3622.ts
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="FR:EUROSPORT1_france" tvg-logo="https://pbs.twimg.com/profile_images/664921402596790273/4GS8mehE_400x400.png" group-title="SPORTS ALT",FR:EUROSPORT1_france
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3623.ts
+#EXTINF:-1 tvg-id="EXTREME SPORTS" tvg-name="FR:EXTREME_SPORT_HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/d/dd/EXTREME_SPORT_CHANNEL_HD_2013.jpg/revision/latest/scale-to-width-down/220?cb=20150310175059" group-title="SPORTS ALT",FR:EXTREME_SPORT_HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3621.ts
+#EXTINF:-1 tvg-id="Infosport+" tvg-name="FR:INFOSPORT" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/fa/Infosport_2011.png/revision/latest/scale-to-width-down/250?cb=20111122223242" group-title="SPORTS ALT",FR:INFOSPORT
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3619.ts
+#EXTINF:-1 tvg-id="SFR Sport 1" tvg-name="FR:SFR_SPORT1" tvg-logo="https://live.acan.tv/uploads/2cfc4bd616335a03616efd07ef58bd24.png" group-title="SPORTS ALT",FR:SFR_SPORT1
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3618.ts
+#EXTINF:-1 tvg-id="SFR Sport 2" tvg-name="FR:SFR_SPORT2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/SFR_Sport_2_logo_2016.png/320px-SFR_Sport_2_logo_2016.png" group-title="SPORTS ALT",FR:SFR_SPORT2
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3617.ts
+#EXTINF:-1 tvg-id="SFR Sport 3" tvg-name="FR:SFR_SPORT3" tvg-logo="http://img.static.myt.mu/assets/img/pl/logo_SFR_SPORT3.jpg" group-title="SPORTS ALT",FR:SFR_SPORT3
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3616.ts
+#EXTINF:-1 tvg-id="SFR Sport 5" tvg-name="FR:SFR_SPORT5" tvg-logo="http://www.ariase.com/media/television/sfr-sport-5.jpg" group-title="SPORTS ALT",FR:SFR_SPORT5
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3615.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sports : FOX SPORTS ASIA HD 2" tvg-logo="https://i1.sndcdn.com/avatars-000255388853-7fknhx-t500x500.jpg" group-title="SPORTS ALT",Sports : FOX SPORTS ASIA HD 2
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3594.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sports : FOX SPORTS ASIA HD 3" tvg-logo="https://i1.sndcdn.com/avatars-000255388853-7fknhx-t500x500.jpg" group-title="SPORTS ALT",Sports : FOX SPORTS ASIA HD 3
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3593.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS : LE Sports Now HK 1 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3591.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 1 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS : LE Sports Now HK 1 FHD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3592.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS : LE Sports Now HK 2 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3588.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 2 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS : LE Sports Now HK 2 FHD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3589.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 3 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS : LE Sports Now HK 3 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3586.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 3 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS : LE Sports Now HK 3 FHD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3587.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS :  LE Sports Now HK 4 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS :  LE Sports Now HK 4 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3603.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS :  LE Sports Now HK 4 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS :  LE Sports Now HK 4 FHD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3604.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 5 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS : LE Sports Now HK 5 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3584.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 5 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS : LE Sports Now HK 5 FHD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3585.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sports : LE Sports Now HK 6 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",Sports : LE Sports Now HK 6 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3582.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 6 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS : LE Sports Now HK 6 FHD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3583.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 7 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS : LE Sports Now HK 7 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3581.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS :  LE Sports Now HK 7 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS :  LE Sports Now HK 7 FHD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3602.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 8 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS : LE Sports Now HK 8 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3580.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS :  LE Sports Now HK 8 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS :  LE Sports Now HK 8 FHD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3601.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 9 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS : LE Sports Now HK 9 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3578.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 9 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS : LE Sports Now HK 9 FHD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3579.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS : LE Sports Now HK 10 HD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS : LE Sports Now HK 10 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3590.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS :  LE Sports Now HK 10 FHD" tvg-logo="https://pbs.twimg.com/profile_images/687172875296489472/CsSuouFy_400x400.jpg" group-title="SPORTS ALT",SPORTS :  LE Sports Now HK 10 FHD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3605.ts
+#EXTINF:-1 tvg-id="us.ESPN HDTV" tvg-name="US: ESPN HD" tvg-logo="https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/9f/89faf6d3-15fd-5da2-a671-d7d1b2344c48/5849a237de81b.image.png" group-title="SPORTS ALT",US: ESPN HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1401.ts
+#EXTINF:-1 tvg-id="us.ESPN HDTV" tvg-name="US: ESPN 720" tvg-logo="https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/9f/89faf6d3-15fd-5da2-a671-d7d1b2344c48/5849a237de81b.image.png" group-title="SPORTS ALT",US: ESPN 720
+http://nitrotv.for-the.biz:25461/live/Rico/1234/7508.ts
+#EXTINF:-1 tvg-id="us.ESPN News HDTV" tvg-name="US: ESPN News HD" tvg-logo="http://www.alticemediasolutions.com/sites/default/files/styles/homepage_news___features/public/espnews.png?itok=jB-byCZG" group-title="SPORTS ALT",US: ESPN News HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1402.ts
+#EXTINF:-1 tvg-id="us.ESPN2 HDTV" tvg-name="US: ESPN 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/3756934176/336d69780c70c41f12b0d6c73436849c_400x400.jpeg" group-title="SPORTS ALT",US: ESPN 2 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1403.ts
+#EXTINF:-1 tvg-id="us.ESPN2 HDTV" tvg-name="US: ESPN 2 720" tvg-logo="https://pbs.twimg.com/profile_images/3756934176/336d69780c70c41f12b0d6c73436849c_400x400.jpeg" group-title="SPORTS ALT",US: ESPN 2 720
+http://nitrotv.for-the.biz:25461/live/Rico/1234/11556.ts
+#EXTINF:-1 tvg-id="us.ESPNU HDTV" tvg-name="US: ESPN U HD" tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2011/06/ESPNU_CLR_Pos1-642x400.jpg" group-title="SPORTS ALT",US: ESPN U HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3735.ts
+#EXTINF:-1 tvg-id="Fox Sports 1 HD" tvg-name="US: Fox Sports 1 HD" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="SPORTS ALT",US: Fox Sports 1 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5505.ts
+#EXTINF:-1 tvg-id="Fox Sports 1 HD" tvg-name="US: Fox Sports 1 720" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="SPORTS ALT",US: Fox Sports 1 720
+http://nitrotv.for-the.biz:25461/live/Rico/1234/11557.ts
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="US: Fox Sports 2 HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-607x337.jpg" group-title="SPORTS ALT",US: Fox Sports 2 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5506.ts
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="US: Fox Sports 2 720" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2017/08/FS2-Logo_1040x585-607x337.jpg" group-title="SPORTS ALT",US: Fox Sports 2 720
+http://nitrotv.for-the.biz:25461/live/Rico/1234/11559.ts
+#EXTINF:-1 tvg-id="US: Fox Sports Prime Ticket 1 HD" tvg-name="US: Fox Sports Prime Ticket 1 HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/images-1.jpeg" group-title="SPORTS ALT",US: Fox Sports Prime Ticket 1 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6030.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Indiana HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/FoxSportsIndiana.png" group-title="SPORTS ALT",US: Fox Sports Indiana HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/19645.ts
+#EXTINF:-1 tvg-id="foxsportsarizona.us" tvg-name="US: Fox Sports Arizona HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSArizona_white.jpg" group-title="SPORTS ALT",US: Fox Sports Arizona HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5944.ts
+#EXTINF:-1 tvg-id="US: Fox Sports Detroit HD" tvg-name="US: Fox Sports Detroit HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Fox_sports_detroit.png" group-title="SPORTS ALT",US: Fox Sports Detroit HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6037.ts
+#EXTINF:-1 tvg-id="foxsportsflorida.us" tvg-name="US: Fox Sports Florida HD" tvg-logo="https://nhl.bamcontent.com/images/photos/291427300/1024x576/cut.jpg" group-title="SPORTS ALT",US: Fox Sports Florida HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5943.ts
+#EXTINF:-1 tvg-id="US: Fox Sports Florida HD" tvg-name="US: Fox Sports Florida HD." tvg-logo="https://nhl.bamcontent.com/images/photos/294256764/1024x576/cut.jpg" group-title="SPORTS ALT",US: Fox Sports Florida HD.
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6012.ts
+#EXTINF:-1 tvg-id="foxsportsmidwest.us" tvg-name="US: Fox Sports Midwest HD" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Fox_sports_midwest_2012.png.300x300_q85.png" group-title="SPORTS ALT",US: Fox Sports Midwest HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6031.ts
+#EXTINF:-1 tvg-id="foxsportsnorth.us" tvg-name="US: Fox Sports North HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSNorth_white.jpg" group-title="SPORTS ALT",US: Fox Sports North HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5942.ts
+#EXTINF:-1 tvg-id="foxsportsohio.us" tvg-name="US: Fox Sports Ohio" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOhio_white-450x300.jpg" group-title="SPORTS ALT",US: Fox Sports Ohio
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6016.ts
+#EXTINF:-1 tvg-id="US: Fox Sports Ohio HD" tvg-name="US: Fox Sports Ohio HD." tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOhio_white-450x300.jpg" group-title="SPORTS ALT",US: Fox Sports Ohio HD.
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6017.ts
+#EXTINF:-1 tvg-id="US: Fox Sports San Diego HD" tvg-name="US: Fox Sports San Diego HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Fox_Sports_San_Diego_2012_logo.png" group-title="SPORTS ALT",US: Fox Sports San Diego HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6034.ts
+#EXTINF:-1 tvg-id="foxsportssouth.us" tvg-name="US: Fox Sports South HD" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/10/FOX-Sports-South-live-stream.jpg" group-title="SPORTS ALT",US: Fox Sports South HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5941.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Southeast HD" tvg-logo="http://www.nba.com/hawks/sites/hawks/files/pi-fox-sports-southeast-082315.vresize.1200.675.high_.63.jpg" group-title="SPORTS ALT",US: Fox Sports Southeast HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6038.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Southwest 2 HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSSouthwest_white.jpg" group-title="SPORTS ALT",US: Fox Sports Southwest 2 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6018.ts
+#EXTINF:-1 tvg-id="foxsportssouthwest.us" tvg-name="US: Fox Sports Southwest HD" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Fox_sports_southwest_2012.png.300x300_q85.png" group-title="SPORTS ALT",US: Fox Sports Southwest HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5940.ts
+#EXTINF:-1 tvg-id="foxsportssun.us" tvg-name="US: Fox Sports Sun HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/381.png" group-title="SPORTS ALT",US: Fox Sports Sun HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5945.ts
+#EXTINF:-1 tvg-id="US: Fox Sports Tennessee HD" tvg-name="US: Fox Sports Tennessee HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Fox_Sports_Tennessee_2012_logo.png" group-title="SPORTS ALT",US: Fox Sports Tennessee HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6032.ts
+#EXTINF:-1 tvg-id="foxsportswest.us" tvg-name="US: Fox Sports West" tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/05/FOX-Sports-West-live-stream.jpg" group-title="SPORTS ALT",US: Fox Sports West
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6015.ts
+#EXTINF:-1 tvg-id="US: Fox Sports Wisconsin HD" tvg-name="US: Fox Sports Wisconsin HD" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/10/FOX-Sports-Wisconsin-Live-Stream.jpg" group-title="SPORTS ALT",US: Fox Sports Wisconsin HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6040.ts
+#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="US: Fox Sports Yes Network HD" tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/01/yes-network-logo.jpg" group-title="SPORTS ALT",US: Fox Sports Yes Network HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6043.ts
+#EXTINF:-1 tvg-id="US: Fox College Sports Atlantic HD" tvg-name="US: Fox College Sports Atlantic" tvg-logo="https://ulango.tv/uploads/channels/3783575/logo_fox%20college%20sports%20atlantic.png" group-title="SPORTS ALT",US: Fox College Sports Atlantic
+http://nitrotv.for-the.biz:25461/live/Rico/1234/12596.ts
+#EXTINF:-1 tvg-id="US: Fox Sports College Central HD" tvg-name="US: Fox College Sports Central" tvg-logo="https://static1.squarespace.com/static/52b47d11e4b06a22b6c38405/t/54661cbde4b00c5eabbe291c/1415978173928/FCSC_Logo_2.jpg" group-title="SPORTS ALT",US: Fox College Sports Central
+http://nitrotv.for-the.biz:25461/live/Rico/1234/12595.ts
+#EXTINF:-1 tvg-id="US: Fox College Sports Pacific HD" tvg-name="US: Fox College Sports Pacific" tvg-logo="https://pbs.twimg.com/profile_images/378800000331441841/3793348373406278725910ed9c9108c7_400x400.png" group-title="SPORTS ALT",US: Fox College Sports Pacific
+http://nitrotv.for-the.biz:25461/live/Rico/1234/12593.ts
+#EXTINF:-1 tvg-id="MadisonSquareGardenPlus.us" tvg-name="US: MSG Plus HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/msgplus.png" group-title="SPORTS ALT",US: MSG Plus HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/16342.ts
+#EXTINF:-1 tvg-id="MadisonSquareGardenPlus.us" tvg-name="US: MSG 2 Plus HD" tvg-logo="http://www.alticemediasolutions.com/sites/default/files/styles/homepage_news___features/public/msgplus.png?itok=308pvn1U" group-title="SPORTS ALT",US: MSG 2 Plus HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/16772.ts
+#EXTINF:-1 tvg-id="MadisonSquareGarden.us" tvg-name="US: MSG Network HD" tvg-logo="http://msgnetworks.wpengine.netdna-cdn.com/wp-content/themes/msgn/images/msgn-logo.jpg" group-title="SPORTS ALT",US: MSG Network HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/16344.ts
+#EXTINF:-1 tvg-id="Madison Square Garden (Zone 1)" tvg-name="US: MSG 2 Network HD" tvg-logo="http://msgnetworks.wpengine.netdna-cdn.com/wp-content/themes/msgn/images/msgn-logo.jpg" group-title="SPORTS ALT",US: MSG 2 Network HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/16343.ts
+#EXTINF:-1 tvg-id="NBCBoston.us" tvg-name="US: NBCSB Boston" tvg-logo="http://gifttimerugby.com/wp-content/uploads/2017/07/NBC-Sports.jpg" group-title="SPORTS ALT",US: NBCSB Boston
+http://nitrotv.for-the.biz:25461/live/Rico/1234/12192.ts
+#EXTINF:-1 tvg-id="US: CSN BayArea HD" tvg-name="US: CSN BayArea HD" tvg-logo="http://gifttimerugby.com/wp-content/uploads/2017/07/NBC-Sports.jpg" group-title="SPORTS ALT",US: CSN BayArea HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6044.ts
+#EXTINF:-1 tvg-id="US: CSN California HD" tvg-name="US: CSN California 720" tvg-logo="http://gifttimerugby.com/wp-content/uploads/2017/07/NBC-Sports.jpg" group-title="SPORTS ALT",US: CSN California 720
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6051.ts
+#EXTINF:-1 tvg-id="Comcast SportsNet Chicago Plus Full Time" tvg-name="US: CSN Chicago Plus HD" tvg-logo="http://gifttimerugby.com/wp-content/uploads/2017/07/NBC-Sports.jpg" group-title="SPORTS ALT",US: CSN Chicago Plus HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6047.ts
+#EXTINF:-1 tvg-id="Comcast Sportsnet New England 24/7 HD" tvg-name="US: CSN Northwest HD" tvg-logo="http://gifttimerugby.com/wp-content/uploads/2017/07/NBC-Sports.jpg" group-title="SPORTS ALT",US: CSN Northwest HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6052.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CSN Philly HD" tvg-logo="http://gifttimerugby.com/wp-content/uploads/2017/07/NBC-Sports.jpg" group-title="SPORTS ALT",US: CSN Philly HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6050.ts
+#EXTINF:-1 tvg-id="Comcast SportsNet Chicago HD (Chicago DMA)" tvg-name="US: CSN SN Chicago 720" tvg-logo="http://gifttimerugby.com/wp-content/uploads/2017/07/NBC-Sports.jpg" group-title="SPORTS ALT",US: CSN SN Chicago 720
+http://nitrotv.for-the.biz:25461/live/Rico/1234/13125.ts
+#EXTINF:-1 tvg-id="us.NBC Sports Network HDTV" tvg-name="US: NBC SN 720" tvg-logo="https://nbcprofootballtalk.files.wordpress.com/2011/12/nbcsn_a_reverse.jpg" group-title="SPORTS ALT",US: NBC SN 720
+http://nitrotv.for-the.biz:25461/live/Rico/1234/12597.ts
+#EXTINF:-1 tvg-id="us.NBC Sports Network HDTV" tvg-name="US: NBC SN HD" tvg-logo="https://nbcprofootballtalk.files.wordpress.com/2011/12/nbcsn_a_reverse.jpg" group-title="SPORTS ALT",US: NBC SN HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1421.ts
+#EXTINF:-1 tvg-id="us.CBS Sports Network HDTV" tvg-name="US: CBS Sports Network HD" tvg-logo="http://www.ultimatebowling.com/wp-content/uploads/2017/03/cbs.jpeg" group-title="SPORTS ALT",US: CBS Sports Network HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3681.ts
+#EXTINF:-1 tvg-id="us.New England Sports Network" tvg-name="US: NESN HD" tvg-logo="https://pbs.twimg.com/profile_images/443508003245809664/BEpT2nSh.png" group-title="SPORTS ALT",US: NESN HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5458.ts
+#EXTINF:-1 tvg-id="us.New England Sports Network Plus" tvg-name="US: NESN Plus HD" tvg-logo="https://nesncom.files.wordpress.com/2014/01/nesnplus-story-logo.png" group-title="SPORTS ALT",US: NESN Plus HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5436.ts
+#EXTINF:-1 tvg-id="ca.TSNHD" tvg-name="CA: TSN HD 1" tvg-logo="https://pbs.twimg.com/profile_images/885957642304147456/mPzQR4cD_400x400.jpg" group-title="SPORTS ALT",CA: TSN HD 1
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1279.ts
+#EXTINF:-1 tvg-id="ca.TSN2HD" tvg-name="CA: TSN HD 2" tvg-logo="https://pbs.twimg.com/profile_images/885957642304147456/mPzQR4cD_400x400.jpg" group-title="SPORTS ALT",CA: TSN HD 2
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1280.ts
+#EXTINF:-1 tvg-id="ca.TSN3HD" tvg-name="CA: TSN HD 3" tvg-logo="https://pbs.twimg.com/profile_images/885957642304147456/mPzQR4cD_400x400.jpg" group-title="SPORTS ALT",CA: TSN HD 3
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1281.ts
+#EXTINF:-1 tvg-id="ca.TSN4HD" tvg-name="CA: TSN HD 4" tvg-logo="https://pbs.twimg.com/profile_images/885957642304147456/mPzQR4cD_400x400.jpg" group-title="SPORTS ALT",CA: TSN HD 4
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1282.ts
+#EXTINF:-1 tvg-id="ca.TSN5HD" tvg-name="CA: TSN HD 5" tvg-logo="https://pbs.twimg.com/profile_images/885957642304147456/mPzQR4cD_400x400.jpg" group-title="SPORTS ALT",CA: TSN HD 5
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1283.ts
+#EXTINF:-1 tvg-id="ca.Rogers Sportsnet One HDTV" tvg-name="CA: SPORTS NET ONE HD" tvg-logo="https://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl.jpg" group-title="SPORTS ALT",CA: SPORTS NET ONE HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3650.ts
+#EXTINF:-1 tvg-id="CA: SPORTS NET ONE HD" tvg-name="CA: SPORTS NET CENTRAL HD" tvg-logo="https://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl.jpg" group-title="SPORTS ALT",CA: SPORTS NET CENTRAL HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1431.ts
+#EXTINF:-1 tvg-id="ca.Rogers Sportsnet West HDTV" tvg-name="CA: SPORTS NET WEST HD" tvg-logo="https://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl.jpg" group-title="SPORTS ALT",CA: SPORTS NET WEST HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3647.ts
+#EXTINF:-1 tvg-id="ca.Rogers SportsNet World HDTV" tvg-name="CA: SPORTS NET WORLD HD" tvg-logo="https://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl.jpg" group-title="SPORTS ALT",CA: SPORTS NET WORLD HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3646.ts
+#EXTINF:-1 tvg-id="ca.Rogers Sportsnet Pacific HDTV" tvg-name="CA: SPORTS NET PACIFIC HD" tvg-logo="https://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl.jpg" group-title="SPORTS ALT",CA: SPORTS NET PACIFIC HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3648.ts
+#EXTINF:-1 tvg-id="ca.Rogers Sportsnet Ontario HDTV" tvg-name="CA: SPORTS NET ONTARIO HD" tvg-logo="https://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl.jpg" group-title="SPORTS ALT",CA: SPORTS NET ONTARIO HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3649.ts
+#EXTINF:-1 tvg-id="CA: SPORTS NET 360 HD" tvg-name="CA: SPORTS NET 360 HD" tvg-logo="https://pbs.twimg.com/profile_images/705198669260320768/rdYyR5Bl.jpg" group-title="SPORTS ALT",CA: SPORTS NET 360 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3652.ts
+#EXTINF:-1 tvg-id="us.SEC Network HDTV" tvg-name="US: Sec Network HD" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/8/89/SEC-Logo.jpg/revision/latest/scale-to-width-down/185?cb=20140822002207" group-title="SPORTS ALT",US: Sec Network HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1472.ts
+#EXTINF:-1 tvg-id="us.SEC Network HDTV" tvg-name="US: Sec Network 720" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/8/89/SEC-Logo.jpg/revision/latest/scale-to-width-down/185?cb=20140822002207" group-title="SPORTS ALT",US: Sec Network 720
+http://nitrotv.for-the.biz:25461/live/Rico/1234/11572.ts
+#EXTINF:-1 tvg-id="us.The Longhorn Network" tvg-name="US: Longhorn Network HD" tvg-logo="http://espnmediazone.com/us/files/2011/08/Longhorn_Network.jpg" group-title="SPORTS ALT",US: Longhorn Network HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5310.ts
+#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-name="US: Sportsman Channel HD" tvg-logo="https://static1.squarespace.com/static/50cceaa6e4b0c301a821ae9b/5675f01f2399a3a13cc13faf/5692e6d0dc5cb46e49db5be9/1452468046292/Sportsman+Channel.jpg" group-title="SPORTS ALT",US: Sportsman Channel HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/18452.ts
+#EXTINF:-1 tvg-id="us.WWE" tvg-name="US: WWE HD" tvg-logo="https://yt3.ggpht.com/a-/AJLlDp2uyfMcP3UAIwkkOQjHtF0E6nw0O8hTryp6Qg=s900-mo-c-c0xffffffff-rj-k-no" group-title="SPORTS ALT",US: WWE HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/3653.ts
+#EXTINF:-1 tvg-id="fightsports.us" tvg-name="US: Fight Network" tvg-logo="https://i.vimeocdn.com/portrait/1944648_640x640" group-title="SPORTS ALT",US: Fight Network
+http://nitrotv.for-the.biz:25461/live/Rico/1234/15167.ts
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="US: Tennis HD" tvg-logo="https://pbs.twimg.com/profile_images/460915977413074945/Bpq0XIi4.jpeg" group-title="SPORTS ALT",US: Tennis HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1862.ts
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="US: Tennis Channel HD" tvg-logo="https://pbs.twimg.com/profile_images/460915977413074945/Bpq0XIi4.jpeg" group-title="SPORTS ALT",US: Tennis Channel HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/13119.ts
+#EXTINF:-1 tvg-id="The Golf Channel" tvg-name="US: NBC Golf HD" tvg-logo="https://yt3.ggpht.com/a-/AJLlDp0ysXenD2HHcflYQmUkroQEUpENz0xgfelkDQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="SPORTS ALT",US: NBC Golf HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1408.ts
+#EXTINF:-1 tvg-id="beIN Sports (English)" tvg-name="US: Bein Sports HD" tvg-logo="https://pbs.twimg.com/profile_images/836315760196640768/yb5H3xEX.jpg" group-title="SPORTS ALT",US: Bein Sports HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1450.ts
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="US: Bein Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="SPORTS ALT",US: Bein Sports 1
+http://nitrotv.for-the.biz:25461/live/Rico/1234/15178.ts
+#EXTINF:-1 tvg-id="beinsports2.us" tvg-name="US: Bein Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS ALT",US: Bein Sports 2
+http://nitrotv.for-the.biz:25461/live/Rico/1234/15177.ts
+#EXTINF:-1 tvg-id="beinsports3.us" tvg-name="US: Bein Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SPORTS ALT",US: Bein Sports 3
+http://nitrotv.for-the.biz:25461/live/Rico/1234/15176.ts
+#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="US: Bein Sports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="SPORTS ALT",US: Bein Sports 4
+http://nitrotv.for-the.biz:25461/live/Rico/1234/15175.ts
+#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="US: Bein Sports 5" tvg-logo="http://showsport-tv.com/images/channels/be5.png" group-title="SPORTS ALT",US: Bein Sports 5
+http://nitrotv.for-the.biz:25461/live/Rico/1234/15174.ts
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="US: Bein Sports 6" tvg-logo="http://showsport-tv.com/images/channels/be6.png" group-title="SPORTS ALT",US: Bein Sports 6
+http://nitrotv.for-the.biz:25461/live/Rico/1234/15173.ts
+#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="US: Bein Sports 7" tvg-logo="http://iwatchlivetv.us/ax/logo/Bein-Sports-07.png" group-title="SPORTS ALT",US: Bein Sports 7
+http://nitrotv.for-the.biz:25461/live/Rico/1234/15172.ts
+#EXTINF:-1 tvg-id="beinsports8.us" tvg-name="US: Bein Sports 8" tvg-logo="https://pbs.twimg.com/profile_images/836315760196640768/yb5H3xEX.jpg" group-title="SPORTS ALT",US: Bein Sports 8
+http://nitrotv.for-the.biz:25461/live/Rico/1234/15171.ts
+#EXTINF:-1 tvg-id="beinsports9.us" tvg-name="US: Bein Sports 9" tvg-logo="http://iwatchlivetv.us/ax/logo/Bein-Sports-09.png" group-title="SPORTS ALT",US: Bein Sports 9
+http://nitrotv.for-the.biz:25461/live/Rico/1234/15170.ts
+#EXTINF:-1 tvg-id="beinsports10.us" tvg-name="US: Bein Sports 10" tvg-logo="http://www.yalla-shoot.com/tv/uploads/data/19846a1f4cc57ca77fe22fc8a10d684329.png" group-title="SPORTS ALT",US: Bein Sports 10
+http://nitrotv.for-the.biz:25461/live/Rico/1234/15169.ts
+#EXTINF:-1 tvg-id="Big Ten Network HD (National)" tvg-name="US: Big Ten Network HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b4/Big_Ten_Network.png/revision/latest/scale-to-width-down/185?cb=20110801012417" group-title="SPORTS ALT",US: Big Ten Network HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1388.ts
+#EXTINF:-1 tvg-id="Big Ten Network (24/7 Overflow #1)" tvg-name="US: BTN HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b4/Big_Ten_Network.png/revision/latest/scale-to-width-down/185?cb=20110801012417" group-title="SPORTS ALT",US: BTN HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6076.ts
+#EXTINF:-1 tvg-id="Big Ten Network (24/7 Overflow #2)" tvg-name="US: BTN 2 HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b4/Big_Ten_Network.png/revision/latest/scale-to-width-down/185?cb=20110801012417" group-title="SPORTS ALT",US: BTN 2 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6077.ts
+#EXTINF:-1 tvg-id="Big Ten Network (24/7 Overflow #3)" tvg-name="US: BTN 3 HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b4/Big_Ten_Network.png/revision/latest/scale-to-width-down/185?cb=20110801012417" group-title="SPORTS ALT",US: BTN 3 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6078.ts
+#EXTINF:-1 tvg-id="Big Ten Network (24/7 Overflow #4)" tvg-name="US: BTN 4 HD" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b4/Big_Ten_Network.png/revision/latest/scale-to-width-down/185?cb=20110801012417" group-title="SPORTS ALT",US: BTN 4 HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/6079.ts
+#EXTINF:-1 tvg-id="us.PAC-12 Bay Area" tvg-name="US: PAC-12 Bay Area" tvg-logo="http://media.pennlive.com/fanbox/photo/pac-12-logo-8ead731544290fda.png" group-title="SPORTS ALT",US: PAC-12 Bay Area
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5256.ts
+#EXTINF:-1 tvg-id="us.PAC-12 Network" tvg-name="US: PAC- National" tvg-logo="http://media.pennlive.com/fanbox/photo/pac-12-logo-8ead731544290fda.png" group-title="SPORTS ALT",US: PAC- National
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5258.ts
+#EXTINF:-1 tvg-id="us.PAC-12 Mountain" tvg-name="US: PAC-12 Moutain" tvg-logo="http://media.pennlive.com/fanbox/photo/pac-12-logo-8ead731544290fda.png" group-title="SPORTS ALT",US: PAC-12 Moutain
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5254.ts
+#EXTINF:-1 tvg-id="us.PAC-12 Los Angeles" tvg-name="US: PAC-12 Los Angeles" tvg-logo="http://media.pennlive.com/fanbox/photo/pac-12-logo-8ead731544290fda.png" group-title="SPORTS ALT",US: PAC-12 Los Angeles
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5255.ts
+#EXTINF:-1 tvg-id="pac12arizona.us" tvg-name="US: PAC-12 Arizona" tvg-logo="http://media.pennlive.com/fanbox/photo/pac-12-logo-8ead731544290fda.png" group-title="SPORTS ALT",US: PAC-12 Arizona
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5257.ts
+#EXTINF:-1 tvg-id="pac12oregon.us" tvg-name="US: PAC-12 Oregon" tvg-logo="http://media.pennlive.com/fanbox/photo/pac-12-logo-8ead731544290fda.png" group-title="SPORTS ALT",US: PAC-12 Oregon
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5253.ts
+#EXTINF:-1 tvg-id="pac12washington.us" tvg-name="US: PAC-12 Washington" tvg-logo="http://media.pennlive.com/fanbox/photo/pac-12-logo-8ead731544290fda.png" group-title="SPORTS ALT",US: PAC-12 Washington
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5252.ts
+#EXTINF:-1 tvg-id="us.Willow Cricket" tvg-name="US: OSN Cricket" tvg-logo="https://pbs.twimg.com/profile_images/825638712453234689/xLiDc1oV.jpg" group-title="SPORTS ALT",US: OSN Cricket
+http://nitrotv.for-the.biz:25461/live/Rico/1234/1445.ts
+#EXTINF:-1 tvg-id="elevensports.us" tvg-name="US: Eleven Sports Network HD" tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2017/03/eleven-sports-network.png" group-title="SPORTS ALT",US: Eleven Sports Network HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/5886.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: AFN Sports" tvg-logo="https://scontent.fhou1-2.fna.fbcdn.net/v/t1.0-9/14705699_1202902249782233_6180086676012362791_n.jpg?_nc_cat=0&oh=a6aebcb1e6a87f91626008e18934e666&oe=5B6147E7" group-title="SPORTS ALT",US: AFN Sports
+http://nitrotv.for-the.biz:25461/live/Rico/1234/18534.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: AFN Sports 2" tvg-logo="https://scontent.fhou1-2.fna.fbcdn.net/v/t1.0-9/14705699_1202902249782233_6180086676012362791_n.jpg?_nc_cat=0&oh=a6aebcb1e6a87f91626008e18934e666&oe=5B6147E7" group-title="SPORTS ALT",US: AFN Sports 2
+http://nitrotv.for-the.biz:25461/live/Rico/1234/18533.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CSN SN Boston HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/NBC_Sports_Boston.png" group-title="SPORTS ALT",US: CSN SN Boston HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/19651.ts
+#EXTINF:-1 tvg-id="comcastsportsnetcaliforniaplus.us" tvg-name="US: CSN SN California HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/CSN_California_logo.png/revision/latest?cb=20120902221409" group-title="SPORTS ALT",US: CSN SN California HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/19650.ts
+#EXTINF:-1 tvg-id="comcastsportsnetchicago.us" tvg-name="US: CSN SN Chicago HD" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2016/11/Screen-Shot-2016-11-10-at-7.50.20-PM.png" group-title="SPORTS ALT",US: CSN SN Chicago HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/19652.ts
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="US: NBC Sports Philadelphia Plus HD" tvg-logo="http://media.philly.com/images/dixon-125020-f-wp-content-uploads-2017-08-Horizontal-NBC-Sports-Philadelphia-logo-e1503501397633-1167x779.jpg" group-title="SPORTS ALT",US: NBC Sports Philadelphia Plus HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/19675.ts
+#EXTINF:-1 tvg-id="cbssportsnetwork.us" tvg-name="US: CBS Sports HQ HD" tvg-logo="https://i.pinimg.com/originals/93/22/89/93228966c452ea1df8c37adacef4ca5e.jpg" group-title="SPORTS ALT",US: CBS Sports HQ HD
+http://nitrotv.for-the.biz:25461/live/Rico/1234/19653.ts
