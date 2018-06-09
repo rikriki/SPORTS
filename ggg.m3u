@@ -3371,22 +3371,6 @@ http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1155.ts
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1154.ts
 #EXTINF:-1,tvg-logo="https://ulango.tv/uploads/channels/62129/logo_crime%20investigation.png" group-title="ASIAN TV",Crime Investigation HD
 http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/26.ts
-#EXTINF:-1, tvg-logo="http://jocksandstilettojill.com/wp-content/uploads/2018/05/nba-Finals-2018-690x738.png" group-title="2018 NBA FINALS",LINK 1
-https://ssh101.com/m3u8/dyn/bt445/index.m3u8
-#EXTINF:-1, tvg-logo="http://jocksandstilettojill.com/wp-content/uploads/2018/05/nba-Finals-2018-690x738.png" group-title="2018 NBA FINALS",LINK 2
-https://dh6tessm5ofjx.cloudfront.net/a_3.m3u8
-#EXTINF:-1, tvg-logo="http://jocksandstilettojill.com/wp-content/uploads/2018/05/nba-Finals-2018-690x738.png" group-title="2018 NBA FINALS",LINK 3
-http://t1.seekseedrtl.info/91/91.m3u8?show=vnShASHhAoHFhAoSX&ki_secu=1647133126
-#EXTINF:-1, tvg-logo="http://jocksandstilettojill.com/wp-content/uploads/2018/05/nba-Finals-2018-690x738.png" group-title="2018 NBA FINALS",LINK 4
-http://g.bankai.stream/espn2.m3u8
-#EXTINF:-1, tvg-logo="http://jocksandstilettojill.com/wp-content/uploads/2018/05/nba-Finals-2018-690x738.png" group-title="2018 NBA FINALS",LINK 5
-http://g.bankai.stream/espn3.m3u8
-#EXTINF:-1, tvg-logo="http://jocksandstilettojill.com/wp-content/uploads/2018/05/nba-Finals-2018-690x738.png" group-title="2018 NBA FINALS",LINK 6
-https://dhvxnkzza3crt.cloudfront.net/index_9.m3u8
-#EXTINF:-1, tvg-logo="http://jocksandstilettojill.com/wp-content/uploads/2018/05/nba-Finals-2018-690x738.png" group-title="2018 NBA FINALS",LINK 7
-http://cors10.nba4live.fun/hls/lal.m3u8
-#EXTINF:-1, tvg-logo="http://jocksandstilettojill.com/wp-content/uploads/2018/05/nba-Finals-2018-690x738.png" group-title="2018 NBA FINALS",LINK 8
-http://pip.clquack.ml/welovesports982.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2479.ts?token=eyJ1c2VybmFtZSI6ImpjYXNlIiwicGFzc3dvcmQiOiI2MDIwdG9rIn0=&duration=3600" catchup-days=5 tvg-name="Sky Sports Cricket HD" tvg-id="SkySportsCricket.uk" tvg-logo="http://vaders.tv/logos/sky%20sports%20cricket%20hd.png" group-title="Sports",Sky Sports Cricket HD
 http://vapi.vaders.tv/play/2479.ts?token=eyJ1c2VybmFtZSI6ImpjYXNlIiwicGFzc3dvcmQiOiI2MDIwdG9rIn0=
 #EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2480.ts?token=eyJ1c2VybmFtZSI6ImpjYXNlIiwicGFzc3dvcmQiOiI2MDIwdG9rIn0=&duration=3600" catchup-days=5 tvg-name="Sky Sports Action HD" tvg-id="SkySportsAction.uk" tvg-logo="http://vaders.tv/logos/sky%20sports%20action%20hd.png" group-title="Sports",Sky Sports Action HD
