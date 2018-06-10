@@ -2131,3 +2131,119 @@ http://nitrotv.for-the.biz:25461/live/chris/1234/19652.ts
 http://nitrotv.for-the.biz:25461/live/chris/1234/19675.ts
 #EXTINF:-1 tvg-id="cbssportsnetwork.us" tvg-name="US: CBS Sports HQ HD" tvg-logo="https://i.pinimg.com/originals/93/22/89/93228966c452ea1df8c37adacef4ca5e.jpg" group-title="SPORTS ALT",US: CBS Sports HQ HD
 http://nitrotv.for-the.biz:25461/live/chris/1234/19653.ts
+#EXTINF:-1 tvg-name="Zee Classic" tvg-id="ZeeClassic.in" tvg-logo="http://tvimages.burrp.com/images/channels2/movies/zee-classic.png" group-title="Indian",Zee Classic
+http://vapi.vaders.tv/play/8248.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Nick Jr India" tvg-id="NickJr.in" tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="Indian",Nick Jr India
+http://vapi.vaders.tv/play/8254.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Nick Sonic India" tvg-id="SonicNickelodeon.in" tvg-logo="http://www.animationxpress.com/wp-content/uploads/2016/05/Sonic-logo.jpg" group-title="Indian",Nick Sonic India
+http://vapi.vaders.tv/play/8256.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Zee TV HD USA" tvg-id="I694.19283.schedulesdirect.org" tvg-logo="http://a275.phobos.apple.com/us/r30/Purple3/v4/b6/5a/2a/b65a2aba-6d0a-a52c-7ebd-1345d7ac3a2f/pr_source.png" group-title="Indian",Zee TV HD USA
+http://vapi.vaders.tv/play/8276.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star Plus USA" tvg-id="I696.44852.schedulesdirect.org" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/2/23/SPL.jpg" group-title="Indian",Star Plus USA
+http://vapi.vaders.tv/play/8277.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Zee Cinema India HD" tvg-id="ZeeCinema.in" tvg-logo="http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2015/07/16/Untitled-1.jpg" group-title="Indian",Zee Cinema India HD
+http://vapi.vaders.tv/play/12261.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="UTV Action" tvg-id="UTVAction.in" tvg-logo="http://www.webtvstreams.com/wp-content/uploads/2014/04/UTV-Action-Logo.jpg" group-title="Indian",UTV Action
+http://vapi.vaders.tv/play/12263.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star World HD" tvg-id="StarWorld.in" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/6/62/STAR_World_2013.png" group-title="Indian",Star World HD
+http://vapi.vaders.tv/play/12266.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star Plus India HD" tvg-id="StarPlus.in" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/2/23/SPL.jpg" group-title="Indian",Star Plus India HD
+http://vapi.vaders.tv/play/12275.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Sony TV India HD" tvg-id="Sony.in" tvg-logo="https://pbs.twimg.com/profile_images/800029326812946433/USzCzkZL_400x400.jpg" group-title="Indian",Sony TV India HD
+http://vapi.vaders.tv/play/12279.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Sony Pal" tvg-id="SonyPal.in" tvg-logo="https://yt3.ggpht.com/-UhzUAtOIn48/AAAAAAAAAAI/AAAAAAAAAAA/_utP6I_9nGE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Indian",Sony Pal
+http://vapi.vaders.tv/play/12284.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Sony Mix" tvg-id="SonyMix.in" tvg-logo="http://tvimages.burrp.com/images/channels2/music/sony-mix.png" group-title="Indian",Sony Mix
+http://vapi.vaders.tv/play/12285.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Sony Max India HD" tvg-id="SonyMax.in" tvg-logo="http://store.virginmedia.com/content/dam/eSales/TV/responsive/channels/tv-tv-channels-asian-a10.jpg" group-title="Indian",Sony Max India HD
+http://vapi.vaders.tv/play/12286.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Sony ESPN HD" tvg-id="SonyESPN.in" tvg-logo="https://tvschedule.in/Content/Images/ChannelLogo/159.jpg" group-title="Indian",Sony ESPN HD
+http://vapi.vaders.tv/play/12288.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Nickelodeon India HD" tvg-id="Nick.in" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/05/Nickelodeon_Pakistan.png" group-title="Indian",Nickelodeon India HD
+http://vapi.vaders.tv/play/12293.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star Bharat USA" tvg-id="I698.44889.schedulesdirect.org" tvg-logo="http://2.bp.blogspot.com/-pGh5g602DVw/TwPCs5peSZI/AAAAAAAADo0/x4nNTexDIuA/s1600/LifeOK+logo+2011.jpg" group-title="Indian",Star Bharat USA
+http://vapi.vaders.tv/play/12298.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Colors India HD" tvg-id="Colors.in" tvg-logo="http://www.viacom18.com/wp-content/uploads/2015/03/colors_Viacom18_Logo_new_250x250.jpg" group-title="Indian",Colors India HD
+http://vapi.vaders.tv/play/12300.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="&Pictures HD" tvg-id="&picturesHD.in" tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg" group-title="Indian",&Pictures HD
+http://vapi.vaders.tv/play/12306.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Sony TV USA HD" tvg-id="I568.69130.schedulesdirect.org" tvg-logo="" group-title="Indian",Sony TV USA HD
+http://vapi.vaders.tv/play/16187.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Zee Cinema" tvg-id="ZeeCinema.in" tvg-logo="http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2015/11/26/Untitled-1_31.jpg" group-title="Indian",Zee Cinema
+http://vapi.vaders.tv/play/19289.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="MTV India" tvg-id="MTV.in" tvg-logo="http://www.mtvindia.com/resources/images/mtv-logo.jpg" group-title="Indian",MTV India
+http://vapi.vaders.tv/play/19290.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="B4U Movies" tvg-id="B4UMovies.in" tvg-logo="https://yt3.ggpht.com/-rY4vYV-PH60/AAAAAAAAAAI/AAAAAAAAAAA/d4X6JZ9mGe4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Indian",B4U Movies
+http://vapi.vaders.tv/play/19291.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="UTV Movies" tvg-id="UTVMovies.in" tvg-logo="http://tvimages.burrp.com/images/channels2/movies/utv-movies.png" group-title="Indian",UTV Movies
+http://vapi.vaders.tv/play/19292.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star Gold India HD" tvg-id="StarGold.in" tvg-logo="http://www.televisionpost.com/wp-content/uploads/2014/07/Star-Gold01.jpg" group-title="Indian",Star Gold India HD
+http://vapi.vaders.tv/play/34272.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-id="StarSports1.in" tvg-logo="https://www.satiitv.com/wp-content/uploads/2016/08/starsportlogo-2.jpg" group-title="Sports",Star Sports 1 HD
+http://vapi.vaders.tv/play/37198.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-id="StarSports1.in" tvg-logo="https://www.satiitv.com/wp-content/uploads/2016/08/starsportlogo-2.jpg" group-title="Indian",Star Sports 1 HD
+http://vapi.vaders.tv/play/37198.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-id="StarSports2.in" tvg-logo="https://www.satiitv.com/wp-content/uploads/2016/08/starsportlogo-2.jpg" group-title="Sports",Star Sports 2 HD
+http://vapi.vaders.tv/play/37199.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-id="StarSports2.in" tvg-logo="https://www.satiitv.com/wp-content/uploads/2016/08/starsportlogo-2.jpg" group-title="Indian",Star Sports 2 HD
+http://vapi.vaders.tv/play/37199.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star Sports 1 Select HD" tvg-id="StarSportsSelect1.in" tvg-logo="https://www.satiitv.com/wp-content/uploads/2016/08/starsportlogo-2.jpg" group-title="Sports",Star Sports 1 Select HD
+http://vapi.vaders.tv/play/37200.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star Sports 1 Select HD" tvg-id="StarSportsSelect1.in" tvg-logo="https://www.satiitv.com/wp-content/uploads/2016/08/starsportlogo-2.jpg" group-title="Indian",Star Sports 1 Select HD
+http://vapi.vaders.tv/play/37200.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star Sports 2 Select HD" tvg-id="StarSportsSelect2.in" tvg-logo="https://www.satiitv.com/wp-content/uploads/2016/08/starsportlogo-2.jpg" group-title="Sports",Star Sports 2 Select HD
+http://vapi.vaders.tv/play/37201.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star Sports 2 Select HD" tvg-id="StarSportsSelect2.in" tvg-logo="https://www.satiitv.com/wp-content/uploads/2016/08/starsportlogo-2.jpg" group-title="Indian",Star Sports 2 Select HD
+http://vapi.vaders.tv/play/37201.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star Gold Select HD" tvg-id="StarGoldSelect.in" tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="Indian",Star Gold Select HD
+http://vapi.vaders.tv/play/38774.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star World Premier HD" tvg-id="StarWorld.in" tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/Star-World-Premiere-HD.png" group-title="Indian",Star World Premier HD
+http://vapi.vaders.tv/play/38775.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Aastha TV" tvg-id="Aastha.in" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2012/04/aastha-tv-logo-1.jpg" group-title="Indian",Aastha TV
+http://vapi.vaders.tv/play/39391.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Aastha Bhajan" tvg-id="Aastha.in" tvg-logo="http://sim01.in.com/ba149c481c27c2ab37eb7b3a17a00c22_t.jpg" group-title="Indian",Aastha Bhajan
+http://vapi.vaders.tv/play/39392.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Sanskar TV" tvg-id="Sanskar.in" tvg-logo="http://hyfytv.com/wp-content/uploads/2016/05/Sanskar-TV-Live-Stream.jpg" group-title="Indian",Sanskar TV
+http://vapi.vaders.tv/play/39393.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Aajtak" tvg-id="AajTak.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Aaj_Tak_logo.png" group-title="Indian",Aajtak
+http://vapi.vaders.tv/play/39404.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="NDTV India" tvg-id="NDTVIndia.in" tvg-logo="http://www.logodesignblog.net/logos/ndtv-logo.jpg" group-title="Indian",NDTV India
+http://vapi.vaders.tv/play/39406.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star Bharat India HD" tvg-id="LifeOK.in" tvg-logo="http://2.bp.blogspot.com/-pGh5g602DVw/TwPCs5peSZI/AAAAAAAADo0/x4nNTexDIuA/s1600/LifeOK+logo+2011.jpg" group-title="Indian",Star Bharat India HD
+http://vapi.vaders.tv/play/39438.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Zee TV India HD" tvg-id="ZeeTV.in" tvg-logo="http://i.imgur.com/tadJoiE.jpg" group-title="Indian",Zee TV India HD
+http://vapi.vaders.tv/play/39440.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Discovery Kids India" tvg-id="DiscoveryKids.in" tvg-logo="" group-title="Indian",Discovery Kids India
+http://vapi.vaders.tv/play/39443.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Travel XP India HD" tvg-id="Travelxp.in" tvg-logo="http://image3.mouthshut.com/images/imagesp/925753531s.png" group-title="Indian",Travel XP India HD
+http://vapi.vaders.tv/play/39485.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="TLC India" tvg-id="TLC.in" tvg-logo="" group-title="Indian",TLC India
+http://vapi.vaders.tv/play/39626.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Rishtey TV" tvg-id="Rishtey.in" tvg-logo="https://imgur.com/NpIK2Oi.png" group-title="Indian",Rishtey TV
+http://vapi.vaders.tv/play/47371.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Sony SAB HD" tvg-id="SonySab.in" tvg-logo="" group-title="Indian",Sony SAB HD
+http://vapi.vaders.tv/play/48009.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star Plus UK" tvg-id="StarPlus.in" tvg-logo="" group-title="Indian",Star Plus UK
+http://vapi.vaders.tv/play/48053.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Sony Le Plex HD" tvg-id="SonyLePlex.in" tvg-logo="https://lh3.googleusercontent.com/-BpTIwr559H0/WV-X7k_dAuI/AAAAAAAAEQw/oPzMjmoW7FQXU5DrfVeAYW2L7RTF4L6hwCHMYCw/s640/Sonyleplex.jpg" group-title="Indian",Sony Le Plex HD
+http://vapi.vaders.tv/play/56697.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Sony Rox HD" tvg-id="SonyRox.in" tvg-logo="http://www.radioandmusic.com/sites/www.radioandmusic.com/files/styles/490x490/public/images/biz/2017/01/16/sony-rox.jpg" group-title="Indian",Sony Rox HD
+http://vapi.vaders.tv/play/56698.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="D2H Movies HD" tvg-id="D2HMovies.in" tvg-logo="https://4.imimg.com/data4/OG/DS/NSDMERP-31495931/videocondth-500x500.png" group-title="Indian",D2H Movies HD
+http://vapi.vaders.tv/play/56699.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="D2H Kids Rhymes HD" tvg-id="D2HKids.in" tvg-logo="https://4.imimg.com/data4/OG/DS/NSDMERP-31495931/videocondth-500x500.png" group-title="Indian",D2H Kids Rhymes HD
+http://vapi.vaders.tv/play/56700.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="D2H Classics HD" tvg-id="D2HMoviesClassic.in" tvg-logo="https://4.imimg.com/data4/OG/DS/NSDMERP-31495931/videocondth-500x500.png" group-title="Indian",D2H Classics HD
+http://vapi.vaders.tv/play/56701.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="D2H Cinema HD" tvg-id="D2HCinema.in" tvg-logo="https://4.imimg.com/data4/OG/DS/NSDMERP-31495931/videocondth-500x500.png" group-title="Indian",D2H Cinema HD
+http://vapi.vaders.tv/play/56702.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Sony Mix UK" tvg-id="SonyMix.in" tvg-logo="" group-title="Indian",Sony Mix UK
+http://vapi.vaders.tv/play/58783.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Sony Set Max UK" tvg-id="SonyMax2.in" tvg-logo="" group-title="Indian",Sony Set Max UK
+http://vapi.vaders.tv/play/58784.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star Gold UK" tvg-id="StarGold.in" tvg-logo="https://s1.postimg.org/7yho770vwv/Star_GOLD.png" group-title="Indian",Star Gold UK
+http://vapi.vaders.tv/play/58785.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Sony Max UK" tvg-id="SonyMax.in" tvg-logo="" group-title="Indian",Sony Max UK
+http://vapi.vaders.tv/play/63750.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Star Gold Select HD US" tvg-id="StarGoldSelect.in" tvg-logo="http://tvimages.burrp.com/images/channels/movies/Star%20Gold%20Select.png" group-title="Indian",Star Gold Select HD US
+http://vapi.vaders.tv/play/73032.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
