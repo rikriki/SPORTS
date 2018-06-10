@@ -1059,8 +1059,6 @@ http://dl.galaxymovie.biz/Serial/Cobra%20Kai/S01/720p/Cobra.Kai.S01E09.720p.WEB-
 http://dl.galaxymovie.biz/Serial/Cobra%20Kai/S01/720p/Cobra.Kai.S01E10.720p.WEB-DL.6CH.BTW.mkv
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/778129630284902401/gXjFkqGM_400x400.jpg" group-title="ASIAN TV",Bloomberg TV Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-240-1_live.m3u8
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/875639380781563906/b1J1YbIE_400x400.jpg" group-title="ASIAN TV",Al Jazeera
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/9417.ts
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/875646402247901184/N4GGER3R_400x400.jpg" group-title="ASIAN TV",France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="ASIAN TV",Sky News
@@ -1069,28 +1067,6 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/781790577390039040/5-Umq3Kb_400x400.jpg" group-title="ASIAN TV",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_ma_s.m3u8
-#EXTINF:-1,tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Fox_Action_Movies_logo_%282012%29.png" group-title="ASIAN TV",Fox Action Movies
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/8647.ts
-#EXTINF:-1,tvg-logo="https://topnews.in/files/Discovery-Networks-01252.jpg" group-title="ASIAN TV",Discovery Asia
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/8631.ts
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/767509849085059072/-PfBu8dv_400x400.jpg" group-title="ASIAN TV",AMC Network
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/8624.ts
-#EXTINF:-1,tvg-logo="https://www.axn-asia.com/sites/asia.axn/files/axn_endorsement_3.png" group-title="ASIAN TV",AXN HD
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/8661.ts
-#EXTINF:-1,tvg-logo="https://www.menaherald.com/sites/default/files/migrate-posts//FOX-Family-Movies-Logo-HD.jpg" group-title="ASIAN TV",Fox Family Movies
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/8648.ts
-#EXTINF:-1,tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/logo-hbo2x.png" group-title="ASIAN TV",HBO SD
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/8646.ts
-#EXTINF:-1,tvg-logo="https://normannorman.files.wordpress.com/2013/09/wpid-fox_asia.png" group-title="ASIAN TV",FOX
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/5454.ts
-#EXTINF:-1,tvg-logo="http://www.m3sat.com/en/file/news/113/thumb_Paramount.jpg" group-title="ASIAN TV",Paramount
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/8642.ts
-#EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/839_300.png" group-title="ASIAN TV",Setanta Asia
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/8601.ts
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/958120252403060736/jHwWjv4O_400x400.jpg" group-title="ASIAN TV",Sony Channel
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/8623.ts
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="ASIAN TV",Fox Life
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/8641.ts
 #EXTINF:-1,tvg-logo="https://rayvblog.files.wordpress.com/2011/10/kbs_world2.png" group-title="ASIAN TV",KBS World
 http://112.175.138.137:1935/kbs_worldtv/_definst_/kbs_worldtv_4.stream/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://i63.tinypic.com/qs8fwo.png" group-title="ASIAN TV",TLC Asia
