@@ -1071,30 +1071,36 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_ma_s.m
 http://112.175.138.137:1935/kbs_worldtv/_definst_/kbs_worldtv_4.stream/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://i63.tinypic.com/qs8fwo.png" group-title="ASIAN TV",TLC Asia
 https://iwantpradals-lh.akamaihd.net/i/skytlc_1@507577/master.m3u8?hdnea=exp=1528620142~acl=/*~hmac=889439e7c0f173d327d1d9f1ee1465774e941d7f00892ffad28822bb0a01cf28
-#EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/810_300.png" group-title="ASIAN TV",Astro SuperSport 1 
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1366.ts
-#EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/811_300.png" group-title="ASIAN TV",Astro SuperSport 2 
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1365.ts
-#EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/816_300.png" group-title="ASIAN TV",Astro SuperSport 3 
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1364.ts
-#EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/817_300.png" group-title="ASIAN TV",Astro SuperSport 4 
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1161.ts
-#EXTINF:-1,tvg-logo="http://channel.jibhd.com/public/uploads/2017-11/Livetv_sd-skynetsportshd.png" group-title="ASIAN TV",SkyNet Sports HD 
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1160.ts
-#EXTINF:-1,tvg-logo="http://channel.jibhd.com/public/uploads/2017-11/Livetv_sd-skynetsports1.png" group-title="ASIAN TV",SkyNet Sports 1 
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1159.ts
-#EXTINF:-1,tvg-logo="http://channel.jibhd.com/public/uploads/2017-11/Livetv_sd-skynetsports2.png" group-title="ASIAN TV",SkyNet Sports 2 
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1158.ts
-#EXTINF:-1,tvg-logo="http://channel.jibhd.com/public/uploads/2017-11/Livetv_sd-skynetsports3.png" group-title="ASIAN TV",SkyNet Sports 3 
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1157.ts
-#EXTINF:-1,tvg-logo="http://channel.jibhd.com/public/uploads/2017-11/Livetv_sd-skynetsports4.png" group-title="ASIAN TV",SkyNet Sports 4 
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1156.ts
-#EXTINF:-1,tvg-logo="http://channel.jibhd.com/public/uploads/2017-11/Livetv_sd-skynetsports5.png" group-title="ASIAN TV",SkyNet Sports 5 
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1155.ts
-#EXTINF:-1,tvg-logo="http://channel.jibhd.com/public/uploads/2017-11/Livetv_sd-skynetsports6.png" group-title="ASIAN TV",SkyNet Sports 6 
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/1154.ts
-#EXTINF:-1,tvg-logo="https://ulango.tv/uploads/channels/62129/logo_crime%20investigation.png" group-title="ASIAN TV",Crime Investigation HD
-http://restream.geniptv.com:8080/live/emir10wien/YR8KCoeAlr/26.ts
+#EXTINF:-1,tvg-logo="https://www.babytv.com/images/siteimages/Logo-BabyTV-2018El.png" group-title="ASIAN TV",Baby TV
+http://iheart-totiptv.better-than.tv:8080/iheart/7773f3cef0334a28ad248552ea63d9e7.m3u8
+#EXTINF:-1,tvg-logo="https://pmcvariety.files.wordpress.com/2013/03/fox-sports.jpg" group-title="ASIAN TV",Fox Sports 1
+http://main-a.for-our.info:8081/tv11/fox1/chunks.m3u8
+#EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png" group-title="ASIAN TV",Fox Sports 2
+http://main-a.for-our.info:8081/tv11/fox2/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png" group-title="ASIAN TV",Fox Sports 3
+http://main-a.for-our.info:8081/tv11/fox3/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Fox_Sports_3_logo.png" group-title="ASIAN TV",Fox Sports 3
+http://iptvthai.webhop.biz:443/sd-foxsports3_480/index.m3u8
+#EXTINF:-1,tvg-logo="https://obmsbke.truevisions.tv/logo/channel/True-Tennis-HD-0.png" group-title="ASIAN TV",True Tennis
+http://iptvthai.webhop.biz:443/hd-tennis_720/index.m3u8
+#EXTINF:-1,tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Golf_Channel_2008.png.300x300_q85.png" group-title="ASIAN TV",Golf Channel
+http://iptvthai.webhop.biz:443/hd-golf_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/1133787819/asntv.jpg" group-title="ASIAN TV",All Sports Network
+http://iptvthai.webhop.biz:443/hd-sportsillustrated_720/index.m3u8
+#EXTINF:-1,tvg-logo="http://singteltv.com.sg/_channels/pic_ch119.jpg" group-title="ASIAN TV",Fight Sports
+http://iptvthai.webhop.biz:443/hd-fightsports_720/index.m3u8
+#EXTINF:-1,tvg-logo="https://cdn.mypanel.tv/picon/tr/beINSports1.tr.png" group-title="ASIAN TV",Beinsports TH1
+http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8
+#EXTINF:-1,tvg-logo="https://cdn.mypanel.tv/picon/tr/beINSports2.tr.png" group-title="ASIAN TV",Beinsports TH2
+http://main-a.for-our.info:8081/tv11/bein2/chunks.m3u8
+#EXTINF:-1,tvg-logo="https://cdn.mypanel.tv/picon/tr/beINSports3.tr.png" group-title="ASIAN TV",Beinsports TH3
+http://main-a.for-our.info:8081/tv11/bein3/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://cdn.mypanel.tv/picon/tr/beINSports4.tr.png" group-title="ASIAN TV",Beinsports TH4
+http://main-a.for-our.info:8081/tv11/bein4/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://www.sporttechie.com/wp-content/uploads/2016/11/NBA_TV3D-e1478874113706.jpg" group-title="ASIAN TV",NBA TV
+http://main-a.for-our.info:8081/tv11/nba/chunks.m3u8
+#EXTINF:-1,tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/07/national-geographic-logo.jpg" group-title="ASIAN TV",Nat Geo
+http://main-a.for-our.info:8081/tv11/natgeo/playlist.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2479.ts?token=eyJ1c2VybmFtZSI6ImpjYXNlIiwicGFzc3dvcmQiOiI2MDIwdG9rIn0=&duration=3600" catchup-days=5 tvg-name="Sky Sports Cricket HD" tvg-id="SkySportsCricket.uk" tvg-logo="http://vaders.tv/logos/sky%20sports%20cricket%20hd.png" group-title="Sports",Sky Sports Cricket HD
 http://vapi.vaders.tv/play/2479.ts?token=eyJ1c2VybmFtZSI6ImpjYXNlIiwicGFzc3dvcmQiOiI2MDIwdG9rIn0=
 #EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2480.ts?token=eyJ1c2VybmFtZSI6ImpjYXNlIiwicGFzc3dvcmQiOiI2MDIwdG9rIn0=&duration=3600" catchup-days=5 tvg-name="Sky Sports Action HD" tvg-id="SkySportsAction.uk" tvg-logo="http://vaders.tv/logos/sky%20sports%20action%20hd.png" group-title="Sports",Sky Sports Action HD
