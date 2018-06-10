@@ -1077,10 +1077,8 @@ http://iheart-totiptv.better-than.tv:8080/iheart/7773f3cef0334a28ad248552ea63d9e
 http://main-a.for-our.info:8081/tv11/fox1/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png" group-title="ASIAN TV",Fox Sports 2
 http://main-a.for-our.info:8081/tv11/fox2/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_300.png" group-title="ASIAN TV",Fox Sports 3
-http://main-a.for-our.info:8081/tv11/fox3/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Fox_Sports_3_logo.png" group-title="ASIAN TV",Fox Sports 3
-http://iptvthai.webhop.biz:443/sd-foxsports3_480/index.m3u8
+http://main-a.for-our.info:8081/tv11/fox3/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://obmsbke.truevisions.tv/logo/channel/True-Tennis-HD-0.png" group-title="ASIAN TV",True Tennis
 http://iptvthai.webhop.biz:443/hd-tennis_720/index.m3u8
 #EXTINF:-1,tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Golf_Channel_2008.png.300x300_q85.png" group-title="ASIAN TV",Golf Channel
