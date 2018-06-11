@@ -1391,170 +1391,170 @@ http://vapi.vaders.tv/play/74789.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3
 http://vapi.vaders.tv/play/74791.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
 #EXTINF:-1 tvg-name="Starz Western HD" tvg-id="None" tvg-logo="" group-title="Premium Movies",Starz Western HD
 http://vapi.vaders.tv/play/79264.ts?token=eyJ1c2VybmFtZSI6ImplaXNzb24xMCIsInBhc3N3b3JkIjoiRGFsZXNzaW8xMCJ9
-#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2464.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="BBC One HD" tvg-id="I141.87840.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/bbc%20one%20hd.png" group-title="United Kingdom",BBC One HD
-http://vapi.vaders.tv/play/2464.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2467.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="BBC Two HD" tvg-id="I142.50059.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/bbc%20two%20hd.png" group-title="United Kingdom",BBC Two HD
-http://vapi.vaders.tv/play/2467.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2469.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="BBC Four HD" tvg-id="BBC4.uk" tvg-logo="http://vaders.tv/logos/bbc%20four%20hd.png" group-title="United Kingdom",BBC Four HD
-http://vapi.vaders.tv/play/2469.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2470.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="ITV 1 HD" tvg-id="I103.17468.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%20hd.png" group-title="United Kingdom",ITV 1 HD
-http://vapi.vaders.tv/play/2470.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2471.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="ITV 2 HD" tvg-id="I118.20630.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv2%20hd.png" group-title="United Kingdom",ITV 2 HD
-http://vapi.vaders.tv/play/2471.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2472.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="ITV 3 HD" tvg-id="I119.44643.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%203%20hd.png" group-title="United Kingdom",ITV 3 HD
-http://vapi.vaders.tv/play/2472.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2473.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="ITV 4 HD" tvg-id="I120.48020.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%204%20hd.png" group-title="United Kingdom",ITV 4 HD
-http://vapi.vaders.tv/play/2473.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2476.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="Channel 4 HD" tvg-id="I135.17155.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/channel%204%20hd.png" group-title="United Kingdom",Channel 4 HD
-http://vapi.vaders.tv/play/2476.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2477.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="Channel 5 HD" tvg-id="I105.50717.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/channel%205%20hd.png" group-title="United Kingdom",Channel 5 HD
-http://vapi.vaders.tv/play/2477.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="E4" tvg-id="I137.25117.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/e4.png" group-title="United Kingdom",E4
-http://vapi.vaders.tv/play/2571.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="More4" tvg-id="I139.47657.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/more4.png" group-title="United Kingdom",More4
-http://vapi.vaders.tv/play/2572.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Sky 1" tvg-id="I106.49611.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/sky%201.png" group-title="United Kingdom",Sky 1
-http://vapi.vaders.tv/play/2573.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Sky 2" tvg-id="I164.32151.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/sky%202.png" group-title="United Kingdom",Sky 2
-http://vapi.vaders.tv/play/2574.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Sky Arts" tvg-id="I122.49612.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/sky%20arts.png" group-title="United Kingdom",Sky Arts
-http://vapi.vaders.tv/play/2575.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/2576.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="Sky Atlantic" tvg-id="I108.70433.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/sky%20atlantic.png" group-title="United Kingdom",Sky Atlantic
-http://vapi.vaders.tv/play/2576.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Sky Living" tvg-id="I107.64590.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/sky%20living.png" group-title="United Kingdom",Sky Living
-http://vapi.vaders.tv/play/2577.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Pick TV" tvg-id="I152.48021.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/pick%20tv.png" group-title="United Kingdom",Pick TV
-http://vapi.vaders.tv/play/2578.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="5USA" tvg-id="I174.52335.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/5usa.png" group-title="United Kingdom",5USA
-http://vapi.vaders.tv/play/34211.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="5STAR" tvg-id="I176.52336.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/5star.png" group-title="United Kingdom",5STAR
-http://vapi.vaders.tv/play/34212.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="CBS Action" tvg-id="I148.73970.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/cbs%20action.png" group-title="United Kingdom",CBS Action
-http://vapi.vaders.tv/play/34213.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="CBS Drama" tvg-id="I147.57827.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/cbs%20drama.png" group-title="United Kingdom",CBS Drama
-http://vapi.vaders.tv/play/34214.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="CBS Reality" tvg-id="I146.31756.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/cbs%20reality.png" group-title="United Kingdom",CBS Reality
-http://vapi.vaders.tv/play/34215.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Dave" tvg-id="I111.73129.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/dave.png" group-title="United Kingdom",Dave
-http://vapi.vaders.tv/play/34283.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Home" tvg-id="I196.21257.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/home.png" group-title="United Kingdom",Home
-http://vapi.vaders.tv/play/35001.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Gold" tvg-id="I110.17442.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/gold.png" group-title="United Kingdom",Gold
-http://vapi.vaders.tv/play/35162.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Universal Channel" tvg-id="I113.24671.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/universal%20channel.png" group-title="United Kingdom",Universal Channel
-http://vapi.vaders.tv/play/35463.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Syfy UK" tvg-id="I201.17431.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/syfy%20uk.png" group-title="United Kingdom",Syfy UK
-http://vapi.vaders.tv/play/35661.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Lifetime UK" tvg-id="I156.96859.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/lifetime%20hd.png" group-title="United Kingdom",Lifetime UK
-http://vapi.vaders.tv/play/35748.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Yesterday" tvg-id="I537.31783.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/yesterday.png" group-title="United Kingdom",Yesterday
-http://vapi.vaders.tv/play/35756.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Drama" tvg-id="I158.82575.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/drama.png" group-title="United Kingdom",Drama
-http://vapi.vaders.tv/play/36174.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Watch" tvg-id="I109.73128.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/Watch.png" group-title="United Kingdom",Watch
-http://vapi.vaders.tv/play/36175.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Really" tvg-id="I155.45828.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/really.png" group-title="United Kingdom",Really
-http://vapi.vaders.tv/play/36176.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Food Network UK" tvg-id="I248.44718.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/food%20network%20uk.png" group-title="United Kingdom",Food Network UK
-http://vapi.vaders.tv/play/36177.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Good Food" tvg-id="I133.68878.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/good%20food.png" group-title="United Kingdom",Good Food
-http://vapi.vaders.tv/play/36178.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Challenge" tvg-id="I145.21793.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/challenge.png" group-title="United Kingdom",Challenge
-http://vapi.vaders.tv/play/37245.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Alibi" tvg-id="I132.75803.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/alibi.png" group-title="United Kingdom",Alibi
-http://vapi.vaders.tv/play/37247.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Boomerang UK" tvg-id="I603.105266.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/boomerang%20uk.png" group-title="United Kingdom",Boomerang UK
-http://vapi.vaders.tv/play/37248.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Cartoon Network UK" tvg-id="I601.78843.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/cartoon%20network%20uk.png" group-title="United Kingdom",Cartoon Network UK
-http://vapi.vaders.tv/play/37249.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Nickelodeon UK" tvg-id="I604.17419.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/nickelodeon%20uk.png" group-title="United Kingdom",Nickelodeon UK
-http://vapi.vaders.tv/play/37250.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Nick Jr UK" tvg-id="I615.24025.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/nick%20jr%20uk.png" group-title="United Kingdom",Nick Jr UK
-http://vapi.vaders.tv/play/37251.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="CBBC HD" tvg-id="I613.29324.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/cbbc.png" group-title="United Kingdom",CBBC HD
-http://vapi.vaders.tv/play/37252.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="CBeebies" tvg-id="I614.83283.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/cbeebies.png" group-title="United Kingdom",CBeebies
-http://vapi.vaders.tv/play/37253.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/37254.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="Disney Channel UK" tvg-id="I609.77444.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/disney%20channel%20uk.png" group-title="United Kingdom",Disney Channel UK
-http://vapi.vaders.tv/play/37254.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Disney Junior UK" tvg-id="I611.97269.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/disney%20junior%20uk.png" group-title="United Kingdom",Disney Junior UK
-http://vapi.vaders.tv/play/37255.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="BBC News HD" tvg-id="I503.19037.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/bbc%20news%20hd.png" group-title="United Kingdom",BBC News HD
-http://vapi.vaders.tv/play/38777.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="TLC UK" tvg-id="I125.79654.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/tlc%20uk.png" group-title="United Kingdom",TLC UK
-http://vapi.vaders.tv/play/39028.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="National Geographic UK" tvg-id="I526.49534.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/national%20geographic%20uk.png" group-title="United Kingdom",National Geographic UK
-http://vapi.vaders.tv/play/39029.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/39630.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="Sky News HD" tvg-id="I501.67040.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/sky%20news%20hd.png" group-title="United Kingdom",Sky News HD
-http://vapi.vaders.tv/play/39630.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/39639.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="Discovery Channel UK" tvg-id="I520.17444.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/discovery%20channel%20uk.png" group-title="United Kingdom",Discovery Channel UK
-http://vapi.vaders.tv/play/39639.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Discovery Turbo" tvg-id="I524.24284.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/discovery%20turbo.png" group-title="United Kingdom",Discovery Turbo
-http://vapi.vaders.tv/play/39640.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Animal Planet UK" tvg-id="I523.77458.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/animal%20planet%20uk.png" group-title="United Kingdom",Animal Planet UK
-http://vapi.vaders.tv/play/39641.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Comedy Central UK" tvg-id="I112.17420.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/comedy%20central.png" group-title="United Kingdom",Comedy Central UK
-http://vapi.vaders.tv/play/39642.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="BabyTV" tvg-id="I623.48542.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/babytv.png" group-title="United Kingdom",BabyTV
-http://vapi.vaders.tv/play/39643.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="E! UK" tvg-id="None" tvg-logo="" group-title="United Kingdom",E! UK
-http://vapi.vaders.tv/play/39814.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="MTV UK" tvg-id="I220.80924.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/mtv%20uk.png" group-title="United Kingdom",MTV UK
-http://vapi.vaders.tv/play/39815.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/39816.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="Discovery History" tvg-id="I535.24280.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/discovery%20history.png" group-title="United Kingdom",Discovery History
-http://vapi.vaders.tv/play/39816.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Discovery Science UK" tvg-id="I525.24282.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/discovery%20science%20uk.png" group-title="United Kingdom",Discovery Science UK
-http://vapi.vaders.tv/play/39817.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Comedy Central Extra" tvg-id="I128.34230.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/comedy%20central%20extra.png" group-title="United Kingdom",Comedy Central Extra
-http://vapi.vaders.tv/play/39818.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Eden HD" tvg-id="I532.35806.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/eden%20hd.png" group-title="United Kingdom",Eden HD
-http://vapi.vaders.tv/play/39819.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Fox UK" tvg-id="I398.11746.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/fox%20uk.png" group-title="United Kingdom",Fox UK
-http://vapi.vaders.tv/play/39837.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="BBC One" tvg-id="I141.87840.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/BBC%20one.png" group-title="United Kingdom",BBC One
-http://vapi.vaders.tv/play/39862.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="BBC Two" tvg-id="I142.50059.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/bbc%20two.png" group-title="United Kingdom",BBC Two
-http://vapi.vaders.tv/play/39863.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="BBC Four" tvg-id="BBC4.uk" tvg-logo="http://vaders.tv/logos/bbc%20four.png" group-title="United Kingdom",BBC Four
-http://vapi.vaders.tv/play/39864.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Channel 4" tvg-id="I135.17155.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/channel%204.png" group-title="United Kingdom",Channel 4
-http://vapi.vaders.tv/play/39865.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Channel 5" tvg-id="I105.50717.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/channel%205.png" group-title="United Kingdom",Channel 5
-http://vapi.vaders.tv/play/39866.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="ITV 1" tvg-id="I103.17468.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv.png" group-title="United Kingdom",ITV 1
-http://vapi.vaders.tv/play/39867.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="ITV 2" tvg-id="I118.20630.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%202.png" group-title="United Kingdom",ITV 2
-http://vapi.vaders.tv/play/39868.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="ITV 3" tvg-id="I119.44643.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%203.png" group-title="United Kingdom",ITV 3
-http://vapi.vaders.tv/play/39869.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="ITV 4" tvg-id="I120.48020.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%204.png" group-title="United Kingdom",ITV 4
-http://vapi.vaders.tv/play/39870.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="BBC News" tvg-id="I503.19037.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/bbc%20news.png" group-title="United Kingdom",BBC News
-http://vapi.vaders.tv/play/39871.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/47372.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="ID UK" tvg-id="I522.62496.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/id%20uk.png" group-title="United Kingdom",ID UK
-http://vapi.vaders.tv/play/47372.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="H2" tvg-id="I531.60500.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/h2.png" group-title="United Kingdom",H2
-http://vapi.vaders.tv/play/47860.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Crime + Investigation UK" tvg-id="I553.61621.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/crime%20%2B%20investigation.png" group-title="United Kingdom",Crime + Investigation UK
-http://vapi.vaders.tv/play/50557.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Cartoonito UK" tvg-id="I619.31760.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/cartoonito%20uk.png" group-title="United Kingdom",Cartoonito UK
-http://vapi.vaders.tv/play/52252.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Disney XD UK" tvg-id="I607.69352.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/disney%20xd%20uk.png" group-title="United Kingdom",Disney XD UK
-http://vapi.vaders.tv/play/52253.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Pop Max UK" tvg-id="I627.56896.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/pop%20max.png" group-title="United Kingdom",Pop Max UK
-http://vapi.vaders.tv/play/52254.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Nick Jr Too UK" tvg-id="I620.50269.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/nick%20jr%20too.png" group-title="United Kingdom",Nick Jr Too UK
-http://vapi.vaders.tv/play/52255.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Nicktoons UK" tvg-id="I606.31168.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/nicktoons%20uk.png" group-title="United Kingdom",Nicktoons UK
-http://vapi.vaders.tv/play/52256.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Pop UK" tvg-id="I616.33638.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/pop%20uk.png" group-title="United Kingdom",Pop UK
-http://vapi.vaders.tv/play/52257.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Tiny Pop UK" tvg-id="I617.34087.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/tiny%20pop.png" group-title="United Kingdom",Tiny Pop UK
-http://vapi.vaders.tv/play/52258.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 catchup="default" catchup-source="http://vapi.vaders.tv/play/dvr/${start}/72667.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9&duration=3600" catchup-days=5 tvg-name="Sky 1 HD" tvg-id="I106.49611.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/sky%201%20hd.png" group-title="United Kingdom",Sky 1 HD
-http://vapi.vaders.tv/play/72667.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
-#EXTINF:-1 tvg-name="Nat Geo Wild UK" tvg-id="I528.56425.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/nat%20geo%20wild%20uk.png" group-title="United Kingdom",Nat Geo Wild UK
-http://vapi.vaders.tv/play/72692.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
+#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2464.m3u8&duration=3600" catchup-days=5 tvg-name="BBC One HD" tvg-id="BBC1.uk" tvg-logo="http://vaders.tv/logos/bbc%20one%20hd.png" group-title="United Kingdom",BBC One HD
+http://185.102.218.3:80/live/drbird47/Cobra597/2464.m3u8
+#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2467.m3u8&duration=3600" catchup-days=5 tvg-name="BBC Two HD" tvg-id="BBC2.uk" tvg-logo="http://vaders.tv/logos/bbc%20two%20hd.png" group-title="United Kingdom",BBC Two HD
+http://185.102.218.3:80/live/drbird47/Cobra597/2467.m3u8
+#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2469.m3u8&duration=3600" catchup-days=5 tvg-name="BBC Four HD" tvg-id="BBC4.uk" tvg-logo="http://vaders.tv/logos/bbc%20four%20hd.png" group-title="United Kingdom",BBC Four HD
+http://185.102.218.3:80/live/drbird47/Cobra597/2469.m3u8
+#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2470.m3u8&duration=3600" catchup-days=5 tvg-name="ITV 1 HD" tvg-id="I103.17468.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%20hd.png" group-title="United Kingdom",ITV 1 HD
+http://185.102.218.3:80/live/drbird47/Cobra597/2470.m3u8
+#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2471.m3u8&duration=3600" catchup-days=5 tvg-name="ITV 2 HD" tvg-id="I118.20630.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv2%20hd.png" group-title="United Kingdom",ITV 2 HD
+http://185.102.218.3:80/live/drbird47/Cobra597/2471.m3u8
+#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2472.m3u8&duration=3600" catchup-days=5 tvg-name="ITV 3 HD" tvg-id="I119.44643.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%203%20hd.png" group-title="United Kingdom",ITV 3 HD
+http://185.102.218.3:80/live/drbird47/Cobra597/2472.m3u8
+#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2473.m3u8&duration=3600" catchup-days=5 tvg-name="ITV 4 HD" tvg-id="I120.48020.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%204%20hd.png" group-title="United Kingdom",ITV 4 HD
+http://185.102.218.3:80/live/drbird47/Cobra597/2473.m3u8
+#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2476.m3u8&duration=3600" catchup-days=5 tvg-name="Channel 4 HD" tvg-id="I135.17155.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/channel%204%20hd.png" group-title="United Kingdom",Channel 4 HD
+http://185.102.218.3:80/live/drbird47/Cobra597/2476.m3u8
+#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2477.m3u8&duration=3600" catchup-days=5 tvg-name="Channel 5 HD" tvg-id="I105.50717.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/channel%205%20hd.png" group-title="United Kingdom",Channel 5 HD
+http://185.102.218.3:80/live/drbird47/Cobra597/2477.m3u8
+#EXTINF:-1, tvg-name="E4" tvg-id="E4.uk" tvg-logo="http://vaders.tv/logos/e4.png" group-title="United Kingdom",E4
+http://185.102.218.3:80/live/drbird47/Cobra597/2571.m3u8
+#EXTINF:-1, tvg-name="More4" tvg-id="More4.uk" tvg-logo="http://vaders.tv/logos/more4.png" group-title="United Kingdom",More4
+http://185.102.218.3:80/live/drbird47/Cobra597/2572.m3u8
+#EXTINF:-1, tvg-name="Sky 1" tvg-id="Sky1.uk" tvg-logo="http://vaders.tv/logos/sky%201.png" group-title="United Kingdom",Sky 1
+http://185.102.218.3:80/live/drbird47/Cobra597/2573.m3u8
+#EXTINF:-1, tvg-name="Sky 2" tvg-id="Sky2.uk" tvg-logo="http://vaders.tv/logos/sky%202.png" group-title="United Kingdom",Sky 2
+http://185.102.218.3:80/live/drbird47/Cobra597/2574.m3u8
+#EXTINF:-1, tvg-name="Sky Arts" tvg-id="SkyArts.uk" tvg-logo="http://vaders.tv/logos/sky%20arts.png" group-title="United Kingdom",Sky Arts
+http://185.102.218.3:80/live/drbird47/Cobra597/2575.m3u8
+#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2576.m3u8&duration=3600" catchup-days=5 tvg-name="Sky Atlantic" tvg-id="SkyAtlantic.uk" tvg-logo="http://vaders.tv/logos/sky%20atlantic.png" group-title="United Kingdom",Sky Atlantic
+http://185.102.218.3:80/live/drbird47/Cobra597/2576.m3u8
+#EXTINF:-1, tvg-name="Sky Living" tvg-id="SkyLiving.uk" tvg-logo="http://vaders.tv/logos/sky%20living.png" group-title="United Kingdom",Sky Living
+http://185.102.218.3:80/live/drbird47/Cobra597/2577.m3u8
+#EXTINF:-1, tvg-name="Pick TV" tvg-id="I152.48021.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/pick%20tv.png" group-title="United Kingdom",Pick TV
+http://185.102.218.3:80/live/drbird47/Cobra597/2578.m3u8
+#EXTINF:-1, tvg-name="5USA" tvg-id="I174.52335.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/5usa.png" group-title="United Kingdom",5USA
+http://185.102.218.3:80/live/drbird47/Cobra597/34211.m3u8
+#EXTINF:-1, tvg-name="5STAR" tvg-id="I176.52336.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/5star.png" group-title="United Kingdom",5STAR
+http://185.102.218.3:80/live/drbird47/Cobra597/34212.m3u8
+#EXTINF:-1, tvg-name="CBS Action" tvg-id="I148.73970.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/cbs%20action.png" group-title="United Kingdom",CBS Action
+http://185.102.218.3:80/live/drbird47/Cobra597/34213.m3u8
+#EXTINF:-1, tvg-name="CBS Drama" tvg-id="I147.57827.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/cbs%20drama.png" group-title="United Kingdom",CBS Drama
+http://185.102.218.3:80/live/drbird47/Cobra597/34214.m3u8
+#EXTINF:-1, tvg-name="CBS Reality" tvg-id="I146.31756.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/cbs%20reality.png" group-title="United Kingdom",CBS Reality
+http://185.102.218.3:80/live/drbird47/Cobra597/34215.m3u8
+#EXTINF:-1, tvg-name="Dave" tvg-id="I111.73129.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/dave.png" group-title="United Kingdom",Dave
+http://185.102.218.3:80/live/drbird47/Cobra597/34283.m3u8
+#EXTINF:-1, tvg-name="Home" tvg-id="I196.21257.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/home.png" group-title="United Kingdom",Home
+http://185.102.218.3:80/live/drbird47/Cobra597/35001.m3u8
+#EXTINF:-1, tvg-name="Gold" tvg-id="I110.17442.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/gold.png" group-title="United Kingdom",Gold
+http://185.102.218.3:80/live/drbird47/Cobra597/35162.m3u8
+#EXTINF:-1, tvg-name="Universal Channel" tvg-id="Universal.uk" tvg-logo="http://vaders.tv/logos/universal%20channel.png" group-title="United Kingdom",Universal Channel
+http://185.102.218.3:80/live/drbird47/Cobra597/35463.m3u8
+#EXTINF:-1, tvg-name="Syfy UK" tvg-id="Syfy.uk" tvg-logo="http://vaders.tv/logos/syfy%20uk.png" group-title="United Kingdom",Syfy UK
+http://185.102.218.3:80/live/drbird47/Cobra597/35661.m3u8
+#EXTINF:-1, tvg-name="Lifetime UK" tvg-id="Lifetime.uk" tvg-logo="http://vaders.tv/logos/lifetime%20hd.png" group-title="United Kingdom",Lifetime UK
+http://185.102.218.3:80/live/drbird47/Cobra597/35748.m3u8
+#EXTINF:-1, tvg-name="Yesterday" tvg-id="Yesterday.uk" tvg-logo="http://vaders.tv/logos/yesterday.png" group-title="United Kingdom",Yesterday
+http://185.102.218.3:80/live/drbird47/Cobra597/35756.m3u8
+#EXTINF:-1, tvg-name="Drama" tvg-id="I158.82575.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/drama.png" group-title="United Kingdom",Drama
+http://185.102.218.3:80/live/drbird47/Cobra597/36174.m3u8
+#EXTINF:-1, tvg-name="Watch" tvg-id="W.uk" tvg-logo="http://vaders.tv/logos/Watch.png" group-title="United Kingdom",Watch
+http://185.102.218.3:80/live/drbird47/Cobra597/36175.m3u8
+#EXTINF:-1, tvg-name="Really" tvg-id="I155.45828.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/really.png" group-title="United Kingdom",Really
+http://185.102.218.3:80/live/drbird47/Cobra597/36176.m3u8
+#EXTINF:-1, tvg-name="Food Network UK" tvg-id="I248.44718.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/food%20network%20uk.png" group-title="United Kingdom",Food Network UK
+http://185.102.218.3:80/live/drbird47/Cobra597/36177.m3u8
+#EXTINF:-1, tvg-name="Good Food" tvg-id="I133.68878.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/good%20food.png" group-title="United Kingdom",Good Food
+http://185.102.218.3:80/live/drbird47/Cobra597/36178.m3u8
+#EXTINF:-1, tvg-name="Challenge" tvg-id="I145.21793.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/challenge.png" group-title="United Kingdom",Challenge
+http://185.102.218.3:80/live/drbird47/Cobra597/37245.m3u8
+#EXTINF:-1, tvg-name="Alibi" tvg-id="I132.75803.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/alibi.png" group-title="United Kingdom",Alibi
+http://185.102.218.3:80/live/drbird47/Cobra597/37247.m3u8
+#EXTINF:-1, tvg-name="Boomerang UK" tvg-id="I603.105266.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/boomerang%20uk.png" group-title="United Kingdom",Boomerang UK
+http://185.102.218.3:80/live/drbird47/Cobra597/37248.m3u8
+#EXTINF:-1, tvg-name="Cartoon Network UK" tvg-id="CartoonNetwork.uk" tvg-logo="http://vaders.tv/logos/cartoon%20network%20uk.png" group-title="United Kingdom",Cartoon Network UK
+http://185.102.218.3:80/live/drbird47/Cobra597/37249.m3u8
+#EXTINF:-1, tvg-name="Nickelodeon UK" tvg-id="Nickelodeon.uk" tvg-logo="http://vaders.tv/logos/nickelodeon%20uk.png" group-title="United Kingdom",Nickelodeon UK
+http://185.102.218.3:80/live/drbird47/Cobra597/37250.m3u8
+#EXTINF:-1, tvg-name="Nick Jr UK" tvg-id="NickJunior.uk" tvg-logo="http://vaders.tv/logos/nick%20jr%20uk.png" group-title="United Kingdom",Nick Jr UK
+http://185.102.218.3:80/live/drbird47/Cobra597/37251.m3u8
+#EXTINF:-1, tvg-name="CBBC HD" tvg-id="I613.29324.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/cbbc.png" group-title="United Kingdom",CBBC HD
+http://185.102.218.3:80/live/drbird47/Cobra597/37252.m3u8
+#EXTINF:-1, tvg-name="CBeebies" tvg-id="CBeebies.uk" tvg-logo="http://vaders.tv/logos/cbeebies.png" group-title="United Kingdom",CBeebies
+http://185.102.218.3:80/live/drbird47/Cobra597/37253.m3u8
+#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/37254.m3u8&duration=3600" catchup-days=5 tvg-name="Disney Channel UK" tvg-id="DisneyChannel.uk" tvg-logo="http://vaders.tv/logos/disney%20channel%20uk.png" group-title="United Kingdom",Disney Channel UK
+http://185.102.218.3:80/live/drbird47/Cobra597/37254.m3u8
+#EXTINF:-1, tvg-name="Disney Junior UK" tvg-id="DisneyJunior.uk" tvg-logo="http://vaders.tv/logos/disney%20junior%20uk.png" group-title="United Kingdom",Disney Junior UK
+http://185.102.218.3:80/live/drbird47/Cobra597/37255.m3u8
+#EXTINF:-1, tvg-name="BBC News HD" tvg-id="I503.19037.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/bbc%20news%20hd.png" group-title="United Kingdom",BBC News HD
+http://185.102.218.3:80/live/drbird47/Cobra597/38777.m3u8
+#EXTINF:-1, tvg-name="TLC UK" tvg-id="TLC.uk" tvg-logo="http://vaders.tv/logos/tlc%20uk.png" group-title="United Kingdom",TLC UK
+http://185.102.218.3:80/live/drbird47/Cobra597/39028.m3u8
+#EXTINF:-1, tvg-name="National Geographic UK" tvg-id="NatGeo.uk" tvg-logo="http://vaders.tv/logos/national%20geographic%20uk.png" group-title="United Kingdom",National Geographic UK
+http://185.102.218.3:80/live/drbird47/Cobra597/39029.m3u8
+#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/39630.m3u8&duration=3600" catchup-days=5 tvg-name="Sky News HD" tvg-id="SkyNews.uk" tvg-logo="http://vaders.tv/logos/sky%20news%20hd.png" group-title="United Kingdom",Sky News HD
+http://185.102.218.3:80/live/drbird47/Cobra597/39630.m3u8
+#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/39639.m3u8&duration=3600" catchup-days=5 tvg-name="Discovery Channel UK" tvg-id="DiscoveryChannel.uk" tvg-logo="http://vaders.tv/logos/discovery%20channel%20uk.png" group-title="United Kingdom",Discovery Channel UK
+http://185.102.218.3:80/live/drbird47/Cobra597/39639.m3u8
+#EXTINF:-1, tvg-name="Discovery Turbo" tvg-id="DiscoveryTurbo.uk" tvg-logo="http://vaders.tv/logos/discovery%20turbo.png" group-title="United Kingdom",Discovery Turbo
+http://185.102.218.3:80/live/drbird47/Cobra597/39640.m3u8
+#EXTINF:-1, tvg-name="Animal Planet UK" tvg-id="AnimalPlanet.uk" tvg-logo="http://vaders.tv/logos/animal%20planet%20uk.png" group-title="United Kingdom",Animal Planet UK
+http://185.102.218.3:80/live/drbird47/Cobra597/39641.m3u8
+#EXTINF:-1, tvg-name="Comedy Central UK" tvg-id="ComedyCentral.uk" tvg-logo="http://vaders.tv/logos/comedy%20central.png" group-title="United Kingdom",Comedy Central UK
+http://185.102.218.3:80/live/drbird47/Cobra597/39642.m3u8
+#EXTINF:-1, tvg-name="BabyTV" tvg-id="BabyTV.uk" tvg-logo="http://vaders.tv/logos/babytv.png" group-title="United Kingdom",BabyTV
+http://185.102.218.3:80/live/drbird47/Cobra597/39643.m3u8
+#EXTINF:-1, tvg-name="E! UK" tvg-id="EEntertainment.uk" tvg-logo="" group-title="United Kingdom",E! UK
+http://185.102.218.3:80/live/drbird47/Cobra597/39814.m3u8
+#EXTINF:-1, tvg-name="MTV UK" tvg-id="MTV.uk" tvg-logo="http://vaders.tv/logos/mtv%20uk.png" group-title="United Kingdom",MTV UK
+http://185.102.218.3:80/live/drbird47/Cobra597/39815.m3u8
+#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/39816.m3u8&duration=3600" catchup-days=5 tvg-name="Discovery History" tvg-id="DiscoveryHistory.uk" tvg-logo="http://vaders.tv/logos/discovery%20history.png" group-title="United Kingdom",Discovery History
+http://185.102.218.3:80/live/drbird47/Cobra597/39816.m3u8
+#EXTINF:-1, tvg-name="Discovery Science UK" tvg-id="DiscoveryScience.uk" tvg-logo="http://vaders.tv/logos/discovery%20science%20uk.png" group-title="United Kingdom",Discovery Science UK
+http://185.102.218.3:80/live/drbird47/Cobra597/39817.m3u8
+#EXTINF:-1, tvg-name="Comedy Central Extra" tvg-id="ComedyCentralExtra.uk" tvg-logo="http://vaders.tv/logos/comedy%20central%20extra.png" group-title="United Kingdom",Comedy Central Extra
+http://185.102.218.3:80/live/drbird47/Cobra597/39818.m3u8
+#EXTINF:-1, tvg-name="Eden HD" tvg-id="Eden.uk" tvg-logo="http://vaders.tv/logos/eden%20hd.png" group-title="United Kingdom",Eden HD
+http://185.102.218.3:80/live/drbird47/Cobra597/39819.m3u8
+#EXTINF:-1, tvg-name="Fox UK" tvg-id="I398.11746.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/fox%20uk.png" group-title="United Kingdom",Fox UK
+http://185.102.218.3:80/live/drbird47/Cobra597/39837.m3u8
+#EXTINF:-1, tvg-name="BBC One" tvg-id="BBC1.uk" tvg-logo="http://vaders.tv/logos/BBC%20one.png" group-title="United Kingdom",BBC One
+http://185.102.218.3:80/live/drbird47/Cobra597/39862.m3u8
+#EXTINF:-1, tvg-name="BBC Two" tvg-id="BBC2.uk" tvg-logo="http://vaders.tv/logos/bbc%20two.png" group-title="United Kingdom",BBC Two
+http://185.102.218.3:80/live/drbird47/Cobra597/39863.m3u8
+#EXTINF:-1, tvg-name="BBC Four" tvg-id="BBC4.uk" tvg-logo="http://vaders.tv/logos/bbc%20four.png" group-title="United Kingdom",BBC Four
+http://185.102.218.3:80/live/drbird47/Cobra597/39864.m3u8
+#EXTINF:-1, tvg-name="Channel 4" tvg-id="I135.17155.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/channel%204.png" group-title="United Kingdom",Channel 4
+http://185.102.218.3:80/live/drbird47/Cobra597/39865.m3u8
+#EXTINF:-1, tvg-name="Channel 5" tvg-id="I105.50717.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/channel%205.png" group-title="United Kingdom",Channel 5
+http://185.102.218.3:80/live/drbird47/Cobra597/39866.m3u8
+#EXTINF:-1, tvg-name="ITV 1" tvg-id="I103.17468.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv.png" group-title="United Kingdom",ITV 1
+http://185.102.218.3:80/live/drbird47/Cobra597/39867.m3u8
+#EXTINF:-1, tvg-name="ITV 2" tvg-id="I118.20630.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%202.png" group-title="United Kingdom",ITV 2
+http://185.102.218.3:80/live/drbird47/Cobra597/39868.m3u8
+#EXTINF:-1, tvg-name="ITV 3" tvg-id="I119.44643.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%203.png" group-title="United Kingdom",ITV 3
+http://185.102.218.3:80/live/drbird47/Cobra597/39869.m3u8
+#EXTINF:-1, tvg-name="ITV 4" tvg-id="I120.48020.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%204.png" group-title="United Kingdom",ITV 4
+http://185.102.218.3:80/live/drbird47/Cobra597/39870.m3u8
+#EXTINF:-1, tvg-name="BBC News" tvg-id="I503.19037.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/bbc%20news.png" group-title="United Kingdom",BBC News
+http://185.102.218.3:80/live/drbird47/Cobra597/39871.m3u8
+#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/47372.m3u8&duration=3600" catchup-days=5 tvg-name="ID UK" tvg-id="InvestigationDiscovery.uk" tvg-logo="http://vaders.tv/logos/id%20uk.png" group-title="United Kingdom",ID UK
+http://185.102.218.3:80/live/drbird47/Cobra597/47372.m3u8
+#EXTINF:-1, tvg-name="H2" tvg-id="History2.uk" tvg-logo="http://vaders.tv/logos/h2.png" group-title="United Kingdom",H2
+http://185.102.218.3:80/live/drbird47/Cobra597/47860.m3u8
+#EXTINF:-1, tvg-name="Crime + Investigation UK" tvg-id="CrimeAndInvestigationNetwork.uk" tvg-logo="http://vaders.tv/logos/crime%20%2B%20investigation.png" group-title="United Kingdom",Crime + Investigation UK
+http://185.102.218.3:80/live/drbird47/Cobra597/50557.m3u8
+#EXTINF:-1, tvg-name="Cartoonito UK" tvg-id="Cartoonito.uk" tvg-logo="http://vaders.tv/logos/cartoonito%20uk.png" group-title="United Kingdom",Cartoonito UK
+http://185.102.218.3:80/live/drbird47/Cobra597/52252.m3u8
+#EXTINF:-1, tvg-name="Disney XD UK" tvg-id="DisneyXD.uk" tvg-logo="http://vaders.tv/logos/disney%20xd%20uk.png" group-title="United Kingdom",Disney XD UK
+http://185.102.218.3:80/live/drbird47/Cobra597/52253.m3u8
+#EXTINF:-1, tvg-name="Pop Max UK" tvg-id="Kix.uk" tvg-logo="http://vaders.tv/logos/pop%20max.png" group-title="United Kingdom",Pop Max UK
+http://185.102.218.3:80/live/drbird47/Cobra597/52254.m3u8
+#EXTINF:-1, tvg-name="Nick Jr Too UK" tvg-id="NickJrToo.uk" tvg-logo="http://vaders.tv/logos/nick%20jr%20too.png" group-title="United Kingdom",Nick Jr Too UK
+http://185.102.218.3:80/live/drbird47/Cobra597/52255.m3u8
+#EXTINF:-1, tvg-name="Nicktoons UK" tvg-id="Nicktoons.uk" tvg-logo="http://vaders.tv/logos/nicktoons%20uk.png" group-title="United Kingdom",Nicktoons UK
+http://185.102.218.3:80/live/drbird47/Cobra597/52256.m3u8
+#EXTINF:-1, tvg-name="Pop UK" tvg-id="I616.33638.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/pop%20uk.png" group-title="United Kingdom",Pop UK
+http://185.102.218.3:80/live/drbird47/Cobra597/52257.m3u8
+#EXTINF:-1, tvg-name="Tiny Pop UK" tvg-id="Tinypop.uk" tvg-logo="http://vaders.tv/logos/tiny%20pop.png" group-title="United Kingdom",Tiny Pop UK
+http://185.102.218.3:80/live/drbird47/Cobra597/52258.m3u8
+#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/72667.m3u8&duration=3600" catchup-days=5 tvg-name="Sky 1 HD" tvg-id="Sky1.uk" tvg-logo="http://vaders.tv/logos/sky%201%20hd.png" group-title="United Kingdom",Sky 1 HD
+http://185.102.218.3:80/live/drbird47/Cobra597/72667.m3u8
+#EXTINF:-1, tvg-name="Nat Geo Wild UK" tvg-id="INatGeoWild.uk" tvg-logo="http://vaders.tv/logos/nat%20geo%20wild%20uk.png" group-title="United Kingdom",Nat Geo Wild UK
+http://185.102.218.3:80/live/drbird47/Cobra597/72692.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2435.m3u8&duration=3600" catchup-days=5 tvg-name="ABC HD" tvg-id="I396.11259.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20abc%20hd.png" group-title="United States",ABC HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2435.m3u8
 #EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2436.m3u8&duration=3600" catchup-days=5 tvg-name="AMC HD" tvg-id="I254.59337.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20amc%20hd.png" group-title="United States",AMC HD
