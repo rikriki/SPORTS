@@ -2251,3 +2251,121 @@ http://vapi.vaders.tv/play/58785.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3
 http://vapi.vaders.tv/play/63750.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
 #EXTINF:-1 tvg-name="Star Gold Select HD US" tvg-id="StarGoldSelect.in" tvg-logo="http://tvimages.burrp.com/images/channels/movies/Star%20Gold%20Select.png" group-title="Indian",Star Gold Select HD US
 http://vapi.vaders.tv/play/73032.ts?token=eyJ1c2VybmFtZSI6IkJyYWQzOTgwIiwicGFzc3dvcmQiOiJBcm15MDk4MyJ9
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" tvg-logo="https://imgur.com/tm1LiqG.png" group-title="Germany",Das Erste HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34062.m3u8
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" tvg-logo="https://imgur.com/XtiNHPY.png" group-title="Germany",ZDF HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34063.m3u8
+#EXTINF:-1 tvg-name="3Sat HD" tvg-id="I.751045.microsoft.com" tvg-logo="https://imgur.com/CM2qJEO.png" group-title="Germany",3Sat HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34064.m3u8
+#EXTINF:-1 tvg-name="RTL HD" tvg-id="RTL.de" tvg-logo="https://imgur.com/rLn9TWk.png" group-title="Germany",RTL HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34065.m3u8
+#EXTINF:-1 tvg-name="RTL 2 HD" tvg-id="RTL2.de" tvg-logo="https://imgur.com/0JrQORY.png" group-title="Germany",RTL 2 HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34066.m3u8
+#EXTINF:-1 tvg-name="Sat.1 HD" tvg-id="Sat1.de" tvg-logo="https://imgur.com/p2UAqqP.png" group-title="Germany",Sat.1 HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34067.m3u8
+#EXTINF:-1 tvg-name="Kabel Eins HD" tvg-id="Kabel1.de" tvg-logo="https://imgur.com/Q2NngWg.png" group-title="Germany",Kabel Eins HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34068.m3u8
+#EXTINF:-1 tvg-name="Pro Sieben HD" tvg-id="Pro7.de" tvg-logo="https://imgur.com/tCvvWhQ.png" group-title="Germany",Pro Sieben HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34069.m3u8
+#EXTINF:-1 tvg-name="DMAX HD" tvg-id="DMax.de" tvg-logo="https://imgur.com/CntKZJL.png" group-title="Germany",DMAX HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34070.m3u8
+#EXTINF:-1 tvg-name="Pro Sieben Maxx HD" tvg-id="ProSiebenMaxx.de" tvg-logo="https://imgur.com/zD0mZQt.png" group-title="Germany",Pro Sieben Maxx HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34071.m3u8
+#EXTINF:-1 tvg-name="RTL Crime HD" tvg-id="RTLCrime.de" tvg-logo="https://imgur.com/MEc83gV.png" group-title="Germany",RTL Crime HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34072.m3u8
+#EXTINF:-1 tvg-name="RTL Nitro HD" tvg-id="RTLNitro.de" tvg-logo="https://imgur.com/DOhFdW4.png" group-title="Germany",RTL Nitro HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34073.m3u8
+#EXTINF:-1 tvg-name="Sat1 Gold HD" tvg-id="Sat1Gold.de" tvg-logo="https://imgur.com/7AHLz7h.png" group-title="Germany",Sat1 Gold HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34074.m3u8
+#EXTINF:-1 tvg-name="Vox HD" tvg-id="Vox.de" tvg-logo="https://imgur.com/LT21ylK.png" group-title="Germany",Vox HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34075.m3u8
+#EXTINF:-1 tvg-name="Sixx HD" tvg-id="sixx.de" tvg-logo="https://imgur.com/bbXR1QX.png" group-title="Germany",Sixx HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34076.m3u8
+#EXTINF:-1 tvg-name="Tele 5 HD" tvg-id="Tele5.de" tvg-logo="https://imgur.com/3Slxn1U.png" group-title="Germany",Tele 5 HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34077.m3u8
+#EXTINF:-1 tvg-name="ORF 1 HD" tvg-id="I.753364.microsoft.com" tvg-logo="https://imgur.com/QnECAAF.png" group-title="Germany",ORF 1 HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34078.m3u8
+#EXTINF:-1 tvg-name="ORF 2 HD" tvg-id="I.753367.microsoft.com" tvg-logo="https://imgur.com/Ysj5iue.png" group-title="Germany",ORF 2 HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34079.m3u8
+#EXTINF:-1 tvg-name="N-TV HD" tvg-id="ntv.de" tvg-logo="https://imgur.com/qpK5Au3.png" group-title="Germany",N-TV HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34084.m3u8
+#EXTINF:-1 tvg-name="N24 HD" tvg-id="n24.de" tvg-logo="https://imgur.com/JAtPAAQ.png" group-title="Germany",N24 HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34085.m3u8
+#EXTINF:-1 tvg-name="TLC DE HD" tvg-id="TLC.de" tvg-logo="https://imgur.com/H3SU6dG.png" group-title="Germany",TLC DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34086.m3u8
+#EXTINF:-1 tvg-name="Travel Channel DE HD" tvg-id="TravelChannel.de" tvg-logo="https://imgur.com/hPz8Lpa.png" group-title="Germany",Travel Channel DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34087.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel DE HD" tvg-id="DiscoveryChannel.de" tvg-logo="https://imgur.com/GcirXk0.png" group-title="Germany",Discovery Channel DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34088.m3u8
+#EXTINF:-1 tvg-name="Nat Geo DE HD" tvg-id="NatGeo.de" tvg-logo="https://imgur.com/ndBmxeF.png" group-title="Germany",Nat Geo DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34089.m3u8
+#EXTINF:-1 tvg-name="Nat Geo Wild DE HD" tvg-id="NatGeoWild.de" tvg-logo="https://imgur.com/WQmxosh.png" group-title="Germany",Nat Geo Wild DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34090.m3u8
+#EXTINF:-1 tvg-name="History DE HD" tvg-id="History.de" tvg-logo="https://imgur.com/BnZNvHF.png" group-title="Germany",History DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34091.m3u8
+#EXTINF:-1 tvg-name="Super RTL HD" tvg-id="SuperRTL.de" tvg-logo="https://imgur.com/QjhDo8f.png" group-title="Germany",Super RTL HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34092.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon DE HD" tvg-id="Nickelodeon.de" tvg-logo="https://imgur.com/EKIhT19.png" group-title="Germany",Nickelodeon DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34094.m3u8
+#EXTINF:-1 tvg-name="Disney Channel DE HD" tvg-id="DisneyChannel.de" tvg-logo="https://imgur.com/QaqFbzD.png" group-title="Germany",Disney Channel DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34095.m3u8
+#EXTINF:-1 tvg-name="Disney Junior DE HD" tvg-id="None" tvg-logo="https://imgur.com/emdrq4I.png" group-title="Germany",Disney Junior DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34097.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 1 DE HD" tvg-id="SkySport1.de" tvg-logo="https://imgur.com/14HTPAE.png" group-title="Germany",Sky Sport 1 DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34197.m3u8
+#EXTINF:-1 tvg-name="Sky Sport 2 DE HD" tvg-id="SkySport2.de" tvg-logo="https://imgur.com/14HTPAE.png" group-title="Germany",Sky Sport 2 DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34198.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga 1 HD" tvg-id="SkyBundesliga1.de" tvg-logo="https://imgur.com/VsvHipV.png" group-title="Germany",Sky Bundesliga 1 HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34199.m3u8
+#EXTINF:-1 tvg-name="Sky Sport Austria HD" tvg-id="I.752130.microsoft.com" tvg-logo="https://imgur.com/14HTPAE.png" group-title="Germany",Sky Sport Austria HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34200.m3u8
+#EXTINF:-1 tvg-name="Sky 1 DE HD" tvg-id="Sky1.de" tvg-logo="https://imgur.com/pSrdWRj.png" group-title="Germany",Sky 1 DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34201.m3u8
+#EXTINF:-1 tvg-name="Sky Arts DE HD" tvg-id="SkyArts.de" tvg-logo="https://imgur.com/NFuEsZu.png" group-title="Germany",Sky Arts DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34202.m3u8
+#EXTINF:-1 tvg-name="Sky Atlantic DE HD" tvg-id="SkyAtlantic.de" tvg-logo="https://imgur.com/0LGScil.png" group-title="Germany",Sky Atlantic DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34203.m3u8
+#EXTINF:-1 tvg-name="Sky Cinema DE HD" tvg-id="SkyCinema.de" tvg-logo="https://imgur.com/VKELxWb.png" group-title="Germany",Sky Cinema DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34204.m3u8
+#EXTINF:-1 tvg-name="Sky Action DE HD" tvg-id="SkyAction.de" tvg-logo="https://imgur.com/38z6bdE.png" group-title="Germany",Sky Action DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34205.m3u8
+#EXTINF:-1 tvg-name="Sky Sport News HD" tvg-id="SkySportNews.de" tvg-logo="https://imgur.com/nZpVmM3.png" group-title="Germany",Sky Sport News HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34206.m3u8
+#EXTINF:-1 tvg-name="Sportdigital HD" tvg-id="sportdigital.de" tvg-logo="https://imgur.com/WmdTRsW.png" group-title="Germany",Sportdigital HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/34210.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga DE 10" tvg-id="SkyBundesliga10.de" tvg-logo="https://imgur.com/VsvHipV.png" group-title="Germany",Sky Bundesliga DE 10
+http://185.102.218.3:80/live/tealiawelker/Welker33/48066.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga 2 DE HD" tvg-id="SkyBundesliga2.de" tvg-logo="https://imgur.com/VsvHipV.png" group-title="Germany",Sky Bundesliga 2 DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/48067.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga 3 DE HD" tvg-id="SkyBundesliga3.de" tvg-logo="https://imgur.com/VsvHipV.png" group-title="Germany",Sky Bundesliga 3 DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/48068.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga 4 DE HD" tvg-id="SkyBundesliga4.de" tvg-logo="https://imgur.com/VsvHipV.png" group-title="Germany",Sky Bundesliga 4 DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/48069.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga DE 5" tvg-id="SkyBundesliga5.de" tvg-logo="https://imgur.com/VsvHipV.png" group-title="Germany",Sky Bundesliga DE 5
+http://185.102.218.3:80/live/tealiawelker/Welker33/48070.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga DE 6" tvg-id="SkyBundesliga6.de" tvg-logo="https://imgur.com/VsvHipV.png" group-title="Germany",Sky Bundesliga DE 6
+http://185.102.218.3:80/live/tealiawelker/Welker33/48071.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga DE 7" tvg-id="SkyBundesliga7.de" tvg-logo="https://imgur.com/VsvHipV.png" group-title="Germany",Sky Bundesliga DE 7
+http://185.102.218.3:80/live/tealiawelker/Welker33/48072.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga DE 8" tvg-id="SkyBundesliga8.de" tvg-logo="https://imgur.com/VsvHipV.png" group-title="Germany",Sky Bundesliga DE 8
+http://185.102.218.3:80/live/tealiawelker/Welker33/48073.m3u8
+#EXTINF:-1 tvg-name="Sky Bundesliga DE 9" tvg-id="SkyBundesliga9.de" tvg-logo="https://imgur.com/VsvHipV.png" group-title="Germany",Sky Bundesliga DE 9
+http://185.102.218.3:80/live/tealiawelker/Welker33/48074.m3u8
+#EXTINF:-1 tvg-name="Sky Sport DE 10" tvg-id="SkySport10.de" tvg-logo="https://imgur.com/14HTPAE.png" group-title="Germany",Sky Sport DE 10
+http://185.102.218.3:80/live/tealiawelker/Welker33/48075.m3u8
+#EXTINF:-1 tvg-name="Sky Sport DE 3 HD" tvg-id="SkySport3.de" tvg-logo="https://imgur.com/14HTPAE.png" group-title="Germany",Sky Sport DE 3 HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/48076.m3u8
+#EXTINF:-1 tvg-name="Sky Sport DE 4 HD" tvg-id="SkySport4.de" tvg-logo="https://imgur.com/14HTPAE.png" group-title="Germany",Sky Sport DE 4 HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/48077.m3u8
+#EXTINF:-1 tvg-name="Sky Sport DE 5 HD" tvg-id="SkySport5.de" tvg-logo="https://imgur.com/14HTPAE.png" group-title="Germany",Sky Sport DE 5 HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/48078.m3u8
+#EXTINF:-1 tvg-name="Sky Sport DE 6" tvg-id="SkySport6.de" tvg-logo="https://imgur.com/14HTPAE.png" group-title="Germany",Sky Sport DE 6
+http://185.102.218.3:80/live/tealiawelker/Welker33/48079.m3u8
+#EXTINF:-1 tvg-name="Sky Sport DE 7" tvg-id="SkySport7.de" tvg-logo="https://imgur.com/14HTPAE.png" group-title="Germany",Sky Sport DE 7
+http://185.102.218.3:80/live/tealiawelker/Welker33/48080.m3u8
+#EXTINF:-1 tvg-name="Sky Sport DE 8" tvg-id="SkySport8.de" tvg-logo="https://imgur.com/14HTPAE.png" group-title="Germany",Sky Sport DE 8
+http://185.102.218.3:80/live/tealiawelker/Welker33/48081.m3u8
+#EXTINF:-1 tvg-name="Sky Sport DE 9" tvg-id="SkySport9.de" tvg-logo="https://imgur.com/14HTPAE.png" group-title="Germany",Sky Sport DE 9
+http://185.102.218.3:80/live/tealiawelker/Welker33/48082.m3u8
+#EXTINF:-1 tvg-name="Sky Sports News DE HD" tvg-id="SkySportsNews.uk" tvg-logo="https://imgur.com/FwkZIWJ.png" group-title="Germany",Sky Sports News DE HD
+http://185.102.218.3:80/live/tealiawelker/Welker33/48083.m3u8
