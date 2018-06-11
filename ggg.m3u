@@ -1389,23 +1389,23 @@ http://185.102.218.3:80/live/chitwn49er/BH5wcOHYPj/74789.m3u8
 http://185.102.218.3:80/live/chitwn49er/BH5wcOHYPj/74791.m3u8
 #EXTINF:-1, tvg-name="Starz Western HD" tvg-id="StarzEncoreWesterns.us" tvg-logo="" group-title="Premium Movies",Starz Western HD
 http://185.102.218.3:80/live/chitwn49er/BH5wcOHYPj/79264.m3u8
-#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2464.m3u8&duration=3600" catchup-days=5 tvg-name="BBC One HD" tvg-id="BBC1.uk" tvg-logo="http://vaders.tv/logos/bbc%20one%20hd.png" group-title="United Kingdom",BBC One HD
+#EXTINF:-1, tvg-name="BBC One HD" tvg-id="BBC1.uk" tvg-logo="http://vaders.tv/logos/bbc%20one%20hd.png" group-title="United Kingdom",BBC One HD
 http://185.102.218.3:80/live/drbird47/Cobra597/2464.m3u8
-#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2467.m3u8&duration=3600" catchup-days=5 tvg-name="BBC Two HD" tvg-id="BBC2.uk" tvg-logo="http://vaders.tv/logos/bbc%20two%20hd.png" group-title="United Kingdom",BBC Two HD
+#EXTINF:-1, tvg-name="BBC Two HD" tvg-id="BBC2.uk" tvg-logo="http://vaders.tv/logos/bbc%20two%20hd.png" group-title="United Kingdom",BBC Two HD
 http://185.102.218.3:80/live/drbird47/Cobra597/2467.m3u8
-#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2469.m3u8&duration=3600" catchup-days=5 tvg-name="BBC Four HD" tvg-id="BBC4.uk" tvg-logo="http://vaders.tv/logos/bbc%20four%20hd.png" group-title="United Kingdom",BBC Four HD
+#EXTINF:-1, tvg-name="BBC Four HD" tvg-id="BBC4.uk" tvg-logo="http://vaders.tv/logos/bbc%20four%20hd.png" group-title="United Kingdom",BBC Four HD
 http://185.102.218.3:80/live/drbird47/Cobra597/2469.m3u8
-#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2470.m3u8&duration=3600" catchup-days=5 tvg-name="ITV 1 HD" tvg-id="I103.17468.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%20hd.png" group-title="United Kingdom",ITV 1 HD
+#EXTINF:-1, tvg-name="ITV 1 HD" tvg-id="I103.17468.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%20hd.png" group-title="United Kingdom",ITV 1 HD
 http://185.102.218.3:80/live/drbird47/Cobra597/2470.m3u8
-#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2471.m3u8&duration=3600" catchup-days=5 tvg-name="ITV 2 HD" tvg-id="I118.20630.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv2%20hd.png" group-title="United Kingdom",ITV 2 HD
+#EXTINF:-1, tvg-name="ITV 2 HD" tvg-id="I118.20630.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv2%20hd.png" group-title="United Kingdom",ITV 2 HD
 http://185.102.218.3:80/live/drbird47/Cobra597/2471.m3u8
-#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2472.m3u8&duration=3600" catchup-days=5 tvg-name="ITV 3 HD" tvg-id="I119.44643.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%203%20hd.png" group-title="United Kingdom",ITV 3 HD
+#EXTINF:-1, tvg-name="ITV 3 HD" tvg-id="I119.44643.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%203%20hd.png" group-title="United Kingdom",ITV 3 HD
 http://185.102.218.3:80/live/drbird47/Cobra597/2472.m3u8
-#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2473.m3u8&duration=3600" catchup-days=5 tvg-name="ITV 4 HD" tvg-id="I120.48020.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%204%20hd.png" group-title="United Kingdom",ITV 4 HD
+#EXTINF:-1, tvg-name="ITV 4 HD" tvg-id="I120.48020.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/itv%204%20hd.png" group-title="United Kingdom",ITV 4 HD
 http://185.102.218.3:80/live/drbird47/Cobra597/2473.m3u8
-#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2476.m3u8&duration=3600" catchup-days=5 tvg-name="Channel 4 HD" tvg-id="I135.17155.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/channel%204%20hd.png" group-title="United Kingdom",Channel 4 HD
+#EXTINF:-1, tvg-name="Channel 4 HD" tvg-id="I135.17155.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/channel%204%20hd.png" group-title="United Kingdom",Channel 4 HD
 http://185.102.218.3:80/live/drbird47/Cobra597/2476.m3u8
-#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2477.m3u8&duration=3600" catchup-days=5 tvg-name="Channel 5 HD" tvg-id="I105.50717.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/channel%205%20hd.png" group-title="United Kingdom",Channel 5 HD
+#EXTINF:-1, tvg-name="Channel 5 HD" tvg-id="I105.50717.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/channel%205%20hd.png" group-title="United Kingdom",Channel 5 HD
 http://185.102.218.3:80/live/drbird47/Cobra597/2477.m3u8
 #EXTINF:-1, tvg-name="E4" tvg-id="E4.uk" tvg-logo="http://vaders.tv/logos/e4.png" group-title="United Kingdom",E4
 http://185.102.218.3:80/live/drbird47/Cobra597/2571.m3u8
@@ -1417,7 +1417,7 @@ http://185.102.218.3:80/live/drbird47/Cobra597/2573.m3u8
 http://185.102.218.3:80/live/drbird47/Cobra597/2574.m3u8
 #EXTINF:-1, tvg-name="Sky Arts" tvg-id="SkyArts.uk" tvg-logo="http://vaders.tv/logos/sky%20arts.png" group-title="United Kingdom",Sky Arts
 http://185.102.218.3:80/live/drbird47/Cobra597/2575.m3u8
-#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/2576.m3u8&duration=3600" catchup-days=5 tvg-name="Sky Atlantic" tvg-id="SkyAtlantic.uk" tvg-logo="http://vaders.tv/logos/sky%20atlantic.png" group-title="United Kingdom",Sky Atlantic
+#EXTINF:-1, tvg-name="Sky Atlantic" tvg-id="SkyAtlantic.uk" tvg-logo="http://vaders.tv/logos/sky%20atlantic.png" group-title="United Kingdom",Sky Atlantic
 http://185.102.218.3:80/live/drbird47/Cobra597/2576.m3u8
 #EXTINF:-1, tvg-name="Sky Living" tvg-id="SkyLiving.uk" tvg-logo="http://vaders.tv/logos/sky%20living.png" group-title="United Kingdom",Sky Living
 http://185.102.218.3:80/live/drbird47/Cobra597/2577.m3u8
@@ -1483,9 +1483,9 @@ http://185.102.218.3:80/live/drbird47/Cobra597/38777.m3u8
 http://185.102.218.3:80/live/drbird47/Cobra597/39028.m3u8
 #EXTINF:-1, tvg-name="National Geographic UK" tvg-id="NatGeo.uk" tvg-logo="http://vaders.tv/logos/national%20geographic%20uk.png" group-title="United Kingdom",National Geographic UK
 http://185.102.218.3:80/live/drbird47/Cobra597/39029.m3u8
-#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/39630.m3u8&duration=3600" catchup-days=5 tvg-name="Sky News HD" tvg-id="SkyNews.uk" tvg-logo="http://vaders.tv/logos/sky%20news%20hd.png" group-title="United Kingdom",Sky News HD
+#EXTINF:-1, tvg-name="Sky News HD" tvg-id="SkyNews.uk" tvg-logo="http://vaders.tv/logos/sky%20news%20hd.png" group-title="United Kingdom",Sky News HD
 http://185.102.218.3:80/live/drbird47/Cobra597/39630.m3u8
-#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/39639.m3u8&duration=3600" catchup-days=5 tvg-name="Discovery Channel UK" tvg-id="DiscoveryChannel.uk" tvg-logo="http://vaders.tv/logos/discovery%20channel%20uk.png" group-title="United Kingdom",Discovery Channel UK
+#EXTINF:-1, tvg-name="Discovery Channel UK" tvg-id="DiscoveryChannel.uk" tvg-logo="http://vaders.tv/logos/discovery%20channel%20uk.png" group-title="United Kingdom",Discovery Channel UK
 http://185.102.218.3:80/live/drbird47/Cobra597/39639.m3u8
 #EXTINF:-1, tvg-name="Discovery Turbo" tvg-id="DiscoveryTurbo.uk" tvg-logo="http://vaders.tv/logos/discovery%20turbo.png" group-title="United Kingdom",Discovery Turbo
 http://185.102.218.3:80/live/drbird47/Cobra597/39640.m3u8
@@ -1499,7 +1499,7 @@ http://185.102.218.3:80/live/drbird47/Cobra597/39643.m3u8
 http://185.102.218.3:80/live/drbird47/Cobra597/39814.m3u8
 #EXTINF:-1, tvg-name="MTV UK" tvg-id="MTV.uk" tvg-logo="http://vaders.tv/logos/mtv%20uk.png" group-title="United Kingdom",MTV UK
 http://185.102.218.3:80/live/drbird47/Cobra597/39815.m3u8
-#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/39816.m3u8&duration=3600" catchup-days=5 tvg-name="Discovery History" tvg-id="DiscoveryHistory.uk" tvg-logo="http://vaders.tv/logos/discovery%20history.png" group-title="United Kingdom",Discovery History
+#EXTINF:-1, tvg-name="Discovery History" tvg-id="DiscoveryHistory.uk" tvg-logo="http://vaders.tv/logos/discovery%20history.png" group-title="United Kingdom",Discovery History
 http://185.102.218.3:80/live/drbird47/Cobra597/39816.m3u8
 #EXTINF:-1, tvg-name="Discovery Science UK" tvg-id="DiscoveryScience.uk" tvg-logo="http://vaders.tv/logos/discovery%20science%20uk.png" group-title="United Kingdom",Discovery Science UK
 http://185.102.218.3:80/live/drbird47/Cobra597/39817.m3u8
@@ -1529,7 +1529,7 @@ http://185.102.218.3:80/live/drbird47/Cobra597/39869.m3u8
 http://185.102.218.3:80/live/drbird47/Cobra597/39870.m3u8
 #EXTINF:-1, tvg-name="BBC News" tvg-id="I503.19037.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/bbc%20news.png" group-title="United Kingdom",BBC News
 http://185.102.218.3:80/live/drbird47/Cobra597/39871.m3u8
-#EXTINF:-1, catchup="default" catchup-source="http://185.102.218.3:80/live/drbird47/Cobra597/dvr/${start}/47372.m3u8&duration=3600" catchup-days=5 tvg-name="ID UK" tvg-id="InvestigationDiscovery.uk" tvg-logo="http://vaders.tv/logos/id%20uk.png" group-title="United Kingdom",ID UK
+#EXTINF:-1, tvg-name="ID UK" tvg-id="InvestigationDiscovery.uk" tvg-logo="http://vaders.tv/logos/id%20uk.png" group-title="United Kingdom",ID UK
 http://185.102.218.3:80/live/drbird47/Cobra597/47372.m3u8
 #EXTINF:-1, tvg-name="H2" tvg-id="History2.uk" tvg-logo="http://vaders.tv/logos/h2.png" group-title="United Kingdom",H2
 http://185.102.218.3:80/live/drbird47/Cobra597/47860.m3u8
@@ -1553,61 +1553,61 @@ http://185.102.218.3:80/live/drbird47/Cobra597/52258.m3u8
 http://185.102.218.3:80/live/drbird47/Cobra597/72667.m3u8
 #EXTINF:-1, tvg-name="Nat Geo Wild UK" tvg-id="INatGeoWild.uk" tvg-logo="http://vaders.tv/logos/nat%20geo%20wild%20uk.png" group-title="United Kingdom",Nat Geo Wild UK
 http://185.102.218.3:80/live/drbird47/Cobra597/72692.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2435.m3u8&duration=3600" catchup-days=5 tvg-name="ABC HD" tvg-id="I396.11259.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20abc%20hd.png" group-title="United States",ABC HD
+#EXTINF:-1 tvg-name="ABC HD" tvg-id="I396.11259.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20abc%20hd.png" group-title="United States",ABC HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2435.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2436.m3u8&duration=3600" catchup-days=5 tvg-name="AMC HD" tvg-id="I254.59337.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20amc%20hd.png" group-title="United States",AMC HD
+#EXTINF:-1 tvg-name="AMC HD" tvg-id="I254.59337.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20amc%20hd.png" group-title="United States",AMC HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2436.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2437.m3u8&duration=3600" catchup-days=5 tvg-name="Animal Planet HD" tvg-id="I282.57394.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20animal%20planet%20hd.png" group-title="United States",Animal Planet HD
+#EXTINF:-1 tvg-name="Animal Planet HD" tvg-id="I282.57394.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20animal%20planet%20hd.png" group-title="United States",Animal Planet HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2437.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2438.m3u8&duration=3600" catchup-days=5 tvg-name="Bravo HD" tvg-id="I237.58625.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20bravo%20hd.png" group-title="United States",Bravo HD
+#EXTINF:-1 tvg-name="Bravo HD" tvg-id="I237.58625.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20bravo%20hd.png" group-title="United States",Bravo HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2438.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2439.m3u8&duration=3600" catchup-days=5 tvg-name="Cartoon Network HD" tvg-id="I296.12131.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20cartoon%20network%20hd.png" group-title="United States",Cartoon Network HD
+#EXTINF:-1 tvg-name="Cartoon Network HD" tvg-id="I296.12131.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20cartoon%20network%20hd.png" group-title="United States",Cartoon Network HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2439.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2440.m3u8&duration=3600" catchup-days=5 tvg-name="CBS HD" tvg-id="I390.11331.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20cbs%20hd.png" group-title="United States",CBS HD
+#EXTINF:-1 tvg-name="CBS HD" tvg-id="I390.11331.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20cbs%20hd.png" group-title="United States",CBS HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2440.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2441.m3u8&duration=3600" catchup-days=5 tvg-name="CNBC HD" tvg-id="I355.58780.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20cnbc%20hd.png" group-title="United States",CNBC HD
+#EXTINF:-1 tvg-name="CNBC HD" tvg-id="I355.58780.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20cnbc%20hd.png" group-title="United States",CNBC HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2441.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2442.m3u8&duration=3600" catchup-days=5 tvg-name="CNN News HD" tvg-id="I202.58646.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20cnn%20news%20hd.png" group-title="United States",CNN News HD
+#EXTINF:-1 tvg-name="CNN News HD" tvg-id="I202.58646.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20cnn%20news%20hd.png" group-title="United States",CNN News HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2442.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2443.m3u8&duration=3600" catchup-days=5 tvg-name="Comedy Central HD" tvg-id="ComedyCentral.us" tvg-logo="http://vaders.tv/logos/usa%20comedy%20central%20hd.png" group-title="United States",Comedy Central HD
+#EXTINF:-1 tvg-name="Comedy Central HD" tvg-id="ComedyCentral.us" tvg-logo="http://vaders.tv/logos/usa%20comedy%20central%20hd.png" group-title="United States",Comedy Central HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2443.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2445.m3u8&duration=3600" catchup-days=5 tvg-name="Discovery Channel HD" tvg-id="I278.56905.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20discovery%20channel%20hd.png" group-title="United States",Discovery Channel HD
+#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-id="I278.56905.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20discovery%20channel%20hd.png" group-title="United States",Discovery Channel HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2445.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2448.m3u8&duration=3600" catchup-days=5 tvg-name="FOX HD" tvg-id="I398.11746.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20fox%20hd.png" group-title="United States",FOX HD
+#EXTINF:-1 tvg-name="FOX HD" tvg-id="I398.11746.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20fox%20hd.png" group-title="United States",FOX HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2448.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2449.m3u8&duration=3600" catchup-days=5 tvg-name="Fox News HD" tvg-id="I360.60179.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20fox%20news%20hd.png" group-title="United States",Fox News HD
+#EXTINF:-1 tvg-name="Fox News HD" tvg-id="I360.60179.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20fox%20news%20hd.png" group-title="United States",Fox News HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2449.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2450.m3u8&duration=3600" catchup-days=5 tvg-name="FreeForm HD" tvg-id="I311.59615.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20freeform%20hd.png" group-title="United States",FreeForm HD
+#EXTINF:-1 tvg-name="FreeForm HD" tvg-id="I311.59615.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20freeform%20hd.png" group-title="United States",FreeForm HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2450.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2451.m3u8&duration=3600" catchup-days=5 tvg-name="FX HD" tvg-id="I248.58574.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20fx%20hd.png" group-title="United States",FX HD
+#EXTINF:-1 tvg-name="FX HD" tvg-id="I248.58574.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20fx%20hd.png" group-title="United States",FX HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2451.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2452.m3u8&duration=3600" catchup-days=5 tvg-name="FXX HD" tvg-id="I259.66379.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20fxx%20hd.png" group-title="United States",FXX HD
+#EXTINF:-1 tvg-name="FXX HD" tvg-id="I259.66379.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20fxx%20hd.png" group-title="United States",FXX HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2452.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2453.m3u8&duration=3600" catchup-days=5 tvg-name="Hallmark Channel HD" tvg-id="I312.66268.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20hallmark%20channel%20hd.png" group-title="United States",Hallmark Channel HD
+#EXTINF:-1 tvg-name="Hallmark Channel HD" tvg-id="I312.66268.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20hallmark%20channel%20hd.png" group-title="United States",Hallmark Channel HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2453.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2454.m3u8&duration=3600" catchup-days=5 tvg-name="HGTV HD" tvg-id="I229.49788.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20hgtv%20hd.png" group-title="United States",HGTV HD
+#EXTINF:-1 tvg-name="HGTV HD" tvg-id="I229.49788.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20hgtv%20hd.png" group-title="United States",HGTV HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2454.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2455.m3u8&duration=3600" catchup-days=5 tvg-name="NBC HD" tvg-id="I392.11705.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20nbc%20hd.png" group-title="United States",NBC HD
+#EXTINF:-1 tvg-name="NBC HD" tvg-id="I392.11705.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20nbc%20hd.png" group-title="United States",NBC HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2455.m3u8
 #EXTINF:-1 tvg-name="BBC America HD" tvg-id="I264.64492.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20bbc%20america%20hd.png" group-title="United States",BBC America HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2456.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2457.m3u8&duration=3600" catchup-days=5 tvg-name="Paramount Network HD" tvg-id="I241.59186.schedulesdirect.org" tvg-logo="https://imgur.com/hst0Xli.png" group-title="United States",Paramount Network HD
+#EXTINF:-1 tvg-name="Paramount Network HD" tvg-id="I241.59186.schedulesdirect.org" tvg-logo="https://imgur.com/hst0Xli.png" group-title="United States",Paramount Network HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2457.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2458.m3u8&duration=3600" catchup-days=5 tvg-name="SYFY HD" tvg-id="I244.58623.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20syfy%20hd.png" group-title="United States",SYFY HD
+#EXTINF:-1 tvg-name="SYFY HD" tvg-id="I244.58623.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20syfy%20hd.png" group-title="United States",SYFY HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2458.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2459.m3u8&duration=3600" catchup-days=5 tvg-name="TNT HD" tvg-id="I245.42642.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20tnt%20hd.png" group-title="United States",TNT HD
+#EXTINF:-1 tvg-name="TNT HD" tvg-id="I245.42642.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20tnt%20hd.png" group-title="United States",TNT HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2459.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2460.m3u8&duration=3600" catchup-days=5 tvg-name="Nick HD" tvg-id="I299.59432.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20nick%20hd.png" group-title="United States",Nick HD
+#EXTINF:-1 tvg-name="Nick HD" tvg-id="I299.59432.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20nick%20hd.png" group-title="United States",Nick HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2460.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2461.m3u8&duration=3600" catchup-days=5 tvg-name="TBS HD" tvg-id="I247.58515.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20tbs%20hd.png" group-title="United States",TBS HD
+#EXTINF:-1 tvg-name="TBS HD" tvg-id="I247.58515.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20tbs%20hd.png" group-title="United States",TBS HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2461.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2462.m3u8&duration=3600" catchup-days=5 tvg-name="USA Network HD" tvg-id="I242.58452.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20usa%20network%20hd.png" group-title="United States",USA Network HD
+#EXTINF:-1 tvg-name="USA Network HD" tvg-id="I242.58452.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20usa%20network%20hd.png" group-title="United States",USA Network HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2462.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2463.m3u8&duration=3600" catchup-days=5 tvg-name="A&E HD" tvg-id="I265.10035.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20a%26e%20hd%20.png" group-title="United States",A&E HD
+#EXTINF:-1 tvg-name="A&E HD" tvg-id="I265.10035.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20a%26e%20hd%20.png" group-title="United States",A&E HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2463.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2465.m3u8&duration=3600" catchup-days=5 tvg-name="Lifetime HD" tvg-id="I252.60150.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20lifetime%20hd.png" group-title="United States",Lifetime HD
+#EXTINF:-1 tvg-name="Lifetime HD" tvg-id="I252.60150.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20lifetime%20hd.png" group-title="United States",Lifetime HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2465.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2466.m3u8&duration=3600" catchup-days=5 tvg-name="Tru TV HD" tvg-id="I246.64490.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20tru%20tv%20hd.png" group-title="United States",Tru TV HD
+#EXTINF:-1 tvg-name="Tru TV HD" tvg-id="I246.64490.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20tru%20tv%20hd.png" group-title="United States",Tru TV HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2466.m3u8
 #EXTINF:-1 tvg-name="Nat Geo HD" tvg-id="I276.49438.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20nat%20geo%20hd.png" group-title="United States",Nat Geo HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2754.m3u8
@@ -1621,29 +1621,29 @@ http://185.102.218.3:80/live/Brad3980/Army0983/2772.m3u8
 http://185.102.218.3:80/live/Brad3980/Army0983/2773.m3u8
 #EXTINF:-1 tvg-name="PBS HD" tvg-id="I1204.28055.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20pbs%20hd.png" group-title="United States",PBS HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2774.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2776.m3u8&duration=3600" catchup-days=5 tvg-name="Velocity HD" tvg-id="I281.31046.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20velocity%20hd.png" group-title="United States",Velocity HD
+#EXTINF:-1 tvg-name="Velocity HD" tvg-id="I281.31046.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20velocity%20hd.png" group-title="United States",Velocity HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2776.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2777.m3u8&duration=3600" catchup-days=5 tvg-name="TLC HD" tvg-id="I280.57391.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20tlc%20hd.png" group-title="United States",TLC HD
+#EXTINF:-1 tvg-name="TLC HD" tvg-id="I280.57391.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20tlc%20hd.png" group-title="United States",TLC HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2777.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2779.m3u8&duration=3600" catchup-days=5 tvg-name="OWN HD" tvg-id="I279.70388.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20own%20hd.png" group-title="United States",OWN HD
+#EXTINF:-1 tvg-name="OWN HD" tvg-id="I279.70388.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20own%20hd.png" group-title="United States",OWN HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2779.m3u8
 #EXTINF:-1 tvg-name="Sundance HD" tvg-id="I557.71280.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20sundance%20tv%20hd.png" group-title="United States",Sundance HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2780.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2913.m3u8&duration=3600" catchup-days=5 tvg-name="Food Network HD" tvg-id="I231.50747.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20food%20network%20hd.png" group-title="United States",Food Network HD
+#EXTINF:-1 tvg-name="Food Network HD" tvg-id="I231.50747.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20food%20network%20hd.png" group-title="United States",Food Network HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2913.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/2915.m3u8&duration=3600" catchup-days=5 tvg-name="History HD" tvg-id="I269.57708.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20history%20hd.png" group-title="United States",History HD
+#EXTINF:-1 tvg-name="History HD" tvg-id="I269.57708.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20history%20hd.png" group-title="United States",History HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2915.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/3082.m3u8&duration=3600" catchup-days=5 tvg-name="MSNBC HD" tvg-id="I356.64241.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20msnbc%20hd.png" group-title="United States",MSNBC HD
+#EXTINF:-1 tvg-name="MSNBC HD" tvg-id="I356.64241.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20msnbc%20hd.png" group-title="United States",MSNBC HD
 http://185.102.218.3:80/live/Brad3980/Army0983/3082.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/7941.m3u8&duration=3600" catchup-days=5 tvg-name="ID HD" tvg-id="I285.65342.schedulesdirect.org" tvg-logo="https://imgur.com/cFvRXD6.png" group-title="United States",ID HD
+#EXTINF:-1 tvg-name="ID HD" tvg-id="I285.65342.schedulesdirect.org" tvg-logo="https://imgur.com/cFvRXD6.png" group-title="United States",ID HD
 http://185.102.218.3:80/live/Brad3980/Army0983/7941.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/8197.m3u8&duration=3600" catchup-days=5 tvg-name="Disney Channel HD" tvg-id="I290.59684.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20disdney%20channel%20hd.png" group-title="United States",Disney Channel HD
+#EXTINF:-1 tvg-name="Disney Channel HD" tvg-id="I290.59684.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20disdney%20channel%20hd.png" group-title="United States",Disney Channel HD
 http://185.102.218.3:80/live/Brad3980/Army0983/8197.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/8198.m3u8&duration=3600" catchup-days=5 tvg-name="CW HD" tvg-id="I394.11450.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20cw%20hd.png" group-title="United States",CW HD
+#EXTINF:-1 tvg-name="CW HD" tvg-id="I394.11450.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20cw%20hd.png" group-title="United States",CW HD
 http://185.102.218.3:80/live/Brad3980/Army0983/8198.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/8246.m3u8&duration=3600" catchup-days=5 tvg-name="BET HD" tvg-id="I329.63236.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20bet%20hd.png" group-title="United States",BET HD
+#EXTINF:-1 tvg-name="BET HD" tvg-id="I329.63236.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20bet%20hd.png" group-title="United States",BET HD
 http://185.102.218.3:80/live/Brad3980/Army0983/8246.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/12901.m3u8&duration=3600" catchup-days=5 tvg-name="MTV HD" tvg-id="I331.60964.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20mtv%20hd.png" group-title="United States",MTV HD
+#EXTINF:-1 tvg-name="MTV HD" tvg-id="I331.60964.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20mtv%20hd.png" group-title="United States",MTV HD
 http://185.102.218.3:80/live/Brad3980/Army0983/12901.m3u8
 #EXTINF:-1 tvg-name="Viceland HD" tvg-id="I271.65732.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20viceland%20hd.png" group-title="United States",Viceland HD
 http://185.102.218.3:80/live/Brad3980/Army0983/16318.m3u8
@@ -1651,25 +1651,25 @@ http://185.102.218.3:80/live/Brad3980/Army0983/16318.m3u8
 http://185.102.218.3:80/live/Brad3980/Army0983/16705.m3u8
 #EXTINF:-1 tvg-name="Fox Business HD" tvg-id="I359.58718.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20fox%20buisness%20hd.png" group-title="United States",Fox Business HD
 http://185.102.218.3:80/live/Brad3980/Army0983/34023.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/38910.m3u8&duration=3600" catchup-days=5 tvg-name="Nick Jr HD" tvg-id="I301.82649.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20nick%20jr%20hd.png" group-title="United States",Nick Jr HD
+#EXTINF:-1 tvg-name="Nick Jr HD" tvg-id="I301.82649.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20nick%20jr%20hd.png" group-title="United States",Nick Jr HD
 http://185.102.218.3:80/live/Brad3980/Army0983/38910.m3u8
 #EXTINF:-1 tvg-name="El Rey Network HD" tvg-id="I341.84175.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20el%20ray%20network%20hd.png" group-title="United States",El Rey Network HD
 http://185.102.218.3:80/live/Brad3980/Army0983/38912.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/39363.m3u8&duration=3600" catchup-days=5 tvg-name="VH1 HD" tvg-id="I335.60046.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20vh1%20hd.png" group-title="United States",VH1 HD
+#EXTINF:-1 tvg-name="VH1 HD" tvg-id="I335.60046.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20vh1%20hd.png" group-title="United States",VH1 HD
 http://185.102.218.3:80/live/Brad3980/Army0983/39363.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/39421.m3u8&duration=3600" catchup-days=5 tvg-name="Disney Jr HD" tvg-id="I289.74885.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20disney%20jr%20hd.png" group-title="United States",Disney Jr HD
+#EXTINF:-1 tvg-name="Disney Jr HD" tvg-id="I289.74885.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20disney%20jr%20hd.png" group-title="United States",Disney Jr HD
 http://185.102.218.3:80/live/Brad3980/Army0983/39421.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/39437.m3u8&duration=3600" catchup-days=5 tvg-name="Destination America HD" tvg-id="I286.60468.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20destination%20america%20hd.png" group-title="United States",Destination America HD
+#EXTINF:-1 tvg-name="Destination America HD" tvg-id="I286.60468.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20destination%20america%20hd.png" group-title="United States",Destination America HD
 http://185.102.218.3:80/live/Brad3980/Army0983/39437.m3u8
 #EXTINF:-1 tvg-name="Hallmark Movies & Mysteries HD" tvg-id="I187.61522.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20hallmark%20movies%20%26%20mysteries%20hd.png" group-title="United States",Hallmark Movies & Mysteries HD
 http://185.102.218.3:80/live/Brad3980/Army0983/39629.m3u8
 #EXTINF:-1 tvg-name="GSN HD" tvg-id="I233.68827.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20gsn%20hd.png" group-title="United States",GSN HD
 http://185.102.218.3:80/live/Brad3980/Army0983/39847.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/39874.m3u8&duration=3600" catchup-days=5 tvg-name="Travel Channel HD" tvg-id="I277.59303.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20travel%20channel.png" group-title="United States",Travel Channel HD
+#EXTINF:-1 tvg-name="Travel Channel HD" tvg-id="I277.59303.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20travel%20channel.png" group-title="United States",Travel Channel HD
 http://185.102.218.3:80/live/Brad3980/Army0983/39874.m3u8
 #EXTINF:-1 tvg-name="TVLand HD" tvg-id="I304.73541.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20tvland%20hd.png" group-title="United States",TVLand HD
 http://185.102.218.3:80/live/Brad3980/Army0983/40662.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/40663.m3u8&duration=3600" catchup-days=5 tvg-name="DIY Network HD" tvg-id="I230.67375.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20diy%20network%20hd.png" group-title="United States",DIY Network HD
+#EXTINF:-1 vg-name="DIY Network HD" tvg-id="I230.67375.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20diy%20network%20hd.png" group-title="United States",DIY Network HD
 http://185.102.218.3:80/live/Brad3980/Army0983/40663.m3u8
 #EXTINF:-1 tvg-name="Oxygen HD" tvg-id="I251.70522.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20oxygen%20hd.png" group-title="United States",Oxygen HD
 http://185.102.218.3:80/live/Brad3980/Army0983/40685.m3u8
@@ -1677,11 +1677,11 @@ http://185.102.218.3:80/live/Brad3980/Army0983/40685.m3u8
 http://185.102.218.3:80/live/Brad3980/Army0983/40695.m3u8
 #EXTINF:-1 tvg-name="Weather Channel HD" tvg-id="I362.58812.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20weather%20network%20hd.png" group-title="United States",Weather Channel HD
 http://185.102.218.3:80/live/Brad3980/Army0983/40877.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/40878.m3u8&duration=3600" catchup-days=5 tvg-name="Outdoor Channel HD" tvg-id="I606.46737.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20outdoor%20channel%20hd.png" group-title="United States",Outdoor Channel HD
+#EXTINF:-1 tvg-name="Outdoor Channel HD" tvg-id="I606.46737.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20outdoor%20channel%20hd.png" group-title="United States",Outdoor Channel HD
 http://185.102.218.3:80/live/Brad3980/Army0983/40878.m3u8
 #EXTINF:-1 tvg-name="Reelz HD" tvg-id="ReelzChannel.us" tvg-logo="http://vaders.tv/logos/usa%20reelz%20channel%20hd.png" group-title="United States",Reelz HD
 http://185.102.218.3:80/live/Brad3980/Army0983/47564.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/47565.m3u8&duration=3600" catchup-days=5 tvg-name="CMT HD" tvg-id="I327.59440.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20cmt%20hd.png" group-title="United States",CMT HD
+#EXTINF:-1 tvg-name="CMT HD" tvg-id="I327.59440.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20cmt%20hd.png" group-title="United States",CMT HD
 http://185.102.218.3:80/live/Brad3980/Army0983/47565.m3u8
 #EXTINF:-1 tvg-name="Discovery Family HD" tvg-id="I294.67749.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20discovery%20family%20hd.png" group-title="United States",Discovery Family HD
 http://185.102.218.3:80/live/Brad3980/Army0983/47566.m3u8
@@ -1693,11 +1693,11 @@ http://185.102.218.3:80/live/Brad3980/Army0983/52200.m3u8
 http://185.102.218.3:80/live/Brad3980/Army0983/52200.m3u8
 #EXTINF:-1 tvg-name="Fox Sports West HD" tvg-id="I692.59627.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/fox%20sports%20west.png" group-title="United States",Fox Sports West HD
 http://185.102.218.3:80/live/Brad3980/Army0983/52204.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/52259.m3u8&duration=3600" catchup-days=5 tvg-name="Cooking Channel HD" tvg-id="I232.68065.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20cooking%20channel%20hd.png" group-title="United States",Cooking Channel HD
+#EXTINF:-1 tvg-name="Cooking Channel HD" tvg-id="I232.68065.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20cooking%20channel%20hd.png" group-title="United States",Cooking Channel HD
 http://185.102.218.3:80/live/Brad3980/Army0983/52259.m3u8
 #EXTINF:-1 tvg-name="Daystar HD" tvg-id="I369.19026.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20daystar%20hd.png" group-title="United States",Daystar HD
 http://185.102.218.3:80/live/Brad3980/Army0983/53874.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/54628.m3u8&duration=3600" catchup-days=5 tvg-name="Discovery Science HD" tvg-id="I284.57390.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20discovery%20science%20hd.png" group-title="United States",Discovery Science HD
+#EXTINF:-1 tvg-name="Discovery Science HD" tvg-id="I284.57390.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20discovery%20science%20hd.png" group-title="United States",Discovery Science HD
 http://185.102.218.3:80/live/Brad3980/Army0983/54628.m3u8
 #EXTINF:-1 tvg-name="TBN HD" tvg-id="I260.14767.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20tbn%20hd.png" group-title="United States",TBN HD
 http://185.102.218.3:80/live/Brad3980/Army0983/54865.m3u8
@@ -1709,7 +1709,7 @@ http://185.102.218.3:80/live/Brad3980/Army0983/54867.m3u8
 http://185.102.218.3:80/live/Brad3980/Army0983/54868.m3u8
 #EXTINF:-1 tvg-name="WE TV HD" tvg-id="I260.59296.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20we%20tv%20hd.png" group-title="United States",WE TV HD
 http://185.102.218.3:80/live/Brad3980/Army0983/55523.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/56409.m3u8&duration=3600" catchup-days=5 tvg-name="FXM HD" tvg-id="FXMRetro.us" tvg-logo="http://vaders.tv/logos/usa%20fxm%20hd.png" group-title="United States",FXM HD
+#EXTINF:-1 tvg-name="FXM HD" tvg-id="FXMRetro.us" tvg-logo="http://vaders.tv/logos/usa%20fxm%20hd.png" group-title="United States",FXM HD
 http://185.102.218.3:80/live/Brad3980/Army0983/56409.m3u8
 #EXTINF:-1 tvg-name="Fuse HD" tvg-id="I339.59116.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20fuse%20hd.png" group-title="United States",Fuse HD
 http://185.102.218.3:80/live/Brad3980/Army0983/56452.m3u8
@@ -1721,7 +1721,7 @@ http://185.102.218.3:80/live/Brad3980/Army0983/56458.m3u8
 http://185.102.218.3:80/live/Brad3980/Army0983/56459.m3u8
 #EXTINF:-1 tvg-name="POP HD" tvg-id="I273.68796.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20pop%20hd.png" group-title="United States",POP HD
 http://185.102.218.3:80/live/Brad3980/Army0983/56460.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/56461.m3u8&duration=3600" catchup-days=5 tvg-name="Universal Kids HD" tvg-id="I295.70225.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20universal%20kids%20hd.png" group-title="United States",Universal Kids HD
+#EXTINF:-1 tvg-name="Universal Kids HD" tvg-id="I295.70225.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20universal%20kids%20hd.png" group-title="United States",Universal Kids HD
 http://185.102.218.3:80/live/Brad3980/Army0983/56461.m3u8
 #EXTINF:-1 tvg-name="MTV2 HD" tvg-id="I332.75077.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20mtv2%20hd.png" group-title="United States",MTV2 HD
 http://185.102.218.3:80/live/Brad3980/Army0983/57842.m3u8
@@ -1733,13 +1733,13 @@ http://185.102.218.3:80/live/Brad3980/Army0983/64186.m3u8
 http://185.102.218.3:80/live/Brad3980/Army0983/64458.m3u8
 #EXTINF:-1 tvg-name="QVC HD" tvg-id="QVC.us" tvg-logo="http://vaders.tv/logos/usa%20qvc%20hd.png" group-title="United States",QVC HD
 http://185.102.218.3:80/live/Brad3980/Army0983/72666.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/74788.m3u8&duration=3600" catchup-days=5 tvg-name="AXS TV HD" tvg-id="I340.28506.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20axs%20tv%20hd.png" group-title="United States",AXS TV HD
+#EXTINF:-1 tvg-name="AXS TV HD" tvg-id="I340.28506.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20axs%20tv%20hd.png" group-title="United States",AXS TV HD
 http://185.102.218.3:80/live/Brad3980/Army0983/74788.m3u8
 #EXTINF:-1 tvg-name="American Heroes Channel HD" tvg-id="AmericanHeroesChannel.us" tvg-logo="http://vaders.tv/logos/usa%20american%20heroes%20channel%20hd.png" group-title="United States",American Heroes Channel HD
 http://185.102.218.3:80/live/Brad3980/Army0983/74790.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/75926.m3u8&duration=3600" catchup-days=5 tvg-name="CBS News HD" tvg-id="None" tvg-logo="http://vaders.tv/logos/cbs%20news%20hd.png" group-title="United States",CBS News HD
+#EXTINF:-1 tvg-name="CBS News HD" tvg-id="None" tvg-logo="http://vaders.tv/logos/cbs%20news%20hd.png" group-title="United States",CBS News HD
 http://185.102.218.3:80/live/Brad3980/Army0983/75926.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/79269.m3u8&duration=3600" catchup-days=5 tvg-name="Boomerang HD" tvg-id="None" tvg-logo="https://i.imgur.com/jdrtTer.png" group-title="United States",Boomerang HD
+#EXTINF:-1 tvg-name="Boomerang HD" tvg-id="None" tvg-logo="https://i.imgur.com/jdrtTer.png" group-title="United States",Boomerang HD
 http://185.102.218.3:80/live/Brad3980/Army0983/79269.m3u8
 #EXTINF:-1 tvg-name="ABC San Diego HD" tvg-id="2767" tvg-logo="http://vaders.tv/logos/usa%20abc%20sd.png" group-title="United States - Regionals",ABC San Diego HD
 http://185.102.218.3:80/live/Brad3980/Army0983/2767.m3u8
@@ -1789,7 +1789,7 @@ http://185.102.218.3:80/live/Brad3980/Army0983/52214.m3u8
 http://185.102.218.3:80/live/Brad3980/Army0983/52216.m3u8
 #EXTINF:-1 tvg-name="ABC Miami HD" tvg-id="52217" tvg-logo="http://vaders.tv/logos/usa%20abc%20miami.png" group-title="United States - Regionals",ABC Miami HD
 http://185.102.218.3:80/live/Brad3980/Army0983/52217.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/52218.m3u8&duration=3600" catchup-days=5 tvg-name="ABC New York HD" tvg-id="I396.11259.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20abc%20ny.png" group-title="United States - Regionals",ABC New York HD
+#EXTINF:-1 tvg-name="ABC New York HD" tvg-id="I396.11259.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20abc%20ny.png" group-title="United States - Regionals",ABC New York HD
 http://185.102.218.3:80/live/Brad3980/Army0983/52218.m3u8
 #EXTINF:-1 tvg-name="FOX Atlanta HD" tvg-id="52219 HDTV" tvg-logo="http://vaders.tv/logos/usa%20fox%20atlanta.png" group-title="United States - Regionals",FOX Atlanta HD
 http://185.102.218.3:80/live/Brad3980/Army0983/52219.m3u8
@@ -1801,7 +1801,7 @@ http://185.102.218.3:80/live/Brad3980/Army0983/52222.m3u8
 http://185.102.218.3:80/live/Brad3980/Army0983/52224.m3u8
 #EXTINF:-1 tvg-name="FOX Miami HD" tvg-id="52225" tvg-logo="http://vaders.tv/logos/usa%20fox%20miami.png" group-title="United States - Regionals",FOX Miami HD
 http://185.102.218.3:80/live/Brad3980/Army0983/52225.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/52226.m3u8&duration=3600" catchup-days=5 tvg-name="FOX New York HD" tvg-id="I398.11746.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20fox%20hd.png" group-title="United States - Regionals",FOX New York HD
+#EXTINF:-1 tvg-name="FOX New York HD" tvg-id="I398.11746.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20fox%20hd.png" group-title="United States - Regionals",FOX New York HD
 http://185.102.218.3:80/live/Brad3980/Army0983/52226.m3u8
 #EXTINF:-1 tvg-name="CBS Atlanta HD" tvg-id="WGCLDT HDTV" tvg-logo="http://vaders.tv/logos/usa%20cbs%20atlanta.png" group-title="United States - Regionals",CBS Atlanta HD
 http://185.102.218.3:80/live/Brad3980/Army0983/52227.m3u8
@@ -1811,7 +1811,7 @@ http://185.102.218.3:80/live/Brad3980/Army0983/52229.m3u8
 http://185.102.218.3:80/live/Brad3980/Army0983/52235.m3u8
 #EXTINF:-1 tvg-name="CBS Miami HD" tvg-id="52236" tvg-logo="http://vaders.tv/logos/usa%20cbs%20miami.png" group-title="United States - Regionals",CBS Miami HD
 http://185.102.218.3:80/live/Brad3980/Army0983/52236.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/52237.m3u8&duration=3600" catchup-days=5 tvg-name="CBS New York HD" tvg-id="I390.11331.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20cbs%20hd.png" group-title="United States - Regionals",CBS New York HD
+#EXTINF:-1 tvg-name="CBS New York HD" tvg-id="I390.11331.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20cbs%20hd.png" group-title="United States - Regionals",CBS New York HD
 http://185.102.218.3:80/live/Brad3980/Army0983/52237.m3u8
 #EXTINF:-1 tvg-name="NBC Chicago HD" tvg-id="52239" tvg-logo="http://vaders.tv/logos/usa%20nbc%20chicago.png" group-title="United States - Regionals",NBC Chicago HD
 http://185.102.218.3:80/live/Brad3980/Army0983/52239.m3u8
@@ -1821,13 +1821,13 @@ http://185.102.218.3:80/live/Brad3980/Army0983/52240.m3u8
 http://185.102.218.3:80/live/Brad3980/Army0983/52242.m3u8
 #EXTINF:-1 tvg-name="NBC Miami HD" tvg-id="52243" tvg-logo="http://vaders.tv/logos/usa%20nbc%20miami.png" group-title="United States - Regionals",NBC Miami HD
 http://185.102.218.3:80/live/Brad3980/Army0983/52243.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/52244.m3u8&duration=3600" catchup-days=5 tvg-name="NBC New York HD" tvg-id="I392.11705.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20nbc%20hd.png" group-title="United States - Regionals",NBC New York HD
+#EXTINF:-1 tvg-name="NBC New York HD" tvg-id="I392.11705.schedulesdirect.org" tvg-logo="http://vaders.tv/logos/usa%20nbc%20hd.png" group-title="United States - Regionals",NBC New York HD
 http://185.102.218.3:80/live/Brad3980/Army0983/52244.m3u8
 #EXTINF:-1 tvg-name="Univision Miami HD" tvg-id="None" tvg-logo="https://s1.postimg.org/4ngy06keq7/Univision.png" group-title="United States - Regionals",Univision Miami HD
 http://185.102.218.3:80/live/Brad3980/Army0983/56463.m3u8
 #EXTINF:-1 tvg-name="Telemundo Los Angeles HD" tvg-id="Telemundo.mx" tvg-logo="https://s1.postimg.org/38fdbg43rz/Telemundo.png" group-title="United States - Regionals",Telemundo Los Angeles HD
 http://185.102.218.3:80/live/Brad3980/Army0983/56465.m3u8
-#EXTINF:-1 catchup="default" catchup-source="http://185.102.218.3:80/live/Brad3980/Army0983/dvr/${start}/73280.m3u8&duration=3600" catchup-days=5 tvg-name="CBS Phoenix HD" tvg-id="73280" tvg-logo="http://vaders.tv/logos/usa%20cbs%20phoenix.png" group-title="United States - Regionals",CBS Phoenix HD
+#EXTINF:-1 tvg-name="CBS Phoenix HD" tvg-id="73280" tvg-logo="http://vaders.tv/logos/usa%20cbs%20phoenix.png" group-title="United States - Regionals",CBS Phoenix HD
 http://185.102.218.3:80/live/Brad3980/Army0983/73280.m3u8
 #EXTINF:-1 tvg-name="FOX Phoenix HD" tvg-id="73281" tvg-logo="http://vaders.tv/logos/usa%20fox%20phoenix.png" group-title="United States - Regionals",FOX Phoenix HD
 http://185.102.218.3:80/live/Brad3980/Army0983/73281.m3u8
