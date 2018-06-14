@@ -7,6 +7,10 @@ https://ovh.easyview.eu/hls/itv.m3u8
 https://ovh.easyview.eu/hls/bbc1.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 4
 http://iptv4u.club/stream/4447556/233332dwe34rfvsds452ed/sonyten1.m3u8
+#EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 5
+http://185.102.218.3:80/live/Zeppbond/Zeppelin666/2640.m3u8
+#EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 6
+http://185.102.218.3:80/live/snowbird67/river1967/2639.m3u8
 #EXTINF:-1, tvg-logo="https://s3.envato.com/files/121101240/Photo%20Australia%20Flag%20%20590x332.jpg" group-title="AUSTRALIA", 7 flix Sydney
 http://primestreams.tv:826/live/William222/William222/38983.ts
 #EXTINF:-1, tvg-logo="https://s3.envato.com/files/121101240/Photo%20Australia%20Flag%20%20590x332.jpg" group-title="AUSTRALIA", 7 mate Adelaide
