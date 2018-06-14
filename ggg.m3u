@@ -1083,8 +1083,6 @@ http://dl.galaxymovie.biz/Serial/Cobra%20Kai/S01/720p/Cobra.Kai.S01E09.720p.WEB-
 http://dl.galaxymovie.biz/Serial/Cobra%20Kai/S01/720p/Cobra.Kai.S01E10.720p.WEB-DL.6CH.BTW.mkv
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/778129630284902401/gXjFkqGM_400x400.jpg" group-title="ASIAN TV",Bloomberg TV Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-240-1_live.m3u8
-#EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/875646402247901184/N4GGER3R_400x400.jpg" group-title="ASIAN TV",France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="ASIAN TV",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_400x400.jpg" group-title="ASIAN TV",Arirang World
@@ -1122,6 +1120,18 @@ http://main-a.for-our.info:8081/tv11/bein4/playlist.m3u8
 http://main-a.for-our.info:8081/tv11/nba/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/07/national-geographic-logo.jpg" group-title="ASIAN TV",Nat Geo
 http://main-a.for-our.info:8081/tv11/natgeo/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://media.info/i/lf/900/1443114332/1417.png" group-title="ASIAN TV",France 24
+http://14cc4c0e.ottclub.mobi/iptv/DP7PTL84P9BGP5/947/index.m3u8
+#EXTINF:-1,tvg-logo="http://dyn.com/wp-content/uploads/2014/10/cnbccs.jpg" group-title="ASIAN TV",CNBC
+http://14cc4c0e.ottclub.mobi/iptv/DP7PTL84P9BGP5/962/index.m3u8
+#EXTINF:-1,tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/filmboxrussia-logo.png" group-title="ASIAN TV",Filmbox
+http://14cc4c0e.ottclub.mobi/iptv/DP7PTL84P9BGP5/1071/index.m3u8
+#EXTINF:-1,tvg-logo="http://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/3/15//nickelodeon.jpg" group-title="ASIAN TV",Nickelodeon
+http://14cc4c0e.ottclub.mobi/iptv/DP7PTL84P9BGP5/1069/index.m3u8
+#EXTINF:-1,tvg-logo="http://opentro.com/wp-content/uploads/2017/02/fashion-tv-1.jpg" group-title="ASIAN TV",Fashion TV
+http://14cc4c0e.ottclub.mobi/iptv/DP7PTL84P9BGP5/1011/index.m3u8
+#EXTINF:-1,tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/09/travel-channel-featured-logo-grid.jpg" group-title="ASIAN TV",Travel Channel
+http://14cc4c0e.ottclub.mobi/iptv/DP7PTL84P9BGP5/1070/index.m3u8
 #EXTINF:-1, tvg-name="Sky Sports Cricket HD" tvg-id="SkySportsCricket.uk" tvg-logo="http://vaders.tv/logos/sky%20sports%20cricket%20hd.png" group-title="Sports",Sky Sports Cricket HD
 http://185.102.218.3:80/live/martymartini2014/shkelzgl3k/2479.m3u8
 #EXTINF:-1, tvg-name="Sky Sports Action HD" tvg-id="SkySportsAction.uk" tvg-logo="http://vaders.tv/logos/sky%20sports%20action%20hd.png" group-title="Sports",Sky Sports Action HD
