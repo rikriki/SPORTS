@@ -15,6 +15,14 @@ http://185.102.218.3:80/live/snowbird67/river1967/2639.m3u8
 https://dip3dzthn9lng.cloudfront.net/a_1.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 8
 http://185.39.10.113/zmelive/aiqbH2WdMw9LDQVkNIBt/chunklist.m3u8
+#EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 9
+https://content-auso3.uplynk.com/channel/fb9eee406c68408fb10f5e4baf579ad9/b.m3u8?pbs=88d32425b89640a6aa8a17e929c2fbe7
+#EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 10
+https://d2kqdk89ybm504.cloudfront.net/index_6.m3u8
+#EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 11
+http://31.220.0.196:8081/live/ctvc1/chunks.m3u8?nimblesessionid=545291&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDE4IDExOjQ5OjQ4IEFNJmhhc2hfdmFsdWU9WUtLS3MzU3hrWC90MDdYWS9TNlFLZz09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 12
+http://cdn.whostreams.net:8081/wsedge/q5nlqyn7qb3/chunks.m3u8?nimblesessionid=51391203&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDE4IDI6MDE6NDggUE0maGFzaF92YWx1ZT1semNRMkkwRGtuSndIK1RBM2RKeTBnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1, tvg-logo="https://s3.envato.com/files/121101240/Photo%20Australia%20Flag%20%20590x332.jpg" group-title="AUSTRALIA", 7 flix Sydney
 http://primestreams.tv:826/live/William222/William222/38983.ts
 #EXTINF:-1, tvg-logo="https://s3.envato.com/files/121101240/Photo%20Australia%20Flag%20%20590x332.jpg" group-title="AUSTRALIA", 7 mate Adelaide
