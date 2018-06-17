@@ -2,7 +2,7 @@
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 1
 https://ovh.easyview.eu/hls/itv.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 2
-http://cors.hyoo.ru/http://hlsevent-akc.clt2.media.foxsportsgo.com/hdnts=exp=1529319793~acl=/*~id=5e17e0c7-dd7c-47d8-941c-ec57a004b96f-7952-e524c7e5124611dfade7d433b29b6e56bba95ddc~hmac=b3e1a5753b98080c19e2958abcda6d93daf5cd24a53762aa061024bef9b22293/439b66536a611547d76d834c09118b83/ls01/foxsports/2018/06/17/FIFA_World_Cup_Live_20180617_Pico701_1529197589311/1200K/1200_slide_adbv1.m3u8
+http://185.196.10.250/zmelive/aiqbH2WdMw9LDQVkNIBt/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 3
 http://ilvc01.ak.ustvnow.com/ilv61/smil:54E32WPMTUSTVNOW/chunklist_b2328000.m3u8?hdnts=st=1529229600~exp=1529258400~acl=*~hmac=e43ac421aee72b47f9f451676fcaf43a6a660f1730f69eaf860ab9393621aca2&hdntl=exp=1529320288~acl=*~data=hdntl~hmac=78fd9526f60b164975ebec1037a731a8c5c258587aa61349d8825c2345f4c1a2&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTc1NThmIiwidCI6InBhMHVodGp1emV0dTBzMzFjYjV2ZWhkanZlaHkiLCJpIjoiNzA4NmU3NmYiLCJzIjoid3BtdCJ9.xR-chQsXfaSbm8RLIUKKrimm8pquN1yjijSpabnZ240
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 4
@@ -10,11 +10,11 @@ https://d1bb63d94wc6az.cloudfront.net/easytv_2.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 5
 https://d2u6pakzefvqdc.cloudfront.net/index_6.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 6
-http://chi.bankai.stream/live.m3u8
+http://31.220.0.103:8081/live/ctvc1/chunks.m3u8?nimblesessionid=377401&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE4IDk6MzY6MjIgQU0maGFzaF92YWx1ZT1wNzVJaW9hQmtIa3hwUDNtaGJzQUdnPT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 7
 http://d2cw5xdqb7dfpz.cloudfront.net/rus_9.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 8
-http://cdn.srkcast.com/live/rte1/index.m3u8
+http://31.220.0.176:1935/tv/SULfL4yHw720180321/chunklist_w1951890045_tkaGxzZW5kdGltZT0xNTI5MjM4NzIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9VUppZzRHSWdVZGdGaHNwektncTVZMVdEMzIweFZjUlNrZWswRkNoc1JmND0=.m3u8
 #EXTINF:-1 tvg-ID="tv.101305050555" tvg-name="7FLIX - Adelaide" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/7flix_logo_without_background.png/220px-7flix_logo_without_background.png" group-title="AUSSIE TEST",7FLIX - Adelaide
 http://mlsh.co:2086/live/loumartial/davidp/22113.m3u8
 #EXTINF:-1 tvg-ID="tv.101305040545" tvg-name="7FLIX - Brisbane" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/7flix_logo_without_background.png/220px-7flix_logo_without_background.png" group-title="AUSSIE TEST",7FLIX - Brisbane
