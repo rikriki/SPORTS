@@ -2,19 +2,13 @@
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 1
 https://ovh.easyview.eu/hls/bbc1.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 2
-http://ilvc01.ak.ustvnow.com/ilv61/smil:54E32WPMTUSTVNOW/chunklist_b2328000.m3u8?hdnts=st=1529229600~exp=1529258400~acl=*~hmac=e43ac421aee72b47f9f451676fcaf43a6a660f1730f69eaf860ab9393621aca2&hdntl=exp=1529320288~acl=*~data=hdntl~hmac=78fd9526f60b164975ebec1037a731a8c5c258587aa61349d8825c2345f4c1a2&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuIjoiMTc1NThmIiwidCI6InBhMHVodGp1emV0dTBzMzFjYjV2ZWhkanZlaHkiLCJpIjoiNzA4NmU3NmYiLCJzIjoid3BtdCJ9.xR-chQsXfaSbm8RLIUKKrimm8pquN1yjijSpabnZ240
+http://trn.riere.club/live/p4021/chunks.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 3
-http://arabapps.live:8000/live/isamm/samuss/1152.ts
+http://1.gifcdn.ml/live/foxsports1-hq/chunks.m3u8?nimblesessionid=1102591&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDE4IDM6NDU6MjYgUE0maGFzaF92YWx1ZT1tTWJBQ3NlL3IxODdScVhwb3E4L3BBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTJhMDI6NDc4MDpiYWQ6MTpmY2VkOjFmZjpmZTAxOjE1MyZzdHJtX2xlbj01
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 4
-https://d1bb63d94wc6az.cloudfront.net/easytv_2.m3u8
+http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-576.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 5
-https://d2u6pakzefvqdc.cloudfront.net/index_6.m3u8
-#EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 6
-https://ssl4.cdn4.us/ingest09/25712.m3u8?sf=TkpyajFISmJ2UQ==&rnd=LOaUcSQtZX&token=0GWadJZr8Kk-CRxpknHC8A&expires=1529243804
-#EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 7
-http://d2cw5xdqb7dfpz.cloudfront.net/rus_9.m3u8
-#EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 8
-http://31.220.0.176:1935/tv/SULfL4yHw720180321/chunklist_w1951890045_tkaGxzZW5kdGltZT0xNTI5MjM4NzIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9VUppZzRHSWdVZGdGaHNwektncTVZMVdEMzIweFZjUlNrZWswRkNoc1JmND0=.m3u8
+http://tictoc.clquack.ml/welovesports2.m3u8
 #EXTINF:-1, tvg-logo="https://s3.envato.com/files/121101240/Photo%20Australia%20Flag%20%20590x332.jpg" group-title="DAVID P",7 flix Sydney
 http://primestreams.tv:826/live/Gordon/Gordon/38983.ts
 #EXTINF:-1, tvg-logo="https://s3.envato.com/files/121101240/Photo%20Australia%20Flag%20%20590x332.jpg" group-title="DAVID P",7 mate Adelaide
