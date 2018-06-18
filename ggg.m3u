@@ -1317,12 +1317,6 @@ http://14cc4c0e.ottclub.mobi/iptv/DP7PTL84P9BGP5/1069/index.m3u8
 http://14cc4c0e.ottclub.mobi/iptv/DP7PTL84P9BGP5/1011/index.m3u8
 #EXTINF:-1,tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/09/travel-channel-featured-logo-grid.jpg" group-title="ASIAN TV",Travel Channel
 http://14cc4c0e.ottclub.mobi/iptv/DP7PTL84P9BGP5/1070/index.m3u8
-#EXTINF:-1,tvg-logo="https://www.realtree.com/sites/default/files/styles/site_medium/public/content/inserts/outdoor-channel-logo.jpg" group-title="ASIAN TV",Outdoor Channel
-http://78.130.147.20:22000
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="ASIAN TV",Food Network
-http://78.130.147.20:22001
-#EXTINF:-1,tvg-logo="https://liberador.net/media/images/History_Channel.max-640x640.jpg" group-title="ASIAN TV",History
-http://78.130.147.20:22002
 #EXTINF:-1, tvg-name="Sky Sports Cricket HD" tvg-id="SkySportsCricket.uk" tvg-logo="http://vaders.tv/logos/sky%20sports%20cricket%20hd.png" group-title="Sports",Sky Sports Cricket HD
 http://185.102.218.3:80/live/thewayman/wd7012/2479.m3u8
 #EXTINF:-1, tvg-name="Sky Sports Action HD" tvg-id="SkySportsAction.uk" tvg-logo="http://vaders.tv/logos/sky%20sports%20action%20hd.png" group-title="Sports",Sky Sports Action HD
