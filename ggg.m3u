@@ -2,7 +2,7 @@
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 1
 https://ovh.easyview.eu/hls/bbc1.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 2
-http://trn.riere.club/live/p4921/chunks.m3u8
+https://s-1.cfapps.io/api/redirect/withBaseUrl/http://a3.aliez.me:8080/hls/streama65639/index.m3u8?st=_1KFyzRCWVj_9TqyLENSjw
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 3
 https://d3mm87u6tlmzby.cloudfront.net/index_5.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 4
