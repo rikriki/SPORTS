@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 1
-https://ovh.easyview.eu/hls/bbc1.m3u8
+http://primestreams.tv:826/live/William222/William222/37174.ts
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 2
 https://s-1.cfapps.io/api/redirect/withBaseUrl/http://a3.aliez.me:8080/hls/streama65639/index.m3u8?st=_1KFyzRCWVj_9TqyLENSjw
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 3
