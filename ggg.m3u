@@ -10,7 +10,7 @@ https://s-1.cfapps.io/api/redirect/withBaseUrl/http://a3.aliez.me:8080/hls/strea
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 5
 http://tictoc.clquack.ml/welovesports2.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 6
-http://cdn.whostreams.net:8081/wsedge/22y64pt2htmo3/chunks.m3u8?nimblesessionid=48476564&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE4IDEwOjQxOjA5IEFNJmhhc2hfdmFsdWU9a3ExUUk1T0RGMm01RVMrckxxUUJVQT09JnZhbGlkbWludXRlcz0yMA==
+http://173.236.10.10:1935/tvinforbahia/tvm10/chunklist_w1582995765.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 7
 http://37.187.28.32:7474/live/freedysazfir/BlsEFH2k5N/2150.ts
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 8
