@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 1
-http://primestreams.tv:826/live/William222/William222/37174.ts
+https://ovh.easyview.eu/hls/bbc1.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 2
-http://primestreams.tv:826/live/Butcher/Butcher/1367.ts
+http://89.248.169.24/live/tsn-hq/chunks.m3u8?nimblesessionid=10009266&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE4IDk6NTg6NTUgQU0maGFzaF92YWx1ZT1RR1lEamFSdHlZRTlldzQ4NEV1dXJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTEwNS43MS4xMjkuOTUmc3RybV9sZW49MTE=
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 3
-http://d1jydrldpovpcw.cloudfront.net/live.m3u8
+http://185.196.10.250/zmkoj/ngrp:BKyqTxizv8HX1Za3Iefh_all/chunklist_b5096000.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 4
-https://d4j9f29ktdbyr.cloudfront.net/index_2.m3u8
+https://s-1.cfapps.io/api/redirect/withBaseUrl/http://a3.aliez.me:8080/hls/streama65754/index.m3u8?st=nbTRxFhZaLdfh6DojAHR-w
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 5
 http://tictoc.clquack.ml/welovesports2.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 6
