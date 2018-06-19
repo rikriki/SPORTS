@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 1
-https://ovh.easyview.eu/hls/bbc1.m3u8
+http://sg.ganteng.stream:8888/live/budianto/8799/54.ts
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 2
 http://89.248.169.24/live/tsn-hq/chunks.m3u8?nimblesessionid=10009266&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE4IDk6NTg6NTUgQU0maGFzaF92YWx1ZT1RR1lEamFSdHlZRTlldzQ4NEV1dXJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTEwNS43MS4xMjkuOTUmc3RybV9sZW49MTE=
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 3
-http://185.196.10.250/zmkoj/ngrp:BKyqTxizv8HX1Za3Iefh_all/chunklist_b5096000.m3u8
+http://primestreams.tv:826/live/William222/William222/37174.ts
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 4
 https://s-1.cfapps.io/api/redirect/withBaseUrl/http://a3.aliez.me:8080/hls/streama65754/index.m3u8?st=nbTRxFhZaLdfh6DojAHR-w
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 5
@@ -12,7 +12,7 @@ http://tictoc.clquack.ml/welovesports2.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 6
 http://cdn.whostreams.net:8081/wsedge/22y64pt2htmo3/chunks.m3u8?nimblesessionid=48476564&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDE4IDEwOjQxOjA5IEFNJmhhc2hfdmFsdWU9a3ExUUk1T0RGMm01RVMrckxxUUJVQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 7
-http://s1.4kstream.me/4k/EJKjrnSWvuhPUtMpwD9y/chunklist.m3u8
+http://37.187.28.32:7474/live/freedysazfir/BlsEFH2k5N/2150.ts
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 8
 https://d180il9c5cl3j9.cloudfront.net/index_3.m3u8
 #EXTINF:-1, tvg-logo="https://s3.envato.com/files/121101240/Photo%20Australia%20Flag%20%20590x332.jpg" group-title="DAVID P",7 flix Sydney
