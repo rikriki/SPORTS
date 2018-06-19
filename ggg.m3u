@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 1
-https://video-weaver.syd01.hls.ttvnw.net/v1/playlist/CuADI-mYIRa9JZmXsoU8_litAkNxQFaQX2Sqg_x_nSZQL4e1d53aOA4uh2VSAOXiUZzxvDBHTcOjkfVn_hP_uqJR9zsLQ2aLqUwlxzYjD-mD0HRIr4fXNRzfH2LdZR5QzhwGs0MDc_ppN2WfPCm_LZF_ixKPLyG_3zj8-CvX-16WaqgJ6nAJsrR4Z4YT68_cDuG6CNvmd4wEMQ9MuOWJZuixh9fXI7kJCM0vl7fSvvRmyPGXENjCGOXuNU1n2JnVjMTNz_e-jqxPwV4nc2uPf6TBuYeoWE152SZ51wOduYH0_f9iTj10yKGgX2ubqPiNaoj1XIWAhfEtK0ceyEu7HnAUkkt9w4Tt7Gv35HR0pqRYx_cOXjYCn4ObIKHgHCVrXKZUJaUOHXL1psOE82I0JT6UL_42PPa2IFiHo9nLST0RAp2Fyp2Qi9o_ODVdraghcLjf0yd5URmb1T5wFFXcz6b2S8ORTMKdWYMbyVZC1pTm-LfZzlVN3jhmKMgHBIXLBvXNPYrJxw0q7uBXWsESsK9XlSvKNyJFmvaBkO8-J09iHLndRnAhM4fAmQ_41MN3dARY_kp28nv1QMUehn-NsLmCI2VHbrMiajtDn6m7vx55_xsnvG7VKBCica8MFOJMx-r5EhClhXGJywsXilkMs9fDwtq-GgxFECGHrCFEJwezVIc.m3u8
+http://dsva5y8808w5z.cloudfront.net/live.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 2
-https://ssl2.cdn4.us/ingest07/25118.m3u8?sf=R2xEcXg1ZHNuMA==&rnd=WumstOqWyR&token=qIXbT0Yp8AcVdrCH5QURkw&expires=1529424901
+http://primestreams.tv:826/live/Butcher/Butcher/37159.ts
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 3
 http://d34kskitvb5bax.cloudfront.net/russiacup_2.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 4
-https://cryptic-headland-94862.herokuapp.com/http://d2xti91cpstcrp.cloudfront.net/live.m3u8
+http://d2xti91cpstcrp.cloudfront.net/live.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 5
 http://tictoc.clquack.ml/welovesports2.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 6
