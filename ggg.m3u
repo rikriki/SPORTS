@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 1
-http://62.210.93.115:80/live?channelId=1&deviceUser=seanmccarr&devicePass=120817&uid=171
+http://d53fd1pxjvvdv.cloudfront.net/live.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 2
-http://primestreams.tv:826/live/William222/William222/1367.ts
+http://primestreams.tv:826/live/William222/William222/37159.ts
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 3
-http://bestbuyiptv.link:6969/live/lewman101@gmail.com/EHdtM8zlXU/9372.ts
+http://bestbuyiptv.link:6969/live/lewman101@gmail.com/EHdtM8zlXU/95.ts
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 4
-http://primestreams.tv:826/live/Butcher/Butcher/37174.ts
+http://primestreams.tv:826/live/Butcher/Butcher/41336.ts
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 5
 http://sg.ganteng.stream:8888/live/budianto/8799/54.ts
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 6
-http://dsva5y8808w5z.cloudfront.net/live.m3u8
+http://dtuulakbbokmc.cloudfront.net/live.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 7
 http://35.187.232.239:8000/play/a001/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 8
-https://s-1.cfapps.io/api/redirect/withBaseUrl/http://a3.aliez.me:8080/hls/streama65755/index.m3u8?st=HVQQcVIz5vKWnRUHeQLKQQ
+http://bestbuyiptv.link:6969/live/bestbuyiptv@manawa.net/Dimitrovgrad98/10183.ts
 #EXTINF:-1, tvg-logo="https://s3.envato.com/files/121101240/Photo%20Australia%20Flag%20%20590x332.jpg" group-title="DAVID P",7 flix Sydney
 http://primestreams.tv:826/live/Gordon/Gordon/38983.ts
 #EXTINF:-1, tvg-logo="https://s3.envato.com/files/121101240/Photo%20Australia%20Flag%20%20590x332.jpg" group-title="DAVID P",7 mate Adelaide
