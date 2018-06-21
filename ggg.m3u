@@ -5,6 +5,8 @@ http://d1r5civoz7bc1u.cloudfront.net/live.m3u8
 http://sg.ganteng.stream:8888/live/budianto/8799/54.ts
 #EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 3
 http://35.187.232.239:8000/play/a001/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.worldatlas.com/r/w728-h425-c728x425/upload/2a/ab/25/shutterstock-fifa-2018.jpg" group-title="FIFA WORLD CUP", LINK 4
+https://live.dlive.io/transcode-5/hathanhtam/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://s3.envato.com/files/121101240/Photo%20Australia%20Flag%20%20590x332.jpg" group-title="DAVID P",7 flix Sydney
 http://primestreams.tv:826/live/Butcher/Butcher/38983.ts
 #EXTINF:-1, tvg-logo="https://s3.envato.com/files/121101240/Photo%20Australia%20Flag%20%20590x332.jpg" group-title="DAVID P",7 mate Adelaide
