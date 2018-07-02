@@ -448,11 +448,11 @@ https://archive.org/download/RidingInTandem2017/Riding%20In%20Tandem%202017.mkv
 #EXTINF:-1, tvg-logo="https://insidemanila.ph/images/content/17-2017-10-12-03-53-25pm.jpg" group-title="PINOY TV", ESPN 5
 http://stream3.news5.ph:1935/n5e/tv5/chunklist_w718385065.m3u8
 #EXTINF:-1, tvg-logo="http://abscbnpr.com/wp-content/uploads/2015/11/ANC-new-logo-800x360.jpg" group-title="PINOY TV", ANC NEWS CHANNEL
-https://iwantpradals2-lh.akamaihd.net/i/ocpanc_1@520818/master.m3u8?hdnea=exp=1530419034~acl=/*~hmac=85f6f8332dc0ce04b1adb7e2467a1151b48dde3a0d7f9582390aeae9bd2b9dbc
+https://iwantpradals2-lh.akamaihd.net/i/ocpanc_1@520818/master.m3u8?hdnea=exp=1530610752~acl=/*~hmac=cdef794c0ac92c1640c79d9226d5b6c6150ce96d0bb8575fb2a380ffaf5ec931
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/Abs_cbn_2.png" group-title="PINOY TV", ABS CBN 2 (test)
-https://iwantpradals-lh.akamaihd.net/i/skyabscbnhd_1@383873/master.m3u8?hdnea=exp=1530419387~acl=/*~hmac=520e062c7bb93e938749dde0e604b9ca893d57a7c6956208bf9a11456ff402a0
+https://iwantpradals-lh.akamaihd.net/i/skyabscbnhd_1@383873/master.m3u8?hdnea=exp=1530612473~acl=/*~hmac=dc867fa99a8402e27c576233cd42d60f52b4245d31fe3a92e5d0d048401cbccc
 #EXTINF:-1, tvg-logo="https://img.tfc.tv/xcms/episodeimages/41725/dzmmSHOWTHUMB-487x274.jpg" group-title="PINOY TV", DZMM TELERADYO
-https://iwantpradals2-lh.akamaihd.net/i/ocpdzmm_1@520817/master.m3u8?hdnea=exp=1530419463~acl=/*~hmac=e1a8ff8699109ccd96c90eb736326506e8d9dbb050174f6502190c2a035f4790
+https://iwantpradals2-lh.akamaihd.net/i/ocpdzmm_1@520817/master.m3u8?hdnea=exp=1530612525~acl=/*~hmac=ecc0a41ca56069bc196a2ed5d0841e2af0b6701edefb4e8edd96995e5694301b
 #EXTINF:-1, group-title="PINOY TV", CNN PHILS
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.untvweb.com/wp-content/uploads/2015/05/untvlogo3-big.png" group-title="PINOY TV", UNTV PHILS
